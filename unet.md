@@ -114,11 +114,14 @@ that same year ([Isensee _et al._, 2020](#isensee2020nnu)).
 
 Here's a survey of parameters used by the leading entries:
 
-| Reference | Levels | Conv/level | Encoder | Decoder | Post | Down | Up | Kernel | Act. | Loss | Augment. | Batch Norm | Dropout | Residual |
-| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-| [Jiang _et al._, 2019](#jiang2019brats) | 4 | [2, 4, 4, 8, 2, 2, 2] | [16, 32, 64, 128] | sym | no | stride | transposed | 3 | ReLU | Dice | affine intensity transform, flip | group | yes | yes |
-| [Myronenko _et al._, 2018](#myronenko2018brats) | 4 | [2, 4, 4, 8, 2, 2, 2] | [32, 64, 128, 256] | sym | no | stride | linear | 3 | ReLU | Dice | affine intensity transform, flip | group | yes | yes |
-| [Isensee _et al._, 2018](#isensee2018brats) | 5 | 2 | [30, 60, 120, 240, 480] | sym | no | maxpool | linear | 3 | Leaky ReLU | Dice | rotation, scaling, elastic, flip, gamma | instance | no | no |
+| Reference | Levels | Conv/level | Encoder | Decoder | Post | Down | Up | Kernel | Act. | Loss | Augment. | Batch Norm | Dropout | Residual | Notes |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| [Jiang _et al._, 2019](#jiang2019brats) | 4 | [2, 4, 4, 8, 2, 2, 2] | [16, 32, 64, 128] | sym | no | stride | transposed | 3 | ReLU | Dice | affine intensity transform, flip | group | yes | yes | cascade |
+| [Myronenko _et al._, 2018](#myronenko2018brats) | 4 | [2, 4, 4, 8, 2, 2, 2] | [32, 64, 128, 256] | sym | no | stride | linear | 3 | ReLU | Dice | affine intensity transform, flip | group | yes | yes | dual-branch + vae |
+| [Isensee _et al._, 2018](#isensee2018brats) | 5 | 2 | [30, 60, 120, 240, 480] | sym | no | maxpool | linear | 3 | Leaky ReLU | Dice | rotation, scaling, elastic, flip, gamma | instance | no | no | |
+| [Kamnitsas _et al._, 2017](#kamnitsas2017brats) - UNet | 4 | 2 | [16, 32, 64, 128] | sym | no | stride/maxpool | nearest | 3 | ReLU | CE | yes | yes | no | yes/no | skip: add/cat |
+| [Kamnitsas _et al._, 2017](#kamnitsas2017brats) - FCN | 5 | 2 | [16, 32, 64, 128, 128] | no | no | maxpool | nearest | 3 | ReLU | CE | yes | yes | no | no | |
+| [Kamnitsas _et al._, 2017](#kamnitsas2017brats) - DeepMedic | 2 | 8 + 3 | [30, 40, 50, 150] | no | no | linear | linear | 3 | ReLU | CE | yes | yes | no | yes | patch-wise residual FCN |
 
 The leading entry from 2019 ([Jiang _et al._, 2019](#jiang2019brats)) actually uses two U-Nets in cascade, this first of which is entered 
 in the table. The second U-Net has a similar architecture but with two decoding branches. The output of the first
@@ -147,6 +150,12 @@ was to reconstruct the input image through a variational auto-encoder.
   Fabian Isensee, Philipp Kickingereder, Wolfgang Wick, Martin Bendszus, Klaus H. Maier-Hein <br />
   BRATS (2018) 2nd place <br />
   https://arxiv.org/abs/1809.10483
+
+- <b id="kamnitsas2017brats"></b>
+  **Ensembles of Multiple Models and Architectures for Robust Brain Tumour Segmentation** <br />
+  Konstantinos Kamnitsas, Wenjia Bai, Enzo Ferrante, Steven McDonagh, Matthew Sinclair, Nick Pawlowski, Martin Rajchl, Matthew Lee, Bernhard Kainz, Daniel Rueckert, Ben Glocker <br />
+  BRATS (2017) 1st place <br />
+  https://arxiv.org/abs/1711.01468
 
 
 Table
