@@ -103,14 +103,51 @@ vision. That year, [Long _et al._ (2015)](#long2015fully) (FCNN),
 [Kamnitsas _et al._ (2017)](#kamnitsas2017efficient) (DeepMedic)
 are widely cited. The impact of the ML field on the medical imaging field can also be 
 felt by the use of preprints, as SegNet and DeepMedic had not been published yet but were 
-already cited. Year 2017 saw a surge of entries, with all top 3 entries using somw flavour of 
+already cited. Year 2017 saw a surge of entries, with all top 3 entries using some flavour of 
 CNNs. The question is not "which class of methods wil win" anymore, but 
-"how to best train your U-Net". After that, litteraly all entries use deep convolutional network.
+"how to best train your U-Net". After that, litteraly all entries use deep convolutional networks.
 Interestingly, in 2018 [Isensee _et al._ (2018)](isensee2018no) got second place 
 with their NoNewNet, which argues that finding new architectures is not necessary 
-for segmentation tasks anymore, and that all that matters is too properly train 
-U-Nets for each task. This strategy get them first palce at the Medical Segmentation Decathlon
+for segmentation tasks anymore, and that all that matters is to properly train 
+U-Nets for each task. This strategy got them first place at the Medical Segmentation Decathlon
 that same year ([Isensee _et al._, 2020](#isensee2020nnu)).
+
+Here's a survey of parameters used by the leading entries:
+
+| Reference | Levels | Conv/level | Encoder | Decoder | Post | Down | Up | Kernel | Act. | Loss | Augment. | Batch Norm | Dropout | Residual |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| [Jiang _et al._, 2019](#jiang2019brats) | 4 | [2, 4, 4, 8, 2, 2, 2] | [16, 32, 64, 128] | sym | no | stride | transposed | 3 | ReLU | Dice | affine intensity transform, flip | group | yes | yes |
+| [Myronenko _et al._, 2018](#myronenko2018brats) | 4 | [2, 4, 4, 8, 2, 2, 2] | [32, 64, 128, 256] | sym | no | stride | linear | 3 | ReLU | Dice | affine intensity transform, flip | group | yes | yes |
+| [Isensee _et al._, 2018](#isensee2018brats) | 5 | 2 | [30, 60, 120, 240, 480] | sym | no | maxpool | linear | 3 | Leaky ReLU | Dice | rotation, scaling, elastic, flip, gamma | instance | no | no |
+
+The leading entry from 2019 ([Jiang _et al._, 2019](#jiang2019brats)) actually uses two U-Nets in cascade, this first of which is entered 
+in the table. The second U-Net has a similar architecture but with two decoding branches. The output of the first
+network predicts the whole tumor class while the outputs of the second network predict the two sub-components
+(enhancing tumor and tumor core). 
+
+This first U-Net has exactly the same architecture as the winning entry 
+from the previous year ([Myronenko _et al._, 2018](#myronenko2018brats)), although this one predicted all
+three classes from the same branch, and had an additional regularisation branch whose purpose 
+was to reconstruct the input image through a variational auto-encoder.
+
+- <b id="jiang2019brats"></b>
+  **Two-Stage Cascaded U-Net: 1st Place Solution to BraTS Challenge 2019 Segmentation Task** <br />
+  Zeyu Jiang, Changxing Ding, Minfeng Liu, Dacheng Tao <br />
+  BRATS (2019) 1st place <br />
+  https://link.springer.com/chapter/10.1007/978-3-030-46640-4_22
+
+- <b id="myronenko2018brats"></b>
+  **3D MRI brain tumor segmentation using autoencoder regularization** <br />
+  Andriy Myronenko
+  BRATS (2018) 1st place <br />
+  https://arxiv.org/abs/1810.11654
+
+- <b id="isensee2018brats"></b>
+  **No new-net** <br />
+  Fabian Isensee, Philipp Kickingereder, Wolfgang Wick, Martin Bendszus, Klaus H. Maier-Hein <br />
+  BRATS (2018) 2nd place <br />
+  https://arxiv.org/abs/1809.10483
+
 
 Table
 -----
