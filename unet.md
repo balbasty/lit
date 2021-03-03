@@ -43,7 +43,9 @@ lowest resolution. Prediction is then propagated back to the highest resolution
 by fusing an upsampled version of the low-resolution accurate segmentation and the higher
 resolution but less-accurate prediction from the encoder. Up-sampling is performed using 
 strided transposed convolutions, which had been introduced in the context of object recognition
-the year before ([Sermanet _et al._, 2014](sermanet2014overfeat)).
+the year before ([Sermanet _et al._, 2014](sermanet2014overfeat)). Like many of the early
+U-Nets, Long's uses the VGG16 network ([Simonyan & Zisserman, 2015](#simonyan2015very)) 
+as a basis for its encoder architecture.
 
 The use of classification network for pixel-wise segmentation had been proposed before
 ([Ciresan _et al._, 2012](ciresan2012deep)), but it was lacking the decoding aspect of 
@@ -52,11 +54,12 @@ modern U-Nets.
 Table
 -----
 
-| Reference | Number of levels | Number of convolutions per level | Number of features | Downsampling | Upsampling | Kernel size | Loss |
-| -- | -- | -- | -- | -- | -- | -- | -- |
-| [Long _et al._, 2015](#long2015fully) | 6 | ? | ? | max | transposed | ? | CE |
-| [Ronneberger _et al._, 2015](#ronneberger2015u) | 5 | 2 | [64, 128, 256, 512, 1024] [512, 256, 128, 64] | max | transposed | 3 | weighted CE |
-
+| Reference | Levels | Conv/level | Encoder | Decoder | Post | Down | Up | Kernel | Act. | Loss | Augment. | Batch Norm | Dropout | 
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| [Long _et al._, 2015](#long2015fully) | 6 | ? | ? | ? | no | maxpool | transposed | ? | ReLU | CE | no | no | no |
+| [Ronneberger _et al._, 2015](#ronneberger2015u) | 5 | 2 | [64, 128, 256, 512, 1024] | sym | no | maxpool | transposed | 3 | ReLU | weighted CE | no | no | no |
+| [Badrinarayanan _et al._, 2017](#badrinarayanan2017segnet) | 5 | [2, 2, 3] | [64, 128, 256, 512, 512] | sym | no | maxpool | maxunpool | [3, 3, 1] | ReLU | weighted CE | no | no | no |
+| [Kendall _et al._, 2017](#kendall2017bayesian) | 5 | [2, 2, 3] | [64, 128, 256, 512, 512] | sym | no | maxpool | maxunpool | [3, 3, 1] | ReLU | weighted CE | no | no | yes |
 
 References
 ----------
@@ -99,6 +102,12 @@ References
   ICLR (2014) <br />
   https://arxiv.org/abs/1312.6229
 
+- <b id="simonyan2015very"></b>
+  **Very Deep Convolutional Networks for Large-Scale Image Recognition** <br />
+  Karen Simonyan, Andrew Zisserman
+  ICLR (2015) / Preprint (2014)
+  https://arxiv.org/abs/1409.1556
+
 - <b id="long2015fully"></b>
   **Fully Convolutional Networks for Semantic Segmentation** <br />
   Jonathan Long, Evan Shelhamer, Trevor Darrell <br/>
@@ -110,3 +119,15 @@ References
   Olaf Ronneberger, Philipp Fischer, Thomas Brox <br/>
   MICCAI (2015) <br/>
   https://arxiv.org/abs/1505.04597
+
+- <b id="badrinarayanan2017segnet"></b>
+  **SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation** <br />
+  Vijay Badrinarayanan, Alex Kendall, Roberto Cipolla <br/>
+  PAMI (2017) / Preprint (2015) <br/>
+  https://arxiv.org/abs/1511.00561
+  
+- <b id="kendall2017bayesian"></b>
+  **Bayesian SegNet: Model Uncertainty in Deep Convolutional Encoder-Decoder Architectures for Scene Understanding** <br />
+  Alex Kendall, Vijay Badrinarayanan and Roberto Cipolla <br />
+  BMVC (2017) / Preprint (2015)
+  https://arxiv.org/abs/1511.02680
