@@ -134,8 +134,8 @@ References
 
 - <b id="simonyan2015very"></b>
   **Very Deep Convolutional Networks for Large-Scale Image Recognition** <br />
-  Karen Simonyan, Andrew Zisserman
-  ICLR (2015) / Preprint (2014)
+  Karen Simonyan, Andrew Zisserman <br />
+  ICLR (2015) / Preprint (2014) <br />
   https://arxiv.org/abs/1409.1556
 
 - <b id="long2015fully"></b>
@@ -159,16 +159,16 @@ References
 - <b id="kendall2017bayesian"></b>
   **Bayesian SegNet: Model Uncertainty in Deep Convolutional Encoder-Decoder Architectures for Scene Understanding** <br />
   Alex Kendall, Vijay Badrinarayanan and Roberto Cipolla <br />
-  BMVC (2017) / Preprint (2015)
+  BMVC (2017) / Preprint (2015) <br />
   https://arxiv.org/abs/1511.02680
 
 - <b id="isensee2020nnu"></b>
   **No new-net** <br />
-  BrainLes (2018)
+  BrainLes (2018) <br />
   https://arxiv.org/abs/1809.10483
   
 - <b id="isensee2020nnu"></b>
   **nnU-Net: Self-adapting Framework for U-Net-Based Medical Image Segmentation** <br />
   Fabian Isensee, Jens Petersen, Andre Klein, David Zimmerer, Paul F. Jaeger, Simon Kohl, Jakob Wasserthal, Gregor Koehler, Tobias Norajitra, Sebastian Wirkert, Klaus H. Maier-Hein <br />
-  Nature Methods (2020) / Preprint (2018)
+  Nature Methods (2020) / Preprint (2018) <br />
   https://arxiv.org/abs/1809.10486
