@@ -158,6 +158,32 @@ was to reconstruct the input image through a variational auto-encoder.
   https://arxiv.org/abs/1711.01468
 
 
+### MRBrainS
+
+The MRBrainS challenge provides only 7 training subjects, which puts a 
+lot of focus on data augmentation. From 25 entries, only one did not use
+a CNN; it happened to be ours ([Brudfors et al., 2018](#brudfors2018mrbrains)), 
+and it finished second to last... The top three methods used a U-Net, a FCN and 
+DeepMedic. The 2nd and 3rd ranking methods simply reused networks that performed 
+well on previous BRATS challenges, so they are not depicted here.
+
+| Reference | Levels | Conv/level | Encoder | Decoder | Post | Down | Up | Kernel | Act. | Loss | Augment. | Batch Norm | Dropout | Residual | Notes |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| [Luna _et al._, 2018](#luna2018mrbrains) | 2 | [3, 4, 5] | [64, 128, 256] | sym | no | avg pool | transposed | 3 | ReLU | weighted CE | no | yes | no | no | skip: convolution + cat |
+
+
+- <b id="luna2018mrbrains"></b>
+  **3D Patchwise U-Net with Transition Layers for MR Brain Segmentation** <br />
+  Miguel Luna, Sang Hyun Park <br />
+  MRBrainS (2018) 1st place <br />
+  https://mrbrains18.isi.uu.nl/wp-content/uploads/2018/11/MISPL.pdf
+  
+- <b id="brudfors2018mrbrains"></b>
+  **Unified Segmentation Revisited** <br />
+  Mikael Brudfors, Yael Balbastre, Guillaume Flandin, John Ashburner <br />
+  MRBrainS (2018) <br />
+  https://mrbrains18.isi.uu.nl/wp-content/uploads/2018/11/SPM.pdf
+
 Table
 -----
 
