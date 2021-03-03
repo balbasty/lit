@@ -81,6 +81,37 @@ a backbone). The challenges studied here are:
   one of which is semantic segmentation. It was held alongside the CVPR conference in 2018.
   * http://www.robustvision.net
 
+### BRATS
+
+Since BRATS has been running continuously since 2012, the sudden rise of deep learning 
+can be easily detected. Here are the number and proportion of entries that use 
+deep learning (or convolutional networks, U-nets, etc) per year:
+
+| Year.    | 2012 | 2013 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 |
+| -------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | 
+| N(DL)    |    0 |    0 |    4 |    5 |    9 |   41 |   55 |   56 | 
+| N(total) |   10 |   10 |    8 |   12 |   18 |   53 |   58 |   58 | 
+| %        |    0 |    0 |   50 |   42 |   50 |   77 |   95 |   97 | 
+
+The post-AlexNet era starts to show up in 2014, with half the entries using 
+CNNs (including one by Y Bengio), although they use patch-wise classifiers similar 
+to those in [Ciresan _et al._ (2012)](ciresan2012deep), without a decoder. The first 
+U-Net-like architectures appear in 2016, inspired by their success in computer 
+vision. That year, [Long _et al._ (2015)](#long2015fully) (FCNN), 
+[Ronneberger _et al._ (2015)](#ronneberger2015u) (U-Net),
+[Kendall _et al._ (2017)](#kendall2017bayesian) (SegNet) and 
+[Kamnitsas _et al._ (2017)](#kamnitsas2017efficient) (DeepMedic)
+are widely cited. The impact of the ML field on the medical imaging field can also be 
+felt by the use of preprints, as SegNet and DeepMedic had not been published yet but were 
+already cited. Year 2017 saw a surge of entries, with all top 3 entries using somw flavour of 
+CNNs. The question is not "which class of methods wil win" anymore, but 
+"how to best train your U-Net". After that, litteraly all entries use deep convolutional network.
+Interestingly, in 2018 [Isensee _et al._ (2018)](isensee2018no) got second place 
+with their NoNewNet, which argues that finding new architectures is not necessary 
+for segmentation tasks anymore, and that all that matters is too properly train 
+U-Nets for each task. This strategy get them first palce at the Medical Segmentation Decathlon
+that same year ([Isensee _et al._, 2020](#isensee2020nnu)).
+
 Table
 -----
 
@@ -162,7 +193,13 @@ References
   BMVC (2017) / Preprint (2015) <br />
   https://arxiv.org/abs/1511.02680
 
-- <b id="isensee2020nnu"></b>
+- <b id="kamnitsas2017efficient"></b>
+  **Efficient Multi-Scale 3D CNN with Fully Connected CRF for Accurate Brain Lesion Segmentation** <br />
+  Konstantinos Kamnitsas, Christian Ledig, Virginia F.J. Newcombe, Joanna P. Simpson, Andrew D. Kane, David K. Menon, Daniel Rueckert, Ben Glocker <br />
+  Medical Image Analysis (2017) / Preprint (2016) <br />
+  https://arxiv.org/abs/1603.05959
+
+- <b id="isensee2018no"></b>
   **No new-net** <br />
   Fabian Isensee, Philipp Kickingereder, Wolfgang Wick, Martin Bendszus, Klaus H. Maier-Hein <br />
   BrainLes (2018) <br />
