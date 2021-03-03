@@ -49,6 +49,15 @@ The use of classification network for pixel-wise segmentation had been proposed 
 ([Ciresan _et al._, 2012](ciresan2012deep)), but it was lacking the decoding aspect of 
 modern U-Nets.
 
+Table
+-----
+
+| Reference | Number of levels | Number of convolutions per level | Number of features | Downsampling | Upsampling | Kernel size | Loss |
+| -- | -- | -- | -- | -- | -- | -- | -- |
+| [Long _et al._, 2015](#long2015fully) | 6 | ? | ? | max | transposed | ? | CE |
+| [Ronneberger _et al._, 2015](#ronneberger2015u) | 5 | 2 | [64, 128, 256, 512, 1024] [512, 256, 128, 64] | max | transposed | 3 | weighted CE |
+
+
 References
 ----------
 
