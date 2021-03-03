@@ -164,6 +164,7 @@ References
 
 - <b id="isensee2020nnu"></b>
   **No new-net** <br />
+  Fabian Isensee, Philipp Kickingereder, Wolfgang Wick, Martin Bendszus, Klaus H. Maier-Hein <br />
   BrainLes (2018) <br />
   https://arxiv.org/abs/1809.10483
   
