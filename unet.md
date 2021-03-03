@@ -141,7 +141,7 @@ was to reconstruct the input image through a variational auto-encoder.
 
 - <b id="myronenko2018brats"></b>
   **3D MRI brain tumor segmentation using autoencoder regularization** <br />
-  Andriy Myronenko
+  Andriy Myronenko <br />
   BRATS (2018) 1st place <br />
   https://arxiv.org/abs/1810.11654
 
