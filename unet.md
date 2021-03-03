@@ -51,6 +51,36 @@ The use of classification network for pixel-wise segmentation had been proposed 
 ([Ciresan _et al._, 2012](ciresan2012deep)), but it was lacking the decoding aspect of 
 modern U-Nets.
 
+Challenge success
+-----------------
+
+U-Nets have quickly become the backbone to most leading methods in image (especially biomedial image)
+segmentation challenges. In this section, I go through a selection of challenges and look at 
+the architectures used by the leading methods (when they use a relatively vanilla U-Net as 
+a backbone). The challenges studied here are:
+
+- **BRATS** (Brain Tumor Segmentation Challenge): this challenge aims to segment tumours from 
+  multimodal magnetic resonance images (MRI) into four classes (enhancing tumor, tumor core, 
+  whole tumor and non-tumor). It has been held alongside the MICCAI conference every year 
+  since 2012. <br/>
+  * https://www.med.upenn.edu/cbica/brats2020/
+  * https://www.cbica.upenn.edu/BraTS20/lboardValidation.html
+  
+- **MRBrainS** (MR Brain Segmentation Challenge): this challenge aims to segment relatively 
+  normal multimodal MRIs (some have white matter hyper intensities) into either 4 or 11 
+  anatomical classes. It has been held alongside the MICCAI conference in 2013 (in the 
+  pre U-Net era) and 2018.
+  * https://mrbrains18.isi.uu.nl
+
+- **MSD** (Medical Segmentation Decathlon): this challenge aims to apply a single 
+  architecture to 10 difference medical image segmentation tasks. It was held alongside the 
+  MICCAI conference in 2018.
+  * http://medicaldecathlon.com
+
+- **RVC** (Robust Vision Challenge): this challenge contains multiple computer vision tasks,
+  one of which is semantic segmentation. It was held alongside the CVPR conference in 2018.
+  * http://www.robustvision.net
+
 Table
 -----
 
@@ -131,3 +161,14 @@ References
   Alex Kendall, Vijay Badrinarayanan and Roberto Cipolla <br />
   BMVC (2017) / Preprint (2015)
   https://arxiv.org/abs/1511.02680
+
+- <b id="isensee2020nnu"></b>
+  **No new-net** <br />
+  BrainLes (2018)
+  https://arxiv.org/abs/1809.10483
+  
+- <b id="isensee2020nnu"></b>
+  **nnU-Net: Self-adapting Framework for U-Net-Based Medical Image Segmentation** <br />
+  Fabian Isensee, Jens Petersen, Andre Klein, David Zimmerer, Paul F. Jaeger, Simon Kohl, Jakob Wasserthal, Gregor Koehler, Tobias Norajitra, Sebastian Wirkert, Klaus H. Maier-Hein <br />
+  Nature Methods (2020) / Preprint (2018)
+  https://arxiv.org/abs/1809.10486
