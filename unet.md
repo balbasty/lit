@@ -191,6 +191,7 @@ Table
 | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
 | [Long _et al._, 2015](#long2015fully) | 6 | ? | ? | ? | no | maxpool | transposed | ? | ReLU | CE | no | no | no |
 | [Ronneberger _et al._, 2015](#ronneberger2015u) | 5 | 2 | [64, 128, 256, 512, 1024] | sym | no | maxpool | transposed | 3 | ReLU | weighted CE | no | no | no |
+| [Milletari _et al._, 2016](#milletari2016v) | 5 | [1, 2, 3, 3, 3] + 1 | [16, 32, 64, 128, 256] | [256, 128, 64, 32] | no | strided | transposed | 5 | PReLU | Dice | elastic | no | no |
 | [Badrinarayanan _et al._, 2017](#badrinarayanan2017segnet) | 5 | [2, 2, 3] | [64, 128, 256, 512, 512] | sym | no | maxpool | maxunpool | [3, 3, 1] | ReLU | weighted CE | no | no | no |
 | [Kendall _et al._, 2017](#kendall2017bayesian) | 5 | [2, 2, 3] | [64, 128, 256, 512, 512] | sym | no | maxpool | maxunpool | [3, 3, 1] | ReLU | weighted CE | no | no | yes |
 
@@ -252,6 +253,12 @@ References
   Olaf Ronneberger, Philipp Fischer, Thomas Brox <br/>
   MICCAI (2015) <br/>
   https://arxiv.org/abs/1505.04597
+
+- <b id="milletari2016v"></b>
+  **V-Net: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation** <br />
+  Fausto Milletari, Nassir Navab, Seyed-Ahmad Ahmadi <br/>
+  3DV (2016) <br/>
+  https://arxiv.org/abs/1606.04797
 
 - <b id="badrinarayanan2017segnet"></b>
   **SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation** <br />
