@@ -118,7 +118,30 @@ References
   NeurIPS (2015) <br />
   https://arxiv.org/abs/1506.02025
 
+### Optical flows
+
+- **DeepFlow: Large displacement optical flow with deep matching** <br />
+  Philippe Weinzaepfel, Jérôme Revaud, Zaid Harchaoui, Cordelia Schmid <br />
+  ICCV (2013) <br />
+  https://hal.inria.fr/hal-00873592/document
+
+- **FlowNet: Learning Optical Flow with Convolutional Networks** <br />
+  Philipp Fischer, Alexey Dosovitskiy, Eddy Ilg, Philip Häusser, Caner Hazırbaş, 
+  Vladimir Golkov, Patrick van der Smagt, Daniel Cremers, Thomas Brox <br />
+  ICCV (2015) <br />
+  https://arxiv.org/abs/1504.06852
+
 ### Registration networks
+
+- **A CNN Regression Approach for Real-Time 2D/3D Registration** <br />
+  Shun Miao, Z Jane Wang, Rui Liao <br />
+  IEEE TMI (2016) <br />
+  https://arxiv.org/abs/1507.07505
+
+- **Fast Predictive Image Registration** <br />
+  Xiao Yang, Roland Kwitt, Marc Niethammer <br />
+  DLMIA/LABELS (2016) <br />
+  https://arxiv.org/abs/1607.02504
 
 - **Robust non-rigid registration through agentbased action learning** <br />
   Julian Krebs, Tommaso Mansi, Hervé Delingette, Li Zhang, Florin Ghesu, 
