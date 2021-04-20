@@ -119,3 +119,75 @@ References
   https://arxiv.org/abs/1506.02025
 
 ### Registration networks
+
+- **Robust non-rigid registration through agentbased action learning** <br />
+  Julian Krebs, Tommaso Mansi, Hervé Delingette, Li Zhang, Florin Ghesu, 
+  Shun Miao, Andreas Maier, Nicholas Ayache, Rui Liao, Ali Kamen <br />
+  MICCAI (2017) <br />
+  https://hal.inria.fr/hal-01569447/document
+
+- **SVF-Net: Learning Deformable Image Registration Using Shape Matching** <br />
+  Marc-Michel Rohé, Manasi Datar, Tobias Heimann, Maxime Sermesant, Xavier Pennec <br />
+  MICCAI (2017) <br />
+  https://hal.inria.fr/hal-01557417/document
+
+- **Nonrigid Image Registration Using Multi-scale 3D Convolutional Neural Networks** <br />
+  Hessam Sokooti, Bob de Vos, Floris Berendsen, Boudewijn P.F. Lelieveldt, Ivana Isgum, Marius Staring <br />
+  MICCAI (2017) <br />
+  https://elastix.lumc.nl/marius/downloads/2017_c_MICCAIa.pdf
+
+- **End-to-End Unsupervised Deformable Image Registration with a Convolutional Neural Network** <br />
+  Bob D. de Vos, Floris F. Berendsen, Max A. Viergever, Marius Staring, Ivana Išgum <br/>
+  DLMIA/ML-CDS @ MICCAI (2017) <br />
+  https://arxiv.org/abs/1704.06065
+ 
+- **Quicksilver: Fast Predictive Image Registration - a Deep Learning Approach** <br />
+  Xiao Yang, Roland Kwitt, Martin Styner, Marc Niethammer <br />
+  NeuroImage (2017) <br />
+  https://arxiv.org/abs/1703.10908
+
+- **Non-rigid image registration using fully convolutional networks with deep self-supervision** <br />
+  Hongming Li, Yong Fan <br />
+  ISBI (2018) / Preprint (2017) <br />
+  https://arxiv.org/abs/1709.00799
+  
+- **Unsupervised Probabilistic Deformation Modeling for Robust Diffeomorphic Registration** <br />
+  Julian Krebs, Tommaso Mansi, Boris Mailhé, Nicholas Ayache, Hervé Delingette <br />
+  DLMIA/ML-CDS @ MICCAI (2018) <br />
+  https://arxiv.org/abs/1804.07172
+  
+- **An Unsupervised Learning Model for Deformable Medical Image Registration** <br />
+  Guha Balakrishnan, Amy Zhao, Mert R. Sabuncu, John Guttag, Adrian V. Dalca <br />
+  CVPR (2018) <br />
+  https://arxiv.org/abs/1802.02604
+
+- **Unsupervised Learning for Fast Probabilistic Diffeomorphic Registration** <br />
+  Adrian V. Dalca, Guha Balakrishnan, John Guttag, Mert R. Sabuncu <br />
+  MICCAI (2018) <br />
+  https://arxiv.org/abs/1805.04605
+
+- **VoxelMorph: A Learning Framework for Deformable Medical Image Registration** <br />
+  Guha Balakrishnan, Amy Zhao, Mert R. Sabuncu, John Guttag, Adrian V. Dalca <br />
+  IEEE TMI (2019) <br />
+  https://arxiv.org/abs/1809.05231
+
+- **Unsupervised Learning of Probabilistic Diffeomorphic Registration for Images and Surfaces** <br />
+  Adrian V. Dalca, Guha Balakrishnan, John Guttag, Mert R. Sabuncu <br />
+  Medical Image Analysis (2019) <br />
+  https://arxiv.org/abs/1903.03545
+
+- **Learning a Probabilistic Model for Diffeomorphic Registration** <br />
+  Julian Krebs, Herve Delingette, Boris Mailhe, Nicholas Ayache, Tommaso Mansi <br />
+  IEEE TMI (2019) <br/>
+  https://arxiv.org/abs/1812.07460
+
+- **3D Convolutional Neural Networks Image Registration Based on Efficient Supervised Learning from Artificial Deformations**
+  Hessam Sokooti, Bob de Vos, Floris Berendsen, Mohsen Ghafoorian, Sahar Yousefi, 
+  Boudewijn P.F. Lelieveldt, Ivana Isgum, Marius Staring <br />
+  Preprint (2019) <br />
+  https://arxiv.org/abs/1908.10235
+  
+- **Learning image registration without images** <br />
+  Malte Hoffmann, Benjamin Billot, Juan Eugenio Iglesias, Bruce Fischl, Adrian V. Dalca <br />
+  ISBI (2021) <br />
+  https://arxiv.org/abs/2004.10282
