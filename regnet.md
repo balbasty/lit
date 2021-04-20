@@ -166,6 +166,17 @@ References
   MICCAI (2018) <br />
   https://arxiv.org/abs/1805.04605
 
+- **Weakly-Supervised Convolutional Neural Networks for Multimodal Image Registration** <br />
+  Yipeng Hu, Marc Modat, Eli Gibson, Wenqi Li, Nooshin Ghavami, Ester Bonmati, Guotai Wang, 
+  Steven Bandula, Caroline M. Moore, Mark Emberton, Sébastien Ourselin, J. Alison Noble, Dean C. Barratt, Tom Vercauteren <br />
+  Medical Image Analysis (2018) <br />
+  https://arxiv.org/abs/1807.03361
+
+- **BIRNet: Brain Image Registration Using Dual-Supervised Fully Convolutional Networks** <br />
+  Jingfan Fan, Xiaohuan Cao, Pew-Thian Yap, Dinggang Shen <br />
+  Medical Image Analysis (2019) <br />
+  https://arxiv.org/abs/1802.04692
+
 - **VoxelMorph: A Learning Framework for Deformable Medical Image Registration** <br />
   Guha Balakrishnan, Amy Zhao, Mert R. Sabuncu, John Guttag, Adrian V. Dalca <br />
   IEEE TMI (2019) <br />
@@ -191,3 +202,8 @@ References
   Malte Hoffmann, Benjamin Billot, Juan Eugenio Iglesias, Bruce Fischl, Adrian V. Dalca <br />
   ISBI (2021) <br />
   https://arxiv.org/abs/2004.10282
+
+- **HyperMorph: Amortized Hyperparameter Learning for Image Registration** <br />
+  Andrew Hoopes, Malte Hoffmann, Bruce Fischl, John Guttag, Adrian V. Dalca <br />
+  IPMI (2021) <br />
+  https://arxiv.org/abs/2101.01035
