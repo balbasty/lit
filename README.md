@@ -6,3 +6,5 @@ and medical imaging.
 ## Table of content
 
 - [U-Net](unet.md)
+- [Registration nets](regnet.md)
+- [Classification losses](catloss.md)
