@@ -16,12 +16,24 @@ References
   ECCV (2016) <br/>
   https://arxiv.org/abs/1603.05027
 
-- <b id="he2016identity"></b>
+- <b id="xie2017aggregated"></b>
   **Aggregated Residual Transformations for Deep Neural Networks** <br/>
   Saining Xie, Ross Girshick, Piotr Dollár, Zhuowen Tu, Kaiming He <br/>
   CVPR (2017) <br/>
   https://arxiv.org/abs/1611.05431
-  
+
+- <b id="zhang2017road"></b>
+  **Road Extraction by Deep Residual U-Net** <br/>
+  Zhengxin Zhang, Qingjie Liu, Yunhong Wang <br/>
+  IEEE Geoscience and Remote Sensing Letters (2017) <br/>
+  https://arxiv.org/abs/1711.10684
+
+- <b id="alom2019recurrent"></b>
+  **Recurrent residual U-Net for medical image segmentation** <br/>
+  Md Zahangir Alom, Chris Yakopcic, Mahmudul Hasan, Tarek M Taha, Vijayan K Asari  <br/>
+  J Med Imaging (2019) <br/>
+  https://arxiv.org/abs/1802.06955
+
 - <b id="chen2020residual"></b>
   **Residual Attention U-Net for Automated Multi-Class Segmentation of COVID-19 Chest CT Images** <br/>
   Xiaocong Chen, Lina Yao, Yu Zhang <br/>
