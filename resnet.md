@@ -28,6 +28,12 @@ References
   CVPR (2017) <br/>
   https://arxiv.org/abs/1611.05431
 
+- <b id="gomez2017reversible"></b>
+  **The Reversible Residual Network: Backpropagation Without Storing Activations** <br/>
+  Aidan N. Gomez, Mengye Ren, Raquel Urtasun, Roger B. Grosse <br/>
+  NeurIPS (2017) <br/>
+  https://arxiv.org/abs/1707.04585
+
 - <b id="zhang2017road"></b>
   **Road Extraction by Deep Residual U-Net** <br/>
   Zhengxin Zhang, Qingjie Liu, Yunhong Wang <br/>
@@ -51,6 +57,12 @@ References
   Md Zahangir Alom, Chris Yakopcic, Mahmudul Hasan, Tarek M Taha, Vijayan K Asari  <br/>
   J Med Imaging (2019) <br/>
   https://arxiv.org/abs/1802.06955
+
+- <b id="wu2019wider"></b>
+  **Wider or Deeper: Revisiting the ResNet Model for Visual Recognition** <br/>
+  Zifeng Wu, Chunhua Shen, Anton van den Hengelsari  <br/>
+  Pattern Recognition (2019) <br/>
+  https://arxiv.org/abs/1611.10080
 
 - <b id="chen2020residual"></b>
   **Residual Attention U-Net for Automated Multi-Class Segmentation of COVID-19 Chest CT Images** <br/>
