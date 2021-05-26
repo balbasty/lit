@@ -22,6 +22,24 @@ References
   Blog post (2016) <br/>
   http://torch.ch/blog/2016/02/04/resnets.html
 
+- <b id="veit2016residual"></b>
+  **Residual Networks Behave Like Ensembles of Relatively Shallow Networks** <br/>
+  Andreas Veit, Michael Wilber, Serge Belongie <br/>
+  NeurIPS (2016) <br/>
+  https://arxiv.org/abs/1605.06431
+  
+- <b id="zagoruyko2016wide"></b>
+  **Wide Residual Networks** <br/>
+  Sergey Zagoruyko, Nikos Komodakis <br/>
+  BMVA (2016) <br/>
+  https://arxiv.org/abs/1605.07146
+  
+- <b id="szegedy2017inception"></b>
+  **Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning** <br/>
+  Christian Szegedy, Sergey Ioffe, Vincent Vanhoucke, Alex Alemi <br/>
+  AAAI (2017) / Preprint (2016) <br/>
+  https://arxiv.org/abs/1602.07261
+  
 - <b id="xie2017aggregated"></b>
   **Aggregated Residual Transformations for Deep Neural Networks** <br/>
   Saining Xie, Ross Girshick, Piotr Dollár, Zhuowen Tu, Kaiming He <br/>
