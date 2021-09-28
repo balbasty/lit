@@ -24,7 +24,7 @@ References
   **Image-to-Image Translation with Conditional Adversarial Networks** <br />
   Phillip Isola, Jun-Yan Zhu, Tinghui Zhou, Alexei A. Efros <br />
   Preprint (2016-2018) <br />
-  https://arxiv.org/abs/1611.07004
+  https://arxiv.org/abs/1611.07004 <br />
   (GAN conditioned on input image from different domain)
 
 - <b id="zhu2017unpaired"></b>
