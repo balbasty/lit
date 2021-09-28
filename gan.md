@@ -13,6 +13,13 @@ References
   Preprint (2014) <br/>
   https://arxiv.org/abs/1406.2661
   
+- <b id="radford2015unsupervised"></b>
+  **Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks** <br/>
+  Alec Radford, Luke Metz, Soumith Chintala <br/>
+  Preprint (2015-2016) <br/>
+  https://arxiv.org/abs/1511.06434 <br />
+  (Fully convolutional architecture for GANs)
+  
 - <b id="mao2016least"></b>
   **Least Squares Generative Adversarial Networks** <br/>
   Xudong Mao, Qing Li, Haoran Xie, Raymond Y.K. Lau, Zhen Wang, Stephen Paul Smolley <br/>
@@ -32,6 +39,6 @@ References
   Jun-Yan Zhu, Taesung Park, Phillip Isola, Alexei A. Efros <br/>
   Preprint (2017-2020) <br/>
   https://arxiv.org/abs/1703.10593 <br/>
-  (cycle consistency loss: $||F(G(X)) - X||_1$)
+  (Cycle consistency loss: $||F(G(X)) - X||_1$)
   
 
