@@ -230,3 +230,68 @@ References
   Andrew Hoopes, Malte Hoffmann, Bruce Fischl, John Guttag, Adrian V. Dalca <br />
   IPMI (2021) <br />
   https://arxiv.org/abs/2101.01035
+
+- **Modeling the Probabilistic Distribution of Unlabeled Data forOne-shot Medical Image Segmentation**<br />
+  Yuhang Ding, Xin Yu, Yi Yang <br />
+  AAAI (2021) <br />
+  https://arxiv.org/abs/2102.02033
+
+
+### Joint Segmentation and Registration networks
+
+- **DeepAtlas: Joint Semi-Supervised Learning of Image Registration and Segmentation** <br />
+  Zhenlin Xu, Marc Niethammer <br />
+  MICCAI (2019) <br />
+  https://arxiv.org/abs/1904.08465v2
+
+- **U-ReSNet: Ultimate Coupling of Registration and Segmentation with Deep Nets** <br />
+  Théo Estienne, Maria Vakalopoulou, Stergios Christodoulidis, Enzo Battistella, Marvin Lerousseau, Alexandre Carré, 
+  Guillaume Klausner, Roger Sun, Charlotte Robert, Stavroula Mougiakakou, Nikos Paragios, Eric Deutsch <br />
+  MICCAI (2019) <br />
+  https://hal.archives-ouvertes.fr/hal-02365899v2
+
+- **Conditional Segmentation in Lieu of Image Registration**<br />
+  Yipeng Hu, Eli Gibson, Dean C. Barratt, Mark Emberton, J. Alison Noble, Tom Vercauteren <br />
+  MICCAI (2019) <br />
+  https://arxiv.org/abs/1907.00438
+
+- **Joint Vessel Segmentation and Deformable Registration on Multi-Modal Retinal Images Based on Style Transfer**<br />
+  Junkang Zhang, Cheolhong An, Ji Dai, Manuel Amador, Dirk-Uwe Bartsch, Shyamanga Borooah, William R. Freeman, Truong Q. Nguyen <br />
+  ICIP (2019) <br />
+  http://cwc.ucsd.edu/sites/cwc.ucsd.edu/files/01-08802932.pdf
+
+- **JSSR: A Joint Synthesis, Segmentation, and Registration System for 3D Multi-Modal Image Alignment of Large-scale Pathological CT Scans** <br />
+  Fengze Liu, Jinzheng Cai, Yuankai Huo, Chi-Tung Cheng, Ashwin Raju, Dakai Jin, Jing Xiao, Alan Yuille, Le Lu, ChienHung Liao, Adam P Harrison <br />
+  ECCV (2020) <br />
+  https://arxiv.org/abs/2005.12209
+
+- **A Cross-Stitch Architecture for Joint Registration and Segmentation in Adaptive Radiotherapy** <br />
+  Laurens Beljaards, Mohamed S. Elmahdy, Fons Verbeek, Marius Staring <br />
+  PMLR (2020) <br />
+  http://proceedings.mlr.press/v121/beljaards20a.html
+
+- **ASRNet: Adversarial Segmentation and Registration Networks for Multispectral Fundus Images** <br />
+  Yanyun Jiang, Yuanjie Zheng, Xiaodan Sui, Wanzhen Jiao, Yunlong He, Weikuan Jia <br />
+  Computer Systems Science & Engineering (2020) <br />
+  https://www.techscience.com/csse/v36n3/41265
+  
+- **Atlas-ISTN: Joint Segmentation, Registration and Atlas Construction with Image-and-Spatial Transformer Networks** <br />
+  Matthew Sinclair, Andreas Schuh, Karl Hahn, Kersten Petersen, Ying Bai, James Batten, Michiel Schaap, Ben Glocker <br />
+  Preprint (2020) <br />
+  https://arxiv.org/abs/2012.10533
+  
+- **Deep Learning-Based Concurrent Brain Registration and Tumor Segmentation** <br />
+  Théo Estienne, Marvin Lerousseau, Maria Vakalopoulou, Emilie Alvarez Andres, Enzo Battistella, Alexandre Carré, 
+  Siddhartha Chandra, Stergios Christodoulidis, Mihir Sahasrabudhe, Roger Sun, Charlotte Robert, Hugues Talbot, Nikos Paragios and Eric Deutsch <br />
+  Front. Comput. Neurosci. (2020) <br />
+  https://www.frontiersin.org/articles/10.3389/fncom.2020.00017/full
+  
+- **Learning unbiased group-wise registration (LUGR) and joint segmentation: evaluation on longitudinal diffusion MRI** <br />
+  Bo Li, Wiro J. Niessen, Stefan Klein, M. Arfan Ikram, Meike W. Vernooij, Esther E. Bron <br />
+  SPIE Medical Imaging (2021) <br />
+  https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11596/115960L/Learning-unbiased-group-wise-registration-LUGR-and-joint-segmentation/10.1117/12.2580928.short?SSO=1
+  
+- **Joint deep learning framework for image registration and segmentation of late gadolinium enhanced MRI and cine cardiac MRI** <br />
+  Roshan Reddy Upendra, Richard Simon, Cristian A. Linte <br />
+  SPIE Medical Imaging (2021) <br />
+  https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11598/115980F/Joint-deep-learning-framework-for-image-registration-and-segmentation-of/10.1117/12.2581386.short
