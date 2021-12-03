@@ -5,10 +5,10 @@ Bayesian Networks // Dropout
 References
 ----------
 
-- <b id="titsias2011spike"></b>
+- <b id="mackay1995probable"></b>
   **Probable networks and plausible predictions — a review of practical Bayesian methods for supervised neural networks** <br/>
   David J C Mackay <br/>
-  Netowrk (1995) <br/>
+  Network (1995) <br/>
   http://www.inference.org.uk/mackay/network.pdf
   
 - <b id="titsias2011spike"></b>
