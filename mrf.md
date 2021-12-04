@@ -28,7 +28,13 @@ References
   ICANN (2002) <br/>
   http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=9372E86A251BE7590D99D9385AFCD761?doi=10.1.1.29.1411&rep=rep1&type=pdf
   
-- <b id="wainwright2002new"></b>
+- <b id="yedidia2004constructing"></b>
+  **Constructing Free Energy Approximations and Generalized Belief Propagation Algorithms** <br/>
+  Jonathan S. Yedidia, William T. Freeman, Yair Weiss <br/>
+  IEEE TIT (2004) <br/>
+  https://www.cs.princeton.edu/courses/archive/spring06/cos598C/papers/YedidaFreemanWeiss2004.pdf
+  
+- <b id="wainwright2005new"></b>
   **A New Class of Upper Bounds on the Log Partition Function** <br/>
   Martin Wainwright, Tommi S. Jaakkola, Alan Willsky <br/>
   IEEE TIT (2005) <br/>
