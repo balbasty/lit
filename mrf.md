@@ -4,6 +4,24 @@ Markov Random Field and (Restricted) Boltzmann Machines
 References
 ----------
 
+- <b id="Ackley1985learning"></b>
+  **A Learning Algorithm for Boltzmann Machines** <br/>
+  David H. Ackley, Geoffrey E. Hinton, Terrence J. Sejnowski <br/>
+  Cognitive Science (1985) <br/>
+  http://www.cs.toronto.edu/~fritz/absps/cogscibm.pdf
+
+- <b id="peterson1987mean"></b>
+  **A Mean Field Theory Learning Algorithm for Neural Networks** <br/>
+  Carsten Peterson, James R . Anderson <br/>
+  Complex Systems (1987) <br/>
+  https://content.wolfram.com/uploads/sites/13/2018/02/01-5-6.pdf
+
+- <b id="hinton1989deterministic"></b>
+  **Deterministic Boltzmann Learning Performs Steepest Descent in Weight-Space** <br/>
+  Geoffrey E. Hinton <br/>
+  Neural Computation (1989) <br/>
+  https://www.cs.utoronto.ca/~hinton/absps/dbmNC.pdf
+  
 - <b id="jaakkola1996recursive"></b>
   **Recursive algorithms for approximating probabilities in graphical models** <br/>
   Tommi S. Jaakkola, Michael I. Jordan <br/>
@@ -15,6 +33,12 @@ References
   Tommi S. Jaakkola <br/>
   PhD Thesis (1997) <br/>
   https://dspace.mit.edu/bitstream/handle/1721.1/10307/37445360-MIT.pdf
+
+- <b id="kappen1998efficient"></b>
+  **Efficient Learning in Boltzmann Machines Using Linear Response Theory** <br/>
+  H. J. Kappen, F. B. Rodríguez <br/>
+  Neural Computation (1998) <br/>
+  https://repositorio.uam.es/bitstream/handle/10486/666317/efficient_kappen_NC_1998_ps.pdf
 
 - <b id="wainwright2002new"></b>
   **A New Class of Upper Bounds on the Log Partition Function** <br/>
