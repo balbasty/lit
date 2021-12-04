@@ -1,5 +1,5 @@
-Markov Random Field and (Restricted) Boltmann Machines
-======================================================
+Markov Random Field and (Restricted) Boltzmann Machines
+=======================================================
 
 References
 ----------
