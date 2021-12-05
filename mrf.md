@@ -82,6 +82,12 @@ References
   ICANN (2002) <br/>
   http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=9372E86A251BE7590D99D9385AFCD761?doi=10.1.1.29.1411&rep=rep1&type=pdf
   
+- <b id="welling2003approximate"></b>
+  **Approximate inference in Boltzmann machines** <br/>
+  Max Welling, Yee Wyhe Tee <br/>
+  Artifical Intelligence (2003) <br/>
+  https://www.stats.ox.ac.uk/~teh/research/inference/aij2003.pdf
+  
 - <b id="yedidia2004constructing"></b>
   **Constructing Free Energy Approximations and Generalized Belief Propagation Algorithms** <br/>
   Jonathan S. Yedidia, William T. Freeman, Yair Weiss <br/>
