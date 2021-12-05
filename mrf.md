@@ -22,6 +22,30 @@ References
   Neural Computation (1989) <br/>
   https://www.cs.utoronto.ca/~hinton/absps/dbmNC.pdf
   
+- <b id="hinton1995wake"></b>
+  **The "Wake-Sleep" Algorithm for Unsupervised Neural Networks** <br/>
+  Geoffrey E. Hinton, Peter Dayan, Brendan J. Frey, Radford M. Neal <br/>
+  Science (1995) <br/>
+  https://www.cs.toronto.edu/~hinton/csc2535/readings/ws.pdf
+
+- <b id="dayan1995helmotz"></b>
+  **The Helmholtz Machine** <br/>
+  Peter Dayan, Geoffrey E. Hinton, Radford M. Neal <br/>
+  Neural Computation (1995) <br/>
+  http://www.gatsby.ucl.ac.uk/~dayan/papers/hm95.pdf
+  
+- <b id="jaakkola1995fast"></b>
+  **Fast Learning by Bounding Likelihoods in Sigmoid Type Belief Networks** <br/>
+  Tommi S. Jaakkola, Lawrence K. Saul, Michael I. Jordan <br/>
+  NeurIPS (1995) <br/>
+  https://proceedings.neurips.cc/paper/1995/file/b59c67bf196a4758191e42f76670ceba-Paper.pdf
+
+- <b id="saul1996mean"></b>
+  **Mean Field Theory for Sigmoid Belief Networks** <br/>
+  Lawrence K. Saul, Tommi S. Jaakkola, Michael I. Jordan <br/>
+  JAIR (1996) <br/>
+  https://arxiv.org/abs/cs/9603102
+  
 - <b id="jaakkola1996computing"></b>
   **Computing Upper and Lower Bounds on Likelihoods in Intractable Networks** <br/>
   Tommi S. Jaakkola, Michael I. Jordan <br/>
