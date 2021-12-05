@@ -22,6 +22,12 @@ References
   Neural Computation (1989) <br/>
   https://www.cs.utoronto.ca/~hinton/absps/dbmNC.pdf
   
+- <b id="jaakkola1996computing"></b>
+  **Computing Upper and Lower Bounds on Likelihoods in Intractable Networks** <br/>
+  Tommi S. Jaakkola, Michael I. Jordan <br/>
+  UAI (1996) <br/>
+  https://arxiv.org/abs/1302.3586
+
 - <b id="jaakkola1996recursive"></b>
   **Recursive algorithms for approximating probabilities in graphical models** <br/>
   Tommi S. Jaakkola, Michael I. Jordan <br/>
