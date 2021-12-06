@@ -16,6 +16,12 @@ References
   Complex Systems (1987) <br/>
   https://content.wolfram.com/uploads/sites/13/2018/02/01-5-6.pdf
 
+- <b id="neal1992connectionist"></b>
+  **Connectionist learning of belief networks** <br/>
+  Radford M. Neal <br/>
+  Artificial Intelligence (1989) <br/>
+  http://www.cs.toronto.edu/~bonner/courses/2016s/csc321/readings/Connectionist%20learning%20of%20belief%20networks.pdf
+  
 - <b id="hinton1989deterministic"></b>
   **Deterministic Boltzmann Learning Performs Steepest Descent in Weight-Space** <br/>
   Geoffrey E. Hinton <br/>
