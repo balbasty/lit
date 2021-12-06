@@ -172,6 +172,12 @@ References
   IEEE TIT (2005) <br/>
   http://willsky.lids.mit.edu/publ_pdfs/180_pub_IEEE.pdf
   
+- <b id="parise2005learning"></b>
+  **Learning in Markov Random Fields An Empirical Study** <br/>
+  Sridevi Parise, Max Wellingllsky <br/>
+  NeurIPS (2005) <br/>
+  http://www.yaroslavvb.com/papers/parise-learning.pdf
+  
 - <b id="wainwright2006log"></b>
   **Log-Determinant Relaxation for Approximate Inference in Discrete Markov Random Fields** <br/>
   Martin J. Wainwright, Michael I. Jordan <br/>
@@ -208,13 +214,19 @@ References
   FTML (2008) <br/>
   http://people.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf
   
+- <b id="liang2008asymptotic"></b>
+  **An Asymptotic Analysis of Generative, Discriminative, and Pseudolikelihood Estimators** <br/>
+  Percy Liang, Michael I. Jordan <br/>
+  ICML (2008) <br/>
+  https://cs.stanford.edu/~pliang/papers/asymptotics-icml2008.pdf
+  
 - <b id="salakhutdinov2008learning"></b>
   **Learning and Evaluating Boltzmann Machines** <br/>
   Ruslan Salakhutdinov <br/>
   Technical Report (2008) <br/>
   https://www.cs.toronto.edu/~rsalakhu/papers/bm.pdf
   
-- <b id="salakhutdinov2008learning"></b>
+- <b id="salakhutdinov2009deep"></b>
   **Deep Boltzmann Machines** <br/>
   Ruslan Salakhutdinov, Geoffrey E. Hinton <br/>
   PMLR (2009) <br/>
@@ -225,6 +237,12 @@ References
   Philip M. Long, Rocco A. Servedio <br/>
   ICML (2010) <br/>
   http://www.cs.columbia.edu/~rocco/Public/final-camera-ready-icml10.pdf
+  
+- <b id="sohl-dickstein2011minimum"></b>
+  **Minimum Probability Flow Learning** <br/>
+  Jascha Sohl-Dickstein, Peter Battaglino, Michael R. DeWeese <br/>
+  ICML (2011) <br/>
+  https://arxiv.org/abs/0906.4779
   
 - <b id="goodfellow2013multi"></b>
   **Multi-Prediction Deep Boltzmann Machines** <br/>
