@@ -16,17 +16,29 @@ References
   Complex Systems (1987) <br/>
   https://content.wolfram.com/uploads/sites/13/2018/02/01-5-6.pdf
 
-- <b id="neal1992connectionist"></b>
-  **Connectionist learning of belief networks** <br/>
-  Radford M. Neal <br/>
-  Artificial Intelligence (1992) <br/>
-  http://www.cs.toronto.edu/~bonner/courses/2016s/csc321/readings/Connectionist%20learning%20of%20belief%20networks.pdf
+- <b id="hinton1989deterministic"></b>
+  **Deterministic Boltzmann Learning Performs Steepest Descent in Weight-Space** <br/>
+  Geoffrey E. Hinton <br/>
+  Neural Computation (1989) <br/>
+  https://www.cs.utoronto.ca/~hinton/absps/dbmNC.pdf
   
 - <b id="hinton1989deterministic"></b>
   **Deterministic Boltzmann Learning Performs Steepest Descent in Weight-Space** <br/>
   Geoffrey E. Hinton <br/>
   Neural Computation (1989) <br/>
   https://www.cs.utoronto.ca/~hinton/absps/dbmNC.pdf
+  
+- <b id="neal1992connectionist"></b>
+  **Connectionist learning of belief networks** <br/>
+  Radford M. Neal <br/>
+  Artificial Intelligence (1992) <br/>
+  http://www.cs.toronto.edu/~bonner/courses/2016s/csc321/readings/Connectionist%20learning%20of%20belief%20networks.pdf
+  
+- <b id="neal1992connectionist"></b>
+  **Information geometry of Boltzmann machines** <br/>
+  Shun-ichi Amari, Koji Kurata, Hiroshi Nagaoka <br/>
+  IEEE TNN (1992) <br/>
+  https://www.researchgate.net/publication/5576474_Information_geometry_of_Boltzmann_machines
   
 - <b id="hinton1995wake"></b>
   **The "Wake-Sleep" Algorithm for Unsupervised Neural Networks** <br/>
@@ -88,12 +100,42 @@ References
   NeurIPS (1998) <br/>
   https://www.microsoft.com/en-us/research/wp-content/uploads/1998/01/markovian.pdf
   
+- <b id="murphy1999loopy"></b>
+  **Loopy Belief Propagation for Approximate Inference: An Empirical Study** <br/>
+  Kevin Murphy, Yair Weiss, Michael I. Jordan  <br/>
+  UAI (1999) <br/>
+  https://arxiv.org/abs/1301.6725
+  
+- <b id="weiss2000correctness"></b>
+  **Correctness of Local Probability Propagation in Graphical Models with Loops** <br/>
+  Yair Weiss <br/>
+  Neural Computation (2000) <br/>
+  https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.33.1794&rep=rep1&type=pdf
+  
+- <b id="yedidia2000generalized"></b>
+  **Generalized Belief Propagation** <br/>
+  Jonathan S. Yedidia, William Freeman, Yair Weiss <br/>
+  NeurIPS (2000) <br/>
+  https://papers.nips.cc/paper/2000/file/61b1fb3f59e28c67f3925f3c79be81a1-Paper.pdf
+  
 - <b id="srebro2000maximum"></b>
   **Maximum Likelihood Markov Networks: An Algorithmic Approach** <br/>
   Nathan Srebro <br/>
   MSc Thesis (2000) <br/>
   https://dspace.mit.edu/bitstream/handle/1721.1/86593/48134046-MIT.pdf
 
+- <b id="minka2001family"></b>
+  **A family of algorithms for approximate bayesian inference** <br/>
+  Thomas P. Minka  <br/>
+  PhD Thesis (2001) <br/>
+  https://tminka.github.io/papers/ep/minka-thesis.pdf
+  
+- <b id="welling2001belief"></b>
+  **Belief Optimization for Binary Networks: A Stable Alternative to Loopy Belief Propagation** <br/>
+  Max Welling, Yee Whye Teh  <br/>
+  UAI (2001) <br/>
+  https://arxiv.org/abs/1301.2317
+  
 - <b id="wainwright2002new"></b>
   **A New Class of Upper Bounds on the Log Partition Function** <br/>
   Martin Wainwright, Tommi S. Jaakkola, Alan Willsky <br/>
