@@ -69,6 +69,12 @@ References
   H. J. Kappen, F. B. Rodríguez <br/>
   Neural Computation (1998) <br/>
   https://repositorio.uam.es/bitstream/handle/10486/666317/efficient_kappen_NC_1998_ps.pdf
+  
+- <b id="srebro2000maximum"></b>
+  **Maximum Likelihood Markov Networks: An Algorithmic Approach** <br/>
+  Nathan Srebro <br/>
+  MSc Thesis (2000) <br/>
+  https://dspace.mit.edu/bitstream/handle/1721.1/86593/48134046-MIT.pdf
 
 - <b id="wainwright2002new"></b>
   **A New Class of Upper Bounds on the Log Partition Function** <br/>
