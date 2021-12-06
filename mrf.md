@@ -58,6 +58,12 @@ References
   NeurIPS (1996) <br/>
   https://proceedings.neurips.cc/paper/1996/file/f3f1b7fc5a8779a9e618e1f23a7b7860-Paper.pdf
 
+- <b id="bishop1997approximating"></b>
+  **Approximating Posterior Distributions in Belief Networks Using Mixtures** <br/>
+  Christopher Bishop, Neil Lawrence, Tommi Jaakkola, Michael Jordan <br/>
+  NeurIPS (1997) <br/>
+  https://papers.nips.cc/paper/1997/file/c0826819636026dd1f3674774f06c51d-Paper.pdf
+  
 - <b id="jaakkola1997variational"></b>
   **Variational Methods for Inference and Estimation in Graphical Models** <br/>
   Tommi S. Jaakkola <br/>
@@ -69,6 +75,12 @@ References
   H. J. Kappen, F. B. Rodríguez <br/>
   Neural Computation (1998) <br/>
   https://repositorio.uam.es/bitstream/handle/10486/666317/efficient_kappen_NC_1998_ps.pdf
+  
+- <b id="frey1998markovian"></b>
+  **Markovian Inference in Belief Networks** <br/>
+  Brendan J. Frey, Neil Lawrence, Christopher Bishop <br/>
+  NeurIPS (1998) <br/>
+  https://www.microsoft.com/en-us/research/wp-content/uploads/1998/01/markovian.pdf
   
 - <b id="srebro2000maximum"></b>
   **Maximum Likelihood Markov Networks: An Algorithmic Approach** <br/>
