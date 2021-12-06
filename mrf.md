@@ -154,7 +154,7 @@ References
   Artifical Intelligence (2003) <br/>
   https://www.stats.ox.ac.uk/~teh/research/inference/aij2003.pdf
   
-  - <b id="wainwright2003tree"></b>
+- <b id="wainwright2003tree"></b>
   **Tree-Based Reparameterization Framework for Analysis of Sum-Product and Related Algorithms** <br/>
   Martin J. Wainwright, Tommi S. Jaakkola, Alan S. Willsky <br/>
   IEEE TIT (2003) <br/>
