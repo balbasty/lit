@@ -154,11 +154,17 @@ References
   Artifical Intelligence (2003) <br/>
   https://www.stats.ox.ac.uk/~teh/research/inference/aij2003.pdf
   
-- <b id="wainwright2003tree"></b>
+- <b id="wainwright2003tree-based"></b>
   **Tree-Based Reparameterization Framework for Analysis of Sum-Product and Related Algorithms** <br/>
   Martin J. Wainwright, Tommi S. Jaakkola, Alan S. Willsky <br/>
   IEEE TIT (2003) <br/>
   http://willsky.lids.mit.edu/publ_pdfs/163_pub_IEEE.pdf
+  
+- <b id="wainwright2003tree-reweighted"></b>
+  **Tree-reweighted belief propagation algorithms and approximate ML estimation by pseudo-moment matching** <br/>
+  Martin J. Wainwright, Tommi S. Jaakkola, Alan S. Willsky <br/>
+  AISTATS (2003) <br/>
+  http://proceedings.mlr.press/r4/wainwright03a/wainwright03a.pdf
   
 - <b id="yedidia2004constructing"></b>
   **Constructing Free Energy Approximations and Generalized Belief Propagation Algorithms** <br/>
