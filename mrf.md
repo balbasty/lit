@@ -112,6 +112,12 @@ References
   Artifical Intelligence (2003) <br/>
   https://www.stats.ox.ac.uk/~teh/research/inference/aij2003.pdf
   
+  - <b id="wainwright2003tree"></b>
+  **Tree-Based Reparameterization Framework for Analysis of Sum-Product and Related Algorithms** <br/>
+  Martin J. Wainwright, Tommi S. Jaakkola, Alan S. Willsky <br/>
+  IEEE TIT (2003) <br/>
+  http://willsky.lids.mit.edu/publ_pdfs/163_pub_IEEE.pdf
+  
 - <b id="yedidia2004constructing"></b>
   **Constructing Free Energy Approximations and Generalized Belief Propagation Algorithms** <br/>
   Jonathan S. Yedidia, William T. Freeman, Yair Weiss <br/>
@@ -129,6 +135,12 @@ References
   Martin J. Wainwright, Michael I. Jordan <br/>
   IEEE TSP (2006) <br/>
   https://people.eecs.berkeley.edu/~wainwrig/Papers/WaiJor06.pdf
+  
+- <b id="globerson2006approximate"></b>
+  **Approximate inference using planar graph decomposition** <br/>
+  Amir Globerson, Tommi Jaakkola <br/>
+  NeurIPS (2006) <br/>
+  https://people.csail.mit.edu/tommi/papers/GloJaa-nips06.pdf
   
 - <b id="osindero2007modeling"></b>
   **Modeling image patches with a directed hierarchy of Markov random fields** <br/>
