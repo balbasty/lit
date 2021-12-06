@@ -183,3 +183,9 @@ References
   Paweł Budzianowski <br/>
   MPhil Thesis (2016) <br/>
   https://www.mlmi.eng.cam.ac.uk/files/pawel_budzianowski_8224891_assignsubmission_file_budzianowski_dissertation.pdf
+  
+- <b id="johnson2016learning"></b>
+  **Learning Planar Ising Models** <br/>
+  Jason K. Johnson, Diane Oyen, Michael Chertkov, Praneeth Netrapalli  <br/>
+  JMLR (2016) <br/>
+  https://jmlr.org/papers/volume17/15-579/15-579.pdf
