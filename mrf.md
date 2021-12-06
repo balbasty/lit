@@ -136,6 +136,12 @@ References
   UAI (2001) <br/>
   https://arxiv.org/abs/1301.2317
   
+- <b id="teh2001unified"></b>
+  **The Unified Propagation and Scaling Algorithm** <br/>
+  Yee Whye Teh, Max Welling <br/>
+  NeurIPS (2001) <br/>
+  https://www.stats.ox.ac.uk/~teh/research/inference/nips2001.pdf
+  
 - <b id="wainwright2002new"></b>
   **A New Class of Upper Bounds on the Log Partition Function** <br/>
   Martin Wainwright, Tommi S. Jaakkola, Alan Willsky <br/>
