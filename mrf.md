@@ -19,7 +19,7 @@ References
 - <b id="neal1992connectionist"></b>
   **Connectionist learning of belief networks** <br/>
   Radford M. Neal <br/>
-  Artificial Intelligence (1989) <br/>
+  Artificial Intelligence (1992) <br/>
   http://www.cs.toronto.edu/~bonner/courses/2016s/csc321/readings/Connectionist%20learning%20of%20belief%20networks.pdf
   
 - <b id="hinton1989deterministic"></b>
