@@ -54,11 +54,16 @@ Probability and Inference
 Optimization
 ------------
 
-
 - <b id="rockafella1970convex"></b>
   **Convex Analysis** <br/>
   R. Tyrrell Rockafella <br/>
   (1970) <br/>
+  
+- <b id="press2007numerical"></b>
+  **Numerical Recipes** <br/>
+  William H. Press, Saul A. Teukolsky, William T. Vetterling, Brian P. Flannery <br/>
+  First Edition (1985) / Second Edition (1992) / Third Edition (2007) <br/>
+  https://e-maxx.ru/bookz/files/numerical_recipes.pdf
   
 - <b id="rockafella1997variational"></b>
   **Variational Analysis** <br/>
@@ -76,3 +81,63 @@ Optimization
   Stephen Boyd and Lieven Vandenberghe <br/>
   First Edition (2004) / Seventh Printing (2009) <br/>
   https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf
+
+
+Math 
+----
+
+Mostly taken from [stumblingrobot.com](https://www.stumblingrobot.com/best-math-books/). Didn't try them myself.
+
+### Basics
+
+- **Calculus, Vol. 1: One-Variable Calculus, with an Introduction to Linear Algebra** <br />
+  **Calculus, Vol. 2: Multi-Variable Calculus and Linear Algebra with Applications to Differential Equations and Probability**  <br />
+  Tom M. Apostol
+- **Introduction to Calculus and Analysis, Vol. I** <br />
+  **Introduction to Calculus and Analysis, Vol. II/1** <br />
+  **Introduction to Calculus and Analysis, Vol. II/2** <br />
+  Richard Courant, Fritz John
+- **Linear Algebra** <br />
+  Kenneth M Hoffman 
+- **Finite-Dimensional Vector Spaces** <br />
+  Paul R. Halmos
+- **How to Prove It** <br />
+  Daniel J. Velleman
+- **Book of Proof** <br />
+  Richard H. Hammack 
+- **Proofs from THE BOOK** <br />
+   Martin Aigner, Günter M. Ziegler  
+- **How to Study as a Mathematics Major** <br />
+   Lara Alcock 
+
+### Core
+- **Concrete Mathematics: A Foundation for Computer Science** <br />
+  Ronald Graham, Donald Knuth, Oren Patashnik 
+- **Concrete Mathematics: A Foundation for Computer Science** <br />
+  Ronald Graham, Donald Knuth, Oren Patashnik 
+- **Introduction to Topological Manifolds** <br />
+  John M. Lee
+- **Counterexamples in Topology** <br />
+  Lynn Arthur Steen, J. Arthur Seebach Jr.
+- **Principles of Mathematical Analysis** <br />
+  Walter Rudin
+- **Counterexamples in Analysis** <br />
+  Bernard R. Gelbaum, John M. H. Olmsted
+- **A Course of Modern Analysis** <br />
+  E. T. Whittaker 
+- **Measure and Integral: An Introduction to Real Analysis** <br />
+  Richard L. Wheeden, Antoni Zygmund
+- **Real and Complex Analysis** <br />
+  Walter Rudin
+- **Differential Equations and Their Applications** <br />
+  Martin Braun
+- **Differential Equations with Applications and Historical Notes** <br />
+  George F. Simmons
+- **Ordinary Differential Equations** <br />
+  V. I. Arnold
+- **Differential Geometry of Curves and Surfaces** <br />
+   Manfredo P. do Carmo 
+- **Introduction to Smooth Manifolds** <br />
+  John M. Lee
+- **Introduction to Tensor Analysis and the Calculus of Moving Surfaces** <br />
+  Pavel Grinfeld
