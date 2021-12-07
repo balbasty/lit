@@ -41,7 +41,7 @@ Probability and Inference
   First Edition (2022)
   
 - <b id="murphy2012machine"></b>
-  [**Probabilistic Machine Learning: Advanced Topics**](https://probml.github.io/pml-book/book2.html <br/>
+  [**Probabilistic Machine Learning: Advanced Topics**](https://probml.github.io/pml-book/book2.html) <br/>
   Kevin P. Murphy <br/>
   First Edition (2022)
 
