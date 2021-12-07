@@ -4,6 +4,11 @@ Textbooks
 Probability and Inference
 -------------------------
 
+- <b id="mardia1979multivariate"></b>
+  [**Multivariate Analysis**](https://statisticalsupportandresearch.files.wordpress.com/2017/06/k-v-mardia-j-t-kent-j-m-bibby-multivariate-analysis-probability-and-mathematical-statistics-academic-press-inc-1979.pdf) <br />
+  KV Mardia, JT Kent, JM Bibby <br />
+  First Edition (1979) / Tenth Printing (1995)
+
 - <b id="amari1993methods"></b>
   **Methods of Information Geometry** <br/>
   Shun-ichi Amari, Hiroshi Nagaoka <br/>
