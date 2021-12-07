@@ -69,7 +69,7 @@ Optimization
   (2003) <br/>
   
 - <b id="boyd2004convex"></b>
-  [**Convex Optimization**](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf <br/>
+  [**Convex Optimization**](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) <br/>
   Stephen Boyd and Lieven Vandenberghe <br/>
   First Edition (2004) / Seventh Printing (2009)
 
