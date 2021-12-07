@@ -1,20 +1,19 @@
 Textbooks
 =========
 
-References
-----------
+Probability and Inference
+-------------------------
 
+- <b id="amari1993methods"></b>
+  **Methods of Information Geometry** <br/>
+  Shun-ichi Amari, Hiroshi Nagaoka <br/>
+  (1993)
+  
 - <b id="mackay2003information"></b>
   **Information Theory, Inference, and Learning Algorithms** <br/>
   David J C Mackay <br/>
   First Edition (2003) / Seventh Printing (2005) <br/>
   https://www.inference.org.uk/itprnn/book.pdf
-
-- <b id="boyd2004convex"></b>
-  **Convex Optimization** <br/>
-  Stephen Boyd and Lieven Vandenberghe <br/>
-  First Edition (2004) / Seventh Printing (2009) <br/>
-  https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf
 
 - <b id="bishop2006prml"></b>
   **Pattern Recognition and Machine Learning** <br/>
@@ -51,3 +50,24 @@ References
   Kevin P. Murphy <br/>
   First Edition (2022) <br/>
   https://probml.github.io/pml-book/book2.html
+
+Optimization
+------------
+
+
+- <b id="rockafella1970convex"></b>
+  **Convex Analysis** <br/>
+  R. Tyrrell Rockafella, Roger J-B Wets <br/>
+  (1970) <br/>
+  
+- <b id="rockafella1997variational"></b>
+  **Variational Analysis** <br/>
+  R. Tyrrell Rockafella, Roger J-B Wets <br/>
+  First Edition (1997) / 3rd printing (2009) <br/>
+  https://sites.math.washington.edu/~rtr/papers/rtr169-VarAnalysis-RockWets.pdf
+  
+- <b id="boyd2004convex"></b>
+  **Convex Optimization** <br/>
+  Stephen Boyd and Lieven Vandenberghe <br/>
+  First Edition (2004) / Seventh Printing (2009) <br/>
+  https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf
