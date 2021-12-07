@@ -57,7 +57,7 @@ Optimization
 
 - <b id="rockafella1970convex"></b>
   **Convex Analysis** <br/>
-  R. Tyrrell Rockafella, Roger J-B Wets <br/>
+  R. Tyrrell Rockafella <br/>
   (1970) <br/>
   
 - <b id="rockafella1997variational"></b>
@@ -65,6 +65,11 @@ Optimization
   R. Tyrrell Rockafella, Roger J-B Wets <br/>
   First Edition (1997) / 3rd printing (2009) <br/>
   https://sites.math.washington.edu/~rtr/papers/rtr169-VarAnalysis-RockWets.pdf
+  
+- <b id="bertsekas2003convex"></b>
+  **Convex Analysis and Optimization** <br/>
+  Dimitri P. Bertsekas, Angelia Nedic, Asuman E. Ozdaglar <br/>
+  (2003) <br/>
   
 - <b id="boyd2004convex"></b>
   **Convex Optimization** <br/>
