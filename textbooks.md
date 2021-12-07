@@ -10,46 +10,40 @@ Probability and Inference
   (1993)
   
 - <b id="mackay2003information"></b>
-  **Information Theory, Inference, and Learning Algorithms** <br/>
+  [**Information Theory, Inference, and Learning Algorithms**](https://www.inference.org.uk/itprnn/book.pdf) <br/>
   David J C Mackay <br/>
-  First Edition (2003) / Seventh Printing (2005) <br/>
-  https://www.inference.org.uk/itprnn/book.pdf
-
+  First Edition (2003) / Seventh Printing (2005)
+  
 - <b id="bishop2006prml"></b>
-  **Pattern Recognition and Machine Learning** <br/>
+  [**Pattern Recognition and Machine Learning**](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) <br/>
   Christopher M Bishop <br/>
-  First Edition (2006) <br/>
-  https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf
+  First Edition (2006)
+  
 
 - <b id="hastie2001elements"></b>
-  **The Elements of Statistical Learning** <br/>
+  [**The Elements of Statistical Learning**](https://hastie.su.domains/ElemStatLearn/printings/ESLII_print12_toc.pdf) <br/>
   Trevor Hastie, Robert Tibshirani, Jerome Friedman <br/>
-  First Edition (2001) / Second Edition (2009) / 12th Printing (2017) <br/>
-  https://hastie.su.domains/ElemStatLearn/printings/ESLII_print12_toc.pdf
+  First Edition (2001) / Second Edition (2009) / 12th Printing (2017)
   
 - <b id="murphy2012machine"></b>
-  **Machine Learning: a Probabilistic Perspective** <br/>
+  [**Machine Learning: a Probabilistic Perspective**](http://noiselab.ucsd.edu/ECE228/Murphy_Machine_Learning.pdf) <br/>
   Kevin P. Murphy <br/>
-  First Edition (2012) <br/>
-  http://noiselab.ucsd.edu/ECE228/Murphy_Machine_Learning.pdf
+  First Edition (2012)
   
 - <b id="hastie2013introduction"></b>
-  **An Introduction to Statistical Learning with Applications in R** <br/>
+  [**An Introduction to Statistical Learning with Applications in R**](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf) <br/>
   Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani <br/>
-  First Edition (2013) / Second Edition (2021) / 1st Printing <br/>
-  https://hastie.su.domains/ISLR2/ISLRv2_website.pdf
+  First Edition (2013) / Second Edition (2021) / 1st Printing
   
 - <b id="murphy2012machine"></b>
-  **Probabilistic Machine Learning: An Introduction** <br/>
+  [**Probabilistic Machine Learning: An Introduction**](https://probml.github.io/pml-book/book1.html) <br/>
   Kevin P. Murphy <br/>
-  First Edition (2022) <br/>
-  https://probml.github.io/pml-book/book1.html
+  First Edition (2022)
   
 - <b id="murphy2012machine"></b>
-  **Probabilistic Machine Learning: Advanced Topics** <br/>
+  [**Probabilistic Machine Learning: Advanced Topics**](https://probml.github.io/pml-book/book2.html <br/>
   Kevin P. Murphy <br/>
-  First Edition (2022) <br/>
-  https://probml.github.io/pml-book/book2.html
+  First Edition (2022)
 
 Optimization
 ------------
@@ -60,16 +54,14 @@ Optimization
   (1970) <br/>
   
 - <b id="press2007numerical"></b>
-  **Numerical Recipes** <br/>
+  [**Numerical Recipes**]( https://e-maxx.ru/bookz/files/numerical_recipes.pdf) <br/>
   William H. Press, Saul A. Teukolsky, William T. Vetterling, Brian P. Flannery <br/>
-  First Edition (1985) / Second Edition (1992) / Third Edition (2007) <br/>
-  https://e-maxx.ru/bookz/files/numerical_recipes.pdf
+  First Edition (1985) / Second Edition (1992) / Third Edition (2007)
   
 - <b id="rockafella1997variational"></b>
-  **Variational Analysis** <br/>
+  [**Variational Analysis**](https://sites.math.washington.edu/~rtr/papers/rtr169-VarAnalysis-RockWets.pdf) <br/>
   R. Tyrrell Rockafella, Roger J-B Wets <br/>
-  First Edition (1997) / 3rd printing (2009) <br/>
-  https://sites.math.washington.edu/~rtr/papers/rtr169-VarAnalysis-RockWets.pdf
+  First Edition (1997) / 3rd printing (2009)
   
 - <b id="bertsekas2003convex"></b>
   **Convex Analysis and Optimization** <br/>
@@ -77,10 +69,9 @@ Optimization
   (2003) <br/>
   
 - <b id="boyd2004convex"></b>
-  **Convex Optimization** <br/>
+  [**Convex Optimization**](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf <br/>
   Stephen Boyd and Lieven Vandenberghe <br/>
-  First Edition (2004) / Seventh Printing (2009) <br/>
-  https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf
+  First Edition (2004) / Seventh Printing (2009)
 
 
 Math 
@@ -90,54 +81,54 @@ Mostly taken from [stumblingrobot.com](https://www.stumblingrobot.com/best-math-
 
 ### Basics
 
-- **Calculus, Vol. 1: One-Variable Calculus, with an Introduction to Linear Algebra** <br />
-  **Calculus, Vol. 2: Multi-Variable Calculus and Linear Algebra with Applications to Differential Equations and Probability**  <br />
+- [**Calculus, Vol. 1: One-Variable Calculus, with an Introduction to Linear Algebra**](https://theswissbay.ch/pdf/Gentoomen%20Library/Maths/Calculus/Tom%20Apostol%20-%20Calculus%20vol.1%20-%20One-variable%20Calculus%2C%20with%20an%20Introduction%20to%20Linear%20Algebra%20%281975%29.pdf) <br />
+  **[Calculus, Vol. 2: Multi-Variable Calculus and Linear Algebra with Applications to Differential Equations and Probability](https://theswissbay.ch/pdf/Gentoomen%20Library/Maths/Calculus/Tom%20Apostol%20-%20Calculus%20Vol.2%20-%20Multi-Variable%20Calculus%20and%20Linear%20Algebra%20with%20Applications.pdf)**  <br />
   Tom M. Apostol
-- **Introduction to Calculus and Analysis, Vol. I** <br />
+- **[Introduction to Calculus and Analysis, Vol. I](http://www.astrosen.unam.mx/~aceves/Metodos/ebooks/courant_john1.pdf)** <br />
   **Introduction to Calculus and Analysis, Vol. II/1** <br />
   **Introduction to Calculus and Analysis, Vol. II/2** <br />
+  [**Introduction to Calculus and Analysis, Vol. II/old**](https://www.ime.usp.br/~gorodski/ps/Courant-DifferentialIntegralCalculusVolIi.pdf) <br />
   Richard Courant, Fritz John
-- **Linear Algebra** <br />
-  Kenneth M Hoffman 
-- **Finite-Dimensional Vector Spaces** <br />
+- [**Linear Algebra**](https://www.cin.ufpe.br/~jrsl/Books/Linear%20Algebra%20-%20Kenneth%20Hoffman%20&%20Ray%20Kunze%20.pdf) <br />
+  Kenneth M Hoffman, Ray Kunze <br />
+  [*Solutions*](https://greggrant.org/hoffman_and_kunze.pdf) by Greg Grant
+- [**Finite-Dimensional Vector Spaces**](https://download.tuxfamily.org/openmathdep/algebra_linear/Finite_Vector_Spaces-Halmos.pdf) <br />
   Paul R. Halmos
-- **How to Prove It** <br />
+- [**How to Prove It**](http://users.metu.edu.tr/serge/courses/111-2011/textbook-math111.pdf) <br />
   Daniel J. Velleman
-- **Book of Proof** <br />
+- [**Book of Proof**](https://www.people.vcu.edu/~rhammack/BookOfProof/Main.pdf) <br />
   Richard H. Hammack 
-- **Proofs from THE BOOK** <br />
+- [**Proofs from THE BOOK**](http://cslabcms.nju.edu.cn/problem_solving/images/b/b3/Proofs_from_THE_BOOK_%28Fifth_Edition_2014%29.pdf) <br />
    Martin Aigner, Günter M. Ziegler  
-- **How to Study as a Mathematics Major** <br />
+- [**How to Study as a Mathematics Major**](http://mis.kp.ac.rw/admin/admin_panel/kp_lms/files/digital/SelectiveBooks/Mathematics/How%20to%20Study%20as%20a%20Mathematics%20Major%20-%20LARA%20ALCOCK.pdf) <br />
    Lara Alcock 
 
 ### Core
-- **Concrete Mathematics: A Foundation for Computer Science** <br />
+- [**Concrete Mathematics: A Foundation for Computer Science**](https://notendur.hi.is/pgg/%28ebook-pdf%29%20-%20Mathematics%20-%20Concrete%20Mathematics.pdf) <br />
   Ronald Graham, Donald Knuth, Oren Patashnik 
-- **Concrete Mathematics: A Foundation for Computer Science** <br />
-  Ronald Graham, Donald Knuth, Oren Patashnik 
-- **Introduction to Topological Manifolds** <br />
+- [**Introduction to Topological Manifolds**](http://www.god-does-not-play-dice.net/Lee.pdf) <br />
   John M. Lee
 - **Counterexamples in Topology** <br />
   Lynn Arthur Steen, J. Arthur Seebach Jr.
-- **Principles of Mathematical Analysis** <br />
+- [**Principles of Mathematical Analysis**](https://web.math.ucsb.edu/~agboola/teaching/2021/winter/122A/rudin.pdf) <br />
   Walter Rudin
 - **Counterexamples in Analysis** <br />
   Bernard R. Gelbaum, John M. H. Olmsted
-- **A Course of Modern Analysis** <br />
+- [**A Course of Modern Analysis**](http://theory.fi.infn.it/colomo/metodi_old/Whittaker-Watson.pdf) <br />
   E. T. Whittaker 
-- **Measure and Integral: An Introduction to Real Analysis** <br />
+- [**Measure and Integral: An Introduction to Real Analysis**](https://kupdf.net/download/richard-wheeden-antoni-zygmund-measure-and-integral-pure-and-applied-mathematics-1977_5b099d25e2b6f5be4ba44fa1_pdf) <br />
   Richard L. Wheeden, Antoni Zygmund
-- **Real and Complex Analysis** <br />
+- [**Real and Complex Analysis**](https://59clc.files.wordpress.com/2011/01/real-and-complex-analysis.pdf) <br />
   Walter Rudin
-- **Differential Equations and Their Applications** <br />
+- [**Differential Equations and Their Applications**](http://www.mmcmodinagar.ac.in/econtent/physics/DifferentialEquationsAndTheirApplications.pdf) <br />
   Martin Braun
-- **Differential Equations with Applications and Historical Notes** <br />
+- [**Differential Equations with Applications and Historical Notes**](http://bayanbox.ir/view/6109418987773907741/simmons-DIFFERENTIALEQUATIONSWITHAPPLICATIONS-3ed.pdf) <br />
   George F. Simmons
-- **Ordinary Differential Equations** <br />
+- [**Ordinary Differential Equations**](https://loshijosdelagrange.files.wordpress.com/2013/04/vladimir-i-arnold-vladimir-i-arnold-roger-cooke-ordinary-differential-equations-1992.pdf) <br />
   V. I. Arnold
-- **Differential Geometry of Curves and Surfaces** <br />
+- [**Differential Geometry of Curves and Surfaces**](http://www2.ing.unipi.it/griff/files/dC.pdf) <br />
    Manfredo P. do Carmo 
-- **Introduction to Smooth Manifolds** <br />
+- [**Introduction to Smooth Manifolds**](https://math.berkeley.edu/~jchaidez/materials/reu/lee_smooth_manifolds.pdf) <br />
   John M. Lee
-- **Introduction to Tensor Analysis and the Calculus of Moving Surfaces** <br />
+- [**Introduction to Tensor Analysis and the Calculus of Moving Surfaces**](https://rd.springer.com/content/pdf/bfm:978-1-4614-7867-6%2F1.pdf) <br />
   Pavel Grinfeld
