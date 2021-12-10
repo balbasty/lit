@@ -186,7 +186,7 @@ References
   
 - <b id="parise2005learning"></b>
   **Learning in Markov Random Fields An Empirical Study** <br/>
-  Sridevi Parise, Max Wellingllsky <br/>
+  Sridevi Parise, Max Welling <br/>
   NeurIPS (2005) <br/>
   http://www.yaroslavvb.com/papers/parise-learning.pdf
   
