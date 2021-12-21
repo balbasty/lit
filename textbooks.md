@@ -78,6 +78,10 @@ Optimization
   Stephen Boyd and Lieven Vandenberghe <br/>
   First Edition (2004) / Seventh Printing (2009)
 
+- <b id="lange2004optimization"></b>
+  [**Optimization**](http://196.189.45.87/bitstream/123456789/31201/1/Kenneth%20Lange.pdf) <br/>
+  Kenneth Lange <br/>
+  First Edition (2004) /  Second Edition (2013)
 
 Math 
 ----
