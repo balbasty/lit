@@ -141,3 +141,12 @@ Mostly taken from [stumblingrobot.com](https://www.stumblingrobot.com/best-math-
   John M. Lee
 - [**Introduction to Tensor Analysis and the Calculus of Moving Surfaces**](https://rd.springer.com/content/pdf/bfm:978-1-4614-7867-6%2F1.pdf) <br />
   Pavel Grinfeld
+
+Biology and Medicine
+--------------------
+
+
+- <b id="schuenke2020head"></b>
+  [**Thieme Atlas of Anatomy - Head, Neck and Neuroanatomy**](https://ia803409.us.archive.org/33/items/HsB.FS.THIEME.002/Thieme%20Atlas%20of%20Anatomy%20-%20Head%2C%20Neck%2C%20and%20Neuroanatomy%20-%202020.pdf) <br/>
+  Michael Schuenke, Erik Schulte, Udo Schumacher, Cristian Stefan <br/>
+  Third Edition (2020) <br/>
