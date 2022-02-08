@@ -1,7 +1,8 @@
 # Literature review
 
 This repository contains small literature reviews on different aspects of machine learning 
-and medical imaging. Sometimes with nice notes, more often just a list of references.
+and medical imaging. <br />
+Sometimes with nice notes, more often just a list of references.
 
 ## Table of content
 
