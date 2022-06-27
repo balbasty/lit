@@ -68,8 +68,8 @@ Optimization
   First Edition (1997) / 3rd printing (2009)
   
 - <b id="nocedal2006numerical"></b>
-  [**Numerical Optimization**]([http://196.189.45.87/bitstream/123456789/31201/1/Kenneth%20Lange.pdf](https://www.csie.ntu.edu.tw/~r97002/temp/num_optimization.pdf)) <br/>
-  Kenneth Lange <br/>
+  [**Numerical Optimization**](https://www.csie.ntu.edu.tw/~r97002/temp/num_optimization.pdf)) <br/>
+  Jorge Nocedal and Stephen J. Wright <br/>
   First Edition (1999) /  Second Edition (2006)
   
 - <b id="bertsekas2003convex"></b>
