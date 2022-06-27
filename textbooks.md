@@ -24,7 +24,6 @@ Probability and Inference
   Christopher M Bishop <br/>
   First Edition (2006)
   
-
 - <b id="hastie2001elements"></b>
   [**The Elements of Statistical Learning**](https://hastie.su.domains/ElemStatLearn/printings/ESLII_print12_toc.pdf) <br/>
   Trevor Hastie, Robert Tibshirani, Jerome Friedman <br/>
@@ -68,6 +67,11 @@ Optimization
   R. Tyrrell Rockafella, Roger J-B Wets <br/>
   First Edition (1997) / 3rd printing (2009)
   
+- <b id="nocedal2006numerical"></b>
+  [**Numerical Optimization**]([http://196.189.45.87/bitstream/123456789/31201/1/Kenneth%20Lange.pdf](https://www.csie.ntu.edu.tw/~r97002/temp/num_optimization.pdf)) <br/>
+  Kenneth Lange <br/>
+  First Edition (1999) /  Second Edition (2006)
+  
 - <b id="bertsekas2003convex"></b>
   **Convex Analysis and Optimization** <br/>
   Dimitri P. Bertsekas, Angelia Nedic, Asuman E. Ozdaglar <br/>
@@ -82,7 +86,7 @@ Optimization
   [**Optimization**](http://196.189.45.87/bitstream/123456789/31201/1/Kenneth%20Lange.pdf) <br/>
   Kenneth Lange <br/>
   First Edition (2004) /  Second Edition (2013)
-
+  
 Math 
 ----
 
