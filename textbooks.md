@@ -68,7 +68,7 @@ Optimization
   First Edition (1997) / 3rd printing (2009)
   
 - <b id="nocedal2006numerical"></b>
-  [**Numerical Optimization**](https://www.csie.ntu.edu.tw/~r97002/temp/num_optimization.pdf)) <br/>
+  [**Numerical Optimization**](https://www.csie.ntu.edu.tw/~r97002/temp/num_optimization.pdf) <br/>
   Jorge Nocedal and Stephen J. Wright <br/>
   First Edition (1999) /  Second Edition (2006)
   
