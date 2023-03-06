@@ -7,7 +7,7 @@ across data $\mathbf{x} \in \mathbb{R}^N$ and labels $\mathbf{z} \in \left\[1 \d
 for the entire (infinite) collection of pairs.
 Note that this collection is larger than just the training or testing set. Using the 
 product rule of probability, this joint distribution can be factorised as either 
-$p(\mathbf{x}, \mathbf{z})~(\mathbf{z})$ or $p(\mathbf{z}, \mathbf{x})~(\mathbf{x})$.
+$p(\mathbf{x}, \mathbf{z}) p(\mathbf{z})$ or $p(\mathbf{z}, \mathbf{x}) p(\mathbf{x})$.
 
 Application of Bayes rule (which simply stems from the two factors above) allows the 
 posterior probability of the labels conditioned on the data to be written: 
