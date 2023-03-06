@@ -31,9 +31,9 @@ Let us prove that this classifier minimizes the expected 0/1 risk (or equivalent
 = \sum_m \mathbb{E}_{\mathbf{x}}\left[ \sum_k \eta_m\left(\mathbf{x}, k\right) \left\{ h_m\left(\mathbf{x}\right) \neq k\right\} \right]
 ```
 
-This risk is minimized when _h<sub>m</sub>_ assigns the most probable _posterior_ class under _&eta;<sub>m</sub>_. 
+This risk is minimized when $h_m$ assigns the most probable _posterior_ class under $\eta_m$. 
 The minimum possible risk is called the Bayes error rate and is 
-_L<sup>*</sup><sub>0/1</sub>_ = &sum;<sub>_m_</sub> **E**<sub>_**x**_</sub>[ min<sub>_k_</sub> _&eta;<sub>m</sub>_(_**x**_, _k_) ].
+$\mathcal{L}_{0/1}^\star = \sum_m \mathbb{E}_{\mathbf{x}\left[\min_k \eta_m\left(\mathbf{x}, k\right)\right]$.
 Note finally that correlations between labels to not matter. Only their marginal posterior probabilities are needed 
 in order to make the optimal decision.
 
