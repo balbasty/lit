@@ -2,8 +2,8 @@
 
 ## Optimal Bayes classifier
 
-It is easier to understand classification by defining the joint probability 
-across data $\mathbf{x} \in \mathbb{R}^N$ and labels $\mathbf{z} \in \left\[1 \dots K\right\]^M$, $p(\mathbf{x}, \mathbf{z})$, 
+It is easier to understand classification by defining the joint probability $p(\mathbf{x}, \mathbf{z})$ 
+across data $\mathbf{x} \in \mathbb{R}^N$ and labels $\mathbf{z} \in \left\[1 \dots K\right\]^M$,
 for the entire (infinite) collection of pairs.
 Note that this collection is larger than just the training or testing set. Using the 
 product rule of probability, this joint distribution can be factorised as either 
