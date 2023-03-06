@@ -11,12 +11,12 @@ $p\left(\mathbf{x} \mid \mathbf{z}\right) p\left(\mathbf{z}\right)$ or $p\left(\
 
 Application of Bayes rule (which simply stems from the two factors above) allows the 
 posterior probability of the labels conditioned on the data to be written: 
-_p_(_**z**_ | _**x**_) = _p_(_**x**_ | _**z**_) _p_(_**z**_) &#8725; _p_(_**x**_). 
-However, the denominator _p_(_**x**_) = &int; _p_(_**x**_ | _**z**_) _p_(_**z**_) _d**z**_
+$p\left(\mathbf{z} \mid \mathbf{x}\right) = p\left(\mathbf{x} \mid \mathbf{z}\right) p\left(\mathbf{z}\right) / p\left(\mathbf{x}\right)$. 
+However, the denominator $p\left(\mathbf{x}\right) = \int p\left(\mathbf{x}, \mathbf{z}\right)) \mathrm{d}\mathbf{z}$
 is usually intractable. We will assume, however that this posterior is known.
 For simplicity (and to be coherent with the literature), we write the _marginal_
-posterior as _&eta;<sub>m</sub>_(_**x**_, _k_) = _p_(_z<sub>m</sub>_ = _k_ | _**x**_) 
-= &int; _p_(_z<sub>m</sub>_ = _k_, _**z**<sub>l &ne; m</sub>_ | _**x**_) _d**z**<sub>l &ne; m</sub>_.
+posterior as $\eta_m\left(\mathbf{x}, k\right) = p\left(z_m = k \mid \mathbf{x}\right) 
+= \int p\left(z_m = k, \mathbf{z}_{l \neq m} \mid \mathbf{x}\right) \mathrm{d}\mathbf{z}_{l \neq m}$.
 
 Now, we define the classifier _b:_ **R**<sup>_N_</sup> 	&rarr; [1.._K_]<sup>_M_</sup> that assigns the 
 classes with maximum marginal probability to a data point: _b<sub>m</sub>_(_**x**_) = argmax<sub>_k_</sub> _&eta;<sub>m,k</sub>_(_**x**_).
