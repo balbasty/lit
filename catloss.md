@@ -15,7 +15,7 @@ $p\left(\mathbf{z} \mid \mathbf{x}\right) = p\left(\mathbf{x} \mid \mathbf{z}\ri
 However, the denominator $p\left(\mathbf{x}\right) = \int p\left(\mathbf{x}, \mathbf{z}\right) \mathrm{d}\mathbf{z}$
 is usually intractable. We will assume, however that this posterior is known.
 For simplicity (and to be coherent with the literature), we write the _marginal_
-posterior as $\eta_m\left(\mathbf{x}, k\right) = p\left(z_m = k \mid \mathbf{x}\right) = \int p\left(z_m = k, \mathbf{z}_{l \neq m} \mid \mathbf{x}\right) \mathrm{d}\mathbf{z}_{l \neq m}$.
+posterior as $\eta_m\left(\mathbf{x}, k\right) = p\left(z_m = k \mid \mathbf{x}\right) = \int p\left(z_m = k, \mathbf{z}_{l \neq m} \mid \mathbf{x}\right) \mathrm{d}\mathbf{z}$.
 
 Now, we define the classifier _b:_ **R**<sup>_N_</sup> 	&rarr; [1.._K_]<sup>_M_</sup> that assigns the 
 classes with maximum marginal probability to a data point: _b<sub>m</sub>_(_**x**_) = argmax<sub>_k_</sub> _&eta;<sub>m,k</sub>_(_**x**_).
