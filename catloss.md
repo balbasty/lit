@@ -21,12 +21,17 @@ posterior as
 = \int p\left(z_m = k, \mathbf{z}_{l \neq m} \mid \mathbf{x}\right) \mathrm{d}\mathbf{z}_{l \neq m}.
 ```
 
-Now, we define the classifier _b:_ **R**<sup>_N_</sup> 	&rarr; [1.._K_]<sup>_M_</sup> that assigns the 
-classes with maximum marginal probability to a data point: _b<sub>m</sub>_(_**x**_) = argmax<sub>_k_</sub> _&eta;<sub>m,k</sub>_(_**x**_).
-Let us prove that this classifier minimizes the expected 0/1 risk (or equivalently maximizes the _accuracy_). For any classifier _h_:
-> _L<sub>0/1</sub>_ = **E**<sub>_**x**,**z**_</sub>[ &sum;<sub>_m_</sub> _h<sub>m</sub>_(_**x**_) &ne; _z<sub>m</sub>_ ]
-> = &sum;<sub>_m_</sub> **E**<sub>_**x**_</sub>[ **E**<sub>_**z**_|_**x**_</sub>[ _h<sub>m</sub>_(_**x**_) &ne; _z<sub>m</sub>_ ] ]
-> = &sum;<sub>_m_</sub> **E**<sub>_**x**_</sub>[ &sum;<sub>k</sub> _&eta;<sub>m</sub>_(_**x**_, _k_){_h<sub>m</sub>_(_**x**_) &ne; _k_} ]
+Now, we define the classifier $b: \mathbb{R}^N 	\rightarrow \left[1 \dots K\right]^M$ that assigns the 
+classes with maximum marginal probability to a data point: $b_m\left(\mathbf{x}\right) = \argmax_k \eta{m,k}\left(\mathbf{x}\right)$.
+Let us prove that this classifier minimizes the expected 0/1 risk (or equivalently maximizes the _accuracy_). For any classifier $h$:
+```math
+\begin{align*}
+\mathcal{L}_{0/1} 
+& = \mathbb{E}_{\mathbf{x}, \mathbf{z}}\left[\sum_m h_m\left(\mathbf{x}\right) \neq z_m\right]
+& = \sum_m \mathbb{E}_{\mathbf{x}}\left[ \mathbb{E}_{\mathbf{z} | \mathbf{x}}\left[ h_m\left(\mathbf{x}\right) \neq z_m \right] \right]
+& = \sum_m \mathbb{E}_{\mathbf{x}}\left[ \sum_k \eta_m\left(\mathbf{x}, k\right) \left\{ h_m\left(\mathbf{x}\right) \neq k\right\} \right]
+\end{align*}
+```
 
 This risk is minimized when _h<sub>m</sub>_ assigns the most probable _posterior_ class under _&eta;<sub>m</sub>_. 
 The minimum possible risk is called the Bayes error rate and is 
