@@ -22,7 +22,7 @@ posterior as
 ```
 
 Now, we define the classifier $b: \mathbb{R}^N 	\rightarrow \left[1 \dots K\right]^M$ that assigns the 
-classes with maximum marginal probability to a data point: $b_m\left(\mathbf{x}\right) = \operatorname{arg}\max_k \eta{m,k}\left(\mathbf{x}\right)$.
+classes with maximum marginal probability to a data point: $b_m\left(\mathbf{x}\right) = \operatorname{arg}\max_k \eta_{m,k}\left(\mathbf{x}\right)$.
 Let us prove that this classifier minimizes the expected 0/1 risk (or equivalently maximizes the _accuracy_). For any classifier $h$:
 ```math
 \mathcal{L}_{0/1} 
