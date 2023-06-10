@@ -127,6 +127,12 @@ and its velocity is low, which does not support the idea of CSF ciruclating rapi
   _Sci Rep_ **6**, 38635 (2016) <br />
   https://doi.org/10.1038/srep38635
 
+- <b id="bakker2016lymphatic"></b>
+  **Lymphatic Clearance of the Brain: Perivascular, Paravascular and Significance for Neurodegenerative Diseases** <br />
+  Bakker ENTP, Bacskai BJ, Arbel-Ornath M, _et al._ <br />
+  _Cell Mol Neurobiol_ **36**, 181–194 (2016) <br />
+  https://doi.org/10.1007/s10571-015-0273-8
+
 - <b id="taoka2017evaluation"></b>
   **Evaluation of glymphatic system activity with the diffusion MR technique: 
   diffusion tensor image analysis along the perivascular space (DTI-ALPS) in Alzheimer’s disease cases** <br />
