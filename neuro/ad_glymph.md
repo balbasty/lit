@@ -136,6 +136,11 @@ and its velocity is low, which does not support the idea of CSF ciruclating rapi
   _Neurochem Res_ **40**, 2583-99 (2015) <br />
   https://doi.org/10.1007/s11064-015-1581-6
 
+- **How astrocyte networks may contribute to cerebral metabolite clearance** <br />
+  Asgari M, de Zélicourt D, Kurtcuoglu V <br />
+  _Sci Rep_ **5**, 15024 (2015) <br />
+  https://doi.org/10.1038/srep15024
+
 - <b id="louveau2016lymphatics"></b>
   **Lymphatics in Neurological Disorders: A Neuro-Lympho-Vascular Component of Multiple Sclerosis and Alzheimer’s Disease?** <br />
   Louveau A, Da Mesquita S, Kipnis J <br />
@@ -172,6 +177,18 @@ and its velocity is low, which does not support the idea of CSF ciruclating rapi
   Mestre H, Tithof J, Du T, _et al._ <br />
   _Nat Commun_ **9**, 4878 (2018) <br />
   https://doi.org/10.1038/s41467-018-07318-3
+
+- <b id="smith2018glymphatic"></b>
+  **The “glymphatic” mechanism for solute clearance in Alzheimer's disease: game changer or unproven speculation?** <br />
+  Smith AJ, Verkman AS <br />
+  _FASEB_ **32**, 543-551 (2018) <br />
+  https://doi.org/10.1096/fj.201700999
+
+- <b id="abbott2018role"></b>
+  **The role of brain barriers in fluid movement in the CNS: is there a ‘glymphatic’ system?** <br />
+  Abbott NJ, Pizzo ME, Preston JE, Janigro D, Thorne RG <br />
+  _Acta Neuropathol_ **135**, 387–407 (2018) <br />
+  https://doi.org/10.1007/s00401-018-1812-4
 
 - <b id="tithof2019hydraulic"></b>
   **Hydraulic resistance of periarterial spaces in the brain** <br />
