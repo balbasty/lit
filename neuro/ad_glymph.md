@@ -8,6 +8,8 @@ and its velocity is low, which does not support the idea of CSF ciruclating rapi
 - Nedergaard (2012): CSF does flow through PSVs, and its flow has the same direction as blood 
 (into the brain throufgh arteries, and out of the brain through veins).
 
+- Bakker (2016): PVS collapse right after sacrifice.
+
 - Mestre (2018): Perfusion-fixation alters the normal flow direction and causes a 10-fold reduction in PVS size. Studying the PVS in vivo avoids fixation artifacts.
 
 ## References
@@ -65,9 +67,28 @@ and its velocity is low, which does not support the idea of CSF ciruclating rapi
   _Physiol Rev_ **88**, 1277-340 (2008) <br />
   https://doi.org/10.1152/physrev.00027.2007
 
+- <b id="carare2008solutes"></b>
+  **Solutes, but not cells, drain from the brain parenchyma along basement membranes of capillaries and arteries: 
+  significance for cerebral amyloid angiopathy and neuroimmunology**
+  Carare RO, Bernardes-Silva M, Newman TA, Page AM, Nicoll JAR, Perry VH, Weller RO <br />
+  _Neuropathology and Applied Neurobiology_ **34**, 131-144 (2008) <br />
+  https://doi.org/10.1111/j.1365-2990.2007.00926.x
+
+- <b id="weller2009lymphatic"></b>
+  **Lymphatic drainage of the brain and the pathophysiology of neurological disease** <br />
+  Weller RO, Djuanda E, Yow HY, Carare RO <br />
+  _Acta Neuropathol_ **117**, 1–14 (2009) <br />
+  https://doi.org/10.1007/s00401-008-0457-0
+
+- <b id="weller2009microvasculature"></b>
+  **Microvasculature changes and cerebral amyloid angiopathy in Alzheimer’s disease and their potential impact on therapy** <br />
+  Weller RO, Boche D, Nicoll  JAR <br />
+  _Acta Neuropathol_ **118**, 87–102 (2009) <br />
+  https://doi.org/10.1007/s00401-009-0498-z
+
 - <b id="mathiisen2010perivascular"></b>
   **The perivascular astroglial sheath provides a complete covering of the brain microvessels: 
-  an electron microscopic 3D reconstruction** < br />
+  an electron microscopic 3D reconstruction** <br />
   Mathiisen TM, Lehre KP, Danbolt NC, Ottersen OP <br />
   Glia **58**, 1094-103 (2010) <br />
   https://doi.org/10.1002/glia.20990.
