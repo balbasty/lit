@@ -2,7 +2,8 @@
 
 ## References
 
-- **A paravascular pathway facilitates CSF flow through the brain parenchyma 
+- <b id="iliff2012paravascular"></b>
+  **A paravascular pathway facilitates CSF flow through the brain parenchyma 
   and the clearance of interstitial solutes, including amyloid β** <br />
   Iliff JJ, Wang M, Liao Y, _et al._ <br />
   _Sci Transl Med_ **4**, 147ra111 (2012) <br />
@@ -54,19 +55,20 @@
 - <b id="bacyinski2017paravascular"></b>
   **The Paravascular Pathway for Brain Waste Clearance: Current Understanding, Significance and Controversy** <br />
   Bacyinski A, Xu M, Wang A, Hu J <br />
-  _Front Neuroanat_ **11** (2017)
+  _Front Neuroanat_ **11** (2017) <br />
   https://doi.org/10.3389/fnana.2017.00101
 
-- **Measuring Glymphatic Flow in Man Using Quantitative Contrast-Enhanced MRI** <br />
+- <b id="watts2019measuring"></b>
+  **Measuring Glymphatic Flow in Man Using Quantitative Contrast-Enhanced MRI** <br />
   Watts R, Steinklein JM, Waldman L, Zhou X, Filippi CG <br />
   _American Journal of Neuroradiology_ **40**, 648-651 (2019) <br />
   https://doi.org/10.3174/ajnr.A5931
 
-- **The Brain’s Glymphatic System: Current Controversies** <br />
+- <b id="mestre2020brain"></b>
+  **The Brain’s Glymphatic System: Current Controversies** <br />
   Mestre H, Mori Y, Nedergaard M <br />
   _Trends in Neuroscience_ **43**, 458-466 (2020) <br />
   https://doi.org/10.1016/j.tins.2020.04.003
-
 
 - <b id="reeves2020glymphatic"></b>
   **Glymphatic system impairment in Alzheimer’s disease and idiopathic normal pressure hydrocephalus** <br />
@@ -86,7 +88,8 @@
   _PLoS Biol_ **19**, e3001233 (2021) <br />
   https://doi.org/10.1371/journal.pbio.3001233
   
-- **The Glymphatic System: A Novel Component of Fundamental Neurobiology** <br />
+- <b id="hablitz2021glymphatic"></b>
+  **The Glymphatic System: A Novel Component of Fundamental Neurobiology** <br />
   Hablitz LM, Nedergaard M <br />
   _Journal of Neuroscience_ **41**, 7698-7711 (2021) <br />
   https://doi.org/10.1523/JNEUROSCI.0619-21.2021
@@ -107,10 +110,11 @@
   **Glymphatic clearance estimated using diffusion tensor imaging along perivascular spaces is reduced after traumatic brain injury 
   and correlates with plasma neurofilament light, a biomarker of injury severity** <br />
   Butler T, Zhou L, Ozsahin I, _et al._ <br />
-  _Brain Communications_ **5**, fcad134 (2023)
+  _Brain Communications_ **5**, fcad134 (2023) <br />
   https://doi.org/10.1093/braincomms/fcad134
   
-- **Evaluation of glymphatic system activity by diffusion tensor image analysis along the perivascular space (DTI-ALPS) in dementia patients** <br />
+- <b id="liang2023evaluation"></b>
+  **Evaluation of glymphatic system activity by diffusion tensor image analysis along the perivascular space (DTI-ALPS) in dementia patients** <br />
   Liang T, Chang F, Huang Z, _et al._ <br />
   _British Journal of Radiology_ **96** (2023) <br />
   https://doi.org/10.1259/bjr.20220315
