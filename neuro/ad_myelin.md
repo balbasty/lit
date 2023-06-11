@@ -81,6 +81,12 @@
   _J Comp Neurol_ **518**, 3046–64 (2010) <br />
   https://doi.org/10.1002/cne.22379
 
+- <b id="agosta2011white"></b>
+  **White matter damage in Alzheimer disease and its relationship to gray matter atrophy** <br />
+  Agosta F, Pievani M, Sala S <br />
+  _Radiology_ **258**, 853-63 (2011) <br />
+  https://doi.org/10.1148/radiol.10101284
+
 - <b id="funfschilling2012glycolytic"></b>
   **Glycolytic oligodendrocytes maintain myelin and long-term axonal integrity** <br />
   Fünfschilling U, Supplie LM, Mahad D, _et al._ <br />
@@ -92,6 +98,12 @@
   Lee Y, Morrison BM, Li Y, _et al._ <br />
   _Nature_ **487**, 443-8 (2012) <br />
   https://doi.org/10.1038/nature11314
+
+- <b id="fornari2012demyelination"></b>
+  **Demyelination of superficial white matter in early Alzheimer's disease: a magnetization transfer imaging study** <br />
+  Fornari A, Maeder P, Meuli R, Ghika J, Knyazeva MG <br />
+  _Neurobiol Aging_ **33**, 428 (2012)
+  https://doi.org/10.1016/j.neurobiolaging.2010.11.014
 
 - <b id="toyama2013identification"></b>
   **Identification of long-lived proteins reveals exceptional stability of essential cellular structures** <br />
@@ -138,7 +150,13 @@
   Warntjes M, Engström M, Tisell A, Lundberg P <br />
   _Front Neurol_ **7**, 16 (2016) <br />
   https://doi.org/10.3389/fneur.2016.00016
-  
+
+- <b id="mckenzie2017multiscale"></b>
+  **Multiscale network modeling of oligodendrocytes reveals molecular components of myelin dysregulation in Alzheimer’s disease** <br />
+  McKenzie AT, Moyon S, Wang M, _et al._ <br />
+  _Mol Neurodegeneration_ **12**, 82 (2017) <br />
+  https://doi.org/10.1186/s13024-017-0219-3
+
 - <b id="dean2017association"></b>
   **Association of Amyloid Pathology With Myelin Alteration in Preclinical Alzheimer Disease** <br />
   Dean DC 3rd, Hurley SA, Kecskemeti SR, _et al._ <br />
@@ -196,6 +214,18 @@
   Bouhrara M, Reiter DA, Bergeron CM, _et al._ <br />
   _Alzheimers Dement._ **14**, 998–1004 (2018) <br />
   https://doi.org/10.1016/j.jalz.2018.03.007
+  
+- <b id="tuovinen2018altered"></b>
+  **Altered BOLD signal variation in Alzheimer’s disease and frontotemporal dementia** <br />
+  Tuovinen T, Kananen J, Rytt R, _et al._ <br/ >
+  _BioRxiv_ (2018) <br />
+  https://doi.org/10.1101/455683
+  
+- <b id="ye2019extended"></b>
+  **Extended multimodal whole-brain anatomical covariance analysis: detection of disrupted correlation networks related to amyloid deposition** <br />
+  Ye C, Albert M, Brown T, _et al._ <br />
+  _Heliyon_ **5**, e02074 (2019) <br />
+  https://doi.org/10.1016/j.heliyon.2019.e02074
   
 - <b id="wang2019quantification"></b>
   **Quantification of white matter cellularity and damage in preclinical and early symptomatic Alzheimer's disease** <br />
@@ -290,7 +320,14 @@
   ratios were associated with poorer global cognition, language function, and constructional praxis.
   </details>
 
-- **In vivo myelin imaging and tissue microstructure in white matter hyperintensities and perilesional white matter** <br />
+- <b id="veale2021loss"></b>
+  **Loss and dispersion of superficial white matter in Alzheimer’s disease: a diffusion MRI study** <br />
+  Veale T, Malone IB, Poole T, _et al._ <br />
+  _Brain Commun_ **3**, fcab272 (2021) <br />
+  https://doi.org/10.1093/braincomms/fcab272
+
+- <b id="ferris2022invivo"></b>
+  **In vivo myelin imaging and tissue microstructure in white matter hyperintensities and perilesional white matter** <br />
   Ferris JK, Greeley B, Vavasour IM, _et al._ <br />
   _Brain Communications_ **4**, fcac142 (2022) <br />
   https://doi.org/10.1093/braincomms/fcac142
