@@ -276,6 +276,11 @@
   _Microcirculation_ **28**, e3288 (2021) <br />
    https://doi.org/10.1111/micc.12687
    
+- **Voxelized simulation of cerebral oxygen perfusion elucidates hypoxia in aged mouse cortex** <br />
+  Hartung G, Badr S, Moeini M, Lesage F, Kleinfeld D, Alaraj A, Linninger a <br />
+  _PLoS Comp Bio_ (2021) <br />
+  https://doi.org/10.1371/journal.pcbi.1008584
+   
 - **Review of in silico models of cerebral blood flow in health and pathology** <br />
   Payne S, Józsa TI, El-Bouri WK <br />
   _Progress in Biomedical Engineering_ **5** (2023) <br />
