@@ -13,6 +13,11 @@
   _J Gen Physiol_ **9**, 835–841 (1926) <br />
   https://doi.org/10.1085/jgp.9.6.835
 
+- **Microcirculation: Mechanics of Blood Flow in Capillaries** <br />
+  Fung YC, Zweifach BW <br />
+  _Annual Review of Fluid Mechanics_ **3**, 189-210 (1971) <br />
+  https://doi.org/10.1146/annurev.fl.03.010171.001201
+
 - **The Vascular System of the Cerebral Cortex** <br />
   Bär T <br />
   Book (1980) <br />
@@ -32,6 +37,11 @@
   Pries AR, Secomb TW, Gessner T, Sperandio MB, Gross JF, Gaehtgens P <br />
   _Circulation Research_ **75**, 904–915 (1994) <br />
   https://doi.org/10.1161/01.RES.75.5.904
+
+- **Biophysical aspects of blood flow in the microvasculature** <br />
+  Pries AR, Secomb TW, Gaehtgens P <br />
+  _Cardiovascular Research_ **32**, 654–667 (1996) <br/ >
+  https://doi.org/10.1016/S0008-6363(96)00065-X
 
 - **Morphological characteristics and distribution pattern of the arterial vessels in human cerebral cortex: 
   A scanning electron microscope study** <br />
@@ -184,7 +194,12 @@
   _Cerebral Cortex_ **25**, 3673–3681 (2015) <br />
   https://doi.org/10.1093/cercor/bhu221
 
-- **A statistical model of the penetrating arterioles and venules in the human cerebral cortex**
+- **Multi-scale homogenization of blood flow in 3-dimensional human cerebral microvascular networks** <br />
+  El-Bouri WK, Payne SJ <br />
+  _Journal of Theoretical Biology_ **380**, 40-47 (2015) <br />
+  https://doi.org/10.1016/j.jtbi.2015.05.011
+
+- **A statistical model of the penetrating arterioles and venules in the human cerebral cortex** <br />
   El-Bouri WK, Payne SJ <br />
   _Microcirculation_ **23**, 580-590 (2016) <br />
   https://doi.org/10.1111/micc.12318
@@ -244,10 +259,20 @@
 
 ## Blood flow simulation
 
+- **Blood flow in microvascular networks. Experiments and simulation** <br />
+  Pries AR, Secomb TW, Gaehtgens P, Gross JF <br/ >
+  _Circulation Research_ **67**, 826–834 (1990) <br />
+  https://doi.org/10.1161/01.RES.67.4.826
+
 - **The Physics of Pulsatile Flow** <br />
   Zamir M <br />
   Book (2000) <br />
   https://doi.org/10.1007/978-1-4612-1282-9
+
+- **Modelling vascular reactivity to investigate the basis of the relationship between cerebral blood volume and flow under CO2 manipulation** <br />
+  Piechnik SK, Chiarelli PA, Jezzard P <br />
+  _NeuroImage_ **29**, 107-118 (2008) <br />
+  https://doi.org/10.1016/j.neuroimage.2007.08.022
 
 - **Vascular Graph Model to Simulate the Cerebral Blood Flow in Realistic Vascular Networks** <br />
   Reichold J, Stampanoni M, Keller AL, Buck A, Jenny P, Weber B <br />
@@ -272,6 +297,26 @@
   _NeuroImage_ **54**, 2840-2853 (2011) <br />
   https://doi.org/10.1016/j.neuroimage.2010.10.040
   
+- **A generalized mathematical framework for estimating the residue function for arbitrary vascular networks** <br />
+  Park CS, Payne SJ <br />
+  _Interface Focus_ **3**, 20120078 (2013) <br />
+  https://doi.org/10.1098/rsfs.2012.0078
+  
+- **Cerebral Microcirculation and Oxygen Tension in the Human Secondary Cortex** <br />
+  Linninger AA, Gould IG, Marinnan T, Hsu CY, Chojecki M, Alaraj A <br />
+  _Ann Biomed Eng_ **41**, 2264–2284 (2013) <br />
+  https://doi.org/10.1007/s10439-013-0828-0
+  
+- **Hematocrit Distribution and Tissue Oxygenation in Large Microcirculatory Networks** <br />
+  Gould IG, Linninger AA <br />
+  _Microcirculation_ **22**, 1-18 (2014) <br />
+  https://doi.org/10.1111/micc.12156
+
+- **The capillary bed offers the largest hemodynamic resistance to the cortical blood supply** <br />
+  Gould IG, Tsai P, Kleinfeld D, Linninger A <br />
+  _JCBFM_ **37**, 52-68 2017 <br />
+  https://doi.org/10.1177/0271678X16671146
+
 - **Cerebral Blood Flow Modeling with Discrete Red Blood Cell Tracking** <br />
   Schmid F <br />
   _PhD Thesis_ (2017) <br />
