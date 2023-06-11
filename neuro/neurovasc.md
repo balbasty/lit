@@ -40,7 +40,7 @@
 
 - **Biophysical aspects of blood flow in the microvasculature** <br />
   Pries AR, Secomb TW, Gaehtgens P <br />
-  _Cardiovascular Research_ **32**, 654–667 (1996) <br/ >
+  _Cardiovascular Research_ **32**, 654–667 (1996) <br />
   https://doi.org/10.1016/S0008-6363(96)00065-X
 
 - **Morphological characteristics and distribution pattern of the arterial vessels in human cerebral cortex: 
