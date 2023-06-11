@@ -109,16 +109,6 @@
   _Microcirculation_ **4**, 331-344 (2009) <br />
   https://doi.org/10.1080/10739680802662607
 
-- **Global Constructive Optimization of Vascular Systems** <br />
-  Georg M, Preusser T, Hahn HK <br />
-  Washington University Report Number: WUCSE-2010-11 (2010) <br />
-  https://openscholarship.wustl.edu/cgi/viewcontent.cgi?article=1035&context=cse_research
-
-- **VascuSynth: Simulating vascular trees for generating volumetric image data with ground-truth segmentation and tree analysis** <br />
-  Hamarneh G, Jassi P <br />
-  _Computerized Medical Imaging and Graphics_ **34**, 605-616  (2010) <br />
-  https://doi.org/10.1016/j.compmedimag.2010.06.002
-
 - **Topological basis for the robust distribution of blood to rodent neocortex** <br />
   Blinder P, Shih AY, Rafie C, Kleinfeld D <br />
   _PNAS_ **107**, 12670-12675 (2010) <br />
@@ -128,6 +118,21 @@
   Guibert R, Fonta C, Plouraboué F <br />
   _JCBFM_ **30**, 1860-1873 (2010) <br />
   https://doi.org/10.1038/jcbfm.2010.105
+
+- **A Novel Three-Dimensional Computer-Assisted Method for a Quantitative Study of Microvascular Networks of the Human Cerebral Cortex** <br />
+  Cassot F, Lauwers F, Fouard C, Prohaaska S, Lauwers-Cances V <br />
+  _Microcirculation_ **13**, 1-18 (2010) <br />
+   https://doi.org/10.1080/10739680500383407
+
+- **Branching patterns for arterioles and venules of the human cerebral cortex**
+  Cassot F, Lauwers F, Lorthois S, Puwanarajah P, Cances-Lauwers V, Duvernoy H <br />
+  _Brain Research_ **1313**, 62-78 (2010) <br/ >
+  https://doi.org/10.1016/j.brainres.2009.12.007
+
+- **Fractal analysis of vascular networks: Insights from morphogenesis**
+  Lorthois S, Cassot F <br />
+  _Journal of Theoretical Biology_ **262**, 614-633 (2010) <br />
+  https://doi.org/10.1016/j.jtbi.2009.10.037
 
 - **in vivo 3D Morphology of Astrocyte—Vasculature Interactions in the Somatosensory Cortex: Implications for Neurovascular Coupling** <br />
   McCaslin AFH, Chen BR, Radosevich AJ, Cauli B, Hillman EMC <br />
@@ -159,6 +164,11 @@
   _JCBFM_ **32** 952-967 (2012) <br />
   https://doi.org/10.1038/jcbfm.2012.39
 
+- **The human brain intracerebral microvascular system: development and structure** <br />
+  Marín-Padilla M <br />
+  _Front Neuroanat_ **6** (2012) <br />
+  https://doi.org/10.3389/fnana.2012.00038
+
 - **The cortical angiome: an interconnected vascular network with noncolumnar patterns of blood flow** <br />
   Blinder P, Tsai P, Kaufhold J, _et al._ <br />
   _Nat Neurosci_ **16**, 889–897 (2013) <br /> 
@@ -174,6 +184,11 @@
   _Cerebral Cortex_ **25**, 3673–3681 (2015) <br />
   https://doi.org/10.1093/cercor/bhu221
 
+- **A statistical model of the penetrating arterioles and venules in the human cerebral cortex**
+  El-Bouri WK, Payne SJ <br />
+  _Microcirculation_ **23**, 580-590 (2016) <br />
+  https://doi.org/10.1111/micc.12318
+
 - **Depth-dependent flow and pressure characteristics in cortical microvascular networks** <br />
   Schmid F, Tsai PS, Kleinfeld D, Jenny P, Weber B <br />
   _PLOS Comp Bio_ (2017) <br />
@@ -188,6 +203,12 @@
   Causin P, Malgaroli F <br />
   _Computer Methods in Applied Mechanics and Engineering_ **323**, 303-329 (2017) <br />
   https://doi.org/10.1016/j.cma.2017.05.015
+
+- **Brain Capillary Networks Across Species: A few Simple Organizational Requirements Are Sufficient to Reproduce Both Structure and Function** <br />
+  Smith AF, Doyeux V, Berg M, Peyrounette M, Haft-Javaherian M, Larue AE, Slater JH, 
+  Lauwers F, Blinder P, Tsai P, Kleinfeld D, Schaffer CB, Nishimura N, Davit Y, Lorthois S <br />
+  _Front Physiol_ **10** (2019) <br />
+  https://doi.org/10.3389/fphys.2019.00233
 
 - **Vascular density and distribution in neocortex** <br />
   Schmid F, Barrett MJP, Jenny P, Webber B <br />
@@ -260,7 +281,12 @@
   Hartung G, Vesel C, Morley R, Alaraj A, Sled J, Kleinfeld D, Linninger A <br />
   _PLoS Comp Bio_ (2018) <br />
   https://doi.org/10.1371/journal.pcbi.1006549
-  
+
+- **Multiscale modelling of blood flow in cerebral microcirculation: Details at capillary scale control accuracy at the level of the cortex** <br />
+  Peyrounette M, Davit Y, Quintard M, Lorthois S <br />
+  _PLoS one_ (2018) <br />
+  https://doi.org/10.1371/journal.pone.0189474
+
 - **Hybrid Models for Simulating Blood Flow in Microvascular Networks** <br />
   Vidotto E, Koch T, Köppl T, Helmig R, Wohlmuth B <br />
   _Multiscale Modeling & Simulation_ **17**, 1076-1102 (2019)
@@ -343,11 +369,21 @@
   _MICCAI_ **LNCS 3750** LNCS, 641-648 (2005) <br />
   https://doi.org/10.1007/11566489_79
 
+- **VascuSynth: Simulating vascular trees for generating volumetric image data with ground-truth segmentation and tree analysis** <br />
+  Hamarneh G, Jassi P <br />
+  _Computerized Medical Imaging and Graphics_ **34**, 605-616  (2010) <br />
+  https://doi.org/10.1016/j.compmedimag.2010.06.002
+  
 - **Development of optimized vascular fractal tree models using level set distance function** <br />
   Bui AV, Manasseh R, Liffman K, Sutalo ID <br />
   _Med Eng Phys_ **32**, 790-794 (2010) <br />
   https://doi.org/10.1016/j.medengphy.2010.04.014
 
+- **Global Constructive Optimization of Vascular Systems** <br />
+  Georg M, Preusser T, Hahn HK <br />
+  Washington University Report Number: WUCSE-2010-11 (2010) <br />
+  https://openscholarship.wustl.edu/cgi/viewcontent.cgi?article=1035&context=cse_research
+  
 - **Physiologically based construction of optimized 3-D arterial tree models** <br />
   Schneider M, Hirsch S, Weber B, Székely G <br />
   _MICCAI_ (2011) <br />
