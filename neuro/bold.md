@@ -2,6 +2,11 @@
 
 ## References
 
+- **Blood viscosity in tube flow: dependence on diameter and hematocrit** <br />
+  Pries AR, Neuhaus D, Gaehtgens P <br />
+  _Heart and Circulatory Physiology **263**, H1770-H1778 (1992) <br />
+  https://doi.org/10.1152/ajpheart.1992.263.6.H1770
+
 - **Dynamics of blood flow and oxygenation changes during brain activation: the balloon model** <br />
   Buxton RB, Wong EC, Frank LR <br />
   _MRM_ **39**, 855-864 (1998) <br />
@@ -12,15 +17,50 @@
   _JCBFM_ **1999;19**, 679-689 (1999) <br />
   https://doi.org/10.1097/00004647-199906000-00012
 
+- **Investigation of BOLD signal dependence on cerebral blood flow and oxygen consumption: The deoxyhemoglobin dilution model** <br />
+  Hoge RD, Atkinson J, Gill B, Crelier GR, Marrett S, Pike GP <br/ >
+  _MRM **42**, 849-863 (1999) <br />
+  https://doi.org/10.1002/(SICI)1522-2594(199911)42:5<849::AID-MRM4>3.0.CO;2-Z
+
+- **Nonlinear Responses in fMRI: The Balloon Model, Volterra Kernels, and Other Hemodynamics** <br />
+  Friston KJ, Mechelli A, Turner R, Price CJ <br />
+  _NeuroImage_ **12**, 466-477 (2000) <br />
+  https://doi.org/10.1006/nimg.2000.0630
+
 - **How Much Cortex Can a Vein Drain? Downstream Dilution of Activation-Related Cerebral Blood Oxygenation Changes** <br />
   Turner R <br />
   _NeuroImage_ **16**, 1062-1067 (2002) <br />
   https://doi.org/10.1006/nimg.2002.1082
 
+- **A Model of the Hemodynamic Response and Oxygen Delivery to Brain** <br />
+  Zheng Y, Martindale J, Johnston D, Jones M, Berwick J, Mayhew J <br />
+  _NeuroImage_ **16**, 617-637 (2002) <br />
+  https://doi.org/10.1006/nimg.2002.1078
+
+- **Discrepancies between BOLD and flow dynamics in primary and supplementary motor areas: application of the balloon model to the interpretation of BOLD transients** <br />
+  Obata T, Liu TT, Miller KL, Luh WM, Wong EC, Frank LR, Buxton RB <br />
+  _NeuroImage_ **21**, 144-153 (2004) <br />
+  https://doi.org/10.1016/j.neuroimage.2003.08.040
+
+- **Modeling the hemodynamic response to brain activation** <br />
+  Buxton RB, Uludağ K, Dubowitz DJ, Liu TT <br />
+  _NeuroImage_ **23**, S220-S233 (2004) <br />
+  https://doi.org/10.1016/j.neuroimage.2004.07.013
+  
 - **A three-compartment model of the hemodynamic response and oxygen delivery to brain** <br />
   Zheng Y, Johnston D, Berwick J, Chen D, Billings S, Mayhew J <br />
   _NeuroImage_ **28**, 925-939 (2005) <br />
   https://doi.org/10.1016/j.neuroimage.2005.06.042
+
+- **A Multiparametric Assessment of Oxygen Efflux from the Brain** <br />
+  Hermán P, Trübel HK, Hyder F <br />
+  _JCBFM_ **26**, 79-91 (2006) <br />
+  https://doi.org/10.1038/sj.jcbfm.9600165
+
+- **Using nonlinear models in fMRI data analysis: Model selection and activation detection** <br />
+  Deneux T, Faugeras O <br />
+  _NeuroImage_ **32**, 1669-1689 (2006) <br />
+  https://doi.org/10.1016/j.neuroimage.2006.03.006
 
 - **A multicompartment vascular model for inferring baseline and functional changes in cerebral oxygen metabolism and arterial dilation** <br />
   Huppert TJ, Allen MS, Benav H, Jones PB, Boas DA <br />
@@ -46,7 +86,12 @@
   Hillman EMC <br />
   _Annual Review of Neuroscience_ **37**, 161-181 (2014) <br />
   https://doi.org/10.1146/annurev-neuro-071013-014111
-  
+
+- **Arterial impulse model for the BOLD response to brief neural activation** <br />
+  Kim JH, Ress D <br />
+  _NeuroImage_ **124**, 394-408 (2016) <br />
+  https://doi.org/10.1016/j.neuroimage.2015.08.068
+
 - **Vascular density and distribution in neocortex** <br />
   Schmid F, Barrett MJP, Jenny P, Webber B <br />
   _NeuroImage_ **197**, 792-805 (2019) <br />
