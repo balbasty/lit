@@ -124,11 +124,6 @@
   _PNAS_ **107**, 12670-12675 (2010) <br />
   https://doi.org/10.1073/pnas.1007239107
 
-- **Cerebral Blood Flow Modeling in Primate Cortex** <br />
-  Guibert R, Fonta C, Plouraboué F <br />
-  _JCBFM_ **30**, 1860-1873 (2010) <br />
-  https://doi.org/10.1038/jcbfm.2010.105
-
 - **A Novel Three-Dimensional Computer-Assisted Method for a Quantitative Study of Microvascular Networks of the Human Cerebral Cortex** <br />
   Cassot F, Lauwers F, Fouard C, Prohaaska S, Lauwers-Cances V <br />
   _Microcirculation_ **13**, 1-18 (2010) <br />
@@ -139,7 +134,7 @@
   _Brain Research_ **1313**, 62-78 (2010) <br / >
   https://doi.org/10.1016/j.brainres.2009.12.007
 
-- **Fractal analysis of vascular networks: Insights from morphogenesis**
+- **Fractal analysis of vascular networks: Insights from morphogenesis** <br />
   Lorthois S, Cassot F <br />
   _Journal of Theoretical Biology_ **262**, 614-633 (2010) <br />
   https://doi.org/10.1016/j.jtbi.2009.10.037
@@ -278,6 +273,11 @@
   Reichold J, Stampanoni M, Keller AL, Buck A, Jenny P, Weber B <br />
   _JCBFM_ **29**, 1429-1443 (2009) <br />
   https://doi.org/10.1038/jcbfm.2009.58
+  
+- **Cerebral Blood Flow Modeling in Primate Cortex** <br />
+  Guibert R, Fonta C, Plouraboué F <br />
+  _JCBFM_ **30**, 1860-1873 (2010) <br />
+  https://doi.org/10.1038/jcbfm.2010.105
   
 - **A New Approach to Model Confined Suspensions Flows in Complex Networks: Application to Blood Flow** <br />
   Guibert R, Fonta C, Plouraboué F <br />
