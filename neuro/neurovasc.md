@@ -3,10 +3,21 @@
 
 ## References
 
+- **The Physiological Principle of Minimum Work: I. The Vascular System and the Cost of Blood Volume** <br />
+  Murray CD <br />
+  _PNAS_ **12**, 207-214 (1926) <br />
+  https://doi.org/10.1073/pnas.12.3.20
+
+- **The Physiological Principle of Minimum Work Applied to the Angle of Branching of Arteries** <br />
+  Murray CD <br />
+  _J Gen Physiol_ **9**, 835–841 (1926) <br />
+  https://doi.org/10.1085/jgp.9.6.835
+
 - **The Vascular System of the Cerebral Cortex** <br />
   Bär T <br />
+  Book (1980) <br />
   https://doi.org/10.1007/978-3-642-67432-7
-
+  
 - **Cortical blood vessels of the human brain** <br />
   Duvernoy HM, Delon S, Vannson JL <br />
   _Brain Research Bulletin_ **7**, 519-579 (1981) <br />
@@ -27,7 +38,7 @@
   Reina-de la Torre F, Rodriguez-Baeza A, Sahuquillo-Barris J <br />
   _Anat Rec_ **251**, 87-96 (1998) <br />
   https://doi.org/10.1002/(SICI)1097-0185(199805)251:1<87::AID-AR14>3.0.CO;2-7
-
+  
 - **Microvascular Permeability** <br />
   Michel CC, Curry FE <br />
   _Physiological Reviews_ **79**, 703-761 (1999) <br />
@@ -37,7 +48,7 @@
   Turner R <br />
   _NeuroImage_ **16**, 1062-1067 (2002) <br />
   https://doi.org/10.1006/nimg.2002.1082
-
+  
 - **X-ray high-resolution vascular network imaging** <br />
   Plouraboué F, Cloetens P, Fonta C, Steyer A, Lauwers F, Marc-Vergnes JP <br />
   _J Microsc_ **215**, 139-48 (2005) <br />
@@ -73,6 +84,11 @@
   _NeuroImage_ **40**, 1116-1129 (2008) <br />
   https://doi.org/10.1016/j.neuroimage.2007.12.061
 
+- **Oxygen advection and diffusion in a three- dimensional vascular anatomical network** <br />
+  Fang Q, Sakadzić S, Ruvinskaya L, Devor A, Dale AM, Boas DA <br />
+  _Opt Express_ **16**, 17530-41 (2008) <br />
+  https://doi.org/10.1364/oe.16.17530
+
 - **The Microvascular System of the Striate and Extrastriate Visual Cortex of the Macaque** <br />
   Weber B, Keller AL, Reichold J, Logothetis NK <br />
   _Cerebral Cortex_ **18**, 2318–2330 (2008) <br />
@@ -98,10 +114,15 @@
   _JCBFM_ **29**, 1429-1443 (2009) <br />
   https://doi.org/10.1038/jcbfm.2009.58
 
-- **A New Approach to Model Confined Suspensions Flows in Complex Networks: Application to Blood Flow** <br />
-  Guibert R, Fonta C, Plouraboué F <br />
-  _Transp Porous Med_ **83**, 171–194 (2010) <br /> 
-  https://doi.org/10.1007/s11242-009-9492-0
+- **Global Constructive Optimization of Vascular Systems** <br />
+  Georg M, Preusser T, Hahn HK <br />
+  Washington University Report Number: WUCSE-2010-11 (2010) <br />
+  https://openscholarship.wustl.edu/cgi/viewcontent.cgi?article=1035&context=cse_research
+
+- **VascuSynth: Simulating vascular trees for generating volumetric image data with ground-truth segmentation and tree analysis** <br />
+  Hamarneh G, Jassi P <br />
+  _Computerized Medical Imaging and Graphics_ **34**, 605-616  (2010) <br />
+  https://doi.org/10.1016/j.compmedimag.2010.06.002
 
 - **Topological basis for the robust distribution of blood to rodent neocortex** <br />
   Blinder P, Shih AY, Rafie C, Kleinfeld D <br />
@@ -122,19 +143,6 @@
   Nguyen J, Nishimura N, Fetcho RN, Iadecola C, Schaffer CB <br />
   _JCBFM_ **31**, 2243-2254 (2011) <br />
   https://journals.sagepub.com/doi/10.1038/jcbfm.2011.95
-
-- **Simulation study of brain blood flow regulation by intra-cortical arterioles in an anatomically 
-  accurate large human vascular network: Part I: Methodology and baseline flow** <br />
-  Lorthois S, Cassot F, Lauwers F <br />
-  _NeuroImage_ **54**, 1031-1042 (2011) <br />
-  https://doi.org/10.1016/j.neuroimage.2010.09.032
-
-- **Simulation study of brain blood flow regulation by intra-cortical arterioles in an anatomically 
-  accurate large human vascular network. Part II: Flow variations induced by global or localized 
-  modifications of arteriolar diameters** <br />
-  Lorthois S, Cassot F, Lauwers F <br />
-  _NeuroImage_ **54**, 2840-2853 (2011) <br />
-  https://doi.org/10.1016/j.neuroimage.2010.10.040
 
 - **The Roles of Cerebral Blood Flow, Capillary Transit Time Heterogeneity, and Oxygen Tension in Brain Oxygenation and Metabolism** <br />
   Jespersen SN, Østergaard L <br />
@@ -176,15 +184,20 @@
   _PLOS Comp Bio_ (2017) <br />
   https://doi.org/10.1371/journal.pcbi.1005392
 
+- **The cerebral basal arterial network: morphometry of inflow and outflow components** <br />
+  Burlakoti A, Kumaratilake J, Taylor J, Massy-Westropp N, Henneberg M <br />
+  _J Anat_ **230**, 833-841 (2017) <br />
+  https://doi.org/10.1111/joa.12604
+
+- **Mathematical modeling of local perfusion in large distensible microvascular networks** <br />
+  Causin P, Malgaroli F <br />
+  _Computer Methods in Applied Mechanics and Engineering_ **323**, 303-329 (2017) <br />
+  https://doi.org/10.1016/j.cma.2017.05.015
+
 - **Vascular density and distribution in neocortex** <br />
   Schmid F, Barrett MJP, Jenny P, Webber B <br />
   _NeuroImage_ **197**, 792-805 (2019) <br />
   https://doi.org/10.1016/j.neuroimage.2017.06.046
-
-- **Hybrid Models for Simulating Blood Flow in Microvascular Networks** <br />
-  Vidotto E, Koch T, Köppl T, Helmig R, Wohlmuth B <br />
-  _Multiscale Modeling & Simulation_ **17**, 1076-1102 (2019)
-  https://doi.org/10.1137/18M1228712
 
 - **Digital Reconstruction of the Neuro-Glia-Vascular Architecture** <br />
   Zisis E, Keller D, Kanari L, _et al._ <br />
@@ -202,8 +215,115 @@
   _Neuron_ **109**, 1168-1187.E13 (2021) <br />
   https://doi.org/10.1016/j.neuron.2021.02.006
 
+- **Segmentation-Less, Automated, Vascular Vectorization** <br />
+  Mihelic SA, Sikora WA, Hassan AM, Williamson MR, JonesTA, Dunn AK <br />
+  PLoS Comp Neuro (2021) <br />
+  https://doi.org/10.1371/journal.pcbi.1009451
 
 - **Public Volume Electron Microscopy Data: An Essential Resource to Study the Brain Microvasculature** <br />
   Bonney SK, Coelho-Santos V, Huang SF, _et al._ <br />
   _Front Cell Dev Biol_ **10** (2022) <br />
   https://doi.org/10.3389/fcell.2022.849469
+  
+
+## Blood flow simulation
+
+- **The Physics of Pulsatile Flow** <br />
+  Zamir M <br />
+  Book (2000) <br />
+  https://doi.org/10.1007/978-1-4612-1282-9
+
+- **A New Approach to Model Confined Suspensions Flows in Complex Networks: Application to Blood Flow** <br />
+  Guibert R, Fonta C, Plouraboué F <br />
+  _Transp Porous Med_ **83**, 171–194 (2010) <br /> 
+  https://doi.org/10.1007/s11242-009-9492-0
+  
+- **Simulation study of brain blood flow regulation by intra-cortical arterioles in an anatomically 
+  accurate large human vascular network: Part I: Methodology and baseline flow** <br />
+  Lorthois S, Cassot F, Lauwers F <br />
+  _NeuroImage_ **54**, 1031-1042 (2011) <br />
+  https://doi.org/10.1016/j.neuroimage.2010.09.032
+
+- **Simulation study of brain blood flow regulation by intra-cortical arterioles in an anatomically 
+  accurate large human vascular network. Part II: Flow variations induced by global or localized 
+  modifications of arteriolar diameters** <br />
+  Lorthois S, Cassot F, Lauwers F <br />
+  _NeuroImage_ **54**, 2840-2853 (2011) <br />
+  https://doi.org/10.1016/j.neuroimage.2010.10.040
+  
+- **Cerebral Blood Flow Modeling with Discrete Red Blood Cell Tracking** <br />
+  Schmid F <br />
+  _PhD Thesis_ (2017) <br />
+  https://www.research-collection.ethz.ch/handle/20.500.11850/199362
+  
+- **Simulations of blood as a suspension predicts a depth dependent hematocrit in the circulation throughout the cerebral cortex** <br />
+  Hartung G, Vesel C, Morley R, Alaraj A, Sled J, Kleinfeld D, Linninger A <br />
+  _PLoS Comp Bio_ (2018) <br />
+  https://doi.org/10.1371/journal.pcbi.1006549
+  
+- **Mathematical synthesis of the cortical circulation for the whole mouse brain-part I. theory and image integration** <br />
+  Linninger A, Hartung G, Badr S, Morley R <br />
+  _Computers in Biology and Medicine_ **110**, 265-275 (2019) <br />
+  https://doi.org/10.1016/j.compbiomed.2019.05.004
+  
+- **Hybrid Models for Simulating Blood Flow in Microvascular Networks** <br />
+  Vidotto E, Koch T, Köppl T, Helmig R, Wohlmuth B <br />
+  _Multiscale Modeling & Simulation_ **17**, 1076-1102 (2019)
+  https://doi.org/10.1137/18M1228712
+  
+- **Review of in silico models of cerebral blood flow in health and pathology** <br />
+  Payne S, Józsa TI, El-Bouri WK <br />
+  _Progress in Biomedical Engineering_ **5** (2023) <br />
+  https://doi.org/10.1088/2516-1091/accc62
+  
+## Synthetic VANs
+  
+- **Computer-optimization of vascular trees** <br />
+  Schreiner W, Buxbaum PF <br />
+  _IEEE Transactions on Biomedical Engineering_ **40**, 482-491 (1993) <br />
+  https://doi.org/10.1109/10.243413
+  
+- **Constrained Constructive Optimization Of Binary Branching Arterial Tree Models** <br />
+  Neumann F, Schreiner W, Neumann M <br />
+  _WIT Transactions on The Built Environment_ (1995) <br />
+  https://doi.org/10.2495/OP950221
+
+- **A three-dimensional model for arterial tree representation, generated by constrained constructive optimization** <br />
+  Karch R, Neumann F, Neumann M, Schreiner W <br />
+  _Comput Biol Med_ **29**, 19-38 (1999) <br />
+  https://doi.org/10.1016/s0010-4825(98)00045-6
+
+- **Shear Stress Distribution in Arterial Tree Models, Generated by Constrained Constructive Optimization** <br />
+  Schreiner W, Neumann F, Karch R, Neumann M, Roedler SM, End A <br />
+  _Journal of Theoretical Biology_ **198**, 27-45 (1999) <br />
+  https://doi.org/10.1006/jtbi.1999.0898
+
+- **Staged Growth of Optimized Arterial Model Trees** <br />
+  Karch R, Neumann F, Neumann M, Schreiner W <br />
+  _Annals of Biomedical Engineering_ **28**, 495–511 (2000) <br />
+  https://doi.org/10.1114/1.290
+  
+- **Heterogeneous Perfusion is a Consequence of Uniform Shear Stress in Optimized Arterial Tree Models** <br />
+  Schreiner W, Karch R, Neumann M, Neumann F, Roedler SM, Heinze G <br />
+  _Journal of Theoretical Biology_ **220**, 285-301 (2003) <br />
+  https://doi.org/10.1006/jtbi.2003.3136
+
+- **Simulated annealing approach to vascular structure with application to the coronary arteries** <br />
+  Keelan J, Chung EML, Hague JP <br />
+  _R. Soc. open sci_ **3** 150431 (2016) <br />
+  https://doi.org/10.1098/rsos.150431
+
+- **Adaptive constrained constructive optimisation for complex vascularisation processes** <br />
+  Maso Talou GD, Safaei S, Hunter PJ, Blanco PJ <br />
+  Sci Rep **11**, 6180 (2021) <br />
+  https://doi.org/10.1038/s41598-021-85434-9
+
+- **Parallel generation of extensive vascular networks with application to an archetypal human kidney model** <br />
+  Cury LFM, Maso Talou GD, Younes-Ibrahim M, Blanco PJ <br />
+  _R. Soc. open sci_ **8**, 210973 (2021) <br />
+  https://doi.org/10.1098/rsos.210973
+  
+- **Rigorous mathematical optimization of synthetic hepatic vascular trees** <br />
+  Jessen E, Steinbach MC, Debbaut C, Schillinger D <br />
+  _J. R. Soc. Interface_ **19**, 1920220087 (2022) <br />
+  https://doi.org/10.1098/rsif.2022.0087
