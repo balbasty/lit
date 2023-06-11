@@ -4,7 +4,7 @@
 
 - **Blood viscosity in tube flow: dependence on diameter and hematocrit** <br />
   Pries AR, Neuhaus D, Gaehtgens P <br />
-  _Heart and Circulatory Physiology **263**, H1770-H1778 (1992) <br />
+  _Heart and Circulatory Physiology_ **263**, H1770-H1778 (1992) <br />
   https://doi.org/10.1152/ajpheart.1992.263.6.H1770
 
 - **Dynamics of blood flow and oxygenation changes during brain activation: the balloon model** <br />
