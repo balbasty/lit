@@ -289,7 +289,7 @@
 
 - **Hybrid Models for Simulating Blood Flow in Microvascular Networks** <br />
   Vidotto E, Koch T, Köppl T, Helmig R, Wohlmuth B <br />
-  _Multiscale Modeling & Simulation_ **17**, 1076-1102 (2019)
+  _Multiscale Modeling & Simulation_ **17**, 1076-1102 (2019) <br />
   https://doi.org/10.1137/18M1228712
   
 - **Mathematical synthesis of the cortical circulation for the whole mouse brain-part I. theory and image integration** <br />
