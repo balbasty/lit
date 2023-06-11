@@ -131,7 +131,7 @@
 
 - **Branching patterns for arterioles and venules of the human cerebral cortex** <br />
   Cassot F, Lauwers F, Lorthois S, Puwanarajah P, Cances-Lauwers V, Duvernoy H <br />
-  _Brain Research_ **1313**, 62-78 (2010) <br / >
+  _Brain Research_ **1313**, 62-78 (2010) <br />
   https://doi.org/10.1016/j.brainres.2009.12.007
 
 - **Fractal analysis of vascular networks: Insights from morphogenesis** <br />
