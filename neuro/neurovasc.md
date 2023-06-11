@@ -181,6 +181,11 @@
   _NeuroImage_ **197**, 792-805 (2019) <br />
   https://doi.org/10.1016/j.neuroimage.2017.06.046
 
+- **Hybrid Models for Simulating Blood Flow in Microvascular Networks** <br />
+  Vidotto E, Koch T, Köppl T, Helmig R, Wohlmuth B <br />
+  _Multiscale Modeling & Simulation_ **17**, 1076-1102 (2019)
+  https://doi.org/10.1137/18M1228712
+
 - **Digital Reconstruction of the Neuro-Glia-Vascular Architecture** <br />
   Zisis E, Keller D, Kanari L, _et al._ <br />
   _Cerebral Cortex_, **31**, 5686–5703 (2021) <br />
@@ -191,6 +196,12 @@
   Wälchli T, Bisschop J, Miettinen A, _et al._ <br />
   _Nat Protoc_ **16**, 4564-4610 (2021) <br />
   https://doi.org/10.1038/s41596-021-00587-1
+
+- **Brain microvasculature has a common topology with local differences in geometry that match metabolic load** <br />
+  Ji X, Ferreira T, Friedman B, _et al._ <br />
+  _Neuron_ **109**, 1168-1187.E13 (2021) <br />
+  https://doi.org/10.1016/j.neuron.2021.02.006
+
 
 - **Public Volume Electron Microscopy Data: An Essential Resource to Study the Brain Microvasculature** <br />
   Bonney SK, Coelho-Santos V, Huang SF, _et al._ <br />
