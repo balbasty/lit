@@ -102,7 +102,7 @@
 - <b id="fornari2012demyelination"></b>
   **Demyelination of superficial white matter in early Alzheimer's disease: a magnetization transfer imaging study** <br />
   Fornari A, Maeder P, Meuli R, Ghika J, Knyazeva MG <br />
-  _Neurobiol Aging_ **33**, 428 (2012)
+  _Neurobiol Aging_ **33**, 428 (2012) <br />
   https://doi.org/10.1016/j.neurobiolaging.2010.11.014
 
 - <b id="toyama2013identification"></b>
