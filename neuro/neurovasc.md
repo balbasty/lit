@@ -270,7 +270,12 @@
   Linninger A, Hartung G, Badr S, Morley R <br />
   _Computers in Biology and Medicine_ **110**, 265-275 (2019) <br />
   https://doi.org/10.1016/j.compbiomed.2019.05.004
-  
+
+- **Multi-Scale Simulation of Cerebral Blood Flow and Oxygen Exchange for the Entire Mouse Brain** <br />
+  Hartung G <br />
+  _PhD Thesis_ (2020) <br />
+  https://indigo.uic.edu/articles/thesis/Multi-Scale_Simulation_of_Cerebral_Blood_Flow_and_Oxygen_Exchange_for_the_Entire_Mouse_Brain/13476447
+
 - **Mathematical synthesis of the cortical circulation for the whole mouse brain—part II: Microcirculatory closure** <br />
   Hartung G, Badr S, Mihelic S, Dunn S, Cheng X, Kura S, Boas DA, Kleinfeld D, Alaraj A, Linninger A <br />
   _Microcirculation_ **28**, e3288 (2021) <br />
