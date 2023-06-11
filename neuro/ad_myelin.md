@@ -217,7 +217,7 @@
   
 - <b id="tuovinen2018altered"></b>
   **Altered BOLD signal variation in Alzheimer’s disease and frontotemporal dementia** <br />
-  Tuovinen T, Kananen J, Rytt R, _et al._ <br/ >
+  Tuovinen T, Kananen J, Rytt R, _et al._ <br />
   _BioRxiv_ (2018) <br />
   https://doi.org/10.1101/455683
   
