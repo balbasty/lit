@@ -124,7 +124,7 @@
   _Microcirculation_ **13**, 1-18 (2010) <br />
    https://doi.org/10.1080/10739680500383407
 
-- **Branching patterns for arterioles and venules of the human cerebral cortex**
+- **Branching patterns for arterioles and venules of the human cerebral cortex** <br />
   Cassot F, Lauwers F, Lorthois S, Puwanarajah P, Cances-Lauwers V, Duvernoy H <br />
   _Brain Research_ **1313**, 62-78 (2010) <br/ >
   https://doi.org/10.1016/j.brainres.2009.12.007
