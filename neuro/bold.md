@@ -18,7 +18,7 @@
   https://doi.org/10.1097/00004647-199906000-00012
 
 - **Investigation of BOLD signal dependence on cerebral blood flow and oxygen consumption: The deoxyhemoglobin dilution model** <br />
-  Hoge RD, Atkinson J, Gill B, Crelier GR, Marrett S, Pike GP <br/ >
+  Hoge RD, Atkinson J, Gill B, Crelier GR, Marrett S, Pike GP <br />
   _MRM **42**, 849-863 (1999) <br />
   https://doi.org/10.1002/(SICI)1522-2594(199911)42:5<849::AID-MRM4>3.0.CO;2-Z
 
