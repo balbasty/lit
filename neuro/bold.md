@@ -14,7 +14,7 @@
 
 - **Evidence of a cerebrovascular postarteriole windkessel with delayed compliance** <br />
   Mandeville JB, Marota JJ, Ayata C, Zaharchuk G, Moskowitz MA, Rosen BR, Weisskoff RM <br />
-  _JCBFM_ **1999;19**, 679-689 (1999) <br />
+  _JCBFM_ **19**, 679-689 (1999) <br />
   https://doi.org/10.1097/00004647-199906000-00012
 
 - **Investigation of BOLD signal dependence on cerebral blood flow and oxygen consumption: The deoxyhemoglobin dilution model** <br />
