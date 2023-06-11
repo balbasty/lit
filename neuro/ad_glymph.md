@@ -61,6 +61,12 @@ and its velocity is low, which does not support the idea of CSF ciruclating rapi
   Morphologie **89**, 22-34 (2005) <br />
   https://doi.org/10.1016/s1286-0115(05)83235-7
 
+- <b id="iadecola2007glial"></b>
+  **Glial regulation of the cerebral microvasculature** <br />
+  Iadecola C, Nedergaard M <br />
+  _Nat Neurosci_ **10**, 1369–1376 (2007) <br />
+  https://doi.org/10.1038/nn2003
+
 - <b id="sykova2008diffusion"></b>
   **Diffusion in brain extracellular space** <br />
   Syková E, Nicholson C <br />
@@ -190,6 +196,12 @@ and its velocity is low, which does not support the idea of CSF ciruclating rapi
   _Acta Neuropathol_ **135**, 387–407 (2018) <br />
   https://doi.org/10.1007/s00401-018-1812-4
 
+- <b id="faghih2018bulk"></b>
+  **Is bulk flow plausible in perivascular, paravascular and paravenous channels?** <br />
+  Faghih MM, Sharp MK <br />
+  _Fluids Barriers CNS_ **15**, 17 (2018) <br />
+  https://doi.org/10.1186/s12987-018-0103-8
+
 - <b id="tithof2019hydraulic"></b>
   **Hydraulic resistance of periarterial spaces in the brain** <br />
   Tithof J, Kelley DH, Mestre H, Nedergaard M, Thomas JH <br />
@@ -233,15 +245,23 @@ and its velocity is low, which does not support the idea of CSF ciruclating rapi
   _Plos ONE_ (2020) <br />
   https://doi.org/10.1371/journal.pone.0244442
 
-- **Peristaltic flow in the glymphatic system** <br />
+- <b id="romano2020peristaltic"></b>
+  **Peristaltic flow in the glymphatic system** <br />
   Romanò F, Suresh V, Galie PA, Grotberg  JB <br />
   _Sci Rep_ **10**, 21065 (2020) <br />
   https://doi.org/10.1038/s41598-020-77787-4
 
-- **Arterial pulsations drive oscillatory flow of CSF but not directional pumping** <br />
+- <b id="kedarasetti2020arterial"></b>
+  **Arterial pulsations drive oscillatory flow of CSF but not directional pumping** <br />
   Kedarasetti RT, Drew PJ, Costanzo F <br />
   _Sci Rep_ **10**, 10102 (2020) <br />
   https://doi.org/10.1038/s41598-020-66887-w
+
+- <b id="vinje2020intracranial"></b>
+  **Intracranial pressure elevation alters CSF clearance pathways** <br />
+  Vinje V, Eklund A, Mardal KA, Rognes ME, Støverud KH <br />
+  _Fluids Barriers CNS_ **17**, 29 (2020) <br />
+  https://doi.org/10.1186/s12987-020-00189-1
 
 - <b id="han2021reduced"></b>
   **Reduced coupling between cerebrospinal fluid flow and global brain activity is linked to Alzheimer disease–related pathology** <br />
@@ -278,7 +298,13 @@ and its velocity is low, which does not support the idea of CSF ciruclating rapi
    Kamagata K, Andica C, Takabayashi K, _et al._ <br />
    _Neurology_ **99**, e2648-e2660 (2022) <br />
    https://doi.org/10.1212/WNL.0000000000201300
-  
+
+- <b id="tithof2022network"></b>
+  **A network model of glymphatic flow under different experimentally-motivated parametric scenarios** <br />
+  Tithof J, Boster KAS, Bork PAR, Nedergaard M, Thomas JH, Kelley DH <br />
+  _iScience_ **25**, 104258 (2022) <br />
+  https://doi.org/10.1016/j.isci.2022.104258
+
 - <b id="butler2023glymphatic"></b>
   **Glymphatic clearance estimated using diffusion tensor imaging along perivascular spaces is reduced after traumatic brain injury 
   and correlates with plasma neurofilament light, a biomarker of injury severity** <br />
