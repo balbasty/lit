@@ -112,6 +112,12 @@ and its velocity is low, which does not support the idea of CSF ciruclating rapi
   _Sci Transl Med_ **4**, 147ra111 (2012) <br />
   https://doi.org/10.1126/scitranslmed.3003748
 
+- <b id="xie2013sleep"></b>
+  **Sleep Drives Metabolite Clearance from the Adult Brain** <br />
+  Xie L, Kang H, Chen M, _et al._ <br />
+  _Science_ **342**, 373-377 (2013) <br />
+  https://doi.org/10.1126/science.1241224
+
 - <b id="iliff2013brain"></b>
   **Brain-wide pathway for waste clearance captured by contrast-enhanced MRI** <br />
   Iliff JJ, Lee H, Yu M, _et al._ <br />
@@ -286,7 +292,17 @@ and its velocity is low, which does not support the idea of CSF ciruclating rapi
   MacAulay N <br />
   _Nat Rev Neurosci_ **22**, 326–344 (2021) <br />
   https://doi.org/10.1038/s41583-021-00454-8
-  
+
+- **Direction and magnitude of cerebrospinal fluid flow vary substantially across central nervous system diseases** <br />
+ Eide PK, Valnes LM, Lindstrøm EK, Mardal KA, Ringstad G <br />
+ _Fluids Barriers CNS_ **18**, 16 (2021) <br />
+ https://doi.org/10.1186/s12987-021-00251-6
+
+- **Sleep deprivation impairs molecular clearance from the human brain** <br />
+  Eide PK, Vinje V, Pripp AH, Mardal KA, Ringstad G <br />
+  _Brain_ **144**, 863–874 (2021) <br />
+  https://doi.org/10.1093/brain/awaa443
+
 - <b id="naganawa2022glymphatic"></b>
   **The Glymphatic System: A Review of the Challenges in Visualizing its Structure and Function with MR Imaging** <br />
   Naganawa A, Taoka T <br />
@@ -304,6 +320,18 @@ and its velocity is low, which does not support the idea of CSF ciruclating rapi
   Tithof J, Boster KAS, Bork PAR, Nedergaard M, Thomas JH, Kelley DH <br />
   _iScience_ **25**, 104258 (2022) <br />
   https://doi.org/10.1016/j.isci.2022.104258
+
+- <b id="hladky2022glymphatic"></b>
+  **The glymphatic hypothesis: the theory and the evidence** <br />
+  Hladky SB, Barrand MA <br />
+  _Fluids Barriers CNS_ **19**, 9 (2022) <br />
+  https://doi.org/10.1186/s12987-021-00282-z
+
+- <b id="bohr2022glymphatic"></b>
+  **The glymphatic system: Current understanding and modeling** <br />
+  Bohr T, Hjorth PG, Holst SC, _et al._ <br />
+  _iScience_ **25**, 104987 (2022) <br />
+  https://doi.org/10.1016/j.isci.2022.104987
 
 - <b id="butler2023glymphatic"></b>
   **Glymphatic clearance estimated using diffusion tensor imaging along perivascular spaces is reduced after traumatic brain injury 
