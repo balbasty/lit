@@ -31,3 +31,8 @@
   Schmid F, Barrett MJP, Jenny P, Webber B <br />
   _NeuroImage_ **197**, 792-805 (2019) <br />
   https://doi.org/10.1016/j.neuroimage.2017.06.046
+
+- **Toward an integrative neurovascular framework for studying brain networks** <br />
+  Guilbert J, Légaré A, De Koninck P, Desrosiers P, Desjardins M <br />
+  _Neurophotonics_ **9**, 032211 (2022) <br />
+  https://doi.org/10.1117/1.NPh.9.3.032211
