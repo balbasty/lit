@@ -2,14 +2,14 @@
 
 ## References
 
-- **Dynamics of blood flow and oxygenation changes during brain activation: the balloon model**
-  Buxton RB, Wong EC, Frank LR
-  _MRM_ **39**, 855-864 (1998)
+- **Dynamics of blood flow and oxygenation changes during brain activation: the balloon model** <br />
+  Buxton RB, Wong EC, Frank LR <br />
+  _MRM_ **39**, 855-864 (1998) <br />
   https://doi.org/10.1002/mrm.1910390602
 
-- **Evidence of a cerebrovascular postarteriole windkessel with delayed compliance**
+- **Evidence of a cerebrovascular postarteriole windkessel with delayed compliance** <br />
   Mandeville JB, Marota JJ, Ayata C, Zaharchuk G, Moskowitz MA, Rosen BR, Weisskoff RM <br />
-  _JCBFM_ **1999;19**, 679-689 (1999)
+  _JCBFM_ **1999;19**, 679-689 (1999) <br />
   https://doi.org/10.1097/00004647-199906000-00012
 
 - **How Much Cortex Can a Vein Drain? Downstream Dilution of Activation-Related Cerebral Blood Oxygenation Changes** <br />
@@ -19,7 +19,7 @@
 
 - **A three-compartment model of the hemodynamic response and oxygen delivery to brain** <br />
   Zheng Y, Johnston D, Berwick J, Chen D, Billings S, Mayhew J <br />
-  _NeuroImage_ **28**, 925-939 (2005)
+  _NeuroImage_ **28**, 925-939 (2005) <br />
   https://doi.org/10.1016/j.neuroimage.2005.06.042
 
 - **A multicompartment vascular model for inferring baseline and functional changes in cerebral oxygen metabolism and arterial dilation** <br />
