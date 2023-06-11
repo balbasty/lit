@@ -216,6 +216,12 @@
   disruption of WM integrity is associated with increasing neurodegeneration.
   </details>
   
+- <b id="ferrer2020white"></b>
+  **White matter alterations in Alzheimer's disease without concomitant pathologies** <br />
+  Ferrer I, Andres-Benito P <br />
+  _Neuropathol Appl Neurobiol_ **46**, 654-672 (2020) <br />
+  https://doi.org/10.1111/nan.12618
+  
 - <b id="mito2020invivo"></b>
   **In vivo microstructural heterogeneity of white matter lesions in healthy elderly and Alzheimer's disease participants using tissue compositional analysis of diffusion MRI data** <br />
   Mito R, Dhollander T, Xia Y, _et al._ <br />
@@ -234,6 +240,18 @@
    Vilaplana E, Rodriguez-Vieitez E, Ferreira D, _et al._ <br />
    _Neurology_ **94**, e2026-e2036 (2020) <br />
    https://doi.org/10.1212/WNL.0000000000009405
+ 
+- <b id="hampel2021amyloid"></b>
+  **The Amyloid-β Pathway in Alzheimer’s Disease** <br />
+  Hampel H, Hardy J, Blennow K, _et al._ <br /> 
+  _Mol Psychiatry_ **26**, 5481–5503 (2021) <br />
+  https://doi.org/10.1038/s41380-021-01249-0
+ 
+- <b id="lee2021so"></b>
+  **So You Want to Image Myelin Using MRI: An Overview and Practical Guide for Myelin Water Imaging** <br />
+  Lee J, Hyun JW, Lee J, _et al._ <br />
+  _JMRI_ **53**, 360-373 (2021) <br />
+  https://doi.org/10.1002/jmri.27059
  
 - <b id="pichetbinette2021bundle"></b>
   **Bundle-specific associations between white matter microstructure and Aβ and tau pathology in preclinical Alzheimer’s diseas** <br />
@@ -271,6 +289,11 @@
   When correcting for atrophy and WM hyperintensity extent, lower GM magnetization transfer 
   ratios were associated with poorer global cognition, language function, and constructional praxis.
   </details>
+
+- **In vivo myelin imaging and tissue microstructure in white matter hyperintensities and perilesional white matter** <br />
+  Ferris JK, Greeley B, Vavasour IM, _et al._ <br />
+  _Brain Communications_ **4**, fcac142 (2022) <br />
+  https://doi.org/10.1093/braincomms/fcac142
 
 - <b id="moody2022associations"></b>
   **Associations between diffusion MRI microstructure and cerebrospinal fluid markers of Alzheimer's disease pathology and neurodegeneration along the Alzheimer's disease continuum** <br />
@@ -312,6 +335,30 @@
    Kamagata K, Andica C, Takabayashi K, _et al._ <br />
    _Neurology_ **99**, e2648-e2660 (2022) <br />
    https://doi.org/10.1212/WNL.0000000000201300
+
+- <b id="hirschfeld2022myelin"></b>
+  **Myelin repair in Alzheimer’s disease: a review of biological pathways and potential therapeutics** <br />
+  Hirschfeld LR, Risacher SL, Nho K, Saykin 
+  _Transl Neurodegener_ **11**, 47 (2022) <br />
+  https://doi.org/10.1186/s40035-022-00321-1
+
+- <b id="lim2022myelin"></b>
+  **Myelin-Weighted Imaging Presents Reduced Apparent Myelin Water in Patients with Alzheimer’s Disease** <br />
+  Lim SH, Lee J, Jung S, _et al._ <br />
+  _Diagnostics_ **12**, 446 (2022) <br />
+  https://doi.org/10.3390/diagnostics12020446
+
+- <b id="fernandezalvarez2022effects"></b>
+  **Effects of non-modifiable risk factors of Alzheimer’s disease on intracortical myelin content** <br />
+  Fernandez-Alvarez M, Atienza M, Cantero JL
+  _Alz Res Therapy_ **14**, 202 (2022) <br />
+  https://doi.org/10.1186/s13195-022-01152-y
+
+- <b id="walker2023mri"></b>
+  **MRI and fluid biomarkers reveal determinants of myelin and axonal loss with aging** <br />
+  Walker KA, Duggan MR, Gong Z, _et al._ <br />
+  _Ann Clin Transl Neurol_ **10**, 397-407 (2023) <br />
+  https://doi.org/10.1002/acn3.51730
 
 - <b id="spotorno2023measures"></b>
   **Measures of cortical microstructure are linked to amyloid pathology in Alzheimer’s disease** <br />
