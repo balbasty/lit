@@ -7,6 +7,11 @@
   _Journal of Magnetic Resonance_ **81**, 43-56 (1989) <br />
   https://doi.org/10.1016/0022-2364(89)90265-5
 
+- **A linear class of large-tip-angle selective excitation pulses** <br /> 
+  Pauly J, Nishimura D, Macovski A <br />
+  _Journal of Magnetic Resonance_ **82**, 571-587 (1989) <br />
+  https://doi.org/10.1016/0022-2364(89)90219-9
+  
 - **High frequency volume coils for clinical NMR imaging and spectroscopy** <br />
   Vaughan JT, Hetherington HP, Otu JO, Pan JW, Pohost GM <br />
   _Magn Reson Med_ **32**, 206-218 (1994) <br />
@@ -77,6 +82,11 @@
   _Magn Reson Med_ **64**, 327-33 (2010) <br />
   https://doi.org/10.1002/mrm.22527
 
+- **High tip angle approximation based on a modified Bloch–Riccati equation** <br />
+  Boulant N, Hoult DI
+  _Magn Reson Med_ **67**, 339-343. (2012) <br />
+  https://doi.org/10.1002/mrm.23270
+
 - **kT-points: short three-dimensional tailored RF pulses for flip-angle homogenization over an extended volume** <br />
   Cloos MA, Boulant N, Luong M, Ferrand G, Giacomini E, Le Bihan D, Amadon A <br />
   _Magn Reson Med_ **67**, 72-80. (2012) <br />
@@ -101,6 +111,11 @@
   Schneider JT, Kalayciyan R, Haas M, Herrmann SR, Ruhm W, Hennig J, Ullmann P <br />
   _Magn Reson Med_ **69**, 1367-78 (2013) <br />
   https://doi.org/10.1002/mrm.24381
+
+- **Design of non-selective refocusing pulses with phase-free rotation axis by gradient ascent pulse engineering algorithm in parallel transmission at 7 T** <br />
+  Massire A, Cloos MA, Vignaud A, Le Bihan D, Amadon A, Boulant N <br />
+  _Journal of Magnetic Resonance_ **230**, 76-83 (2013) <br />
+  https://doi.org/10.1016/j.jmr.2013.01.005
 
 - **Simultaneous multislice excitation by parallel transmission** <br />
   Poser BA, Anderson RJ, Guérin B, Setsompop K, Deng W, Mareyam A, Serano P, Wald LL, Stenger VA <br />
