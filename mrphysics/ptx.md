@@ -2,6 +2,11 @@
 
 ## References
 
+- **A k-space analysis of small-tip-angle excitation** <br />
+  Pauly J, Nishimura D, Macovski A <br />
+  _Journal of Magnetic Resonance_ **81**, 43-56 (1989) <br />
+  https://doi.org/10.1016/0022-2364(89)90265-5
+
 - **High frequency volume coils for clinical NMR imaging and spectroscopy** <br />
   Vaughan JT, Hetherington HP, Otu JO, Pan JW, Pohost GM <br />
   _Magn Reson Med_ **32**, 206-218 (1994) <br />
