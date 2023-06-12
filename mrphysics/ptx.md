@@ -20,7 +20,7 @@
 - **Transmit SENSE** <br />
   Katscher U, Börnert P, Leussler C, van den Brink JS <br />
   _Magn Reson Med_ **49**, 144-50 (2003) <br />
-  https://doi.org/10.1007/10.1002/mrm.10353
+  https://doi.org/10.1002/mrm.10353
 
 - **Parallel excitation with an array of transmit coils** <br />
   Zhu Y <br />
