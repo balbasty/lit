@@ -100,6 +100,11 @@
   _Ann Neurol_ **60**, 677-87 (2006) <br />
   https://doi.org/10.1002/ana.21009
 
+- **Alzheimer's “Other Dementia”** <br />
+  Libon DJ, _et al._ <br />
+  _Cognitive and Behavioral Neurology_ **19**, 112–116 (2006) <br />
+  https://doi.org/10.1097/01.WNN.0000209870.69522.A3
+
 - **The enigma of vascular cognitive disorder and vascular dementia** <br />
   Jellinger KA <br />
   _Acta Neuropathol_ **113**, 349-88 (2007) <br />
@@ -230,10 +235,20 @@
   _J Clinical Investigation_ (2018) <br />
   https://doi.org/10.1172/JCI97509
 
+- **Combined neuropathological pathways account for age-related risk of dementia** <br />
+  Power MC, _et al._ <br />
+  _Annals of Neurology_ **84**, 10-22 (2018) <br />
+  https://doi-org.ezp-prod1.hul.harvard.edu/10.1002/ana.25246
+
 - **The vascular side of Alzheimer's disease** <br />
   Liesz A <br />
   _Science_ **365**, 223-224 (2019) <br />
   https://doi.org/10.1126/science.aay2720
+
+- **Amyloid β oligomers constrict human capillaries in Alzheimer’s disease via signaling to pericytes** <br />
+  Nortley R, _et al._ <br />
+  _Science_ **365**, eaav9518 (2019) <br />
+  https://doi.org/10.1126/science.aav9518
 
 - **An Integrated View on Vascular Dysfunction in Alzheimer’s Disease** <br />
   Klohs J <br />
