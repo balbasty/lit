@@ -334,7 +334,7 @@ and its velocity is low, which does not support the idea of CSF ciruclating rapi
   https://doi.org/10.1016/j.isci.2022.104987
 
 - **The Perivascular Space Race: Understanding Their Role in Brain Clearance** <br />
-  van Veluw SJ, Perosa V <br/ >
+  van Veluw SJ, Perosa V <br />
   _Neurology_ **98** (2022) <br />
   https://doi.org/10.1212/WNL.0000000000013105
 
