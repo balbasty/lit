@@ -333,6 +333,11 @@ and its velocity is low, which does not support the idea of CSF ciruclating rapi
   _iScience_ **25**, 104987 (2022) <br />
   https://doi.org/10.1016/j.isci.2022.104987
 
+- **The Perivascular Space Race: Understanding Their Role in Brain Clearance** <br />
+  van Veluw SJ, Perosa V <br/ >
+  _Neurology_ **98** (2022) <br />
+  https://doi.org/10.1212/WNL.0000000000013105
+
 - <b id="butler2023glymphatic"></b>
   **Glymphatic clearance estimated using diffusion tensor imaging along perivascular spaces is reduced after traumatic brain injury 
   and correlates with plasma neurofilament light, a biomarker of injury severity** <br />
