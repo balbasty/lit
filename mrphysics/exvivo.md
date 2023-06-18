@@ -130,6 +130,12 @@ References
   Journal of Neuropathology & Experimental Neurology (2018) <br/>
   https://academic.oup.com/jnen/article/77/12/1085/5144755
 
+- <b id="formalin2019seifert"></b>
+  **Formalin Tissue Fixation Biases Myelin-Sensitive MRI** <br />
+  Alan C Seifert, Melissa Umphlett, Marco Hefti, Mary Fowkes, Junqian Xu <br />
+  Magnetic Resonance in Medicine (2019) <br />
+  https://onlinelibrary.wiley.com/doi/10.1002/mrm.27821
+
 - <b id="maranzano2020novel"></b>
   **A novel ex vivo, in situ method to study the human brain through MRI and histology** <br/>
   Josefina Maranzano, Mahsa Dadar, Antony Bertrand-Grenier, Eve-Marie Frigon, Johanne Pellerin, 
