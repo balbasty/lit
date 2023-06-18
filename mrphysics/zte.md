@@ -1,3 +1,8 @@
+- **Transforming NMR Data Despite Missing Points** <br />
+  Kuethe DO, _et al._ <br />
+  _Journal of Magnetic Resonance_ **139**, 18-25 (1999) <br />
+  https://doi.org/10.1006/jmre.1999.1767
+
 - **RF coil considerations for short-T2 MRI** <br />
   Horch RA, Wilkens K, Gochberg DF, Does MD <br />
   _MRM_ **64**, 1652-1657 (2010) <br />
@@ -10,8 +15,13 @@
 
 - **MRI with Zero Echo Time** <br />
   Weiger M, Pruessmann KP <br />
-  **eMagRes** (2012) <br />
+  _eMagRes_ (2012) <br />
   https://doi.org/10.1002/9780470034590.emrstm1292
+
+- **Correcting slice selectivity in hard pulse sequences** <br />
+  Grodzki DM, Jakob PM, Heismann B <br />
+  _Journal of Magnetic Resonance_ **214**, 61-67 (2012) <br />
+  https://doi.org/10.1016/j.jmr.2011.10.005
 
 - **Ultrashort echo time and zero echo time MRI at 7T** <br />
   Larson PEZ, _et al._ <br />
