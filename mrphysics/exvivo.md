@@ -21,7 +21,13 @@ References
   Helen E. D’Arceuil, Susan Westmoreland, Alex J. de Crespigny <br/>
   NeuroImage (2007) <br/>
   https://www.sciencedirect.com/science/article/abs/pii/S1053811906012390
-  
+
+- **Diffusion tensor imaging of post mortem multiple sclerosis brain** <br />
+  Klaus Schmierer, Claudia A.M. Wheeler-Kingshott, Phil A. Boulby, Francesco Scaravilli, 
+  Daniel R. Altmann, Gareth J. Barker, Paul S. Tofts, David H. Miller <br />
+  NeuroImage (2007) <br />
+  https://www.sciencedirect.com/science/article/pii/S1053811906011980
+
 - <b id="arceuil2007effects"></b>
   **The effects of brain tissue decomposition on diffusion tensor imaging and tractography** <br/>
   Helen D’Arceuil, Alex de Crespigny <br/>
@@ -130,6 +136,17 @@ References
   Journal of Neuropathology & Experimental Neurology (2018) <br/>
   https://academic.oup.com/jnen/article/77/12/1085/5144755
 
+- **High resolution anatomical and quantitative MRI of the entire human occipital lobe ex vivo at 9.4 T** <br />
+  S Sengupta, FJ Fritz, RL Harms, S Hildebrand, DHY Tse, BA Poser, R Goebel, A Roebroeck <br />
+  NeuroImage (2018) <br />
+  https://www.sciencedirect.com/science/article/pii/S1053811917302471
+
+- <b id="fritz2019ultra"></b>
+  **Ultra-high resolution and multi-shell diffusion MRI of intact ex vivo human brains using kT-dSTEAM at 9.4T** <br />
+  FJ Fritz, S Sengupta, RL Harms, D. Tse, BA Poser, A Roebroeck <br/ >
+  NeuroImage (2019) <br/ >
+  https://www.sciencedirect.com/science/article/pii/S1053811919306755
+  
 - <b id="formalin2019seifert"></b>
   **Formalin Tissue Fixation Biases Myelin-Sensitive MRI** <br />
   Alan C Seifert, Melissa Umphlett, Marco Hefti, Mary Fowkes, Junqian Xu <br />
@@ -142,7 +159,24 @@ References
   Sophie Plante, Simon Duchesne, Christine L. Tardif, Denis Boire, Gilles Bronchti <br/>
   Journal of Neuroscience Methods (2020) <br/>
   https://www.sciencedirect.com/science/article/abs/pii/S0165027020303265
-  
+
+- <b id="nair2020exvivo"></b>
+  **Ex vivo MR microscopy of a human brain with multiple sclerosis: Visualizing individual cells in tissue using intrinsic iron** <br />
+  Govind Nair, Stephen Dodd, Seung-Kwon Ha, Alan P Koretsky, Daniel S Reich <br />
+  NeuroImage (2020) <br />
+  https://www.sciencedirect.com/science/article/pii/S1053811920307710
+
+- <b id="kim2021whole"></b>
+  **Whole-brain, ultra-high spatial resolution ex vivo MRI with off-the-shelf components** <br />
+  Sanghoon Kim, Ken Sakaie, Ingmar Blümcke, Stephen Jones, Mark J. Lowe <br />
+  Magnetic Resonance Imaging (2021) <br/ >
+  https://www.sciencedirect.com/science/article/abs/pii/S0730725X20306378
+
+- **Imaging multiple sclerosis pathology at 160 μm isotropic resolution by human whole-brain ex vivo magnetic resonance imaging at 3 T** <br />
+  Matthias Weigel, Peter Dechent, Riccardo Galbusera, Erik Bahn, Govind Nair, Po-Jui Lu, Ludwig Kappos, Wolfgang Brück, Christine Stadelmann, Cristina Granziera  <br />
+  Scientific Reports (2021) <br />
+  https://www.nature.com/articles/s41598-021-94891-1
+
 - <b id="lcnfomblin"></b>
   **LCN Fomblin Notes** <br/>
   Dev Cordero, Allison Stevens <br/>
