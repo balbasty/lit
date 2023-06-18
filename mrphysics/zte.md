@@ -1,7 +1,17 @@
+- **RF coil considerations for short-T2 MRI** <br />
+  Horch RA, Wilkens K, Gochberg DF, Does MD <br />
+  _MRM_ **64**, 1652-1657 (2010) <br />
+  https://doi.org/10.1002/mrm.22558
+
 - **MRI with zero echo time: Hard versus sweep pulse excitation** <br />
-  Weiger M, Pruessmann K, Hennel F <br/ >
+  Weiger M, Pruessmann KP, Hennel F <br/ >
   _MRM_ **66**, 379-389 (2011) <br />
   https://doi.org/10.1002/mrm.22799
+
+- **MRI with Zero Echo Time** <br />
+  Weiger M, Pruessmann KP <br />
+  **eMagRes** (2012) <br />
+  https://doi.org/10.1002/9780470034590.emrstm1292
 
 - **Ultrashort echo time and zero echo time MRI at 7T** <br />
   Larson PEZ, _et al._ <br />
@@ -12,7 +22,12 @@
   Larson PEZ <br />
   _Lecture Notes_ (2016) <br />
   https://inst.eecs.berkeley.edu/~ee225e/sp16/notes/UTE_ZTE.pdf
-  
+
+- **Filling the dead-time gap in zero echo time MRI: Principles compared.** <br />
+  Froidevaux R, Weiger M, Brunner DO, Dietrich BE, Wilm BJ, Pruessmann KP
+  _Magn Reson Med_ **79**, 2036-2045 (2018) <br />
+  https://doi.org/10.1002/mrm.26875
+
 - **MRI with zero echo time : quick, quiet, quantitative** <br />
   Ljungberg E <br />
   _PhD Thesis_ (2020) <br />
