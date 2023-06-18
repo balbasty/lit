@@ -94,7 +94,7 @@ References
 - <b id="shatil2015method"></b>
   **A Method for Whole Brain Ex Vivo Magnetic Resonance Imaging with Minimal Susceptibility Artifacts** <br/>
   Anwar S. Shatil, Kant M. Matsuda, Chase R. Figley<br/>
-  Front Neurol (2015) <br/>
+  Front Neurol (2016) <br/>
   https://www.frontiersin.org/articles/10.3389/fneur.2016.00208/full
   
 - <b id="shatil2018quantitative"></b>
