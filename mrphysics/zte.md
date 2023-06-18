@@ -23,6 +23,11 @@
   _Journal of Magnetic Resonance_ **214**, 61-67 (2012) <br />
   https://doi.org/10.1016/j.jmr.2011.10.005
 
+- **https://onlinelibrary.wiley.com/doi/10.1002/mrm.24816** <br />
+  Weiger M, Brunner DO, Dietrich BE, Müller CF, Pruessmann KP <br />
+  _MRM_ **70**, 328-332 (2013) <br />
+  https://doi.org/10.1002/mrm.24816
+
 - **Ultrashort echo time and zero echo time MRI at 7T** <br />
   Larson PEZ, _et al._ <br />
   _Magn Reson Mater Phy_ **29**, 359–370 (2016) <br />
@@ -42,7 +47,12 @@
   Ljungberg E <br />
   _PhD Thesis_ (2020) <br />
   https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.810881
-  
+
+- **Inversion recovery zero echo time (IR-ZTE) imaging for direct myelin detection in human brain: a feasibility study** <br />
+  Jang H, _et al._ <br />
+  _Quant Imaging Med Surg_ **10**, 895–906 (2020) <br/ >
+  https://doi.org/10.21037/qims.2020.04.13
+
 - **HYFI: Hybrid filling of the dead-time gap for faster zero echo time imaging** <br />
   Froidevaux R, Weiger M, Rösler M, Brunner DO, Pruessmann KP <br />
   _NMR Biomed_ **34**, e4493 (2021) <br />
@@ -62,3 +72,8 @@
   More SS, Zhang X <br />
   _arXiv_ (2022) <br />
   https://doi.org/10.48550/arXiv.2210.03317
+
+- **Motion corrected silent ZTE neuroimaging** <Br />
+  Ljungberg E, _et al._ <br />
+  _MRM_ **88**, 195-210 (2022) <br />
+  https://doi.org/10.1002/mrm.29201
