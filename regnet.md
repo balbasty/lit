@@ -436,7 +436,7 @@ References
   MICCAI (2022) <br />
   https://link.springer.com/chapter/10.1007/978-3-031-16431-6_5
 
-- **https://link.springer.com/chapter/10.1007/978-3-031-34048-2_46** <br />
+- **Non-rigid Medical Image Registration using Physics-informed Neural Networks** <br />
   Zhe Min, Zachary M. C. Baum, Shaheer U. Saeed, Mark Emberton, Dean C. Barratt, Zeike A. Taylor, Yipeng Hu <br />
   IPMI (2023) <br/>
   https://link.springer.com/chapter/10.1007/978-3-031-34048-2_46
