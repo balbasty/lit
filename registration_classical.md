@@ -34,6 +34,11 @@
 
 ### Atlas building / normalization
 
+- **Efficient Groupwise Registration of MR Brain Images via Hierarchical Graph Set Shrinkage** <br />
+  Pei Dong, Xiaohuan Cao, Pew-Thian Yap, Dinggang Shen <br />
+  MICCAI (2018) <br />
+  https://link.springer.com/chapter/10.1007/978-3-030-00928-1_92
+
 - **Flexible Bayesian Modelling for Nonlinear Image Registration** <br />
   Mikael Brudfors, Yaël Balbastre, Guillaume Flandin, Parashkev Nachev, John Ashburner <br />
   MICCAI (2020) <br />
