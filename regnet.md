@@ -220,7 +220,38 @@ References
   Boudewijn P.F. Lelieveldt, Ivana Isgum, Marius Staring <br />
   Preprint (2019) <br />
   https://arxiv.org/abs/1908.10235
-  
+
+- **Dual-Stream Pyramid Registration Network** <br />
+  Xiaojun Hu, Miao Kang, Weilin Huang, Matthew R. Scott, Roland Wiest, Mauricio Reyes <br />
+  MICCAI (2019) <br />
+  https://link.springer.com/chapter/10.1007/978-3-030-32245-8_43 <br />
+  https://arxiv.org/abs/1909.11966v1
+
+- **Medical Image Registration Based on Uncoupled Learning and Accumulative Enhancement** <br/ >
+  Yucheng Shu, Hao Wang, Bin Xiao, Xiuli Bi, Weisheng Li <br />
+  MICCAI (2021) <br/ >
+  https://link.springer.com/chapter/10.1007/978-3-030-87202-1_1
+
+- **Learning Unsupervised Parameter-Specific Affine Transformation for Medical Images Registration** <br />
+  Xu Chen, Yanda Meng, Yitian Zhao, Rachel Williams, Srinivasa R. Vallabhaneni, Yalin Zheng <br />
+  MICCAI (2021) <br/ >
+  https://link.springer.com/chapter/10.1007/978-3-030-87202-1_3
+
+- **Conditional Deformable Image Registration with Convolutional Neural Network** <br />
+  Tony C. W. Mok, Albert C. S. Chung <br />
+  MICCAI (2021) <br />
+  https://link.springer.com/chapter/10.1007/978-3-030-87202-1_4
+
+- **A Deep Discontinuity-Preserving Image Registration Network** <br />
+  Xiang Chen, Yan Xia, Nishant Ravikumar, Alejandro F. Frangi <br />
+  MICCAI (2021) <br/ >
+  https://link.springer.com/chapter/10.1007/978-3-030-87202-1_5
+
+- **A review of deep learning-based three-dimensional medical image registration methods** <br />
+  Haonan Xiao, Xinzhi Teng, Chenyang Liu, Tian Li, Ge Ren, Ruijie Yang, Dinggang Shen, Jing Cai <br />
+  Quant Imaging Med Surg (2021) <br />
+  https://qims.amegroups.com/article/view/75304/html
+
 - **Learning image registration without images** <br />
   Malte Hoffmann, Benjamin Billot, Juan Eugenio Iglesias, Bruce Fischl, Adrian V. Dalca <br />
   ISBI (2021) <br />
@@ -236,6 +267,153 @@ References
   AAAI (2021) <br />
   https://arxiv.org/abs/2102.02033
 
+- **A review of deep learning-based deformable medical image registration** <br />
+  Jing Zou, Bingchen Gao, Youyi Song, Jing Qin <br />
+  Front Oncol (2022) <br />
+  https://www.frontiersin.org/articles/10.3389/fonc.2022.1047215/full
+  
+- **Dual-stream pyramid registration network** <br />
+  Miao Kang, Xiaojun Hu, Weilin Huang, Matthew R. Scott, Mauricio Reyes <br />
+  Medical Image Analysis (2022) <br />
+  https://www.sciencedirect.com/science/article/abs/pii/S1361841522000317 <br />
+  https://arxiv.org/abs/1909.11966v2
+
+- **SynthMorph: Learning Contrast-Invariant Registration Without Acquired Images** <br />
+  Malte Hoffmann, Benjamin Billot, Douglas N. Greve, Juan Eugenio Iglesias, Bruce Fischl, Adrian V. Dalca <br />
+  IEEE TMI (2022) <br />
+  https://ieeexplore.ieee.org/document/9552865 <br />
+  https://arxiv.org/abs/2004.10282
+
+- **Dual-Branch Squeeze-Fusion-Excitation Module for Cross-Modality Registration of Cardiac SPECT and CT** <br />
+  Xiongchao Chen, Bo Zhou, Huidong Xie, Xueqi Guo, Jiazhen Zhang, Albert J. Sinusas, John A. Onofrey, Chi Liu <br />
+  MICCAI (2022) <br />
+  https://link.springer.com/chapter/10.1007/978-3-031-16446-0_5
+
+- **Embedding Gradient-Based Optimization in Image Registration Networks** <br />
+  Huaqi Qiu, Kerstin Hammernik, Chen Qin, Chen Chen, Daniel Rueckert <br />
+  MICCAI (2022) <br />
+  https://link.springer.com/chapter/10.1007/978-3-031-16446-0_6
+
+- **ContraReg: Contrastive Learning of Multi-modality Unsupervised Deformable Image Registration** <br />
+  Neel Dey, Jo Schlemper, Seyed Sadegh Mohseni Salehi, Bo Zhou, Guido Gerig, Michal Sofka <br />
+  MICCAI (2022) <br />
+  https://link.springer.com/chapter/10.1007/978-3-031-16446-0_7
+
+- **Swin-VoxelMorph: A Symmetric Unsupervised Learning Model for Deformable Medical Image Registration Using Swin Transformer** <br />
+  Yongpei Zhu, Shi Lu <br />
+  MICCAI (2022) <br />
+  https://link.springer.com/chapter/10.1007/978-3-031-16446-0_8
+
+- **Non-iterative Coarse-to-Fine Registration Based on Single-Pass Deep Cumulative Learning** <br />
+  Mingyuan Meng, Lei Bi, Dagan Feng, Jinman Kim <br />
+  MICCAI (2022) <br />
+  https://link.springer.com/chapter/10.1007/978-3-031-16446-0_9
+
+- **Deformer: Towards Displacement Field Learning for Unsupervised Medical Image Registration** <br/ >
+  Jiashun Chen, Donghuan Lu, Yu Zhang, Dong Wei, Munan Ning, Xinyu Shi, Zhe Xu, Yefeng Zheng <br />
+  MICCAI (2022) <br />
+  https://link.springer.com/chapter/10.1007/978-3-031-16446-0_14
+
+- **Unsupervised Deep Non-rigid Alignment by Low-Rank Loss and Multi-input Attention** <br />
+  Takanori Asanomi, Kazuya Nishimura, Heon Song, Junya Hayashida, Hiroyuki Sekiguchi, Takayuki Yagi, Imari Sato, Ryoma Bise <br />
+  MICCAI (2022) <br />
+  https://link.springer.com/chapter/10.1007/978-3-031-16446-0_18
+
+- **XMorpher: Full Transformer for Deformable Medical Image Registration via Cross Attention** <br />
+  Jiacheng Shi, Yuting He, Youyong Kong, Jean-Louis Coatrieux, Huazhong Shu, Guanyu Yang, Shuo Li <br />
+  MICCAI (2022) <br/ >
+  https://link.springer.com/chapter/10.1007/978-3-031-16446-0_21
+
+- **Geometric Deep Learning for Unsupervised Registration of Diffusion Magnetic Resonance Images** <br />
+  Jose J. Bouza, Chun-Hao Yang, Baba C. Vemuri <br />
+  IPMI (2023) <br />
+  https://link.springer.com/chapter/10.1007/978-3-031-34048-2_43
+
+- **MetaMorph: Learning Metamorphic Image Transformation with Appearance Changes** <br />
+  Jian Wang, Jiarui Xing, Jason Druzgal, William M. Wells III, Miaomiao Zhang <br />
+  IPMI (2023) <br />
+  https://link.springer.com/chapter/10.1007/978-3-031-34048-2_44
+
+- **https://link.springer.com/chapter/10.1007/978-3-031-34048-2_45** <br />
+  Nian Wu, Miaomiao Zhang <br />
+  IPMI (2023) <br />
+  https://link.springer.com/chapter/10.1007/978-3-031-34048-2_45
+
+- **POLAFFINI: Efficient Feature-Based Polyaffine Initialization for Improved Non-linear Image Registration** <br />
+  Antoine Legouhy, Ross Callaghan, Hojjat Azadbakht, Hui Zhang <br />
+  IPMI (2023) <br/ >
+  https://link.springer.com/chapter/10.1007/978-3-031-34048-2_47
+
+### Within subject
+
+- **Cross-Modal Attention for MRI and Ultrasound Volume Registration** <br />
+  Xinrui Song, Hengtao Guo, Xuanang Xu, Hanqing Chao, Sheng Xu, Baris Turkbey, Bradford J. Wood, Ge Wang, Pingkun Yan <br />
+  MICCAI (2021) <br />
+  https://link.springer.com/chapter/10.1007/978-3-030-87202-1_7
+
+- **Unsupervised Deformable Image Registration with Absent Correspondences in Pre-operative and Post-recurrence Brain Tumor MRI Scans** <br />
+  Tony C. W. Mok, Albert C. S. Chung (2022) <br />
+  MICCAI (2022) <br />
+  https://link.springer.com/chapter/10.1007/978-3-031-16446-0_3
+
+- **Learning Iterative Optimisation for Deformable Image Registration of Lung CT with Recurrent Convolutional Networks** <br />
+  Fenja Falta, Lasse Hansen, Mattias P. Heinrich <br />
+  MICCAI (2022) <br/ >
+  https://link.springer.com/chapter/10.1007/978-3-031-16446-0_29
+
+- **CASHformer: Cognition Aware SHape Transformer for Longitudinal Analysis** <br/ >
+  Ignacio Sarasua, Sebastian Pölsterl, Christian Wachinger <br />
+  MICCAI (2022) <br />
+  https://link.springer.com/chapter/10.1007/978-3-031-16431-6_5
+
+- **https://link.springer.com/chapter/10.1007/978-3-031-34048-2_46** <br />
+  Zhe Min, Zachary M. C. Baum, Shaheer U. Saeed, Mark Emberton, Dean C. Barratt, Zeike A. Taylor, Yipeng Hu <br />
+  IPMI (2023) <br/ >
+  https://link.springer.com/chapter/10.1007/978-3-031-34048-2_46
+
+### Slice to volume // 2D/3D
+
+- **End-to-end Ultrasound Frame to Volume Registration** <br />
+  Hengtao Guo, Xuanang Xu, Sheng Xu, Bradford J. Wood, Pingkun Yan <br />
+  MICCAI (2021) <br />
+  https://link.springer.com/chapter/10.1007/978-3-030-87202-1_6
+
+- **SVoRT: Iterative Transformer for Slice-to-Volume Registration in Fetal Brain MRI** <br/ >
+  Junshen Xu, Daniel Moyer, P. Ellen Grant, Polina Golland, Juan Eugenio Iglesias, Elfar Adalsteinsson <br />
+  MICCAI (2022) <br />
+  https://link.springer.com/chapter/10.1007/978-3-031-16446-0_1
+
+- **End-to-End Multi-Slice-to-Volume Concurrent Registration and Multimodal Generation** <br />
+  Amaury Leroy, Marvin Lerousseau, Théophraste Henry, Alexandre Cafaro, Nikos Paragios, Vincent Grégoire, Eric Deutsch <br />
+  MICCAI (2022) <br/ >
+  https://link.springer.com/chapter/10.1007/978-3-031-16446-0_15
+
+- **LiftReg: Limited Angle 2D/3D Deformable Registration** <br />
+  Lin Tian, Yueh Z. Lee, Raúl San José Estépar, Marc Niethammer <br />
+  MICCAI (2022) <br />
+  https://link.springer.com/chapter/10.1007/978-3-031-16446-0_20
+
+- **Global Multi-modal 2D/3D Registration via Local Descriptors Learning** <br />
+  Viktoria Markova, Matteo Ronchetti, Wolfgang Wein, Oliver Zettinig, Raphael Prevost <br />
+  MICCAI (2022) <br />
+  [https://github.com/balbasty/lit/edit/main/regnet.md](https://link.springer.com/chapter/10.1007/978-3-031-16446-0_26)
+
+### Groupwise
+
+- **DSR: Direct Simultaneous Registration for Multiple 3D Images** <br />
+  Zhehua Mao, Liang Zhao, Shoudong Huang, Yiting Fan, Alex P. W. Lee <br />
+  MICCAI (2022) <br />
+  https://link.springer.com/chapter/10.1007/978-3-031-16446-0_10
+
+- **BInGo: Bayesian Intrinsic Groupwise Registration via Explicit Hierarchical Disentanglement** <br />
+  Xin Wang, Xinzhe Luo, Xiahai Zhuang <br />
+  IPMI (2023) <br />
+  https://link.springer.com/chapter/10.1007/978-3-031-34048-2_25
+
+- **Learning Probabilistic Piecewise Rigid Atlases of Model Organisms via Generative Deep Networks** <br />
+  Amin Nejatbakhsh, Neel Dey, Vivek Venkatachalam, Eviatar Yemini, Liam Paninski, Erdem Varol <br />
+  IPMI (2023) <br/ >
+  https://link.springer.com/chapter/10.1007/978-3-031-34048-2_26
 
 ### Joint Segmentation and Registration networks
 
