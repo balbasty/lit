@@ -252,6 +252,31 @@ References
   MICCAI (2019) <br/>
   https://link.springer.com/chapter/10.1007/978-3-030-32245-8_44
 
+- **Networks for Joint Affine and Non-Parametric Image Registration** <br />
+  Zhengyang Shen, Xu Han, Zhenlin Xu, Marc Niethammer <br />
+  CVPR (2019) <br />
+  https://openaccess.thecvf.com/content_CVPR_2019/html/Shen_Networks_for_Joint_Affine_and_Non-Parametric_Image_Registration_CVPR_2019_paper.html
+
+- **Metric Learning for Image Registration** <br />
+  Marc Niethammer, Roland Kwitt, Francois-Xavier Vialard <br />
+  CVPR (2019) <br />
+  https://openaccess.thecvf.com/content_CVPR_2019/html/Niethammer_Metric_Learning_for_Image_Registration_CVPR_2019_paper.html
+
+- **Arbicon-Net: Arbitrary Continuous Geometric Transformation Networks for Image Registration** <br />
+  Jianchun Chen, Lingjing Wang, Xiang Li, Yi Fang <br />
+  NeurIPS (2019) <br />
+  https://proceedings.neurips.cc/paper_files/paper/2019/hash/56f9f88906aebf4ad985aaec7fa01313-Abstract.html
+  
+- **Recurrent Registration Neural Networks for Deformable Image Registration** <br />
+  Robin Sandkühler, Simon Andermatt, Grzegorz Bauman, Sylvia Nyilas, Christoph Jud, Philippe C. Cattin <br />
+  NeurIPS (2019) <br />
+  https://proceedings.neurips.cc/paper_files/paper/2019/hash/dd03de08bfdff4d8ab01117276564cc7-Abstract.html
+
+- **Region-specific Diffeomorphic Metric Mapping** <br />
+  Zhengyang Shen, Francois-Xavier Vialard, Marc Niethammer <br />
+  NeurIPS (2019) <br />
+  https://proceedings.neurips.cc/paper_files/paper/2019/hash/291597a100aadd814d197af4f4bab3a7-Abstract.html
+  
 - **MvMM-RegNet: A New Image Registration Framework Based on Multivariate Mixture Model and Neural Network Estimation** <br />
   Xinzhe Luo, Xiahai Zhuang <br />
   MICCAI (2020) <br/>
@@ -267,6 +292,26 @@ References
   MICCAI (2020) <br />
   https://link.springer.com/chapter/10.1007/978-3-030-59716-0_22
 
+- **DeepFLASH: An Efficient Network for Learning-Based Medical Image Registration** <br />
+  Jian Wang, Miaomiao Zhang <br />
+  CVPR (2020) <br />
+  https://openaccess.thecvf.com/content_CVPR_2020/html/Wang_DeepFLASH_An_Efficient_Network_for_Learning-Based_Medical_Image_Registration_CVPR_2020_paper.html
+
+- **Unsupervised Multi-Modal Image Registration via Geometry Preserving Image-to-Image Translation** <br />
+  Moab Arar, Yiftach Ginger, Dov Danon, Amit H. Bermano, Daniel Cohen-Or <br />
+  CVPR (2020) <br />
+  https://openaccess.thecvf.com/content_CVPR_2020/html/Arar_Unsupervised_Multi-Modal_Image_Registration_via_Geometry_Preserving_Image-to-Image_Translation_CVPR_2020_paper.html
+
+- **Fast Symmetric Diffeomorphic Image Registration with Convolutional Neural Networks** <br />
+  Tony C.W. Mok, Albert C.S. Chung <br />
+  CVPR (2020) <br />
+  https://openaccess.thecvf.com/content_CVPR_2020/html/Mok_Fast_Symmetric_Diffeomorphic_Image_Registration_with_Convolutional_Neural_Networks_CVPR_2020_paper.html
+
+- **CoMIR: Contrastive Multimodal Image Representation for Registration** <br />
+  Nicolas Pielawski, Elisabeth Wetzer, Johan Öfverstedt, Jiahao Lu, Carolina Wählby, Joakim Lindblad, Natasa Sladoje <br />
+  NeurIPS (2020) <br />
+  https://proceedings.neurips.cc/paper_files/paper/2020/hash/d6428eecbe0f7dff83fc607c5044b2b9-Abstract.html
+  
 - **Medical Image Registration Based on Uncoupled Learning and Accumulative Enhancement** <br/>
   Yucheng Shu, Hao Wang, Bin Xiao, Xiuli Bi, Weisheng Li <br />
   MICCAI (2021) <br/>
@@ -316,6 +361,11 @@ References
   Andrew Hoopes, Malte Hoffmann, Bruce Fischl, John Guttag, Adrian V. Dalca <br />
   IPMI (2021) <br />
   https://arxiv.org/abs/2101.01035
+
+- **Learning-Based Image Registration With Meta-Regularization** <br />
+  Ebrahim Al Safadi, Xubo Song <br />
+  CVPR (2021) <br />
+  https://openaccess.thecvf.com/content/CVPR2021/html/Safadi_Learning-Based_Image_Registration_With_Meta-Regularization_CVPR_2021_paper.html
 
 - **Deep Learning Based Geometric Registration for Medical Images: How Accurate Can We Get Without Visual Features?** <br />
   Lasse Hansen, Mattias P. Heinrich <br />
@@ -384,6 +434,21 @@ References
   MICCAI (2022) <br/>
   https://link.springer.com/chapter/10.1007/978-3-031-16446-0_21
 
+- **RFNet: Unsupervised Network for Mutually Reinforcing Multi-Modal Image Registration and Fusion** <br />
+  Han Xu, Jiayi Ma, Jiteng Yuan, Zhuliang Le, Wei Liu <br />
+  CVPR (2022) <br />
+  https://openaccess.thecvf.com/content/CVPR2022/html/Xu_RFNet_Unsupervised_Network_for_Mutually_Reinforcing_Multi-Modal_Image_Registration_and_CVPR_2022_paper.html
+
+- **NODEO: A Neural Ordinary Differential Equation Based Optimization Framework for Deformable Image Registration** <br />
+  Yifan Wu, Tom Z. Jiahao, Jiancong Wang, Paul A. Yushkevich, M. Ani Hsieh, James C. Gee <br />
+  CVPR (2022) <br />
+  https://openaccess.thecvf.com/content/CVPR2022/html/Wu_NODEO_A_Neural_Ordinary_Differential_Equation_Based_Optimization_Framework_for_CVPR_2022_paper.html
+
+- **Topology-Preserving Shape Reconstruction and Registration via Neural Diffeomorphic Flow** <br />
+  Shanlin Sun, Kun Han, Deying Kong, Hao Tang, Xiangyi Yan, Xiaohui Xie <br />
+  CVPR (2022) <br />
+  https://openaccess.thecvf.com/content/CVPR2022/html/Sun_Topology-Preserving_Shape_Reconstruction_and_Registration_via_Neural_Diffeomorphic_Flow_CVPR_2022_paper.html
+
 - **Geometric Deep Learning for Unsupervised Registration of Diffusion Magnetic Resonance Images** <br />
   Jose J. Bouza, Chun-Hao Yang, Baba C. Vemuri <br />
   IPMI (2023) <br />
@@ -403,6 +468,18 @@ References
   Antoine Legouhy, Ross Callaghan, Hojjat Azadbakht, Hui Zhang <br />
   IPMI (2023) <br/>
   https://link.springer.com/chapter/10.1007/978-3-031-34048-2_47
+
+### Affine 
+
+- **Deep Global Registration** <br />
+  Christopher Choy, Wei Dong, Vladlen Koltun <br />
+  CVPR (2020) <br />
+  https://openaccess.thecvf.com/content_CVPR_2020/html/Choy_Deep_Global_Registration_CVPR_2020_paper.html
+
+- **Affine Medical Image Registration With Coarse-To-Fine Vision Transformer** <br />
+  Tony C. W. Mok, Albert C. S. Chung <br />
+  CVPR (2022) <br />
+  https://openaccess.thecvf.com/content/CVPR2022/html/Mok_Affine_Medical_Image_Registration_With_Coarse-To-Fine_Vision_Transformer_CVPR_2022_paper.html
 
 ### Within subject
 
@@ -443,6 +520,11 @@ References
 
 ### Slice to volume // 2D/3D
 
+- **Multiview 2D/3D Rigid Registration via a Point-Of-Interest Network for Tracking and Triangulation** <br />
+  Haofu Liao, Wei-An Lin, Jiarui Zhang, Jingdan Zhang, Jiebo Luo, S. Kevin Zhou <br />
+  CVPR (2019) <br />
+  https://openaccess.thecvf.com/content_CVPR_2019/html/Liao_Multiview_2D3D_Rigid_Registration_via_a_Point-Of-Interest_Network_for_Tracking_CVPR_2019_paper.html
+
 - **Generalizing Spatial Transformers to Projective Geometry with Applications to 2D/3D Registration** <br />
   Cong Gao, Xingtong Liu, Wenhao Gu, Benjamin Killeen, Mehran Armand, Russell Taylor, Mathias Unberath <br />
   MICCAI (2020) <br />
@@ -481,7 +563,7 @@ References
 - **Global Multi-modal 2D/3D Registration via Local Descriptors Learning** <br />
   Viktoria Markova, Matteo Ronchetti, Wolfgang Wein, Oliver Zettinig, Raphael Prevost <br />
   MICCAI (2022) <br />
-  [https://github.com/balbasty/lit/edit/main/regnet.md](https://link.springer.com/chapter/10.1007/978-3-031-16446-0_26)
+  https://link.springer.com/chapter/10.1007/978-3-031-16446-0_26
 
 ### Groupwise
 
@@ -494,6 +576,11 @@ References
   Zhehua Mao, Liang Zhao, Shoudong Huang, Yiting Fan, Alex P. W. Lee <br />
   MICCAI (2022) <br />
   https://link.springer.com/chapter/10.1007/978-3-031-16446-0_10
+
+- **Aladdin: Joint Atlas Building and Diffeomorphic Registration Learning With Pairwise Alignment** <br />
+  Zhipeng Ding, Marc Niethammer <br />
+  CVPR (2022) <br />
+  https://openaccess.thecvf.com/content/CVPR2022/html/Ding_Aladdin_Joint_Atlas_Building_and_Diffeomorphic_Registration_Learning_With_Pairwise_CVPR_2022_paper.html
 
 - **BInGo: Bayesian Intrinsic Groupwise Registration via Explicit Hierarchical Disentanglement** <br />
   Xin Wang, Xinzhe Luo, Xiahai Zhuang <br />
@@ -576,3 +663,8 @@ References
   Zhengyang Shen, Zhenlin Xu, Sahin Olut, Marc Niethammer <br />
   MICCAI (2020) <br/>
   https://link.springer.com/chapter/10.1007/978-3-030-59716-0_31
+
+- **A Variational Bayesian Method for Similarity Learning in Non-Rigid Image Registration** <br />
+  Daniel Grzech, Mohammad Farid Azampour, Ben Glocker, Julia Schnabel, Nassir Navab, Bernhard Kainz, Loïc Le Folgoc <br />
+  CVPR (2022) <br />
+  https://openaccess.thecvf.com/content/CVPR2022/html/Grzech_A_Variational_Bayesian_Method_for_Similarity_Learning_in_Non-Rigid_Image_CVPR_2022_paper.html
