@@ -159,10 +159,20 @@ References
   MICCAI (2017) <br />
   https://elastix.lumc.nl/marius/downloads/2017_c_MICCAIa.pdf
 
+- **Training CNNs for Image Registration from Few Samples with Model-based Data Augmentation** <br />
+  Hristina Uzunova, Matthias Wilms, Heinz Handels, Jan Ehrhardt <br />
+  MICCAI (2017) <br />
+  https://link.springer.com/chapter/10.1007/978-3-319-66182-7_26
+
 - **End-to-End Unsupervised Deformable Image Registration with a Convolutional Neural Network** <br />
   Bob D. de Vos, Floris F. Berendsen, Max A. Viergever, Marius Staring, Ivana Išgum <br/>
   DLMIA/ML-CDS @ MICCAI (2017) <br />
   https://arxiv.org/abs/1704.06065
+
+- **Fast predictive multimodal image registration** <br />
+  Xiao Yang, Roland Kwitt, Martin Styner, Marc Niethammer <br />
+  ISBI (2017) <br />
+  https://ieeexplore.ieee.org/abstract/document/7950652
  
 - **Quicksilver: Fast Predictive Image Registration - a Deep Learning Approach** <br />
   Xiao Yang, Roland Kwitt, Martin Styner, Marc Niethammer <br />
@@ -193,6 +203,11 @@ References
   Yipeng Hu, Eli Gibson, Nooshin Ghavami, Ester Bonmati, Caroline M. Moore, Mark Emberton, Tom Vercauteren, J. Alison Noble, Dean C. Barratt <br />
   MICCAI (2018) <br />
   https://link.springer.com/chapter/10.1007/978-3-030-00928-1_87
+
+- **Deep Learning Based Inter-modality Image Registration Supervised by Intra-modality Similarity** <br />
+  Xiaohuan Cao, Jianhuan Yang, Li Wang, Zhong Xue, Qian Wang & Dinggang Shen <br />
+  MLMIA (2018) <br />
+  https://link.springer.com/chapter/10.1007/978-3-030-00919-9_7
 
 - **Weakly-Supervised Convolutional Neural Networks for Multimodal Image Registration** <br />
   Yipeng Hu, Marc Modat, Eli Gibson, Wenqi Li, Nooshin Ghavami, Ester Bonmati, Guotai Wang, 
@@ -251,6 +266,11 @@ References
   Riddhish Bhalodia, Shireen Y. Elhabian, Ladislav Kavan, Ross T. Whitaker <br />
   MICCAI (2019) <br/>
   https://link.springer.com/chapter/10.1007/978-3-030-32245-8_44
+
+- **Cycle-Consistent Training for Reducing Negative Jacobian Determinant in Deep Registration Networks** <br />
+  Dongyang Kuang <br/ >
+  SASHIMI @ MICCAI (2019) <br/ >
+  https://link.springer.com/chapter/10.1007/978-3-030-32778-1_13
 
 - **Networks for Joint Affine and Non-Parametric Image Registration** <br />
   Zhengyang Shen, Xu Han, Zhenlin Xu, Marc Niethammer <br />
@@ -376,6 +396,16 @@ References
   Yuhang Ding, Xin Yu, Yi Yang <br />
   AAAI (2021) <br />
   https://arxiv.org/abs/2102.02033
+
+- **CycleMorph: Cycle consistent unsupervised deformable image registration** <br />
+  Boah Kim, Dong Hwan Kim, Seong Ho Park, Jieun Kim, June-Goo Lee, Jong Chul Ye <br />
+  MedIA (2021) <br />
+  https://www.sciencedirect.com/science/article/abs/pii/S1361841521000827?via%3Dihub
+
+- **A Coarse-to-Fine Deformable Transformation Framework for Unsupervised Multi-Contrast MR Image Registration with Dual Consistency Constraint** <br />
+  Weijian Huang, Hao Yang, Xinfeng Liu, Cheng Li, Ian Zhang, Rongpin Wang, Hairong Zheng, Shanshan Wang <br/ >
+  IEEE TMI (2021) <br />
+  https://ieeexplore.ieee.org/document/9354195
 
 - **A review of deep learning-based deformable medical image registration** <br />
   Jing Zou, Bingchen Gao, Youyi Song, Jing Qin <br />
@@ -571,6 +601,16 @@ References
   Dongdong Gu, Xiaohuan Cao, Shanshan Ma, Lei Chen, Guocai Liu, Dinggang Shen & Zhong Xue  <br />
   MICCAI (2020) <br />
   https://link.springer.com/chapter/10.1007/978-3-030-59716-0_17
+
+- **Construction of Longitudinally Consistent 4D Infant Cerebellum Atlases Based on Deep Learning** <br />
+  Liangjun Chen, Zhengwang Wu, Dan Hu, Yuchen Pei, Fenqiang Zhao, Yue Sun, Ya Wang, Weili Lin, Li Wang, Gang Li <br />
+  MICCAI (2021) <br/ >
+  https://link.springer.com/chapter/10.1007/978-3-030-87202-1_14
+
+- **Generative Adversarial Registration for Improved Conditional Deformable Templates** <br />
+  Neel Dey, Mengwei Ren, Adrian V. Dalca, Guido Gerig <br />
+  CVPR (2021) <br/ >
+  https://openaccess.thecvf.com/content/ICCV2021/html/Dey_Generative_Adversarial_Registration_for_Improved_Conditional_Deformable_Templates_ICCV_2021_paper.html
 
 - **DSR: Direct Simultaneous Registration for Multiple 3D Images** <br />
   Zhehua Mao, Liang Zhao, Shoudong Huang, Yiting Fan, Alex P. W. Lee <br />
