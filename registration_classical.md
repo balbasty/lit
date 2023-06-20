@@ -5,6 +5,11 @@
 
 ### Displacements / Flows
 
+- **Quasi-Newton Solver for Robust Non-Rigid Registration** <br />
+  Yuxin Yao, Bailin Deng, Weiwei Xu, Juyong Zhang <br />
+  CVPR (2020) <br/ >
+  https://openaccess.thecvf.com/content_CVPR_2020/html/Yao_Quasi-Newton_Solver_for_Robust_Non-Rigid_Registration_CVPR_2020_paper.html
+
 - **Revisiting Iterative Highly Efficient Optimisation Schemes in Medical Image Registration** <br />
   Lasse Hansen, Mattias P. Heinrich <br />
   MICCAI (2021) <br/ >
