@@ -10,7 +10,17 @@
   MICCAI (2021) <br/ >
   https://link.springer.com/chapter/10.1007/978-3-030-87202-1_20
 
+- **Incompressible Image Registration Using Divergence-Conforming B-Splines** <br />
+  Lucas Fidon, Michael Ebner, Luis C. Garcia-Peraza-Herrera, Marc Modat, Sébastien Ourselin, Tom Vercauteren <br />
+  MICCAI (2019) <br />
+  https://link.springer.com/chapter/10.1007/978-3-030-32245-8_49
+
 ### Diffeomorphisms
+
+- **Diffeomorphic Brain Shape Modelling Using Gauss-Newton Optimisation**
+  Yaël Balbastre, Mikael Brudfors, Kevin Bronik, John Ashburner <br />
+  MICCAI (2018) <br />
+  https://link.springer.com/chapter/10.1007/978-3-030-00928-1_97
 
 - **Nesterov Accelerated ADMM for Fast Diffeomorphic Image Registration** <br />
   Alexander Thorley, Xi Jia, Hyung Jin Chang, Boyang Liu, Karina Bunting, Victoria Stoll, Antonio de Marvao, Declan P. O’Regan, Georgios Gkoutos, Dipak Kotecha, Jinming Duan <br />
@@ -35,6 +45,11 @@
   https://link.springer.com/chapter/10.1007/978-3-030-87202-1_8
 
 ### Uncertainty 
+
+- **Efficient Laplace Approximation for Bayesian Registration Uncertainty Quantification** <br />
+  Jian Wang, William M. Wells III, Polina Golland, Miaomiao Zhang <br />
+  MICCAI (2018) <br />
+  https://link.springer.com/chapter/10.1007/978-3-030-00928-1_99
 
 - **Are Registration Uncertainty and Error Monotonically Associated** <br />
   Jie Luo, Sarah Frisken, Duo Wang, Alexandra Golby, Masashi Sugiyama, William Wells III <br />
