@@ -268,8 +268,8 @@ References
   https://link.springer.com/chapter/10.1007/978-3-030-32245-8_44
 
 - **Cycle-Consistent Training for Reducing Negative Jacobian Determinant in Deep Registration Networks** <br />
-  Dongyang Kuang <br/ >
-  SASHIMI @ MICCAI (2019) <br/ >
+  Dongyang Kuang <br/>
+  SASHIMI @ MICCAI (2019) <br/>
   https://link.springer.com/chapter/10.1007/978-3-030-32778-1_13
 
 - **Networks for Joint Affine and Non-Parametric Image Registration** <br />
@@ -403,7 +403,7 @@ References
   https://www.sciencedirect.com/science/article/abs/pii/S1361841521000827?via%3Dihub
 
 - **A Coarse-to-Fine Deformable Transformation Framework for Unsupervised Multi-Contrast MR Image Registration with Dual Consistency Constraint** <br />
-  Weijian Huang, Hao Yang, Xinfeng Liu, Cheng Li, Ian Zhang, Rongpin Wang, Hairong Zheng, Shanshan Wang <br/ >
+  Weijian Huang, Hao Yang, Xinfeng Liu, Cheng Li, Ian Zhang, Rongpin Wang, Hairong Zheng, Shanshan Wang <br/>
   IEEE TMI (2021) <br />
   https://ieeexplore.ieee.org/document/9354195
 
@@ -604,12 +604,12 @@ References
 
 - **Construction of Longitudinally Consistent 4D Infant Cerebellum Atlases Based on Deep Learning** <br />
   Liangjun Chen, Zhengwang Wu, Dan Hu, Yuchen Pei, Fenqiang Zhao, Yue Sun, Ya Wang, Weili Lin, Li Wang, Gang Li <br />
-  MICCAI (2021) <br/ >
+  MICCAI (2021) <br/>
   https://link.springer.com/chapter/10.1007/978-3-030-87202-1_14
 
 - **Generative Adversarial Registration for Improved Conditional Deformable Templates** <br />
   Neel Dey, Mengwei Ren, Adrian V. Dalca, Guido Gerig <br />
-  CVPR (2021) <br/ >
+  CVPR (2021) <br/>
   https://openaccess.thecvf.com/content/ICCV2021/html/Dey_Generative_Adversarial_Registration_for_Improved_Conditional_Deformable_Templates_ICCV_2021_paper.html
 
 - **DSR: Direct Simultaneous Registration for Multiple 3D Images** <br />
