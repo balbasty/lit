@@ -394,7 +394,7 @@ References
   IPMI (2023) <br />
   https://link.springer.com/chapter/10.1007/978-3-031-34048-2_44
 
-- **https://link.springer.com/chapter/10.1007/978-3-031-34048-2_45** <br />
+- **NeurEPDiff: Neural Operators to Predict Geodesics in Deformation Spaces** <br />
   Nian Wu, Miaomiao Zhang <br />
   IPMI (2023) <br />
   https://link.springer.com/chapter/10.1007/978-3-031-34048-2_45
