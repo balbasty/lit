@@ -22,7 +22,7 @@
 
 ### Diffeomorphisms
 
-- **Diffeomorphic Brain Shape Modelling Using Gauss-Newton Optimisation**
+- **Diffeomorphic Brain Shape Modelling Using Gauss-Newton Optimisation** <br />
   Yaël Balbastre, Mikael Brudfors, Kevin Bronik, John Ashburner <br />
   MICCAI (2018) <br />
   https://link.springer.com/chapter/10.1007/978-3-030-00928-1_97
