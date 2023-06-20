@@ -249,12 +249,12 @@ References
 
 - **Cooperative Autoencoder for Population-Based Regularization of CNN Image Registration** <br />
   Riddhish Bhalodia, Shireen Y. Elhabian, Ladislav Kavan, Ross T. Whitaker <br />
-  MICCAI (2019) <br/ >
+  MICCAI (2019) <br/>
   https://link.springer.com/chapter/10.1007/978-3-030-32245-8_44
 
 - **MvMM-RegNet: A New Image Registration Framework Based on Multivariate Mixture Model and Neural Network Estimation** <br />
   Xinzhe Luo, Xiahai Zhuang <br />
-  MICCAI (2020) <br/ >
+  MICCAI (2020) <br/>
   https://link.springer.com/chapter/10.1007/978-3-030-59716-0_15
 
 - **Large Deformation Diffeomorphic Image Registration with Laplacian Pyramid Networks** <br />
@@ -267,14 +267,14 @@ References
   MICCAI (2020) <br />
   https://link.springer.com/chapter/10.1007/978-3-030-59716-0_22
 
-- **Medical Image Registration Based on Uncoupled Learning and Accumulative Enhancement** <br/ >
+- **Medical Image Registration Based on Uncoupled Learning and Accumulative Enhancement** <br/>
   Yucheng Shu, Hao Wang, Bin Xiao, Xiuli Bi, Weisheng Li <br />
-  MICCAI (2021) <br/ >
+  MICCAI (2021) <br/>
   https://link.springer.com/chapter/10.1007/978-3-030-87202-1_1
 
 - **Learning Unsupervised Parameter-Specific Affine Transformation for Medical Images Registration** <br />
   Xu Chen, Yanda Meng, Yitian Zhao, Rachel Williams, Srinivasa R. Vallabhaneni, Yalin Zheng <br />
-  MICCAI (2021) <br/ >
+  MICCAI (2021) <br/>
   https://link.springer.com/chapter/10.1007/978-3-030-87202-1_3
 
 - **Conditional Deformable Image Registration with Convolutional Neural Network** <br />
@@ -284,7 +284,7 @@ References
 
 - **A Deep Discontinuity-Preserving Image Registration Network** <br />
   Xiang Chen, Yan Xia, Nishant Ravikumar, Alejandro F. Frangi <br />
-  MICCAI (2021) <br/ >
+  MICCAI (2021) <br/>
   https://link.springer.com/chapter/10.1007/978-3-030-87202-1_5
 
 - **SAME: Deformable Image Registration Based on Self-supervised Anatomical Embeddings** <br />
@@ -294,7 +294,7 @@ References
 
 - **Learning Dual Transformer Network for Diffeomorphic Registration** <br />
   Yungeng Zhang, Yuru Pei, Hongbin Zha <br />
-  MICCAI (2021) <br/ >
+  MICCAI (2021) <br/>
   https://link.springer.com/chapter/10.1007/978-3-030-87202-1_13
 
 - **Multi-scale Neural ODEs for 3D Medical Image Registration** <br />
@@ -369,7 +369,7 @@ References
   MICCAI (2022) <br />
   https://link.springer.com/chapter/10.1007/978-3-031-16446-0_9
 
-- **Deformer: Towards Displacement Field Learning for Unsupervised Medical Image Registration** <br/ >
+- **Deformer: Towards Displacement Field Learning for Unsupervised Medical Image Registration** <br/>
   Jiashun Chen, Donghuan Lu, Yu Zhang, Dong Wei, Munan Ning, Xinyu Shi, Zhe Xu, Yefeng Zheng <br />
   MICCAI (2022) <br />
   https://link.springer.com/chapter/10.1007/978-3-031-16446-0_14
@@ -381,7 +381,7 @@ References
 
 - **XMorpher: Full Transformer for Deformable Medical Image Registration via Cross Attention** <br />
   Jiacheng Shi, Yuting He, Youyong Kong, Jean-Louis Coatrieux, Huazhong Shu, Guanyu Yang, Shuo Li <br />
-  MICCAI (2022) <br/ >
+  MICCAI (2022) <br/>
   https://link.springer.com/chapter/10.1007/978-3-031-16446-0_21
 
 - **Geometric Deep Learning for Unsupervised Registration of Diffusion Magnetic Resonance Images** <br />
@@ -401,7 +401,7 @@ References
 
 - **POLAFFINI: Efficient Feature-Based Polyaffine Initialization for Improved Non-linear Image Registration** <br />
   Antoine Legouhy, Ross Callaghan, Hojjat Azadbakht, Hui Zhang <br />
-  IPMI (2023) <br/ >
+  IPMI (2023) <br/>
   https://link.springer.com/chapter/10.1007/978-3-031-34048-2_47
 
 ### Within subject
@@ -428,17 +428,17 @@ References
 
 - **Learning Iterative Optimisation for Deformable Image Registration of Lung CT with Recurrent Convolutional Networks** <br />
   Fenja Falta, Lasse Hansen, Mattias P. Heinrich <br />
-  MICCAI (2022) <br/ >
+  MICCAI (2022) <br/>
   https://link.springer.com/chapter/10.1007/978-3-031-16446-0_29
 
-- **CASHformer: Cognition Aware SHape Transformer for Longitudinal Analysis** <br/ >
+- **CASHformer: Cognition Aware SHape Transformer for Longitudinal Analysis** <br/>
   Ignacio Sarasua, Sebastian Pölsterl, Christian Wachinger <br />
   MICCAI (2022) <br />
   https://link.springer.com/chapter/10.1007/978-3-031-16431-6_5
 
 - **https://link.springer.com/chapter/10.1007/978-3-031-34048-2_46** <br />
   Zhe Min, Zachary M. C. Baum, Shaheer U. Saeed, Mark Emberton, Dean C. Barratt, Zeike A. Taylor, Yipeng Hu <br />
-  IPMI (2023) <br/ >
+  IPMI (2023) <br/>
   https://link.springer.com/chapter/10.1007/978-3-031-34048-2_46
 
 ### Slice to volume // 2D/3D
@@ -448,7 +448,7 @@ References
   MICCAI (2020) <br />
   https://link.springer.com/chapter/10.1007/978-3-030-59716-0_32
 
-- **Fluid Registration Between Lung CT and Stationary Chest Tomosynthesis Images** <br/ >
+- **Fluid Registration Between Lung CT and Stationary Chest Tomosynthesis Images** <br/>
   Lin Tian, Connor Puett, Peirong Liu, Zhengyang Shen, Stephen R. Aylward, Yueh Z. Lee, Marc Niethammer  <br />
   MICCAI (2020) <br />
   https://link.springer.com/chapter/10.1007/978-3-030-59716-0_30
@@ -463,14 +463,14 @@ References
   MICCAI (2021) <br />
   https://link.springer.com/chapter/10.1007/978-3-030-87202-1_10
 
-- **SVoRT: Iterative Transformer for Slice-to-Volume Registration in Fetal Brain MRI** <br/ >
+- **SVoRT: Iterative Transformer for Slice-to-Volume Registration in Fetal Brain MRI** <br/>
   Junshen Xu, Daniel Moyer, P. Ellen Grant, Polina Golland, Juan Eugenio Iglesias, Elfar Adalsteinsson <br />
   MICCAI (2022) <br />
   https://link.springer.com/chapter/10.1007/978-3-031-16446-0_1
 
 - **End-to-End Multi-Slice-to-Volume Concurrent Registration and Multimodal Generation** <br />
   Amaury Leroy, Marvin Lerousseau, Théophraste Henry, Alexandre Cafaro, Nikos Paragios, Vincent Grégoire, Eric Deutsch <br />
-  MICCAI (2022) <br/ >
+  MICCAI (2022) <br/>
   https://link.springer.com/chapter/10.1007/978-3-031-16446-0_15
 
 - **LiftReg: Limited Angle 2D/3D Deformable Registration** <br />
@@ -502,7 +502,7 @@ References
 
 - **Learning Probabilistic Piecewise Rigid Atlases of Model Organisms via Generative Deep Networks** <br />
   Amin Nejatbakhsh, Neel Dey, Vivek Venkatachalam, Eviatar Yemini, Liam Paninski, Erdem Varol <br />
-  IPMI (2023) <br/ >
+  IPMI (2023) <br/>
   https://link.springer.com/chapter/10.1007/978-3-031-34048-2_26
 
 ### Joint Segmentation and Registration networks
@@ -574,5 +574,5 @@ References
 
 - **Anatomical Data Augmentation via Fluid-Based Image Registration** <br />
   Zhengyang Shen, Zhenlin Xu, Sahin Olut, Marc Niethammer <br />
-  MICCAI (2020) <br/ >
+  MICCAI (2020) <br/>
   https://link.springer.com/chapter/10.1007/978-3-030-59716-0_31
