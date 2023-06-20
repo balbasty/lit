@@ -22,7 +22,7 @@ posterior as
 ```
 
 Now, we define the classifier $b: \mathbb{R}^N 	\rightarrow \left[1 \dots K\right]^M$ that assigns the 
-classes with maximum marginal probability to a data point: $b_m\left(\mathbf{x}\right) = \operatorname{arg}\max_k \eta_{m,k}\left(\mathbf{x}\right)$.
+classes with maximum marginal probability to a data point: $b_m\left(\mathbf{x}\right) = \mathrm{argmax}_k \eta_{m,k}\left(\mathbf{x}\right)$.
 Let us prove that this classifier minimizes the expected 0/1 risk (or equivalently maximizes the _accuracy_). For any classifier $h$:
 ```math
 \mathcal{L}_{0/1} 
@@ -40,11 +40,12 @@ in order to make the optimal decision.
 ## Learning optimal classifiers
 
 Of course, posteriors are not known in general. Unsupervised and semi-supervised methods generally start 
-by defining a (family of) joint distribution _p_(_**x**_, _**z**_) in the form of a _generative model_, which 
-caracterizes the factorized form _p_(_**x**_ | _**z**_) _p_(_**z**_). The posterior distribution _p_(_**z**_ | _**x**_)
-is then calculated, or approximated (using _.e.g._ variational Bayes), and used to take the optimal decision.
+by defining a (family of) joint distribution $p(\mathbf{x}, \mathbf{z})$ in the form of a _generative model_, which 
+caracterizes the factorized form $p\left(\mathbf{x} \mid \mathbf{z}\right) p\left(\mathbf{z}\right)$. 
+The posterior distribution $p\left(\mathbf{z} \mid \mathbf{x}\right)$ is then calculated, 
+or approximated (using _.e.g._ variational Bayes), and used to take the optimal decision.
 
-On the other hand, fully supervised method start with a very large collection of paired samples {(_**x&#770;**_<sub>_i_</sub>, _**z&#770;**_<sub>_i_</sub>)}<sub>_i_</sub>, 
+On the other hand, fully supervised method start with a very large collection of paired samples $\left{\left(\hat{\mathbf{x}}_i, \hat{\mathbf{z}}_i\right)\right}_i$, 
 such that summing a function across its samples approximates taking its expected value: 
-(1 &#8725; _N<sub>i</sub>_) &sum;<sub>_i_</sub> _f_(_**x&#770;**_<sub>_i_</sub>, _**z&#770;**_<sub>_i_</sub>) &approx; **E**<sub>_**x**_,_**z**_</sub> _f_(_**x**_, _**z**_).
-The objective is then to find a classifier _h_(_**x**_) that minimizes the _L<sub>0/1</sub>_ risk.
+$\frac{1}{N_i} \sum_i f\left(\hat{\mathbf{x}}_i, \hat{\mathbf{z}}_i\right) \approx \mathbb{E}_{\mathbf{x}, \mathbf{z}} f\left(\mathbf{x}, \mathbf{z}\right)$.
+The objective is then to find a classifier $h\left(\mathbf{x}\right)$ that minimizes the $\mathcal{L}_{0/1}$ risk.
