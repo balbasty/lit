@@ -30,11 +30,11 @@
 - **Deep learning versus kernel learning:
   an empirical study of loss landscape geometry and the time evolution of the Neural Tangent Kernel** <br />
   Fort S, _et al._ <br />
-  _NeurIPS_ (2020) <br/ >
+  _NeurIPS_ (2020) <br />
   https://arxiv.org/abs/2010.15110
 
 - **On the Loss Landscape of Adversarial Training:
-  Identifying Challenges and How to Overcome Them** <br/ >
+  Identifying Challenges and How to Overcome Them** <br />
   Liu C, Salzmann M, Lin T, Tomioka R, Süsstrunk S <br />
   _NeurIPS_ (2020) <br />
   https://papers.nips.cc/paper/2020/file/f56d8183992b6c54c92c16a8519a6e2b-Paper.pdf
@@ -50,7 +50,7 @@
   https://arxiv.org/abs/1905.13200
 
 - **Stochasticity helps to navigate rough landscapes: comparing gradient-descent-based algorithms in the phase retrieval problem** <br />
-  Mignacco F, UrbaniP, Zdeborová L <br/ >
+  Mignacco F, UrbaniP, Zdeborová L <br />
   _Mach Learn: Sci Technol_ **2**, 035029 (2021) <br />
   https://doi.org/10.1088/2632-2153/ac0615
 
