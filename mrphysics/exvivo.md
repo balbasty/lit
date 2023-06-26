@@ -169,7 +169,7 @@ References
 - <b id="kim2021whole"></b>
   **Whole-brain, ultra-high spatial resolution ex vivo MRI with off-the-shelf components** <br />
   Sanghoon Kim, Ken Sakaie, Ingmar Blümcke, Stephen Jones, Mark J. Lowe <br />
-  Magnetic Resonance Imaging (2021) <br/ >
+  Magnetic Resonance Imaging (2021) <br />
   https://www.sciencedirect.com/science/article/abs/pii/S0730725X20306378
 
 - <b id="weigel2021imaging"></b>
