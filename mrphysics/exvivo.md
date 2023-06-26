@@ -143,8 +143,8 @@ References
 
 - <b id="fritz2019ultra"></b>
   **Ultra-high resolution and multi-shell diffusion MRI of intact ex vivo human brains using kT-dSTEAM at 9.4T** <br />
-  FJ Fritz, S Sengupta, RL Harms, D. Tse, BA Poser, A Roebroeck <br/ >
-  NeuroImage (2019) <br/ >
+  FJ Fritz, S Sengupta, RL Harms, D. Tse, BA Poser, A Roebroeck <br />
+  NeuroImage (2019) <br />
   https://www.sciencedirect.com/science/article/pii/S1053811919306755
   
 - <b id="formalin2019seifert"></b>
