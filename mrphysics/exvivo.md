@@ -172,7 +172,8 @@ References
   Magnetic Resonance Imaging (2021) <br/ >
   https://www.sciencedirect.com/science/article/abs/pii/S0730725X20306378
 
-- **Imaging multiple sclerosis pathology at 160 μm isotropic resolution by human whole-brain ex vivo magnetic resonance imaging at 3 T** <br />
+- <b id="weigel2021imaging"></b>
+  **Imaging multiple sclerosis pathology at 160 μm isotropic resolution by human whole-brain ex vivo magnetic resonance imaging at 3 T** <br />
   Matthias Weigel, Peter Dechent, Riccardo Galbusera, Erik Bahn, Govind Nair, Po-Jui Lu, Ludwig Kappos, Wolfgang Brück, Christine Stadelmann, Cristina Granziera  <br />
   Scientific Reports (2021) <br />
   https://www.nature.com/articles/s41598-021-94891-1
@@ -182,3 +183,9 @@ References
   Dev Cordero, Allison Stevens <br/>
   Freesurfer Wiki (Last retrieved: 2021) <br/>
   https://surfer.nmr.mgh.harvard.edu/fswiki/Fomblin
+
+- <b id="lahna2023postmortem"></b>
+  **Postmortem 7T MRI for guided histopathology and evaluation of cerebrovascular disease** <br />
+  David Lahna, Natalie Roese, Randy Woltjer, Erin L Boespflug, Daniel Schwartz, John Grinstead, Hiroko H Dodge, Rachel Wall, Jeffrey A Kaye, William D Rooney, Lisa C Silbert  <br />
+  Journal of Neuropathology & Experimental Neurology (2023) <br />
+  [https://www.nature.com/articles/s41598-021-94891-1](https://academic.oup.com/jnen/article/82/1/57/6809038)https://academic.oup.com/jnen/article/82/1/57/6809038
