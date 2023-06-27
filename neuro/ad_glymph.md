@@ -99,6 +99,12 @@ and its velocity is low, which does not support the idea of CSF ciruclating rapi
   Glia **58**, 1094-103 (2010) <br />
   https://doi.org/10.1002/glia.20990.
 
+- <b id="mawuenyega2010decreased"></b
+  **Decreased Clearance of CNS β-Amyloid in Alzheimer’s Disease** <br />
+  Mawuenyega M, _et al._ <br />
+  _Science_ **330**, 1774 (2010) <br />
+  https://doi.org/10.1126/science.1197623
+
 - <b id="wang2011fluid"></b>
   **Fluid mechanics in the perivascular space** <br />
   Wang P, Olbricht WL <br />
@@ -207,6 +213,12 @@ and its velocity is low, which does not support the idea of CSF ciruclating rapi
   Faghih MM, Sharp MK <br />
   _Fluids Barriers CNS_ **15**, 17 (2018) <br />
   https://doi.org/10.1186/s12987-018-0103-8
+
+- <b id="damesquita2018functional"></b>
+  **Functional aspects of meningeal lymphatics in ageing and Alzheimer’s disease** <br />
+  Da Mesquita S, Louveau A, _et al._ <br />
+  _Nature_ **560**, 185–191 (2018) <br />
+  https://doi.org/10.1038/s41586-018-0368-8
 
 - <b id="tithof2019hydraulic"></b>
   **Hydraulic resistance of periarterial spaces in the brain** <br />
