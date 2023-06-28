@@ -22,6 +22,8 @@
   _Neurology_ **42**, 631-639 (1992) <br />
   https://doi.org/10.1212/wnl.42.3.631
 
+- https://academic.oup.com/jnen/article-abstract/52/6/594/2610274
+
 - **Sequence of Aβ-Protein Deposition in the Human Medial Temporal Lobe** <br />
   Thal DR, _et al._ <br />
   _Journal of Neuropathology & Experimental Neurology_ **59**, 733–748 (2000) <br />
@@ -238,6 +240,19 @@
   Therriault J, _et al_ <br />
   _Neurology_ **96**, e81-e92 (2021) <br />
   https://doi.org/10.1212/WNL.0000000000011081
+
+## Iron
+
+- https://academic.oup.com/brain/article/140/8/2112/3983258
+- https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0081093
+- https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.038799
+- https://www.frontiersin.org/articles/10.3389/fnins.2021.618435/full
+- https://pubmed.ncbi.nlm.nih.gov/33035667/
+- https://www.pnas.org/doi/10.1073/pnas.94.18.9866
+- https://www.nature.com/articles/s41380-019-0375-7
+- https://actaneurocomms.biomedcentral.com/articles/10.1186/s40478-021-01126-5
+- https://www.nature.com/articles/s41593-022-01074-w
+
 
 ## Other
 
