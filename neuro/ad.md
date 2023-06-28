@@ -1,6 +1,152 @@
 # Alzheimer's disease
 
+## General (important papers)
 
+- **Alzheimer's disease: cell-specific pathology isolates the hippocampal formation** <br />
+  Hyman BT, Van Hoesen GW, Damasio AR, Barnes CL <br />
+  _Science_ **225**, 1168-1170 (1984) <br />
+  https://doi.org/10.1126/science.6474172
+
+- **Neuropathological stageing of Alzheimer-related changes** <br />
+  Braak H, Braak E <br />
+  _Acta Neuropathol_ **82**, 239–259 (1991) <br />
+  https://doi.org/10.1007/BF00308809
+
+- **The topographical and neuroanatomical distribution of neurofibrillary tangles and neuritic plaques in the cerebral cortex of patients with Alzheimer's disease** <br />
+  Arnold SE, Hyman BT, Flory J, Damasio AR, Van Hoesen GW <br />
+  _Cereb Cortex_ **1**, 103-116 (1991) <br />
+  https://doi.org/10.1093/cercor/1.1.103
+
+- **Neurofibrillary tangles but not senile plaques parallel duration and severity of Alzheimer's disease** <br />
+  Arriagada PV, Growdon JH, Hedley-Whyte ET, Hyman BT <br />
+  _Neurology_ **42**, 631-639 (1992) <br />
+  https://doi.org/10.1212/wnl.42.3.631
+
+- **Sequence of Aβ-Protein Deposition in the Human Medial Temporal Lobe** <br />
+  Thal DR, _et al._ <br />
+  _Journal of Neuropathology & Experimental Neurology_ **59**, 733–748 (2000) <br />
+  https://doi.org/10.1093/jnen/59.8.733
+
+- **Phases of Aβ-deposition in the human brain and its relevance for the development of AD** <br />
+  Thal DR, Rub U, Orantes M, Braak H <br />
+  _Neurology_ **58**, 1791-1800 (2002) <br />
+  https://doi.org/10.1212/WNL.58.12.1791
+
+- **Synergy between amyloid-β and tau in Alzheimer’s disease** <br />
+  Busch MA, Hyman BT <br />
+  _Nat Neurosci_ **23**, 1183–1193 (2020) <br />
+  https://doi.org/10.1038/s41593-020-0687-6
+
+- **Synaptic degeneration in Alzheimer disease** <br />
+  Tzioras M, McGeachan RI, Durrant CS, Spires-Jones TL <br />
+  _Nat Rev Neurol_ **19**, 19–38 (2023) <br />
+  https://doi.org/10.1038/s41582-022-00749-z
+
+## Reviews 
+
+- **Neurodegeneration in Normal Brain Aging and Disease** <br />
+  Thal DR, Del Tredici K, Braak H <br />
+  _SAGE KE_ **2004**, pe26 (2004) <br />
+  https://doi.org/10.1126/sageke.2004.23.pe26
+
+- **Neuropathological Alterations in Alzheimer Disease** <br />
+  Serrano-Pozo A, Frosch MP, Masliah E, Hyman BT <br />
+  _Cold Spring Harb Perspect Med 2_ **1**, a006189 (2011) <br />
+  https://doi.org/10.1101/cshperspect.a006189
+
+## Propagation / Stageing
+
+- **Neuropathological stageing of Alzheimer-related changes** <br />
+  Braak H, Braak E <br />
+  _Acta Neuropathol_ **82**, 239–259 (1991) <br />
+  https://doi.org/10.1007/BF00308809
+
+- **Frequency of Stages of Alzheimer-Related Lesions in Different Age Categories** <br />
+  Braak H, Braak E <br />
+  _Neurobiol Aging_ **18**, 351-357 (1997) <br />
+  https://doi.org/10.1016/S0197-4580(97)00056-0
+
+- **The Neuropathological Diagnosis of Alzheimer’s Disease: Clinical-Pathological Studies** <br />
+  Hyman BT <br />
+  _Neurobiol Aging_ **18**, S27-S32 (1997) <br />
+  https://doi.org/10.1016/S0197-4580(97)00066-3
+
+- **Diagnosis and Staging of Alzheimer Disease** <br />
+  Duyckaerts C, Hauw JJ <br />
+  _Neurobiol Aging_ **18**, S33-S42 (1997) <br />
+  https://doi.org/10.1016/S0197-4580(97)00067-5
+
+- **Prevalence, Incidence and Duration of Braak’s Stages in the General Population: Can We Know?** <br />
+  Duyckaerts C, Hauw JJ <br />
+  _Neurobiol Aging_ **18**, 362-369 (1997) <br />
+  https://doi.org/10.1016/S0197-4580(97)00047-X
+
+- **Sequence of Aβ-Protein Deposition in the Human Medial Temporal Lobe** <br />
+  Thal DR, _et al._ <br />
+  _Journal of Neuropathology & Experimental Neurology_ **59**, 733–748 (2000) <br />
+  https://doi.org/10.1093/jnen/59.8.733
+
+- **Phases of Aβ-deposition in the human brain and its relevance for the development of AD** <br />
+  Thal DR, Rub U, Orantes M, Braak H <br />
+  _Neurology_ **58**, 1791-1800 (2002) <br />
+  https://doi.org/10.1212/WNL.58.12.1791
+  
+- **Stages of the Pathologic Process in Alzheimer Disease: Age Categories From 1 to 100 Years** <br />
+  Braak H, Thal DR, Ghebremedhin E, Del Tredici K <br />
+  _Journal of Neuropathology & Experimental Neurology_ **70**, 960–969 (2011) <br />
+  https://doi.org/10.1097/NEN.0b013e318232a379
+  
+## Abeta
+
+- **Sequence of Aβ-Protein Deposition in the Human Medial Temporal Lobe** <br />
+  Thal DR, _et al._ <br />
+  _Journal of Neuropathology & Experimental Neurology_ **59**, 733–748 (2000) <br />
+  https://doi.org/10.1093/jnen/59.8.733
+  
+- **Phases of Aβ-deposition in the human brain and its relevance for the development of AD** <br />
+  Thal DR, Rub U, Orantes M, Braak H <br />
+  _Neurology_ **58**, 1791-1800 (2002) <br />
+  https://doi.org/10.1212/WNL.58.12.1791
+  
+- **Amyloid-Dependent and Amyloid-Independent Stages of Alzheimer Disease** <br />
+  Hyman BT <br />
+  _Arch Neurol_ **68**, 1062-1064 (2011) <br />
+  https://10.1001/archneurol.2011.70
+
+- **The amyloid cascade and Alzheimer's disease therapeutics: theory versus observation** <br />
+  Castellani RJ, Plascencia-Villa G, Perry G <br />
+  _Laboratory Investigation_ **99**, 958-970 (2019) <br />
+  https://doi.org/10.1038/s41374-019-0231-z
+
+- **A critical appraisal of amyloid-β-targeting therapies for Alzheimer disease** <br />
+  Panza F, Lozupone M, Logroscino G, Imbimbo  BP <br />
+  _Nat Rev Neurol_ **15**, 73–88 (2019) <br />
+  https://doi.org/10.1038/s41582-018-0116-6
+
+- **The Amyloid-β Pathway in Alzheimer’s Disease** <br />
+  Hampel H, _et al._ <br />
+  _Mol Psychiatry_ **26**, 5481–5503 (2021) <br />
+  https://doi.org/10.1038/s41380-021-01249-0
+
+## Tau
+
+- **Neuropathological stageing of Alzheimer-related changes** <br />
+  Braak H, Braak E <br />
+  _Acta Neuropathol_ **82**, 239–259 (1991) <br />
+  https://doi.org/10.1007/BF00308809
+
+- **Examination of the validity of the hierarchical model of neuropathological staging in normal aging and Alzheimer’s disease** <br />
+  Gertz HJ, _et al._ <br />
+  _Acta Neuropathol_ **95**, 154–158 (1998) <br />
+  https://doi.org/10.1007/s004010050780
+
+  
+## Subtypes
+
+- **Distinct spatiotemporal subtypes of amyloid deposition are associated with diverging disease profiles in cognitively normal and mild cognitive impairment individuals** <br />
+  Sun Y, _et al._ <br />
+  _Transl Psychiatry_ **13**, 35 (2023) <br />
+  https://doi.org/10.1038/s41398-023-02328-2
 
 ## Sporadic / Familial
 
