@@ -2,6 +2,12 @@
 
 ## Forward model
 
+- [**The Time Average Magnetic Field at the Nucleus in Nuclear Magnetic Resonance Experiments**
+  ](https://www.dropbox.com/s/ffvgd27mxvd9041) <br />
+  Dickinson WC <br />
+  _Physical review_ **81**, 717-731 (1951) <br />
+  https://doi.org/10.1103/PhysRev.81.717
+
 - [**A mathematical model of diamagnetic line broadening in lung tissue and similar heterogeneous systems: Calculations and measurements**
   ](https://www.dropbox.com/s/1u5gjvsmjyb7f9g) <br />
   Case TA, Durney CH, Ailion DC, Cutillo AG, Morris AH <br />
@@ -70,6 +76,12 @@
   Salomir R, de Senneville BD, Moonen CTW <br />
   _Concepts Magn Reson_ **19B**, 26-34 (2003) <br />
   https://doi.org/10.1002/cmr.b.10083
+
+- [**Magnetic Susceptibility: Further Insights into Macroscopic and Microscopic Fields and the Sphere of Lorentz**
+  ](https://www.dropbox.com/s/5u5hwve3hymufds) <br />
+  Durrant CJ, Hertzberg MP, Kuchel PW <br />
+  _Concepts Magn Reson_ **18A**, .72-95 (2003) <br />
+   https://doi.org/10.1002/cmr.a.10067
 
 - [**Perturbation method for magnetic field calculations of nonconductive objects**
   ](https://www.dropbox.com/s/j0jav7f40ectm2x) <br />
