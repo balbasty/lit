@@ -22,7 +22,7 @@
 - [**Bulk magnetic susceptibility shifts in nmr studies of compartmentalized samples: use of paramagnetic reagents**
   ](https://www.dropbox.com/s/f99yjwx4mlcf6dc) <br />
   Chu SCK, Xu Y, Balschi JA, Springer Jr CS <br />
-  _MRM_ **13**, 239-262 (1990) < br/>
+  _MRM_ **13**, 239-262 (1990) <br />
   https://doi.org/10.1002/mrm.1910130207
 
 - [**Numerical analysis of the magnetic field for arbitrary magnetic susceptibility distributions in 2D**
