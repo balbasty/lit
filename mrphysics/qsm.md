@@ -72,7 +72,8 @@
   _Proc. SPIE_ **4684**, "Medical Imaging 2002: Image Processing" (2002) <br />
   https://doi.org/10.1117/12.467202
 
-- **A fast calculation method for magnetic field inhomogeneity due to an arbitrary distribution of bulk susceptibility** <br />
+- [**A fast calculation method for magnetic field inhomogeneity due to an arbitrary distribution of bulk susceptibility**
+  ](https://www.dropbox.com/s/3aj2j0w6sj949tj) <br />
   Salomir R, de Senneville BD, Moonen CTW <br />
   _Concepts Magn Reson_ **19B**, 26-34 (2003) <br />
   https://doi.org/10.1002/cmr.b.10083
