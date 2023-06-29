@@ -69,7 +69,7 @@
 - [**MRI simulator with static field inhomogeneity**
   ](https://www.dropbox.com/s/l8xfqtdfyxwh0s9) <br />
   Yoder D, Changchien E, Paschal CB, Fitzpatrick JM <br />
-  _Proc. SPIE_ **4684**, "Medical Imaging 2002: Image Processing" (2002) <br /
+  _Proc. SPIE_ **4684**, "Medical Imaging 2002: Image Processing" (2002) <br />
   https://doi.org/10.1117/12.467202
 
 - **A fast calculation method for magnetic field inhomogeneity due to an arbitrary distribution of bulk susceptibility** <br />
