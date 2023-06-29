@@ -8,11 +8,22 @@
   _Physical review_ **81**, 717-731 (1951) <br />
   https://doi.org/10.1103/PhysRev.81.717
 
+- [**Susceptibility artefacts in NMR imaging**]() <br />
+  Lüdeke KM, Röschmann P, Tischler R <br />
+  _Magnetic Resonance Imaging_ **3**, 329-343 (1985) <br />
+  https://doi.org/10.1016/0730-725X(85)90397-2
+
 - [**A mathematical model of diamagnetic line broadening in lung tissue and similar heterogeneous systems: Calculations and measurements**
   ](https://www.dropbox.com/s/1u5gjvsmjyb7f9g) <br />
   Case TA, Durney CH, Ailion DC, Cutillo AG, Morris AH <br />
   _JMRI_ **73**,  304-314 (1987) <br />
   https://doi.org/10.1016/0022-2364(87)90202-2
+
+- [**Bulk magnetic susceptibility shifts in nmr studies of compartmentalized samples: use of paramagnetic reagents**
+  ](https://www.dropbox.com/s/f99yjwx4mlcf6dc) <br />
+  Chu SCK, Xu Y, Balschi JA, Springer Jr CS <br />
+  _MRM_ **13**, 239-262 (1990) < br/>
+  https://doi.org/10.1002/mrm.1910130207
 
 - [**Numerical analysis of the magnetic field for arbitrary magnetic susceptibility distributions in 2D**
   ](https://www.dropbox.com/s/ep49im3zs8rl21q) <br />
