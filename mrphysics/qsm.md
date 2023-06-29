@@ -95,7 +95,23 @@
   _Concepts Magn Reson_ **25B**, 65-78 (2005) [also: ISMRM 2003]<br />
   https://doi.org/10.1002/cmr.b.20034 <br />
 
+- [**Rapid calculations of susceptibility-induced magnetostatic field perturbations for in vivo magnetic resonance**
+  ](https://www.dropbox.com/s/8g135psq8ykwwyh) <br />
+  Koch KM, Papademetris X, Rothman DL, A de Graaf RA <br />
+  _Phys Med Biol_ **51**, 6381 (2006) <br />
+  https://doi.org/10.1088/0031-9155/51/24/007
 
+- [**Limitations of Calculating Field Distributions and Magnetic Susceptibilities in MRI using a Fourier Based Method**
+  ](https://www.dropbox.com/s/4r12c2wfzu9x55y) <br />
+  Cheng YCN, Neelavalli J, Haacke EM <br />
+  _Phys Med Biol_ **54**, 1169 (2009) <br />
+  https://doi.org/10.1088/0031-9155/54/5/005
+
+- [**Prediction of motion induced magnetic fields for human brain MRI at 3 T**
+  ](https://www.dropbox.com/s/33k2oc5xsnac3of) <br />
+  Zhou J, Hagberg GE, Aghaeifar A, Bause J, Zaitsev M, Scheffler K <br />
+  _Magn Reson Mater Phy_ (2023) <br />
+  https://doi-org.ezp-prod1.hul.harvard.edu/10.1007/s10334-023-01076-0
 
 ## Inverse problem
 
