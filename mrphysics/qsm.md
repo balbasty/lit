@@ -51,7 +51,7 @@
 - [**Comparison of calculated and experimental NMR spectral broadening for lung tissue**
   ](https://www.dropbox.com/s/v38jc8l3tigot3d) <br />
   Christman RA, Ailion DC, Case TA, Durney CH, Cutillo AG, Shioya A, Goodrich KC, Morris AH <br />
-  _MRM_ **35*, 6-13 (1996) <br />
+  _MRM_ **35**, 6-13 (1996) <br />
   https://doi.org/10.1002/mrm.1910350103
 
 - [**Numerical calculations of the static magnetic field in three-dimensional multi-tissue models of the human head**
