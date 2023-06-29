@@ -20,6 +20,12 @@
   _JMRI_ **73**,  304-314 (1987) <br />
   https://doi.org/10.1016/0022-2364(87)90202-2
 
+- [**Theory of resonance in magnetically inhomogeneous specimens and some useful calculations**
+  ](https://www.dropbox.com/s/h4tef4rvwkpltsp) <br />
+  Edmonds DT, Wormald MR <br />
+  _JMRI_ **77**, 223-232 (1988) <br />
+  https://doi.org/10.1016/0022-2364(88)90174-6
+
 - [**Bulk magnetic susceptibility shifts in nmr studies of compartmentalized samples: use of paramagnetic reagents**
   ](https://www.dropbox.com/s/f99yjwx4mlcf6dc) <br />
   Chu SCK, Xu Y, Balschi JA, Springer Jr CS <br />
