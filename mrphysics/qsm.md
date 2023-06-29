@@ -14,12 +14,14 @@
   _JMRI_ **73**,  304-314 (1987) <br />
   https://doi.org/10.1016/0022-2364(87)90202-2
 
-- **Numerical analysis of the magnetic field for arbitrary magnetic susceptibility distributions in 2D** <br />
+- [**Numerical analysis of the magnetic field for arbitrary magnetic susceptibility distributions in 2D**
+  ](https://www.dropbox.com/s/ep49im3zs8rl21q) <br />
   Bhagwandien R, van Ee R, Beersma R, Bakker CJG, Moerland MA, Lagendijk JJW <br />
   _Magnetic Resonance Imaging_ **10**, 299-313 (1992) <br />
   https://doi.org/10.1016/0730-725X(92)90489-M
 
-- **Numerical analysis of the magnetic field for arbitrary magnetic susceptibility distributions in 3D** <br />
+- [**Numerical analysis of the magnetic field for arbitrary magnetic susceptibility distributions in 3D**
+  ](https://www.dropbox.com/s/5d4tno2desv4okf) <br />
   Bhagwandien R, Moerland MA, Bakker CJG, Beersma R, Lagendijk JJW <br />
   _Magnetic Resonance Imaging_ **12**, 101-107 (1994) <br />
   https://doi.org/10.1016/0730-725X(94)92357-4
