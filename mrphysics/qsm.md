@@ -8,7 +8,8 @@
   _Physical review_ **81**, 717-731 (1951) <br />
   https://doi.org/10.1103/PhysRev.81.717
 
-- [**Susceptibility artefacts in NMR imaging**]() <br />
+- [**Susceptibility artefacts in NMR imaging**
+  ](https://www.dropbox.com/s/afbsnhf2lqzpzvh) <br />
   Lüdeke KM, Röschmann P, Tischler R <br />
   _Magnetic Resonance Imaging_ **3**, 329-343 (1985) <br />
   https://doi.org/10.1016/0730-725X(85)90397-2
