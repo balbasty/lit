@@ -11,7 +11,7 @@
 - [**A mathematical model of diamagnetic line broadening in lung tissue and similar heterogeneous systems: Calculations and measurements**
   ](https://www.dropbox.com/s/1u5gjvsmjyb7f9g) <br />
   Case TA, Durney CH, Ailion DC, Cutillo AG, Morris AH <br />
-  _JMRI_ **73**,  (1987304-314) <br />
+  _JMRI_ **73**,  304-314 (1987) <br />
   https://doi.org/10.1016/0022-2364(87)90202-2
 
 - **Numerical analysis of the magnetic field for arbitrary magnetic susceptibility distributions in 2D** <br />
