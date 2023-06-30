@@ -2,34 +2,44 @@
 
 ## General (important papers)
 
-- **Alzheimer's disease: cell-specific pathology isolates the hippocampal formation** <br />
+- [**Alzheimer's disease: cell-specific pathology isolates the hippocampal formation**
+  ](https://www.dropbox.com/s/112kz5amurj3sk1) <br />
   Hyman BT, Van Hoesen GW, Damasio AR, Barnes CL <br />
   _Science_ **225**, 1168-1170 (1984) <br />
   https://doi.org/10.1126/science.6474172
 
-- **Neuropathological stageing of Alzheimer-related changes** <br />
+- [**Neuropathological stageing of Alzheimer-related changes**
+  ](https://www.dropbox.com/s/9ctryyhvby03fya) <br />
   Braak H, Braak E <br />
   _Acta Neuropathol_ **82**, 239–259 (1991) <br />
   https://doi.org/10.1007/BF00308809
 
-- **The topographical and neuroanatomical distribution of neurofibrillary tangles and neuritic plaques in the cerebral cortex of patients with Alzheimer's disease** <br />
+- [**The topographical and neuroanatomical distribution of neurofibrillary tangles and neuritic plaques in the cerebral cortex of patients with Alzheimer's disease**
+  ](https://www.dropbox.com/s/a73pcpcgrg4c7ll) <br />
   Arnold SE, Hyman BT, Flory J, Damasio AR, Van Hoesen GW <br />
   _Cereb Cortex_ **1**, 103-116 (1991) <br />
   https://doi.org/10.1093/cercor/1.1.103
 
-- **Neurofibrillary tangles but not senile plaques parallel duration and severity of Alzheimer's disease** <br />
+- [**Neurofibrillary tangles but not senile plaques parallel duration and severity of Alzheimer's disease**
+  ](https://www.dropbox.com/s/8eo77x6jqh5epe4) <br />
   Arriagada PV, Growdon JH, Hedley-Whyte ET, Hyman BT <br />
   _Neurology_ **42**, 631-639 (1992) <br />
   https://doi.org/10.1212/wnl.42.3.631
 
-- https://academic.oup.com/jnen/article-abstract/52/6/594/2610274
+- [**The Lack of Accumulation of Senile Plaques or Amyloid Burden in Alzheimer's Disease Suggests a Dynamic Balance Between Amyloid Deposition and Resolution Get access Arrow**
+  ](https://www.dropbox.com/s/hgb73gck44526jp) <br />
+  Hyman BT, Ph.D., Marzloff K, Arriagada PV <br />
+  _Journal of Neuropathology & Experimental Neurology_ **52**, 594–600 (1993) <br />
+  https://doi.org/10.1097/00005072-199311000-00006
 
-- **Sequence of Aβ-Protein Deposition in the Human Medial Temporal Lobe** <br />
+- [**Sequence of Aβ-Protein Deposition in the Human Medial Temporal Lobe**
+  ](https://www.dropbox.com/s/qjtmppz8b32ktra) <br />
   Thal DR, _et al._ <br />
   _Journal of Neuropathology & Experimental Neurology_ **59**, 733–748 (2000) <br />
   https://doi.org/10.1093/jnen/59.8.733
 
-- **Phases of Aβ-deposition in the human brain and its relevance for the development of AD** <br />
+- [**Phases of Aβ-deposition in the human brain and its relevance for the development of AD**
+  ](https://www.dropbox.com/s/1ee07fxonn8hpi4) <br />
   Thal DR, Rub U, Orantes M, Braak H <br />
   _Neurology_ **58**, 1791-1800 (2002) <br />
   https://doi.org/10.1212/WNL.58.12.1791
