@@ -61,19 +61,22 @@
   _SAGE KE_ **2004**, pe26 (2004) <br />
   https://doi.org/10.1126/sageke.2004.23.pe26
 
-- **Neuropathological Alterations in Alzheimer Disease** <br />
+- [**Neuropathological Alterations in Alzheimer Disease**
+  ](https://www.dropbox.com/s/1i2ljn5n0guujh2) <br />
   Serrano-Pozo A, Frosch MP, Masliah E, Hyman BT <br />
   _Cold Spring Harb Perspect Med 2_ **1**, a006189 (2011) <br />
   https://doi.org/10.1101/cshperspect.a006189
 
 ## Propagation / Stageing
 
-- **Neuropathological stageing of Alzheimer-related changes** <br />
+- [**Neuropathological stageing of Alzheimer-related changes**
+  ](https://www.dropbox.com/s/9ctryyhvby03fya) <br />
   Braak H, Braak E <br />
   _Acta Neuropathol_ **82**, 239–259 (1991) <br />
   https://doi.org/10.1007/BF00308809
 
-- **Frequency of Stages of Alzheimer-Related Lesions in Different Age Categories** <br />
+- [**Frequency of Stages of Alzheimer-Related Lesions in Different Age Categories**
+  ](https://www.dropbox.com/s/hi69wy52v53bgoo) <br />
   Braak H, Braak E <br />
   _Neurobiol Aging_ **18**, 351-357 (1997) <br />
   https://doi.org/10.1016/S0197-4580(97)00056-0
