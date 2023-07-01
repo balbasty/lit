@@ -165,12 +165,14 @@
 
 ## Sporadic / Familial
 
-- **A comparison of familial and sporadic Alzheimer's disease** <br />
+- [**A comparison of familial and sporadic Alzheimer's disease**
+  ](https://www.dropbox.com/s/7x9cb0sunk5f68z) <br />
   Duara R, _et al._ <br />
   _Neurolgy_ **43**, 1377 (1993) <br />
    https://doi.org/10.1212/WNL.43.7.1377
 
-- **Genetics of familial and sporadic Alzheimer’s disease** <br />
+- [**Genetics of familial and sporadic Alzheimer’s disease**
+  ](https://www.dropbox.com/s/1g9f9cbu26py6p5) <br />
   Piaceri I, Nacmias B, Sorbi S <br />
   _Front Biosci (Elite Ed)_ **5**, 167–177 (2013) <br />
   https://doi.org/10.2741/E605
