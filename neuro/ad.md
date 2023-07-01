@@ -177,27 +177,32 @@
   _Front Biosci (Elite Ed)_ **5**, 167–177 (2013) <br />
   https://doi.org/10.2741/E605
 
-- **APP, PSEN1, and PSEN2 mutations in early-onset Alzheimer disease: A genetic screening study of familial and sporadic cases** <br />
+- [**APP, PSEN1, and PSEN2 mutations in early-onset Alzheimer disease: A genetic screening study of familial and sporadic cases**
+  ](https://www.dropbox.com/s/pu1ridsv2ejdm9g) <br />
   Lanoiselee, _et al._ <br />
   _PLoS Med_ (2017) <br />
   https://doi.org/10.1371/journal.pmed.1002270
 
-- **Cerebral Small Vessel Disease in Sporadic and Familial Alzheimer Disease** <br />
+- [**Cerebral Small Vessel Disease in Sporadic and Familial Alzheimer Disease**
+  ](https://www.dropbox.com/s/932j9vgpajpnsy3) <br />
   Kalaria RN, Sepulveda-Falla D <br />
   _Am J Pathology_ **191**, 1888-1905 (2021) <br />
   https://doi.org/10.1016/j.ajpath.2021.07.004
 
-- **Cryo-EM structures of amyloid-β 42 filaments from human brains** <br />
+- [**Cryo-EM structures of amyloid-β 42 filaments from human brains**
+  ](https://www.dropbox.com/s/zq8w81yoj4qa903) <br />
   Yang Y, _et al._ <br />
   _Science_ **375**, 167-172 (2022) <br />
   https://doi.org/ 10.1126/science.abm7285
 
-- **Dissecting the clinical heterogeneity of early-onset Alzheimer’s disease** <br />
+- [**Dissecting the clinical heterogeneity of early-onset Alzheimer’s disease**
+  ](https://www.dropbox.com/s/yersa77eb8t6vui) <br />
   Sirkis DW, _et al._ <br />
   _Mol Psychiatry_ **27**, 2674–2688 (2022) <br />
   https://doi.org/10.1038/s41380-022-01531-9
 
-- **Differentiating amyloid beta spread in autosomal dominant and sporadic Alzheimer’s disease** <br />
+- [**Differentiating amyloid beta spread in autosomal dominant and sporadic Alzheimer’s disease**
+  ](https://www.dropbox.com/s/czjzje67ft7ypge) <br />
   Levitis E, _et al._ <br />
   _Brain Communications_ **4**, fcac085 (2022) <br />
   https://doi.org/10.1093/braincomms/fcac085
