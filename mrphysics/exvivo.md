@@ -22,7 +22,8 @@ References
   NeuroImage (2007) <br/>
   https://www.sciencedirect.com/science/article/abs/pii/S1053811906012390
 
-- **Diffusion tensor imaging of post mortem multiple sclerosis brain** <br />
+- <b id="schmierer2007diffusion"></b>
+  **Diffusion tensor imaging of post mortem multiple sclerosis brain** <br />
   Klaus Schmierer, Claudia A.M. Wheeler-Kingshott, Phil A. Boulby, Francesco Scaravilli, 
   Daniel R. Altmann, Gareth J. Barker, Paul S. Tofts, David H. Miller <br />
   NeuroImage (2007) <br />
@@ -70,6 +71,12 @@ References
   Jesús Ruiz-Cabello, Brad P. Barnett, Paul A. Bottomley, Jeff W.M. Bulte <br/>
   NMR Biomed (2010) <br/>
   https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/nbm.1570
+
+- <b id="langkammer2010quantitative"></b>
+  **Quantitative MR Imaging of Brain Iron: A Postmortem Validation Study** <br />
+  Christian Langkammer, Nikolaus Krebs, Walter Goessler, Eva Scheurer, Franz Ebner, Kathrin Yen, Franz Fazekas, Stefan Ropele <br />
+  Radiology (2010) <br />
+  https://pubs.rsna.org/doi/10.1148/radiol.10100495
   
 - <b id="dyrby2011ex"></b>
   **An ex vivo imaging pipeline for producing high-quality and high-resolution diffusion-weighted imaging datasets** <br/>
@@ -96,13 +103,27 @@ References
   Sean Foxley, Saad Jbabdi, Stuart Clare, Wilfred Lam, Olaf Ansorge, Gwenaelle Douaud, Karla Miller <br/>
   NeuroImage (2012) <br/>
   https://www.sciencedirect.com/science/article/pii/S1053811914006648
-  
+
+- <b id="langkammer2012quantitative"></b>
+  **Quantitative susceptibility mapping (QSM) as a means to measure brain iron? A post mortem validation study** <br />
+  Christian Langkammer, Ferdinand Schweser, Nikolaus Krebs, Andreas Deistung, Walter Goessler, Eva Scheurer, Karsten Sommer,
+  Gernot Reishofer, Kathrin Yen, Franz Fazekas, Stefan Ropele, Jürgen R. Reichenbach <br />
+  NeuroImage (2012) <br />
+  https://www.sciencedirect.com/science/article/pii/S105381191200537X
+
 - <b id="shatil2015method"></b>
   **A Method for Whole Brain Ex Vivo Magnetic Resonance Imaging with Minimal Susceptibility Artifacts** <br/>
   Anwar S. Shatil, Kant M. Matsuda, Chase R. Figley<br/>
   Front Neurol (2016) <br/>
   https://www.frontiersin.org/articles/10.3389/fneur.2016.00208/full
-  
+
+- <b id="evia2019exvivo"></b>
+  **Ex-vivo quantitative susceptibility mapping of human brain hemispheres** <br />
+  Arnold M. Evia, Aikaterini Kotrotsou, Ashish A. Tamhane, Robert J. Dawe, Alifiya Kapasi,
+  Sue E. Leurgans, Julie A. Schneider, David A. Bennett, Konstantinos Arfanakis <br />
+  PLoS One (20147) <br />
+  https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0188395
+
 - <b id="shatil2018quantitative"></b>
   **Quantitative Ex Vivo MRI Changes due to Progressive Formalin Fixation in Whole Human Brain Specimens: 
   Longitudinal Characterization of Diffusion, Relaxometry, and Myelin Water Fraction Measurements at 3T** <br/>
@@ -136,7 +157,8 @@ References
   Journal of Neuropathology & Experimental Neurology (2018) <br/>
   https://academic.oup.com/jnen/article/77/12/1085/5144755
 
-- **High resolution anatomical and quantitative MRI of the entire human occipital lobe ex vivo at 9.4 T** <br />
+- <b id="sengupta2018high"></b>
+  **High resolution anatomical and quantitative MRI of the entire human occipital lobe ex vivo at 9.4 T** <br />
   S Sengupta, FJ Fritz, RL Harms, S Hildebrand, DHY Tse, BA Poser, R Goebel, A Roebroeck <br />
   NeuroImage (2018) <br />
   https://www.sciencedirect.com/science/article/pii/S1053811917302471
@@ -152,6 +174,12 @@ References
   Alan C Seifert, Melissa Umphlett, Marco Hefti, Mary Fowkes, Junqian Xu <br />
   Magnetic Resonance in Medicine (2019) <br />
   https://onlinelibrary.wiley.com/doi/10.1002/mrm.27821
+
+- <b id="debarros2019matching"></b>
+  **Matching ex vivo MRI With Iron Histology: Pearls and Pitfalls** <br />
+  Amaury De Barros, Germain Arribarat, Jeanne Combis, Patrick Chaynes, Patrice Péran <br />
+  Front Neuroanat (2019) <br />
+  https://www.frontiersin.org/articles/10.3389/fnana.2019.00068/full#B63
 
 - <b id="maranzano2020novel"></b>
   **A novel ex vivo, in situ method to study the human brain through MRI and histology** <br/>
@@ -178,6 +206,12 @@ References
   Scientific Reports (2021) <br />
   https://www.nature.com/articles/s41598-021-94891-1
 
+- <b id="chan2022imaging"></b>
+  **Imaging white matter microstructure with gradient-echo phase imaging: Is ex vivo imaging with formalin-fixed tissue a good approximation of the in vivo brain?** <br />
+  Kwok-Shing Chan, Renaud Hédouin, Jeroen Mollink, Jenni Schulz, Anne-Marie van Cappellen van Walsum, José P. Marques <br />
+  Magnetic Resonance in Medicine (2022) <br />
+  https://onlinelibrary.wiley.com/doi/10.1002/mrm.29213
+
 - <b id="lcnfomblin"></b>
   **LCN Fomblin Notes** <br/>
   Dev Cordero, Allison Stevens <br/>
@@ -188,4 +222,10 @@ References
   **Postmortem 7T MRI for guided histopathology and evaluation of cerebrovascular disease** <br />
   David Lahna, Natalie Roese, Randy Woltjer, Erin L Boespflug, Daniel Schwartz, John Grinstead, Hiroko H Dodge, Rachel Wall, Jeffrey A Kaye, William D Rooney, Lisa C Silbert  <br />
   Journal of Neuropathology & Experimental Neurology (2023) <br />
-  [https://www.nature.com/articles/s41598-021-94891-1](https://academic.oup.com/jnen/article/82/1/57/6809038)https://academic.oup.com/jnen/article/82/1/57/6809038
+  https://academic.oup.com/jnen/article/82/1/57/6809038
+
+- <b id="papoti2023segmented"></b>
+  **Segmented solenoid RF coils for MRI of ex vivo brain samples at ultra-high field preclinical and clinical scanners** <br />
+  Daniel Papoti, Diego Szczupak, Luiz G.C. Santos, Khallil T. Chaim, Maria C.G. Otaduy, David J. Schaeffer, Edson L.G. Vidoto, Alberto Tannús, Afonso C. Silva <br />
+  Journal of Magnetic Resonance Open (2023) <br />
+  https://www.sciencedirect.com/science/article/pii/S2666441023000110
