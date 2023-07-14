@@ -111,17 +111,23 @@ References
   NeuroImage (2012) <br />
   https://www.sciencedirect.com/science/article/pii/S105381191200537X
 
-- <b id="shatil2015method"></b>
+- <b id="shatil2016method"></b>
   **A Method for Whole Brain Ex Vivo Magnetic Resonance Imaging with Minimal Susceptibility Artifacts** <br/>
   Anwar S. Shatil, Kant M. Matsuda, Chase R. Figley<br/>
   Front Neurol (2016) <br/>
   https://www.frontiersin.org/articles/10.3389/fneur.2016.00208/full
 
+- <b id="bastiani2016automatic"></b>
+  **Automatic Segmentation of Human Cortical Layer-Complexes and Architectural Areas Using Ex vivo Diffusion MRI and Its Validation** <br />
+  Matteo Bastiani, Ana-Maria Oros-Peusquens, Arne Seehaus, Daniel Brenner, Klaus Möllenhoff, Avdo Celik, Jörg Felder, Hansjürgen Bratzke, Nadim J. Shah, Ralf Galuske, Rainer Goebel, Alard Roebroeck <br />
+  Front Neurosci (2016) <br />
+  https://www.frontiersin.org/articles/10.3389/fnins.2016.00487/full
+
 - <b id="evia2019exvivo"></b>
   **Ex-vivo quantitative susceptibility mapping of human brain hemispheres** <br />
   Arnold M. Evia, Aikaterini Kotrotsou, Ashish A. Tamhane, Robert J. Dawe, Alifiya Kapasi,
   Sue E. Leurgans, Julie A. Schneider, David A. Bennett, Konstantinos Arfanakis <br />
-  PLoS One (20147) <br />
+  PLoS One (2017) <br />
   https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0188395
 
 - <b id="shatil2018quantitative"></b>
