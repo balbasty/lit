@@ -99,7 +99,7 @@ and its velocity is low, which does not support the idea of CSF ciruclating rapi
   Glia **58**, 1094-103 (2010) <br />
   https://doi.org/10.1002/glia.20990.
 
-- <b id="mawuenyega2010decreased"></b
+- <b id="mawuenyega2010decreased"></b>
   **Decreased Clearance of CNS β-Amyloid in Alzheimer’s Disease** <br />
   Mawuenyega M, _et al._ <br />
   _Science_ **330**, 1774 (2010) <br />
