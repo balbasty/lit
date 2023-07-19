@@ -375,3 +375,9 @@
   Bali J, _et al._ <br />
   _PNAS_ **109**, 15307-15311 (2012) <br />
   https://doi.org/10.1073/pnas.1201632109
+
+- **Extensive innate immune gene activation accompanies brain aging, increasing vulnerability to
+  cognitive decline and neurodegeneration: a microarray study** <br />
+  Cribbs DH, _et al._ <br />
+  _J Neuroinflammation_ **9**, 179 (2012) <br />
+  https://doi.org/10.1186/1742-2094-9-179
