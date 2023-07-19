@@ -81,6 +81,12 @@
   _J Comp Neurol_ **518**, 3046–64 (2010) <br />
   https://doi.org/10.1002/cne.22379
 
+- <b id="bartzokis2011alzheimer"></b>
+  **Alzheimer's disease as homeostatic responses to age-related myelin breakdown** <br />
+  Bartzokis G <br />
+  _Neurobiol Aging_ **32**, 1341-1371 (2011) <br />
+  https://doi.org/10.1016/j.neurobiolaging.2009.08.007
+
 - <b id="agosta2011white"></b>
   **White matter damage in Alzheimer disease and its relationship to gray matter atrophy** <br />
   Agosta F, Pievani M, Sala S <br />
