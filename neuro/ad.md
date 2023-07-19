@@ -116,6 +116,11 @@
 
 ## Reviews 
 
+- **Neuroplasticity Failure in Alzheimer's Disease** <br />
+  Mesulam MM <br />
+  _Neuron_ **24**, 521-529 (1999) <br />
+  https://doi.org/10.1016/S0896-6273(00)81109-5
+
 - **The Amyloid Hypothesis of Alzheimer's Disease: Progress and Problems on the Road to Therapeutics** <br />
   Hardy J, Selkoe D <br />
   _Science_ **297**, 353-356 (2002) <br />
@@ -370,6 +375,11 @@
 
 
 ## Other
+
+- **Concerted changes in transcripts in the prefrontal cortex precede neuropathology in Alzheimer's disease** <br />
+  Bossers K, _et al._ <br />
+  _Brain_ **133**, 3699–3723 (2010) <br />
+  https://doi.org/10.1093/brain/awq258
 
 - **Role of genes linked to sporadic Alzheimer’s disease risk in the production of β-amyloid peptides** <br />
   Bali J, _et al._ <br />
