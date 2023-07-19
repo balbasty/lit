@@ -44,6 +44,11 @@
   _Neurology_ **58**, 1791-1800 (2002) <br />
   https://doi.org/10.1212/WNL.58.12.1791
 
+- **The pathological process underlying Alzheimer’s disease in individuals under thirty** <br />
+  Braak H, Del Tredici K <br />
+  _Acta Neuropathol_ **121**, 171–181 (2011) <br />
+  https://doi.org/10.1007/s00401-010-0789-4
+
 - **The Cellular Phase of Alzheimer's Disease** <br />
   De Strooper B, Karran E <br />
   _Cell_ **164**, 603-15 (2016) <br />
