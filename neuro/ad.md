@@ -44,6 +44,11 @@
   _Neurology_ **58**, 1791-1800 (2002) <br />
   https://doi.org/10.1212/WNL.58.12.1791
 
+- **The Cellular Phase of Alzheimer's Disease** <br />
+  De Strooper B, Karran E <br />
+  _Cell_ **164**, 603-15 (2016) <br />
+  https://doi.org/10.1016/j.cell.2015.12.056
+
 - **Synergy between amyloid-β and tau in Alzheimer’s disease** <br />
   Busch MA, Hyman BT <br />
   _Nat Neurosci_ **23**, 1183–1193 (2020) <br />
@@ -56,6 +61,11 @@
 
 ## Reviews 
 
+- **The Amyloid Hypothesis of Alzheimer's Disease: Progress and Problems on the Road to Therapeutics** <br />
+  Hardy J, Selkoe D <br />
+  _Science_ **297**, 353-356 (2002) <br />
+  https://doi.org/10.1126/science.1072994
+
 - **Neurodegeneration in Normal Brain Aging and Disease** <br />
   Thal DR, Del Tredici K, Braak H <br />
   _SAGE KE_ **2004**, pe26 (2004) <br />
@@ -67,6 +77,11 @@
   _Cold Spring Harb Perspect Med 2_ **1**, a006189 (2011) <br />
   https://doi.org/10.1101/cshperspect.a006189
 
+- **The Cellular Phase of Alzheimer's Disease** <br />
+  De Strooper B, Karran E <br />
+  _Cell_ **164**, 603-15 (2016) <br />
+  https://doi.org/10.1016/j.cell.2015.12.056
+  
 ## Propagation / Stageing
 
 - [**Neuropathological stageing of Alzheimer-related changes**
@@ -113,6 +128,26 @@
   
 ## Abeta
 
+- **Amyloid plaque core protein in Alzheimer disease and Down syndrome** <br />
+  Masters CL, _et al._ <br />
+  _PNAS_ **82**, 4245-4249 (1985) <br />
+  https://doi.org/10.1073/pnas.82.12.4245
+
+- **Mutation of the Alzheimer's Disease Amyloid Gene in Hereditary Cerebral Hemorrhage, Dutch Type** <br />
+  Levy E, _et al._ <br />
+  _Science_ **248**, 1124-1126 (1990) <br />
+  https://doi.org/10.1126/science.2111584
+
+- **The molecular pathology of Alzheimer's disease** <br />
+  Selkoe DJ <br />
+  _Neuron_ **6**, 487-498 (1991) <br />
+  https://doi.org/10.1016/0896-6273(91)90052-2
+
+- **Alzheimer's Disease: The Amyloid Cascade Hypothesis** <br />
+  Hardy JA, Higgins GA <br />
+  _Science_ **256**, 184-5 (1992) <br />
+  https://doi.org/10.1126/science.1566067
+
 - **Sequence of Aβ-Protein Deposition in the Human Medial Temporal Lobe** <br />
   Thal DR, _et al._ <br />
   _Journal of Neuropathology & Experimental Neurology_ **59**, 733–748 (2000) <br />
@@ -122,7 +157,12 @@
   Thal DR, Rub U, Orantes M, Braak H <br />
   _Neurology_ **58**, 1791-1800 (2002) <br />
   https://doi.org/10.1212/WNL.58.12.1791
-  
+
+- **The Amyloid Hypothesis of Alzheimer's Disease: Progress and Problems on the Road to Therapeutics** <br />
+  Hardy J, Selkoe D <br />
+  _Science_ **297**, 353-356 (2002) <br />
+  https://doi.org/10.1126/science.1072994
+
 - **Amyloid-Dependent and Amyloid-Independent Stages of Alzheimer Disease** <br />
   Hyman BT <br />
   _Arch Neurol_ **68**, 1062-1064 (2011) <br />
