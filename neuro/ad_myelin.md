@@ -381,7 +381,7 @@
 
 - <b id="hirschfeld2022myelin"></b>
   **Myelin repair in Alzheimer’s disease: a review of biological pathways and potential therapeutics** <br />
-  Hirschfeld LR, Risacher SL, Nho K, Saykin 
+  Hirschfeld LR, Risacher SL, Nho K, Saykin <br />
   _Transl Neurodegener_ **11**, 47 (2022) <br />
   https://doi.org/10.1186/s40035-022-00321-1
 
