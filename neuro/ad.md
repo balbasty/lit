@@ -401,3 +401,8 @@
   Cribbs DH, _et al._ <br />
   _J Neuroinflammation_ **9**, 179 (2012) <br />
   https://doi.org/10.1186/1742-2094-9-179
+
+- **Advancing research diagnostic criteria for Alzheimer’s disease: the IWG-2 criteria** <br />
+  Dubois B, _et al._ <br />
+  _Lancet Neuro_  **13**, 614-629 (2014) <br />
+  https://doi.org/10.1016/S1474-4422(14)70090-0
