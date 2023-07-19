@@ -137,6 +137,11 @@
   _Cold Spring Harb Perspect Med 2_ **1**, a006189 (2011) <br />
   https://doi.org/10.1101/cshperspect.a006189
 
+- **Neurodegenerative Diseases: Expanding the Prion Concept** <br />
+  Walker LC, Jucker M <br />
+  _Annual Review of Neuroscience_ **38**, 87-103 (2015) <br />
+  https://doi.org/10.1146/annurev-neuro-071714-033828
+
 - **The Cellular Phase of Alzheimer's Disease** <br />
   De Strooper B, Karran E <br />
   _Cell_ **164**, 603-15 (2016) <br />
