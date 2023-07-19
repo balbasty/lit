@@ -48,6 +48,61 @@
   De Strooper B, Karran E <br />
   _Cell_ **164**, 603-15 (2016) <br />
   https://doi.org/10.1016/j.cell.2015.12.056
+  <details>
+  <summary>Notes</summary>
+  This paper argues against a simple amyloid cascade and underlies the complex 
+  interraction between .... <br />
+  <b>Problem with the cascade hypothesis</b> <br />
+  "Even in familial AD (FAD), where the role of Aβ is established because of 
+  causative mutations in APP and Presenilin, the amyloid  hypothesis is found wanting. 
+  Why, for instance, does abnormal Aβ production, already present from conception, 
+  manifest its toxicity only in midlife?" <br/ >
+  "In our view, AD only starts when a pathological cellular reaction is initiated." <br />
+  <b>Biochemical phase (Aβ, tau)</b> <br />
+  "The “biochemical phase” of AD is characterized by abnormal aggregation of Aβ and 
+  potentially abnormal processing of APP; formation of Tau conformers followed 
+  by hyper phosphorylation; the seeding and propagation in a prionoid fashion of 
+  these abnormally folded proteins; the generation of oligomeric amyloids 
+  (Aβo- and Tau-oligomers); and the generation of amyloid plaques and neuronal tangles." <br />
+  "The temporal sequence of these events is undefined. " <br />
+  "The separate locations of Tau and amyloid pathology and their natural progression in the brain 
+  suggest that the two biochemical pathologies progress relatively independently from each other." <br />
+  <b>Cellular phase</b> <br />
+  "We see AD as a complex process consisting of different interacting phases encompassing feedback 
+  and feedforward mechanisms between cells, which, after many years, lead to dementia." <br />
+  "Most importantly, in this view, Aβ and Tau accumulations in SAD are considered risk factors—i.e.,
+  even if their accumulation is a sign of increased proteopathic stress, additional cellular factors 
+  are determinative in the evolution toward dementia. Instead of Aβ and Tau, the real causes of 
+  sporadic disease are upstream of these proteopathies and are likely manifold, with aging being the major driver." <br />
+  "Defective clearance of Aβ (and Tau), considered to underlie the majority of 
+  sporadic AD cases, illustrates the complexity of the cellular response." <br />
+  <b>Vascular aspect</b> <br />
+  "The vascular hypothesis proposes that initial vascular damage precipitates AD. 
+  Hypoperfusion and hypoxia are one aspect of the problem, but the associated breakdown of the 
+  BBB also results in ... secondarily to defects in Aβ and Tau metabolism and clearance, 
+  which in turn cause vascular problems such as cerebral amyloid angiopathy (CAA)" <br />
+  "Co-existence of AD and vascular pathology increases the risk for dementia considerably" <br />
+  <b>Astroglial aspect</b> <br />
+  "In contrast to neurons, the astroglia population is strikingly under-investigated in AD-related studies." <br />
+  "The “reactive” astrogliosis in AD was noticed by Dr. Alzheimer himself." <br />
+  "It is a physiological response and should, a priori, be considered a protective reaction; 
+  however, in AD, it could contribute directly to defective clearance" <br />
+  <b>Inflammation</b> <br />
+  "A more integrated approach seems necessary to investigate the progressive inflammatory and 
+  other responses, and a more comprehensive analysis of the role of the different cells 
+  (microglia, but also astroglia and infiltrating monocytes) over the different stages of 
+  the cellular phase of AD is needed. Indeed, what is beneficial in the beginning could 
+  become destructive later. Finally, inflammation must be placed into the wider context of aging. 
+  The AD brain carries the hallmarks of an inflammatory process, but it is also apparent 
+  that age itself predisposes to inflammation—a concept that has been coined as “inflammaging.”"<br />
+  <b>Myelin aspect</b> <br />
+  "Braak suggested a link between vulnerability of neurons and their myelination stage because 
+  the spreading of neurofibrillary tangles recapitulates the pattern of myelination in reverse order" <br />
+  "Bartzokis goes even as far as to propose that the recently evolved extensive myelination 
+  of the human brain explains increased vulnerability to neurodegenerative and neuropsychiatric disorders" <br />
+  "Age-related myelin breakdown as assessed by MRI might indeed result in a progressive disconnection 
+  of neural networks and presage AD"
+  </details>
 
 - **Synergy between amyloid-β and tau in Alzheimer’s disease** <br />
   Busch MA, Hyman BT <br />
