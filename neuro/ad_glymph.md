@@ -144,7 +144,7 @@ and its velocity is low, which does not support the idea of CSF ciruclating rapi
 
 - <b id="louveau2015structural"></b>
   **Structural and functional features of central nervous system lymphatic vessels** <br />
-  Louveau A, Smirnov I, Keyes TJ, <br />
+  Louveau A, Smirnov I, Keyes TJ, _et al._  <br />
   _Nature_ **523**, 337–341 (2015) <br />
   https://doi.org/10.1038/nature14432
 
@@ -154,10 +154,17 @@ and its velocity is low, which does not support the idea of CSF ciruclating rapi
   _Neurochem Res_ **40**, 2583-99 (2015) <br />
   https://doi.org/10.1007/s11064-015-1581-6
 
-- **How astrocyte networks may contribute to cerebral metabolite clearance** <br />
+- <b id="asgari2015how"></b>
+  **How astrocyte networks may contribute to cerebral metabolite clearance** <br />
   Asgari M, de Zélicourt D, Kurtcuoglu V <br />
   _Sci Rep_ **5**, 15024 (2015) <br />
   https://doi.org/10.1038/srep15024
+
+- <b id="tarasoffconway2015clearance"></b>
+  **Clearance systems in the brain—implications for Alzheimer disease** <br />
+  Tarasoff-Conway JM, Carare RO, Osorio RS, _et al._  <br />
+  _Nat Rev Neurol_ **11**, 457–470 (2015) <br />
+  https://doi.org/10.1038/nrneurol.2015.119
 
 - <b id="louveau2016lymphatics"></b>
   **Lymphatics in Neurological Disorders: A Neuro-Lympho-Vascular Component of Multiple Sclerosis and Alzheimer’s Disease?** <br />
