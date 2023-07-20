@@ -142,7 +142,7 @@
   https://doi.org/10.1038/nrn2194
 
 - **Proteases and Proteolysis in Alzheimer Disease: A Multifactorial View on the Disease Process** <br />
-  De Strooper B <br/ >
+  De Strooper B <br />
   _Physiological Reviews_ **()**, 465-494 (2010) <br />
   https://doi.org/10.1152/physrev.00023.2009
 
