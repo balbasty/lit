@@ -136,6 +136,16 @@
   _SAGE KE_ **2004**, pe26 (2004) <br />
   https://doi.org/10.1126/sageke.2004.23.pe26
 
+- **Tau-mediated neurodegeneration in Alzheimer's disease and related disorders** <br />
+  Ballatore C, Lee VMY, Trojanowski JQ <br />
+  _Nat Rev Neurosci_ **8**, 663–672 (2007) <br />
+  https://doi.org/10.1038/nrn2194
+
+- **Proteases and Proteolysis in Alzheimer Disease: A Multifactorial View on the Disease Process** <br />
+  De Strooper B <br/ >
+  _Physiological Reviews_ **()**, 465-494 (2010) <br />
+  https://doi.org/10.1152/physrev.00023.2009
+
 - [**Neuropathological Alterations in Alzheimer Disease**
   ](https://www.dropbox.com/s/1i2ljn5n0guujh2) <br />
   Serrano-Pozo A, Frosch MP, Masliah E, Hyman BT <br />
