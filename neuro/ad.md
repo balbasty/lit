@@ -200,6 +200,22 @@
   Thal DR, Rub U, Orantes M, Braak H <br />
   _Neurology_ **58**, 1791-1800 (2002) <br />
   https://doi.org/10.1212/WNL.58.12.1791
+
+- **Serial PIB and MRI in normal, mild cognitive impairment and Alzheimer's disease:
+  implications for sequence of pathological events in Alzheimer's disease** <br />
+  Jack CR, _et al._ <br />
+  _Brain_, **132**, 1355–1365 (2009) <br />
+  https://doi.org/10.1093/brain/awp062
+  <details>
+  <summary>Notes</summary>
+  (i) dissociation between the rate of amyloid deposition and the rate of neurodegeneration late in life, with amyloid deposition proceeding at a constant slow rate while neurodegeneration accelerates <br />
+  (ii) clinical symptoms are coupled to neurodegeneration not amyloid deposition. <br />
+  Significant plaque deposition occurs prior to clinical decline.
+  The presence of brain amyloidosis alone is not sufficient to produce cognitive decline, 
+  rather, the neurodegenerative component of Alzheimer's disease pathology is the direct 
+  substrate of cognitive impairment and the rate of cognitive decline is driven by the 
+  rate of neurodegeneration. Neurodegeneration (atrophy on MRI) both precedes and parallels cognitive decline. 
+  </details>
   
 - **Stages of the Pathologic Process in Alzheimer Disease: Age Categories From 1 to 100 Years** <br />
   Braak H, Thal DR, Ghebremedhin E, Del Tredici K <br />
