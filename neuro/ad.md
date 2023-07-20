@@ -399,16 +399,45 @@
 
 ## Iron
 
-- https://academic.oup.com/brain/article/140/8/2112/3983258
-- https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0081093
-- https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.038799
-- https://www.frontiersin.org/articles/10.3389/fnins.2021.618435/full
-- https://pubmed.ncbi.nlm.nih.gov/33035667/
-- https://www.pnas.org/doi/10.1073/pnas.94.18.9866
-- https://www.nature.com/articles/s41380-019-0375-7
-- https://actaneurocomms.biomedcentral.com/articles/10.1186/s40478-021-01126-5
-- https://www.nature.com/articles/s41593-022-01074-w
+- **Iron accumulation in Alzheimer disease is a source of redox-generated free radicals** <br />
+  Smith MA, Harris PLR, Sayre LM, Perry G <br />
+  _PNAS_ **94**, 9866-9868 (1997) <br />
+  https://doi.org/10.1073/pnas.94.18.986
 
+- **In Vivo Quantitative Susceptibility Mapping (QSM) in Alzheimer's Disease** <br />
+  Acosta-Cabronero J, _et al._ <br />
+  _PLoS One_ (2013) <br />
+  https://doi.org/10.1371/journal.pone.0081093
+  
+- **Cerebral quantitative susceptibility mapping predicts amyloid-β-related cognitive decline** <br/ >
+  Ayton S, _et al._ <br />
+  _Brain_ **140**, 2112–2119 (2017) <br />
+  https://doi.org/10.1093/brain/awx137
+
+- **Brain iron is associated with accelerated cognitive decline in people with Alzheimer pathology** <br />
+  Ayton S, _et al._ <br />
+  _Mol Psychiatry_ **25**, 2932–2941 (2020) <br />
+  https://doi.org/10.1038/s41380-019-0375-7
+
+- **Systematic Review: Quantitative Susceptibility Mapping (QSM) of Brain Iron Profile in Neurodegenerative Diseases** <br />
+  Ravanfar P, _et al._ <br />
+  _Front Neurosci_ **15** (2021) <br />
+  https://doi.org/10.3389/fnins.2021.618435
+
+- **Associations of quantitative susceptibility mapping with Alzheimer's disease clinical and imaging markers** <br />
+  Cogswell PM, _et al._ <br />
+  _NeuroImage_ **224**, 117433 (2021) <br />
+  https://doi.org/10.1016/j.neuroimage.2020.117433
+
+- **Iron loading is a prominent feature of activated microglia in Alzheimer’s disease patients** <br />
+  Kenkhuis B, _et al._ <br />
+  _Acta Neuropathol Commun_ **9**, 27 (2021) <br />
+  https://doi.org/10.1186/s40478-021-01126-5
+
+- **Phenotypic and genetic associations of quantitative magnetic susceptibility in UK Biobank brain imaging** <br />
+  Wang C, _et al._ <br />
+  _Nat Neurosci_ **25**, 818–831 (2022) <br />
+  https://doi.org/10.1038/s41593-022-01074-w
 
 ## Other
 
