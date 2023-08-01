@@ -62,7 +62,7 @@
   https://doi.org/10.2967/jnumed.117.194720
 
 - **Spatiotemporal Propagation of the Cortical Atrophy: Population and Individual Patterns** <br />
-  Koval I, _et al._ <br/ >
+  Koval I, _et al._ <br />
   _Front. Neurol_ **9** (2018) <br />
   https://doi.org/10.3389/fneur.2018.00235
 
@@ -108,12 +108,12 @@
 
 - **Sowing the Seeds of Discovery: Tau-Propagation Models of Alzheimer’s Disease** <br />
   Bell BJ, Malvankar MM, Tallon C, Slusher BS <br />
-  _ACS Chem. Neurosci_ **11**, 3499–3509 (2020) <br/ >
+  _ACS Chem. Neurosci_ **11**, 3499–3509 (2020) <br />
   https://doi.org/10.1021/acschemneuro.0c00531
 
 - **Characterizing the spatiotemporal variability of Alzheimer’s disease pathology** <br />
-  Vogel JW, _et al._ <br/ >
-  _medRxiv_ (2020) <br/ >
+  Vogel JW, _et al._ <br />
+  _medRxiv_ (2020) <br />
   https://doi.org/10.1101/2020.08.20.20176883
 
 - **Hypothesis: Tau pathology is an initiating factor in sporadic Alzheimer's disease** <br />
@@ -167,13 +167,13 @@
   https://doi.org/10.1002/alz.062527
 
 - **Spatial-Temporal Patterns of β-Amyloid Accumulation: A Subtype and Stage Inference Model Analysis** <br />
-  Collij LE, _et al._ <br/ >
-  _Neurology_ **98**, e1692-e1703 (2022) <br/ >
+  Collij LE, _et al._ <br />
+  _Neurology_ **98**, e1692-e1703 (2022) <br />
   https://doi.org/10.1212/WNL.0000000000200148
 
 - **Distinct Factors Drive the Spatiotemporal Progression of Tau Pathology in Older Adults** <br />
   Adams JN, _et al._ <br />
-  _J Neurosci_ **42**, 1352-1361 (2022) <br/ >
+  _J Neurosci_ **42**, 1352-1361 (2022) <br />
   https://doi.org/10.1523/JNEUROSCI.1601-21.2021
 
 - **Structural progression of Alzheimer’s disease over decades: the MRI staging scheme** <br />
@@ -193,5 +193,5 @@
   
 - **Rates of regional tau accumulation in ageing and across the Alzheimer's disease continuum: an AIBL 18F-MK6240 PET study** <br />
   Krishnadas N, _et al._ <br />
-  _eBioMedicine_ **88** (2023) <br/ >
+  _eBioMedicine_ **88** (2023) <br />
   https://doi.org/10.1016/j.ebiom.2023.104450
