@@ -68,7 +68,8 @@
   _Neuropathology_ **19**, 93-111 (1999) <br />
   https://doi.org/10.1046/j.1440-1789.1999.00215.x
 
-- **How Much Cortex Can a Vein Drain? Downstream Dilution of Activation-Related Cerebral Blood Oxygenation Changes** <br />
+- [**How Much Cortex Can a Vein Drain? Downstream Dilution of Activation-Related Cerebral Blood Oxygenation Changes**
+  ](https://www.dropbox.com/scl/fi/cvxfl91nmvrf0mu6c6azq) <br />
   Turner R <br />
   _NeuroImage_ **16**, 1062-1067 (2002) <br />
   https://doi.org/10.1006/nimg.2002.1082
