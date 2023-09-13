@@ -64,7 +64,7 @@
 
 - [**Micro-angiographical studies of the medullary venous system of the cerebral hemisphere**
   ](https://www.dropbox.com/scl/fi/hil7lpwmco1s1acm51hne) <br />
-  Okudera T, _et al._ <br/ >
+  Okudera T, _et al._ <br />
   _Neuropathology_ **19**, 93-111 (1999) <br />
   https://doi.org/10.1046/j.1440-1789.1999.00215.x
 
@@ -109,7 +109,7 @@
 
 - [**Blockwise Processing Applied to Brain Microvascular Network Study**
   ](https://www.dropbox.com/scl/fi/ktn86v5deiqr8jwuxn4yk) <br />
-  Fouard C, _eta l._ <br/ >
+  Fouard C, _eta l._ <br />
   _IEEE TMI_ **25**, 1319-1328 <br />
   https://doi.org/10.1109/TMI.2006.880670
 
@@ -192,7 +192,7 @@
   https://doi.org/10.1016/j.jtbi.2009.10.037
 
 - [**Susceptibility Mapping as a Means to Visualize Veins and Quantify Oxygen Saturation**
-  ](https://www.dropbox.com/scl/fi/t6cjdbokhovwbaitgcqfr) <br/ >
+  ](https://www.dropbox.com/scl/fi/t6cjdbokhovwbaitgcqfr) <br />
   Haacke EM, _et al._ <br />
   _JMRI_ **32**, 663*676 (2010) <br />
   https://doi.org/10.1002/jmri.22276
@@ -275,7 +275,7 @@
 - [**The Neurovascular Unit Coming of Age: A Journey through Neurovascular Coupling in Health and Disease**
   ](https://www.dropbox.com/scl/fi/xr3wpi3440f797z1o9fj6) <br />
   Iadecola C <br />
-  _Neuron_ **96**, 17-42 (20147) <br/ >
+  _Neuron_ **96**, 17-42 (20147) <br />
   https://doi.org/10.1016/j.neuron.2017.07.030
 
 - [**Brain Capillary Networks Across Species: A few Simple Organizational Requirements Are Sufficient to Reproduce Both Structure and Function**
@@ -313,20 +313,20 @@
 
 - [**Cerebral white matter vasculature: still uncharted?**
   ](https://www.dropbox.com/scl/fi/xqrxbblxpda8jnl8dw1sj) <br />
-  Smirnov M, Destrieux C, Maldonado IL <br/ >
+  Smirnov M, Destrieux C, Maldonado IL <br />
   _Brain_ **144**, 3561–3575 (2021) <br />
   https://doi.org/10.1093/brain/awab273
 
-- [**Revisiting the neurovascular unit**](
-  https://www.dropbox.com/scl/fi/0i2nyajc7n0nxzbkwmllj) <br/ >
+- [**Revisiting the neurovascular unit**
+  ](https://www.dropbox.com/scl/fi/0i2nyajc7n0nxzbkwmllj) <br />
   Schaeffer S, Iadecola C <br />
-  _Nature Neurosci_ **24**, 1198-1209 (2021) <br/ >
+  _Nature Neurosci_ **24**, 1198-1209 (2021) <br />
   https://doi.org/10.1038/s41593-021-00904-7
 
 - [**Vascular Mapping of the Human Hippocampus Using Ferumoxytol-Enhanced MRI**
   ](https://www.dropbox.com/scl/fi/2k53gvlpv0pby6eg6pchk) <br />
-  Buch S, _et al._< br/ >
-  _NeuroImage_ **250**, 118957 (2022) <br/ >
+  Buch S, _et al._ <br />
+  _NeuroImage_ **250**, 118957 (2022) <br />
   https://doi.org/10.1016/j.neuroimage.2022.118957
 
 - **Imaging of the pial arterial vasculature of the human brain in vivo using high-resolution 7T time-of-flight angiography** <br />
@@ -708,7 +708,7 @@
 
 - [**The overlap between neurodegenerative and vascular factors in the pathogenesis of dementia**
   ](https://www.dropbox.com/scl/fi/2u596xvrg5bm860vm9ttb) <br />
-  Iadecola C <br/ >
+  Iadecola C <br />
   _Acta Neuropathol_ **120**, 287–296(2010) <br />
   https://doi.org/10.1007/s00401-010-0718-6
   
