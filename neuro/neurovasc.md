@@ -23,7 +23,7 @@
   Book (1980) <br />
   https://doi.org/10.1007/978-3-642-67432-7
   
-- **Cortical blood vessels of the human brain** <br />
+- [**Cortical blood vessels of the human brain**](https://www.dropbox.com/scl/fi/uzegntc2yv9ie7g3k3kzl) <br />
   Duvernoy HM, Delon S, Vannson JL <br />
   _Brain Research Bulletin_ **7**, 519-579 (1981) <br />
   https://doi.org/10.1016/0361-9230(81)90007-1
@@ -38,6 +38,18 @@
   Bell MA, Ball MJ <br />
   _Brain Research_ **335**, 139-143 (1985) <br />
   https://doi.org/10.1016/0006-8993(85)90284-7
+
+- [**The Correlation of Vascular Capacity with the Parenchymal Lesions of Alzheimer's Disease**
+  ](https://www.dropbox.com/scl/fi/o2a4bm2bd217dzrrwkykr) <br />
+  Bell MA, Ball MJ <br />
+  _Canadian Journal of Neurological Sciences_ **13**, 456-461 (1986) <br />
+  https://doi.org/10.1017/S0317167100037124
+
+- [**Features of the Cerebral Vascular Pattern That Predict Vulnerability to Perfusion or Oxygenation Deficiency:
+   An Anatomic Study**](https://www.dropbox.com/scl/fi/r79gestpqhzvj312l6fm6) <br />
+   Moody DM, _et al._ <br />
+   _American Journal of Neuroradiology_ **11**, 431-439 (1990) <br />
+   http://www.ncbi.nlm.nih.gov/pmc/articles/pmc8367475/
 
 - **Resistance to blood flow in microvessels in vivo** <br />
   Pries AR, Secomb TW, Gessner T, Sperandio MB, Gross JF, Gaehtgens P <br />
