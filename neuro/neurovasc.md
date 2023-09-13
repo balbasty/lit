@@ -1,7 +1,7 @@
-# Neurovascular anatomy
+# Neurovasculature
 
 
-## References
+## Anatomy
 
 - **The Physiological Principle of Minimum Work: I. The Vascular System and the Cost of Blood Volume** <br />
   Murray CD <br />
@@ -39,27 +39,11 @@
   _Brain Research_ **335**, 139-143 (1985) <br />
   https://doi.org/10.1016/0006-8993(85)90284-7
 
-- [**The Correlation of Vascular Capacity with the Parenchymal Lesions of Alzheimer's Disease**
-  ](https://www.dropbox.com/scl/fi/o2a4bm2bd217dzrrwkykr) <br />
-  Bell MA, Ball MJ <br />
-  _Canadian Journal of Neurological Sciences_ **13**, 456-461 (1986) <br />
-  https://doi.org/10.1017/S0317167100037124
-
 - [**Features of the Cerebral Vascular Pattern That Predict Vulnerability to Perfusion or Oxygenation Deficiency:
    An Anatomic Study**](https://www.dropbox.com/scl/fi/r79gestpqhzvj312l6fm6) <br />
    Moody DM, _et al._ <br />
    _American Journal of Neuroradiology_ **11**, 431-439 (1990) <br />
    http://www.ncbi.nlm.nih.gov/pmc/articles/pmc8367475/
-
-- **Resistance to blood flow in microvessels in vivo** <br />
-  Pries AR, Secomb TW, Gessner T, Sperandio MB, Gross JF, Gaehtgens P <br />
-  _Circulation Research_ **75**, 904–915 (1994) <br />
-  https://doi.org/10.1161/01.RES.75.5.904
-
-- **Biophysical aspects of blood flow in the microvasculature** <br />
-  Pries AR, Secomb TW, Gaehtgens P <br />
-  _Cardiovascular Research_ **32**, 654–667 (1996) <br />
-  https://doi.org/10.1016/S0008-6363(96)00065-X
 
 - **Morphological characteristics and distribution pattern of the arterial vessels in human cerebral cortex: 
   A scanning electron microscope study** <br />
@@ -76,6 +60,18 @@
   Turner R <br />
   _NeuroImage_ **16**, 1062-1067 (2002) <br />
   https://doi.org/10.1006/nimg.2002.1082
+
+- [**Microvasculature of the human cerebral white matter: Arteries of the deep white matter**
+  ](https://www.dropbox.com/scl/fi/piya6h9edj5zkx5izz0nj) <br />
+  Nonaka H, _et al._ <br />
+  _Neuropathology_ **23**, 111-118 (2003) <br />
+  https://doi.org/10.1093/jnen/62.2.154
+
+- [**Microanatomy of the subependymal arteries of the lateral ventricle**
+  ](https://www.dropbox.com/scl/fi/jsaeol21fydsyl46wctd8) <br />
+  Marinkovic, _et al._ <br />
+  _Surgical Neurology_ **63**, 451-458 (2005) <br />
+  https://doi.org/10.1016/j.surneu.2004.06.013
   
 - **X-ray high-resolution vascular network imaging** <br />
   Plouraboué F, Cloetens P, Fonta C, Steyer A, Lauwers F, Marc-Vergnes JP <br />
@@ -92,6 +88,23 @@
   _Neuroimage_ **32**, 626-36 (2006) <br />
   https://doi.org/10.1016/j.neuroimage.2006.03.043
 
+- [**A Novel Three-Dimensional Computer-Assisted Method for a Quantitative Study of Microvascular Networks of the Human Cerebral Cortex**
+  ](https://www.dropbox.com/scl/fi/ef1fllusn2g94p79ekzg3) <br />
+  Cassot F, Lauwers F, Fouard C, Prohaaska S, Lauwers-Cances V <br />
+  _Microcirculation_ **13**, 1-18 (2006) <br />
+   https://doi.org/10.1080/10739680500383407
+
+- [**Blockwise Processing Applied to Brain Microvascular Network Study**
+  ](https://www.dropbox.com/scl/fi/ktn86v5deiqr8jwuxn4yk) <br />
+  Fouard C, _eta l._ <br/ >
+  _IEEE TMI_ **25**, 1319-1328 <br />
+  https://doi.org/10.1109/TMI.2006.880670
+
+- [**Morphometry of pig coronary arterial trees**](https://www.dropbox.com/scl/fi/73j37p7u9n7dihhxzv1db) <br />
+  Kassab GS, _et al._ <br />
+  _American Journal of Physiology - Heart and Circulatory Physiology_ **265**, H350-H365 (1993) <br />
+  https://doi.org/10.1152/ajpheart.1993.265.1.H350
+
 - **From Homogeneous to Fractal Normal and Tumorous Microvascular Networks in the Brain** <br />
   Risser L, Plouraboué F, Steyer A, Cloetens P, Le Duc G, Fonta C <br />
   _JCBFM_ **27**, 293-303 (2007) <br />
@@ -102,27 +115,31 @@
   _PNAS_ **104**, 365-370 (2007) <br />
   https://doi.org/10.1073/pnas.0609551104
 
+- [**Robust measures of three-dimensional vascular tortuosity based on the minimum curvature
+  of approximating polynomial spline fits to the vessel mid-line**
+  ](https://www.dropbox.com/scl/fi/5yjbvtvohhi1qc67mog5p) <br />
+  Johnson MJ, Dougherty G <br />
+  _Medical Engineering & Physics_ (2007) <br />
+  https://doi.org/10.1016/j.medengphy.2006.07.008
+
+- [**Methods for Three-Dimensional Geometric Characterization of the Arterial Vasculature**
+  ](https://www.dropbox.com/scl/fi/xt03zvkxv5im0j91e439w) <br />
+  O'Flynn P, _et al._ <br />
+  _Annals of Biomedical Engineering_ **35**, 1368–1381 (2007) <br />
+  https://doi.org/10.1007/s10439-007-9307-9
+
 - **Gap filling of 3-D microvascular networks by tensor voting** <br />
   Risser L, Plouraboué F, Descombes X <br />
   _IEEE TMI_ **27**, 674-87 (2008) <br />
   https://doi.org/10.1109/TMI.2007.913248
-
-- **A vascular anatomical network model of the spatio-temporal response to brain activation** <br />
-  Boas DA, Jones SR, Devor A, Huppert TJ, Dale AM <br />
-  _NeuroImage_ **40**, 1116-1129 (2008) <br />
-  https://doi.org/10.1016/j.neuroimage.2007.12.061
-
-- **Oxygen advection and diffusion in a three- dimensional vascular anatomical network** <br />
-  Fang Q, Sakadzić S, Ruvinskaya L, Devor A, Dale AM, Boas DA <br />
-  _Opt Express_ **16**, 17530-41 (2008) <br />
-  https://doi.org/10.1364/oe.16.17530
 
 - **The Microvascular System of the Striate and Extrastriate Visual Cortex of the Macaque** <br />
   Weber B, Keller AL, Reichold J, Logothetis NK <br />
   _Cerebral Cortex_ **18**, 2318–2330 (2008) <br />
   https://doi.org/10.1093/cercor/bhm259
 
-- **Morphometry of the human cerebral cortex microcirculation: General characteristics and space-related profiles** <br />
+- [**Morphometry of the human cerebral cortex microcirculation: General characteristics and space-related profiles**
+  ](https://www.dropbox.com/scl/fi/l21ze4k83q6vh8pallm5u) <br />
   Lauwers F, Cassot F, Lauwers-Cances V, Puwanarajah P, Duvernoy H <br />
   _NeuroImage_ **39**, 936-948 (2008) <br />
   https://doi.org/10.1016/j.neuroimage.2007.09.024
@@ -132,7 +149,8 @@
   _International Journal of Developmental Neuroscience_ **27**, 185-196 (2009) <br />
   https://doi.org/10.1016/j.ijdevneu.2008.10.006
 
-- **Scaling Laws for Branching Vessels of Human Cerebral Cortex** <br />
+- [**Scaling Laws for Branching Vessels of Human Cerebral Cortex**
+  ](https://www.dropbox.com/scl/fi/xtb6aq5c3qesc6en20emr) <br />
   Cassot F, Lauwers F, Lorthois S, Puwanarajah P, Duvernoy H <br />
   _Microcirculation_ **4**, 331-344 (2009) <br />
   https://doi.org/10.1080/10739680802662607
@@ -142,17 +160,14 @@
   _PNAS_ **107**, 12670-12675 (2010) <br />
   https://doi.org/10.1073/pnas.1007239107
 
-- **A Novel Three-Dimensional Computer-Assisted Method for a Quantitative Study of Microvascular Networks of the Human Cerebral Cortex** <br />
-  Cassot F, Lauwers F, Fouard C, Prohaaska S, Lauwers-Cances V <br />
-  _Microcirculation_ **13**, 1-18 (2010) <br />
-   https://doi.org/10.1080/10739680500383407
-
-- **Branching patterns for arterioles and venules of the human cerebral cortex** <br />
+- [**Branching patterns for arterioles and venules of the human cerebral cortex**
+  ](https://www.dropbox.com/scl/fi/aq4bwnu0o70664p0z9ooh) <br />
   Cassot F, Lauwers F, Lorthois S, Puwanarajah P, Cances-Lauwers V, Duvernoy H <br />
   _Brain Research_ **1313**, 62-78 (2010) <br />
   https://doi.org/10.1016/j.brainres.2009.12.007
 
-- **Fractal analysis of vascular networks: Insights from morphogenesis** <br />
+- [**Fractal analysis of vascular networks: Insights from morphogenesis**
+  ](https://www.dropbox.com/scl/fi/5cchz1vhsmnb4okivvpwt) <br />
   Lorthois S, Cassot F <br />
   _Journal of Theoretical Biology_ **262**, 614-633 (2010) <br />
   https://doi.org/10.1016/j.jtbi.2009.10.037
@@ -161,21 +176,6 @@
   McCaslin AFH, Chen BR, Radosevich AJ, Cauli B, Hillman EMC <br />
   _JCBFM_ **31**, 795-806 (2011) <br />
   https://doi.org/10.1038/jcbfm.2010.204
-
-- **Occlusion of Cortical Ascending Venules Causes Blood Flow Decreases, Reversals in Flow Direction, and Vessel Dilation in Upstream Capillaries** <br />
-  Nguyen J, Nishimura N, Fetcho RN, Iadecola C, Schaffer CB <br />
-  _JCBFM_ **31**, 2243-2254 (2011) <br />
-  https://journals.sagepub.com/doi/10.1038/jcbfm.2011.95
-
-- **The Roles of Cerebral Blood Flow, Capillary Transit Time Heterogeneity, and Oxygen Tension in Brain Oxygenation and Metabolism** <br />
-  Jespersen SN, Østergaard L <br />
-  _JCBFM_ **32**, 264-277 (2012) <br />
-  https://doi.org/10.1038/jcbfm.2011.153
-
-- **Arteries dominate volume changes during brief functional hyperemia: Evidence from mathematical modelling** <br />
-  Barrett MJP, Tawhai MH, Suresh V <br />
-  _NeuroImage_ **62**, 482-492 (2012) <br />
-  https://doi.org/10.1016/j.neuroimage.2012.05.005
 
 - **Coupling and robustness of intra-cortical vascular territories** <br />
   Guibert R, Fonta C, Risser L, Plouraboué F <br />
@@ -197,7 +197,8 @@
   _Nat Neurosci_ **16**, 889–897 (2013) <br /> 
   https://doi.org/10.1038/nn.3426
 
-- **Tortuosity and other vessel attributes for arterioles and venules of the human cerebral cortex** <br />
+- [**Tortuosity and other vessel attributes for arterioles and venules of the human cerebral cortex**
+  ](https://www.dropbox.com/scl/fi/f5i75ct8h9ns7q46tcere) <br />
   Lorthois S, Lauwers F, Cassot F <br />
   _Microvascular Research_ **91**, 99-109 (2014) <br />
   https://doi.org/10.1016/j.mvr.2013.11.003
@@ -212,7 +213,8 @@
   _Journal of Theoretical Biology_ **380**, 40-47 (2015) <br />
   https://doi.org/10.1016/j.jtbi.2015.05.011
 
-- **A statistical model of the penetrating arterioles and venules in the human cerebral cortex** <br />
+- [**A statistical model of the penetrating arterioles and venules in the human cerebral cortex**
+  ](https://www.dropbox.com/scl/fi/ft6i0kctxmwe49s3d94h7) <br />
   El-Bouri WK, Payne SJ <br />
   _Microcirculation_ **23**, 580-590 (2016) <br />
   https://doi.org/10.1111/micc.12318
@@ -227,12 +229,14 @@
   _J Anat_ **230**, 833-841 (2017) <br />
   https://doi.org/10.1111/joa.12604
 
-- **Structure of the Medullary Veins of the Cerebral Hemisphere and Related Disorders** <br />
+- [**Structure of the Medullary Veins of the Cerebral Hemisphere and Related Disorders**
+  ](https://www.dropbox.com/scl/fi/7yikxsa3ey775hikhcqnk) <br />
   Taoka T, Fukusumi A, Miyasaka T, Kawai H, Nakane T, Kichikawa K, Naganawa S <br />
   _RadioGraphics_ **37**, 833-841 (2017) <br />
   https://doi.org/10.1148/rg.2017160061
 
-- **Brain Capillary Networks Across Species: A few Simple Organizational Requirements Are Sufficient to Reproduce Both Structure and Function** <br />
+- [**Brain Capillary Networks Across Species: A few Simple Organizational Requirements Are Sufficient to Reproduce Both Structure and Function**
+  ](https://www.dropbox.com/scl/fi/wobired8h1gae7dmf28yc) <br />
   Smith AF, Doyeux V, Berg M, Peyrounette M, Haft-Javaherian M, Larue AE, Slater JH, 
   Lauwers F, Blinder P, Tsai P, Kleinfeld D, Schaffer CB, Nishimura N, Davit Y, Lorthois S <br />
   _Front Physiol_ **10** (2019) <br />
@@ -260,23 +264,146 @@
   https://doi.org/10.1016/j.neuron.2021.02.006
 
 - **Segmentation-Less, Automated, Vascular Vectorization** <br />
-  Mihelic SA, Sikora WA, Hassan AM, Williamson MR, JonesTA, Dunn AK <br />
+  Mihelic SA, Sikora WA, Hassan AM, Williamson MR, Jones TA, Dunn AK <br />
   PLoS Comp Neuro (2021) <br />
   https://doi.org/10.1371/journal.pcbi.1009451
 
+- [**Cerebral white matter vasculature: still uncharted?**](https://www.dropbox.com/scl/fi/xqrxbblxpda8jnl8dw1sj) <br />
+  Smirnov M, Destrieux C, Maldonado IL <br/ >
+  _Brain_ **144**, 3561–3575 (2021) <br />
+  https://doi.org/10.1093/brain/awab273
+
+- [**Vascular Mapping of the Human Hippocampus Using Ferumoxytol-Enhanced MRI**
+  ](https://www.dropbox.com/scl/fi/2k53gvlpv0pby6eg6pchk) <br />
+  Buch S, _et al._< br/ >
+  _NeuroImage_ **250**, 118957 (2022) <br/ >
+  https://doi.org/10.1016/j.neuroimage.2022.118957
+
+- **Imaging of the pial arterial vasculature of the human brain in vivo using high-resolution 7T time-of-flight angiography** <br />
+  Bollmann S, Mattern H, Bernier M, Robinson SR, Park D, Speck O, Polimeni JR <br />
+  eLife (2022) <br />
+  https://doi.org/10.7554/eLife.71186
+  
 - **Public Volume Electron Microscopy Data: An Essential Resource to Study the Brain Microvasculature** <br />
   Bonney SK, Coelho-Santos V, Huang SF, _et al._ <br />
   _Front Cell Dev Biol_ **10** (2022) <br />
   https://doi.org/10.3389/fcell.2022.849469
-  
+  9.3.032211
 
-## Blood flow simulation
+## Neurovascular coupling
+
+- **Dynamics of blood flow and oxygenation changes during brain activation: the balloon model** <br />
+  Buxton RB, Wong EC, Frank LR <br />
+  _MRM_ **39**, 855-864 (1998) <br />
+  https://doi.org/10.1002/mrm.1910390602
+
+- **Evidence of a cerebrovascular postarteriole windkessel with delayed compliance** <br />
+  Mandeville JB, Marota JJ, Ayata C, Zaharchuk G, Moskowitz MA, Rosen BR, Weisskoff RM <br />
+  _JCBFM_ **19**, 679-689 (1999) <br />
+  https://doi.org/10.1097/00004647-199906000-00012
+
+- **Investigation of BOLD signal dependence on cerebral blood flow and oxygen consumption: The deoxyhemoglobin dilution model** <br />
+  Hoge RD, Atkinson J, Gill B, Crelier GR, Marrett S, Pike GP <br />
+  _MRM_ **42**, 849-863 (1999) <br />
+  https://doi.org/10.1002/(SICI)1522-2594(199911)42:5<849::AID-MRM4>3.0.CO;2-Z
+
+- **Nonlinear Responses in fMRI: The Balloon Model, Volterra Kernels, and Other Hemodynamics** <br />
+  Friston KJ, Mechelli A, Turner R, Price CJ <br />
+  _NeuroImage_ **12**, 466-477 (2000) <br />
+  https://doi.org/10.1006/nimg.2000.0630
+
+- **How Much Cortex Can a Vein Drain? Downstream Dilution of Activation-Related Cerebral Blood Oxygenation Changes** <br />
+  Turner R <br />
+  _NeuroImage_ **16**, 1062-1067 (2002) <br />
+  https://doi.org/10.1006/nimg.2002.1082
+
+- **A Model of the Hemodynamic Response and Oxygen Delivery to Brain** <br />
+  Zheng Y, Martindale J, Johnston D, Jones M, Berwick J, Mayhew J <br />
+  _NeuroImage_ **16**, 617-637 (2002) <br />
+  https://doi.org/10.1006/nimg.2002.1078
+
+- **Discrepancies between BOLD and flow dynamics in primary and supplementary motor areas: application of the balloon model to the interpretation of BOLD transients** <br />
+  Obata T, Liu TT, Miller KL, Luh WM, Wong EC, Frank LR, Buxton RB <br />
+  _NeuroImage_ **21**, 144-153 (2004) <br />
+  https://doi.org/10.1016/j.neuroimage.2003.08.040
+
+- **Modeling the hemodynamic response to brain activation** <br />
+  Buxton RB, Uludağ K, Dubowitz DJ, Liu TT <br />
+  _NeuroImage_ **23**, S220-S233 (2004) <br />
+  https://doi.org/10.1016/j.neuroimage.2004.07.013
+  
+- **A three-compartment model of the hemodynamic response and oxygen delivery to brain** <br />
+  Zheng Y, Johnston D, Berwick J, Chen D, Billings S, Mayhew J <br />
+  _NeuroImage_ **28**, 925-939 (2005) <br />
+  https://doi.org/10.1016/j.neuroimage.2005.06.042
+
+- **A Multiparametric Assessment of Oxygen Efflux from the Brain** <br />
+  Hermán P, Trübel HK, Hyder F <br />
+  _JCBFM_ **26**, 79-91 (2006) <br />
+  https://doi.org/10.1038/sj.jcbfm.9600165
+
+- **Using nonlinear models in fMRI data analysis: Model selection and activation detection** <br />
+  Deneux T, Faugeras O <br />
+  _NeuroImage_ **32**, 1669-1689 (2006) <br />
+  https://doi.org/10.1016/j.neuroimage.2006.03.006
+
+- **A multicompartment vascular model for inferring baseline and functional changes in cerebral oxygen metabolism and arterial dilation** <br />
+  Huppert TJ, Allen MS, Benav H, Jones PB, Boas DA <br />
+  _JCBFM_ **27**, 1262-1279 (2007) <br />
+  https://doi.org/10.1038/sj.jcbfm.9600435
+
+- **Glial regulation of the cerebral microvasculature** <br />
+  Iadecola C, Nedergaard M <br />
+  _Nat Neurosci_ **10**, 1369–1376 (2007) <br />
+  https://doi.org/10.1038/nn2003
+  
+- **A vascular anatomical network model of the spatio-temporal response to brain activation** <br />
+  Boas DA, Jones SR, Devor A, Huppert TJ, Dale AM <br />
+  _NeuroImage_ **40**, 1116-1129 (2008) <br />
+  https://doi.org/10.1016/j.neuroimage.2007.12.061
+  
+- **Glial and neuronal control of brain blood flow** <br />
+  Attwell D, Buchan A, Charpak S, _et al._ <br />
+  _Nature_ **468**, 232–243 (2010) <br />
+  https://doi.org/10.1038/nature09613
+  
+- **Coupling Mechanism and Significance of the BOLD Signal: A Status Report** <br />
+  Hillman EMC <br />
+  _Annual Review of Neuroscience_ **37**, 161-181 (2014) <br />
+  https://doi.org/10.1146/annurev-neuro-071013-014111
+  
+- **Arterial impulse model for the BOLD response to brief neural activation** <br />
+  Kim JH, Ress D <br />
+  _NeuroImage_ **124**, 394-408 (2016) <br />
+  https://doi.org/10.1016/j.neuroimage.2015.08.068
+
+- **Toward an integrative neurovascular framework for studying brain networks** <br />
+  Guilbert J, Légaré A, De Koninck P, Desrosiers P, Desjardins M <br />
+  _Neurophotonics_ **9**, 032211 (2022) <br />
+  https://doi.org/10.1117/1.NPh.
+  
+## Blood flow
 
 - **Blood flow in microvascular networks. Experiments and simulation** <br />
   Pries AR, Secomb TW, Gaehtgens P, Gross JF <br/ >
   _Circulation Research_ **67**, 826–834 (1990) <br />
   https://doi.org/10.1161/01.RES.67.4.826
 
+- **Blood viscosity in tube flow: dependence on diameter and hematocrit** <br />
+  Pries AR, Neuhaus D, Gaehtgens P <br />
+  _Heart and Circulatory Physiology_ **263**, H1770-H1778 (1992) <br />
+  https://doi.org/10.1152/ajpheart.1992.263.6.H1770
+
+- **Resistance to blood flow in microvessels in vivo** <br />
+  Pries AR, Secomb TW, Gessner T, Sperandio MB, Gross JF, Gaehtgens P <br />
+  _Circulation Research_ **75**, 904–915 (1994) <br />
+  https://doi.org/10.1161/01.RES.75.5.904
+
+- **Biophysical aspects of blood flow in the microvasculature** <br />
+  Pries AR, Secomb TW, Gaehtgens P <br />
+  _Cardiovascular Research_ **32**, 654–667 (1996) <br />
+  https://doi.org/10.1016/S0008-6363(96)00065-X
+  
 - **The Physics of Pulsatile Flow** <br />
   Zamir M <br />
   Book (2000) <br />
@@ -287,6 +414,11 @@
   _NeuroImage_ **29**, 107-118 (2008) <br />
   https://doi.org/10.1016/j.neuroimage.2007.08.022
 
+- **Oxygen advection and diffusion in a three-dimensional vascular anatomical network** <br />
+  Fang Q, Sakadzić S, Ruvinskaya L, Devor A, Dale AM, Boas DA <br />
+  _Opt Express_ **16**, 17530-41 (2008) <br />
+  https://doi.org/10.1364/oe.16.17530
+  
 - **Vascular Graph Model to Simulate the Cerebral Blood Flow in Realistic Vascular Networks** <br />
   Reichold J, Stampanoni M, Keller AL, Buck A, Jenny P, Weber B <br />
   _JCBFM_ **29**, 1429-1443 (2009) <br />
@@ -302,8 +434,9 @@
   _Transp Porous Med_ **83**, 171–194 (2010) <br /> 
   https://doi.org/10.1007/s11242-009-9492-0
   
-- **Simulation study of brain blood flow regulation by intra-cortical arterioles in an anatomically 
-  accurate large human vascular network: Part I: Methodology and baseline flow** <br />
+- [**Simulation study of brain blood flow regulation by intra-cortical arterioles in an anatomically 
+  accurate large human vascular network: Part I: Methodology and baseline flow**
+  ](https://www.dropbox.com/scl/fi/b4rvnek1rm9o5e1zwh4he) <br />
   Lorthois S, Cassot F, Lauwers F <br />
   _NeuroImage_ **54**, 1031-1042 (2011) <br />
   https://doi.org/10.1016/j.neuroimage.2010.09.032
@@ -314,6 +447,21 @@
   Lorthois S, Cassot F, Lauwers F <br />
   _NeuroImage_ **54**, 2840-2853 (2011) <br />
   https://doi.org/10.1016/j.neuroimage.2010.10.040
+  
+- **Occlusion of Cortical Ascending Venules Causes Blood Flow Decreases, Reversals in Flow Direction, and Vessel Dilation in Upstream Capillaries** <br />
+  Nguyen J, Nishimura N, Fetcho RN, Iadecola C, Schaffer CB <br />
+  _JCBFM_ **31**, 2243-2254 (2011) <br />
+  https://journals.sagepub.com/doi/10.1038/jcbfm.2011.95
+
+- **The Roles of Cerebral Blood Flow, Capillary Transit Time Heterogeneity, and Oxygen Tension in Brain Oxygenation and Metabolism** <br />
+  Jespersen SN, Østergaard L <br />
+  _JCBFM_ **32**, 264-277 (2012) <br />
+  https://doi.org/10.1038/jcbfm.2011.153
+
+- **Arteries dominate volume changes during brief functional hyperemia: Evidence from mathematical modelling** <br />
+  Barrett MJP, Tawhai MH, Suresh V <br />
+  _NeuroImage_ **62**, 482-492 (2012) <br />
+  https://doi.org/10.1016/j.neuroimage.2012.05.005
   
 - **A generalized mathematical framework for estimating the residue function for arbitrary vascular networks** <br />
   Park CS, Payne SJ <br />
@@ -350,7 +498,8 @@
   _PLoS Comp Bio_ (2018) <br />
   https://doi.org/10.1371/journal.pcbi.1006549
 
-- **Multiscale modelling of blood flow in cerebral microcirculation: Details at capillary scale control accuracy at the level of the cortex** <br />
+- [**Multiscale modelling of blood flow in cerebral microcirculation: Details at capillary scale control accuracy at the level of the cortex**
+  ](https://www.dropbox.com/scl/fi/sbjv44ym101did03vgvt5) <br />
   Peyrounette M, Davit Y, Quintard M, Lorthois S <br />
   _PLoS one_ (2018) <br />
   https://doi.org/10.1371/journal.pone.0189474
@@ -483,6 +632,18 @@
   https://doi.org/10.1098/rsif.2022.0087
 
 ## AD
+
+- [**The Correlation of Vascular Capacity with the Parenchymal Lesions of Alzheimer's Disease**
+  ](https://www.dropbox.com/scl/fi/o2a4bm2bd217dzrrwkykr) <br />
+  Bell MA, Ball MJ <br />
+  _Canadian Journal of Neurological Sciences_ **13**, 456-461 (1986) <br />
+  https://doi.org/10.1017/S0317167100037124
+  
+- [**Neurovascular mechanisms of Alzheimer’s neurodegeneration**
+  ](https://www.dropbox.com/scl/fi/6ymy8gairzi10bs9ctdn3) <br />
+  Zlokovic  BV <br />
+  _Trends Neurosci_ **28**, 202-208 (2005) <br />
+  https://doi.org/10.1016/j.tins.2005.02.001
 
 - **Altered morphology and 3D architecture of brain vasculature in a mouse model for Alzheimer's disease** <br />
   Meyer EP, Ulmann-Schuler A, Staufenbiel M, Krucker T <br />
