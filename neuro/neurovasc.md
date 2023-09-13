@@ -441,7 +441,7 @@
 ## Blood flow
 
 - **Blood flow in microvascular networks. Experiments and simulation** <br />
-  Pries AR, Secomb TW, Gaehtgens P, Gross JF <br/ >
+  Pries AR, Secomb TW, Gaehtgens P, Gross JF <br />
   _Circulation Research_ **67**, 826–834 (1990) <br />
   https://doi.org/10.1161/01.RES.67.4.826
 
