@@ -476,7 +476,8 @@
   _NeuroImage_ **29**, 107-118 (2008) <br />
   https://doi.org/10.1016/j.neuroimage.2007.08.022
 
-- **Oxygen advection and diffusion in a three-dimensional vascular anatomical network** <br />
+- [**Oxygen advection and diffusion in a three-dimensional vascular anatomical network**
+  ](https://www.dropbox.com/scl/fi/cu22ckledvrcryc485gq7) <br />
   Fang Q, Sakadzić S, Ruvinskaya L, Devor A, Dale AM, Boas DA <br />
   _Opt Express_ **16**, 17530-41 (2008) <br />
   https://doi.org/10.1364/oe.16.17530
