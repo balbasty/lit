@@ -421,6 +421,12 @@
   Hillman EMC <br />
   _Annual Review of Neuroscience_ **37**, 161-181 (2014) <br />
   https://doi.org/10.1146/annurev-neuro-071013-014111
+
+- [**Quantifying the Microvascular Origin of BOLD-fMRI from First Principles with Two-Photon Microscopy and an Oxygen-Sensitive Nanoprobe**
+  ](https://www.dropbox.com/scl/fi/y1rmdk5p5ns0c7kta52oj) <br />
+  Gagnon L, _et al._ <br/ >
+  _J Neurosci_ **35**, 3663-3675 (2015) <br />
+  https://doi.org/10.1523/JNEUROSCI.3555-14.2015
   
 - **Arterial impulse model for the BOLD response to brief neural activation** <br />
   Kim JH, Ress D <br />
@@ -534,9 +540,15 @@
   _Microcirculation_ **22**, 1-18 (2014) <br />
   https://doi.org/10.1111/micc.12156
 
+- [**Quantifying the Microvascular Origin of BOLD-fMRI from First Principles with Two-Photon Microscopy and an Oxygen-Sensitive Nanoprobe**
+  ](https://www.dropbox.com/scl/fi/y1rmdk5p5ns0c7kta52oj) <br />
+  Gagnon L, _et al._ <br/ >
+  _J Neurosci_ **35**, 3663-3675 (2015) <br />
+  https://doi.org/10.1523/JNEUROSCI.3555-14.2015
+
 - **The capillary bed offers the largest hemodynamic resistance to the cortical blood supply** <br />
   Gould IG, Tsai P, Kleinfeld D, Linninger A <br />
-  _JCBFM_ **37**, 52-68 2017 <br />
+  _JCBFM_ **37**, 52-68 (2017) <br />
   https://doi.org/10.1177/0271678X16671146
 
 - **Mathematical modeling of local perfusion in large distensible microvascular networks** <br />
