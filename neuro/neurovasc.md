@@ -45,6 +45,12 @@
    _American Journal of Neuroradiology_ **11**, 431-439 (1990) <br />
    http://www.ncbi.nlm.nih.gov/pmc/articles/pmc8367475/
 
+- [**Small vessels in the human brain: MR venography with deoxyhemoglobin as an intrinsic contrast agent**
+  ](https://www.dropbox.com/scl/fi/yb9boqjs65w85updmtr9c) <br />
+  Reichenbach JR, Venkatesan R, Schillinger DJ, Kido DK, Haacke EM <br />
+  _Radiology_ **204**, 272-277 (1997) <br />
+  https://doi.org/10.1148/radiology.204.1.9205259
+
 - **Morphological characteristics and distribution pattern of the arterial vessels in human cerebral cortex: 
   A scanning electron microscope study** <br />
   Reina-de la Torre F, Rodriguez-Baeza A, Sahuquillo-Barris J <br />
@@ -55,6 +61,12 @@
   Michel CC, Curry FE <br />
   _Physiological Reviews_ **79**, 703-761 (1999) <br />
   https://doi.org/10.1152/physrev.1999.79.3.703
+
+- [**Micro-angiographical studies of the medullary venous system of the cerebral hemisphere**
+  ](https://www.dropbox.com/scl/fi/hil7lpwmco1s1acm51hne) <br />
+  Okudera T, _et al._ <br/ >
+  _Neuropathology_ **19**, 93-111 (1999) <br />
+  https://doi.org/10.1046/j.1440-1789.1999.00215.x
 
 - **How Much Cortex Can a Vein Drain? Downstream Dilution of Activation-Related Cerebral Blood Oxygenation Changes** <br />
   Turner R <br />
@@ -155,6 +167,12 @@
   _Microcirculation_ **4**, 331-344 (2009) <br />
   https://doi.org/10.1080/10739680802662607
 
+- [**Cerebral Developmental Venous Anomalies: Current Concepts**
+  ](https://www.dropbox.com/scl/fi/mql9eguioc35jo7e97fk8) <br />
+  San Millan Ruiz D, Yilmaz H, Gailloud P <br />
+  _Annals of neurology_ **66**, 271-283 (2009) <br />
+  https://doi.org/10.1002/ana.21754
+
 - **Topological basis for the robust distribution of blood to rodent neocortex** <br />
   Blinder P, Shih AY, Rafie C, Kleinfeld D <br />
   _PNAS_ **107**, 12670-12675 (2010) <br />
@@ -171,6 +189,12 @@
   Lorthois S, Cassot F <br />
   _Journal of Theoretical Biology_ **262**, 614-633 (2010) <br />
   https://doi.org/10.1016/j.jtbi.2009.10.037
+
+- [**Susceptibility Mapping as a Means to Visualize Veins and Quantify Oxygen Saturation**
+  ](https://www.dropbox.com/scl/fi/t6cjdbokhovwbaitgcqfr) <br/ >
+  Haacke EM, _et al._ <br />
+  _JMRI_ **32**, 663*676 (2010) <br />
+  https://doi.org/10.1002/jmri.22276
 
 - **in vivo 3D Morphology of Astrocyte—Vasculature Interactions in the Somatosensory Cortex: Implications for Neurovascular Coupling** <br />
   McCaslin AFH, Chen BR, Radosevich AJ, Cauli B, Hillman EMC <br />
@@ -203,6 +227,12 @@
   _Microvascular Research_ **91**, 99-109 (2014) <br />
   https://doi.org/10.1016/j.mvr.2013.11.003
 
+- [**High Resolution Imaging of Cerebral Small Vessel Disease with 7 T MRI**
+  ](https://www.dropbox.com/scl/fi/499cdy4hhqde15e612nt40) <br />
+  van Veluw SJ, _et al._ <br />
+  _Trends in Neurovascular Interventions. Acta Neurochirurgica Supplement_ **119** (2014) <br />
+  https://doi.org/10.1007/978-3-319-02411-0_21
+
 - **Vascular Supply of the Cerebral Cortex is Specialized for Cell Layers but Not Columns** <br />
   Adams DL, Piserchia V, Economides JR, Horton JC <br />
   _Cerebral Cortex_ **25**, 3673–3681 (2015) <br />
@@ -219,6 +249,12 @@
   _Microcirculation_ **23**, 580-590 (2016) <br />
   https://doi.org/10.1111/micc.12318
 
+- [**Quantification of deep medullary veins at 7 T brain MRI**
+  ](https://www.dropbox.com/scl/fi/9mntdzrvf58jptvx9xh0e) <br />
+  Kuijf HJ, _et al._ <br />
+  European Radiology **26**, 3412–3418 (2016) <br />
+  https://doi.org/10.1007/s00330-016-4220-y
+
 - **Depth-dependent flow and pressure characteristics in cortical microvascular networks** <br />
   Schmid F, Tsai PS, Kleinfeld D, Jenny P, Weber B <br />
   _PLOS Comp Bio_ (2017) <br />
@@ -234,6 +270,12 @@
   Taoka T, Fukusumi A, Miyasaka T, Kawai H, Nakane T, Kichikawa K, Naganawa S <br />
   _RadioGraphics_ **37**, 833-841 (2017) <br />
   https://doi.org/10.1148/rg.2017160061
+
+- [**The Neurovascular Unit Coming of Age: A Journey through Neurovascular Coupling in Health and Disease**
+  ](https://www.dropbox.com/scl/fi/xr3wpi3440f797z1o9fj6) <br />
+  Iadecola C <br />
+  _Neuron_ **96**, 17-42 (20147) <br/ >
+  https://doi.org/10.1016/j.neuron.2017.07.030
 
 - [**Brain Capillary Networks Across Species: A few Simple Organizational Requirements Are Sufficient to Reproduce Both Structure and Function**
   ](https://www.dropbox.com/scl/fi/wobired8h1gae7dmf28yc) <br />
@@ -268,10 +310,17 @@
   PLoS Comp Neuro (2021) <br />
   https://doi.org/10.1371/journal.pcbi.1009451
 
-- [**Cerebral white matter vasculature: still uncharted?**](https://www.dropbox.com/scl/fi/xqrxbblxpda8jnl8dw1sj) <br />
+- [**Cerebral white matter vasculature: still uncharted?**
+  ](https://www.dropbox.com/scl/fi/xqrxbblxpda8jnl8dw1sj) <br />
   Smirnov M, Destrieux C, Maldonado IL <br/ >
   _Brain_ **144**, 3561–3575 (2021) <br />
   https://doi.org/10.1093/brain/awab273
+
+- [**Revisiting the neurovascular unit**](
+  https://www.dropbox.com/scl/fi/0i2nyajc7n0nxzbkwmllj) <br/ >
+  Schaeffer S, Iadecola C <br />
+  _Nature Neurosci_ **24**, 1198-1209 (2021) <br/ >
+  https://doi.org/10.1038/s41593-021-00904-7
 
 - [**Vascular Mapping of the Human Hippocampus Using Ferumoxytol-Enhanced MRI**
   ](https://www.dropbox.com/scl/fi/2k53gvlpv0pby6eg6pchk) <br />
@@ -376,6 +425,12 @@
   Kim JH, Ress D <br />
   _NeuroImage_ **124**, 394-408 (2016) <br />
   https://doi.org/10.1016/j.neuroimage.2015.08.068
+
+- [**Contribution of systemic vascular effects to fMRI activity in white matter**
+  ](https://www.dropbox.com/scl/fi/2c7ja0tlkso3e6b6bjyrm) <br />
+  Ozbay PS, _et al._ <br />
+  _Neuroimage_ **176**, 541–549 (2018) <br />
+  https://doi.org/10.1016%2Fj.neuroimage.2018.04.045
 
 - **Toward an integrative neurovascular framework for studying brain networks** <br />
   Guilbert J, Légaré A, De Koninck P, Desrosiers P, Desjardins M <br />
@@ -649,8 +704,15 @@
   Meyer EP, Ulmann-Schuler A, Staufenbiel M, Krucker T <br />
   _PNAS_ **105**, 3587-3592 (2008) <br />
   https://doi.org/10.1073/pnas.0709788105
+
+- [**The overlap between neurodegenerative and vascular factors in the pathogenesis of dementia**
+  ](https://www.dropbox.com/scl/fi/2u596xvrg5bm860vm9ttb) <br />
+  Iadecola C <br/ >
+  _Acta Neuropathol_ **120**, 287–296(2010) <br />
+  https://doi.org/10.1007/s00401-010-0718-6
   
-- **Neurovascular pathways to neurodegeneration in Alzheimer's disease and other disorders** <br />
+- [**Neurovascular pathways to neurodegeneration in Alzheimer's disease and other disorders**
+  ](https://www.dropbox.com/scl/fi/6cxxq3nr3vkcwvkvobf04) <br />
   Zlokovic  BV <br />
   _Nat Rev Neurosci_ **12**, 723–738 (2011) <br />
   https://doi.org/10.1038/nrn3114
