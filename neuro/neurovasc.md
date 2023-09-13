@@ -209,10 +209,10 @@
   _J Anat_ **230**, 833-841 (2017) <br />
   https://doi.org/10.1111/joa.12604
 
-- **Mathematical modeling of local perfusion in large distensible microvascular networks** <br />
-  Causin P, Malgaroli F <br />
-  _Computer Methods in Applied Mechanics and Engineering_ **323**, 303-329 (2017) <br />
-  https://doi.org/10.1016/j.cma.2017.05.015
+- **Structure of the Medullary Veins of the Cerebral Hemisphere and Related Disorders** <br />
+  Taoka T, Fukusumi A, Miyasaka T, Kawai H, Nakane T, Kichikawa K, Naganawa S <br />
+  _RadioGraphics_ **37**, 833-841 (2017) <br />
+  https://doi.org/10.1148/rg.2017160061
 
 - **Brain Capillary Networks Across Species: A few Simple Organizational Requirements Are Sufficient to Reproduce Both Structure and Function** <br />
   Smith AF, Doyeux V, Berg M, Peyrounette M, Haft-Javaherian M, Larue AE, Slater JH, 
@@ -317,6 +317,11 @@
   _JCBFM_ **37**, 52-68 2017 <br />
   https://doi.org/10.1177/0271678X16671146
 
+- **Mathematical modeling of local perfusion in large distensible microvascular networks** <br />
+  Causin P, Malgaroli F <br />
+  _Computer Methods in Applied Mechanics and Engineering_ **323**, 303-329 (2017) <br />
+  https://doi.org/10.1016/j.cma.2017.05.015
+  
 - **Cerebral Blood Flow Modeling with Discrete Red Blood Cell Tracking** <br />
   Schmid F <br />
   _PhD Thesis_ (2017) <br />
