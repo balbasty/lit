@@ -28,6 +28,12 @@
   _Brain Research Bulletin_ **7**, 519-579 (1981) <br />
   https://doi.org/10.1016/0361-9230(81)90007-1
 
+- [**Morphometric Comparison of Hippocampal Microvasculature in Ageing and Demented People: Diameters and Densities**
+  ](https://www.dropbox.com/scl/fi/n12y532jpxo5cczg4jc8z) <br />
+  Bell MA, Ball MJ <br />
+  _Acta Neuropathologica_ **53**, 299-318 (1981) <br />
+  https://doi.org/10.1007/BF00690372
+
 - **Laminar variation in the microvascular architecture of normal human visual cortex (area 17)** <br />
   Bell MA, Ball MJ <br />
   _Brain Research_ **335**, 139-143 (1985) <br />
