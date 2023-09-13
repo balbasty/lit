@@ -15,6 +15,12 @@
   _BMC Neurol_ **9**, 3 (2009) <br />
   https://doi.org/10.1186/1471-2377-9-3
 
+- [**Functional Magnetic Resonance Imaging Detection of Vascular Reactivity in Cerebral Amyloid Angiopathy**
+  ](https://www.dropbox.com/scl/fi/euoxpxd1vvv6be8s4orot) <br />
+  Dumas A, _et al._ <br />
+  _Ann Neurol_ **72**, 76–81 (2012) <br />
+  https://doi.org/10.1002/ana.23566
+
 - [**No neuropathological evidence for a direct topographical relation between microbleeds and cerebral amyloid angiopathy**
   ](https://www.dropbox.com/scl/fi/7ptywcc5rg2hec7zbthrm) <br />
   Kövari E, _et al._ <br />
