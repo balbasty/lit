@@ -21,6 +21,12 @@
   _Acta Neuropathol Commun_ **3**, 49 (2015) <br />
   https://doi.org/10.1186/s40478-015-0228-9
 
+- [**10-Year Follow-Up of a Patient with Cerebral Amyloid Angiopathy**
+  ](https://www.dropbox.com/scl/fi/p3i89fsoqvlgt28a3szqc) <br />
+  Kang MK, Yoon BW <br />
+  _Case Rep Neurol_ **12**, 202-206 (2020) <br />
+  https://doi.org/10.1159/000501199
+
 - [**Progression of cerebral amyloid angiopathy: a pathophysiological framework**
   ](https://www.dropbox.com/scl/fi/79fv364ng8yjyuiqnhrgk) <br />
   Koemans EA, _et al._ <br />
