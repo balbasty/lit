@@ -27,6 +27,24 @@
   _Acta Neuropathol Commun_ **3**, 49 (2015) <br />
   https://doi.org/10.1186/s40478-015-0228-9
 
+- [**Cerebral amyloid angiopathy and its co-occurrence with Alzheimer's disease and other cerebrovascular neuropathologic changes**
+  ](https://www.dropbox.com/scl/fi/yysz3ugx36l0iokktm46r) <br />
+  Brenowitz WD, _et al._ <br />
+  _Neurobiol Aging_ **36**, 2702-2708 (2015) <br />
+  https://doi.org/10.1016/j.neurobiolaging.2015.06.028
+
+- [**Detection, risk factors, and functional consequences of cerebral microinfarcts**
+  ](https://www.dropbox.com/scl/fi/hhfi19g858norklbq4aym) <br />
+  van Veluw SJ, _et al._ <br />
+  _Lancet Neurol_ **16**, 730–40 (2017) <br />
+  https://doi.org/10.1016/S1474-4422(17)30196-5
+
+- [**Histopathology of diffusion imaging abnormalities in cerebral amyloid angiopathy**
+  ](https://www.dropbox.com/scl/fi/d6958u86yv5x8vhvap59e) <br />
+  van Veluw SJ, _et al._ <br />
+  _Neurology **92**, e933-e943 (2019) <br />
+  https://doi.org/10.1212/WNL.0000000000007005
+
 - [**10-Year Follow-Up of a Patient with Cerebral Amyloid Angiopathy**
   ](https://www.dropbox.com/scl/fi/p3i89fsoqvlgt28a3szqc) <br />
   Kang MK, Yoon BW <br />
