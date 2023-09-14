@@ -33,6 +33,18 @@
   _Case Rep Neurol_ **12**, 202-206 (2020) <br />
   https://doi.org/10.1159/000501199
 
+- [**Cerebral amyloid angiopathy and Alzheimer disease — one peptide, two pathways**
+  ](https://www.dropbox.com/scl/fi/78roxx3n4fxacjadqq72y) <br />
+  Greenberg SM, _et al._ <br />
+  _Nat Rev Neurol_ **16**, 30–42 (2020) <br />
+  https://doi.org/10.1038/s41582-019-0281-2
+
+- [**Prevalence of cerebral amyloid angiopathy: A systematic review and meta-analysis**
+  ](https://www.dropbox.com/scl/fi/wvz1ytbf6dz9jpms08451) <br />
+  Jakel L, _et al._ <br />
+  _Alzheimer's & Dementia_ **18**, 10-28 (2021) <br />
+  https://doi.org/10.1002/alz.12366
+
 - [**Progression of cerebral amyloid angiopathy: a pathophysiological framework**
   ](https://www.dropbox.com/scl/fi/79fv364ng8yjyuiqnhrgk) <br />
   Koemans EA, _et al._ <br />
