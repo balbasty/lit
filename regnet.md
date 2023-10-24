@@ -100,6 +100,12 @@ References
   IEEE PAMI (2013) <br/>
   https://arxiv.org/abs/1203.1513
 
+- <b id="wu2013unsupervised"></b>
+  **Unsupervised Deep Feature Learning for Deformable Registration of MR Brain Images** <br/>
+  Guorong Wu, Minjeong Kim, Qian Wang, Yaozong Gao, Shu Liao, Dinggang Shen <br/>
+  MICCAI (2013) <br/>
+  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4073478/
+
 - <b id="gens2014deep"></b>
   **Deep Symmetry Networks** <br/>
   Robert Gens, Pedro Domingos <br/>
