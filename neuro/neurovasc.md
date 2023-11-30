@@ -86,12 +86,14 @@
   _Surgical Neurology_ **63**, 451-458 (2005) <br />
   https://doi.org/10.1016/j.surneu.2004.06.013
   
-- **X-ray high-resolution vascular network imaging** <br />
+- [**X-ray high-resolution vascular network imaging**
+  ](https://www.dropbox.com/scl/fi/oxodzom7mv4uatsddkz4w) <br />
   Plouraboué F, Cloetens P, Fonta C, Steyer A, Lauwers F, Marc-Vergnes JP <br />
   _J Microsc_ **215**, 139-48 (2005) <br />
   https://doi.org/10.1111/j.0022-2720.2004.01362.x
 
-- **Two-Photon Imaging of Cortical Surface Microvessels Reveals a Robust Redistribution in Blood Flow after Vascular Occlusion** <br />
+- [**Two-Photon Imaging of Cortical Surface Microvessels Reveals a Robust Redistribution in Blood Flow after Vascular Occlusion**
+  ](https://www.dropbox.com/scl/fi/hv37jgp021othjxgldpbq) <br />
   Schaffer CB, Friedman B, Nishimura N, _et al._ <br />
   _PLOS Biology_ (2006) <br />
   https://doi.org/10.1371/journal.pbio.0040022
