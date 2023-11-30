@@ -92,13 +92,13 @@
   _J Microsc_ **215**, 139-48 (2005) <br />
   https://doi.org/10.1111/j.0022-2720.2004.01362.x
 
-- [**Two-Photon Imaging of Cortical Surface Microvessels Reveals a Robust Redistribution in Blood Flow after Vascular Occlusion**
-  ](https://www.dropbox.com/scl/fi/hv37jgp021othjxgldpbq) <br />
+- **Two-Photon Imaging of Cortical Surface Microvessels Reveals a Robust Redistribution in Blood Flow after Vascular Occlusion** <br />
   Schaffer CB, Friedman B, Nishimura N, _et al._ <br />
   _PLOS Biology_ (2006) <br />
   https://doi.org/10.1371/journal.pbio.0040022
 
-- **Hierarchical microimaging for multiscale analysis of large vascular networks** <br />
+- [**Hierarchical microimaging for multiscale analysis of large vascular networks**
+  ](https://www.dropbox.com/scl/fi/hv37jgp021othjxgldpbq) <br />
   Heinzer S, Krucker T, Stampanoni M, _et al._ <br />
   _Neuroimage_ **32**, 626-36 (2006) <br />
   https://doi.org/10.1016/j.neuroimage.2006.03.043
