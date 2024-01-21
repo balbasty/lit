@@ -79,7 +79,7 @@
   https://doi.org/10.1073/pnas.90.24.11944 <br />
   [PDF](https://www.pnas.org/doi/pdf/10.1073/pnas.90.24.11944?download=true), [PDF](http://user.engineering.uiowa.edu/~gec/papers/miller-christensen-grenander-pnas93.pdf)
 
-- **A deformable neuroanatomy textbook based on viscous fluid mechanics** <br/ >
+- **A deformable neuroanatomy textbook based on viscous fluid mechanics** <br />
   GE Christensen, RD Rabbitt, MI Miller <br />
   Conf. on Inf. Sciences and Systems (1993) <br />
   [PS](http://user.engineering.uiowa.edu/~gec/papers/christensen_JHpaper.ps.gz)
