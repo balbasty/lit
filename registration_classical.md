@@ -97,6 +97,11 @@
   IEEE TMI (1997) <br />
   https://doi.org/10.1109/42.650882
 
+- **Statistical methods in computational anatomy** <br />
+  MI Miller, A Banerjee, GE Christensen, SC Joshi, N Khaneja, U Grenander, L Matejic <br />
+  _Statistical Methods in Medical Research_ (1997) <br />
+  https://doi.org/10.1177/09622802970060030
+
 - **Consistent Linear-Elastic Transformations for Image Matching** <br />
   GE Christensen <br />
   IPMI (1999) <br />
