@@ -67,3 +67,37 @@
   https://link.springer.com/chapter/10.1007/978-3-030-59716-0_26
   
 ### Metrics
+
+
+## By group
+
+### Christansen / Miller
+
+- **Mathematical textbook of deformable neuroanatomies** <br />
+  MI Miller, GE Christensen, Y Amit, U Grenander <br />
+  PNAS (1993) <br />
+  https://doi.org/10.1073/pnas.90.24.11944
+
+- **3D brain mapping using a deformable neuroanatomy** <br />
+  GE Christensen, RD Rabbitt, MI Miller <br />
+  _Physics in Medicine & Biology_ (1994) <br />
+  https://doi.org/10.1088/0031-9155/39/3/022
+
+- **Topological properties of smooth anatomic maps** <br />
+  GE Christensen, RD Rabbitt, MI Miller, SC Joshi, U Grenander, TA Coogan, DC Van Essen <br />
+  IPMI (1995)
+
+- **Deformable templates using large deformation kinematics** <br />
+  GE Christensen, RD Rabbitt, MI Miller <br />
+  IEEE Trans Im Proc (1996) <br />
+  https://doi.org/10.1109/83.536892
+
+- **Volumetric transformation of brain anatomy** <br />
+  GE Christensen, SC Joshi, MI Miller <br />
+  IEEE TMI (1997) <br />
+  https://doi.org/10.1109/42.650882
+
+- **Consistent Linear-Elastic Transformations for Image Matching** <br />
+  GE Christensen <br />
+  IPMI (1999) <br />
+  https://doi.org/10.1007/3-540-48714-X_17
