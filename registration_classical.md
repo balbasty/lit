@@ -84,17 +84,17 @@
   Conf. on Inf. Sciences and Systems (1993) <br />
   [PS](http://user.engineering.uiowa.edu/~gec/papers/christensen_JHpaper.ps.gz)
 
-- **A 3d deformable magnetic resonance textbook based on elasticity** <br />
-  GE Christensen, MI Miller, M Vannier <br />
-  Proceedings of the American association for artificial intelligence (1994) <br />
-  [PDF](https://www.academia.edu/download/46371618/A_3D_Deformable_Magnetic_Resonance_Textb20160609-17937-7w0fpv.pdf)
-
 - **3D brain mapping using a deformable neuroanatomy** <br />
   GE Christensen, RD Rabbitt, MI Miller <br />
   _Physics in Medicine & Biology_ (1994) <br />
   https://doi.org/10.1088/0031-9155/39/3/022 <br />
   [PDF](https://iopscience.iop.org/article/10.1088/0031-9155/39/3/022/pdf?casa_token=VjM9MQ0cvDcAAAAA:O3BfdQLd_OjyX4EjibsJkszpqsT37C4xdGrmLm8qVD0ZaOQmXt0dTu2VYzOEiE29EspZhk8BGjfQ58I1BajqpivxSqo),
   [PDF](http://user.engineering.uiowa.edu/~gec/papers/christensen_phys_med_bio94.pdf)
+
+- **A 3d deformable magnetic resonance textbook based on elasticity** <br />
+  GE Christensen, MI Miller, M Vannier <br />
+  Proceedings of the American association for artificial intelligence (1994) <br />
+  [PDF](https://www.academia.edu/download/46371618/A_3D_Deformable_Magnetic_Resonance_Textb20160609-17937-7w0fpv.pdf)
 
 - **Deformable shape models for anatomy** <br />
   GE Christansen <br />
