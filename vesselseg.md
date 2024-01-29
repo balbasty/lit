@@ -6,15 +6,16 @@
   https://doi.org/10.3389/fnins.2020.592352 <br />
   <details>
     <summary>bibtex</summary>
+    
     ```bibtex
     @article{tetteh2020deepvesselnet,
-    title={Deepvesselnet: Vessel segmentation, centerline prediction, and bifurcation detection in 3-d angiographic volumes},
-    author={Tetteh, Giles and Efremov, Velizar and Forkert, Nils D and Schneider, Matthias and Kirschke, Jan and Weber, Bruno and Zimmer, Claus and Piraud, Marie and Menze, Bj{\"o}rn H},
-    journal={Frontiers in Neuroscience},
-    volume={14},
-    pages={1285},
-    year={2020},
-    publisher={Frontiers}
-  }
+      title={Deepvesselnet: Vessel segmentation, centerline prediction, and bifurcation detection in 3-d angiographic volumes},
+      author={Tetteh, Giles and Efremov, Velizar and Forkert, Nils D and Schneider, Matthias and Kirschke, Jan and Weber, Bruno and Zimmer, Claus and Piraud, Marie and Menze, Bj{\"o}rn H},
+      journal={Frontiers in Neuroscience},
+      volume={14},
+      pages={1285},
+      year={2020},
+      publisher={Frontiers}
+    }
   ```
   </details>
