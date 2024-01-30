@@ -2,6 +2,11 @@
 
 ## Reviews
 
+- **Blood vessel segmentation methodologies in retinal images – A survey** <br />
+  MM Fraz, ..., SA Barman <br />
+  _CMPM_ (2012) <br />
+  https://doi.org/10.1016/j.cmpb.2012.03.009
+
 - **A review of 3D vessel lumen segmentation techniques: models, features and extraction schemes** <br />
   D Lesage, ..., G Funka-Lea <br />
   _MedIA_ (2009) <br />
@@ -111,6 +116,11 @@
     ```
   </details>
 
+- **Transfer learning from synthetic data reduces need for labels to segment brain vasculature and neural pathways in 3d** <br />
+  JC Paetzold, ..., BH Menze <br />
+  _MIDL_ (2019) <br />
+  https://openreview.net/forum?id=BJe02gRiY4
+  
 - **Learning to Segment 3D Linear Structures Using Only 2D Annotations** <br />
   M Koziński, ..., P Fua  <br />
   _MICCAI_ (2018) <br />
@@ -232,6 +242,31 @@
     }
     ```
   </details>
+
+- **Cross-Domain Depth Estimation Network for 3D Vessel Reconstruction in OCT Angiography** <br />
+  S Yu, ..., Y Zhao <br />
+  _MICCAI_ (2021) <br />
+  https://doi.org/10.1007/978-3-030-87237-3_2
+
+- **A Distance-Based Loss for Smooth and Continuous Skin Layer Segmentation in Optoacoustic Images**  <br />
+  S Gerl, ..., BH Menze <br />
+  _MICCAI_ (2020) <br />
+  https://doi.org/10.1007/978-3-030-59725-2_30
+
+- **Image Projection Network: 3D to 2D Image Segmentation in OCTA Images** <br />
+  M Li, ..., S, Li <br />
+  _IEEE TMI_ (2020) <br />
+  https://doi.org/10.1109/TMI.2020.2992244
+
+- **Variational intensity cross channel encoder for unsupervised vessel segmentation on OCT angiography** <br />
+  Y Liu, ..., JL Prince <br />
+  _SPIE Medical Imaging: Image Processing_ (2020) <br />
+  https://doi.org/10.1117/12.2549967
+
+- **CS-Net: Channel and Spatial Attention Network for Curvilinear Structure Segmentation** <br />
+  L Mou, ..., J Liu <br />
+  _MICCAI_ (2019) <br />
+  https://doi.org/10.1007/978-3-030-32239-7_80
 
 - **Automatic Location of Blood Vessel Bifurcations in Digital Eye Fundus Images** <br />
   T Chaichana, ..., A Nagar <br />
@@ -706,6 +741,26 @@
     ```
   </details>
 
+- **Structure-Aware Image Segmentation with Homotopy Warping** <br />
+  X Hu <br />
+  _NeurIPS_ (2022) <br />
+  https://openreview.net/forum?id=CMcptt6nFaQ
+
+- **Topology-Preserving Segmentation Network: A Deep Learning Segmentation Framework for Connected Component** <br />
+  H Zhang, LM Lui <br />
+  _ArXiv_ (2022) <br />
+  https://arxiv.org/abs/2202.13331
+
+- **Capturing Shape Information with Multi-scale Topological Loss Terms for 3D Reconstruction** <br />
+  DJE Waibel, ..., B Rieck <br />
+  _MICCAI_ (2022) <br />
+  https://doi.org/10.1007/978-3-031-16440-8_15
+
+- **Topology-Aware Segmentation Using Discrete Morse Theory** <br />
+  X Hu, ..., C Chen <br />
+  _ICLR_ (2021) <br />
+  https://arxiv.org/abs/2103.09992
+
 - **Whole Brain Vessel Graphs: A Dataset and Benchmark for Graph Learning and Neuroscience (VesselGraph)** <br />
   JC Paetzold, ..., BH Menze <br />
   NeurIPS Datasets and Benchmarks (2021) <br />
@@ -740,6 +795,51 @@
     }
     ```
   </details>
+
+- **Joint Topology-preserving and Feature-refinement Network for Curvilinear Structure Segmentation** <br />
+  M Cheng, ..., J Guo <br />
+  _ICCV_ (2021) <br />
+  https://doi.org/10.1109/ICCV48922.2021.00706
+
+- **A Topological Loss Function for Deep-Learning Based Image Segmentation Using Persistent Homology** <br />
+  JR Clough, ..., AP King <br />
+  _IEEE TPAMI_ (2020) <br />
+  https://doi.org/10.1109/TPAMI.2020.3013679
+
+- **Learning tree-structured representation for 3D coronary artery segmentation** <br />
+  B Kong, ..., Y Yin <br />
+  _CMIG_ (2020) <br />
+  https://doi.org/10.1016/j.compmedimag.2019.101688
+
+- **TopoAL: An Adversarial Learning Approach for Topology-Aware Road Segmentation** <br />
+  S Vasu, ..., P Fua <br />
+  _ECCV_ (2020) <br />
+  https://doi.org/10.1007/978-3-030-58583-9_14
+
+- **Topology-Preserving Deep Image Segmentation** <br />
+  X Hu, ..., C Chen <br />
+  _NeurIPS_ (2019) <br />
+  https://arxiv.org/abs/1906.05404
+
+- **Unsupervised Microvascular Image Segmentation Using an Active Contours Mimicking Neural Network** <br />
+  S Gur, ..., P Blinder <br />
+  _ICCV_ (2019) <br />
+  https://arxiv.org/abs/1908.01373
+
+- **A Deep Learning Design for Improving Topology Coherence in Blood Vessel Segmentation** <br />
+  RJ Araújo, JS Cardoso, HP Oliveira <br />
+  _MICCAI_ (2019) <br />
+  https://doi.org/10.1007/978-3-030-32239-7_11
+
+- **Large Scale Image Segmentation with Structured Loss Based Deep Learning for Connectome Reconstruction** <br />
+  J Funke, ..., SC Turaga <br />
+  _IEEE TPAMI_ (2018) <br />
+  https://doi.org/10.1109/TPAMI.2018.2835450
+
+- **Beyond the Pixel-Wise Loss for Topology-Aware Delineation** <br />
+  A Mosinska, ..., P Fua <br />
+  _CVPR_ (2018) <br />
+  https://doi.org/10.1109/CVPR.2018.00331
 
 - **Segmentation of Skeleton and Organs in Whole-Body CT Images via Iterative Trilateration** <br />
   M Bieth, ..., BH Menze <br />
@@ -839,6 +939,11 @@
     }
     ```
   </details>
+
+- **Enforcing topological constraints in random field image segmentation** <br />
+  C Chen, D Freedman, CH Lampert <br />
+  _CVPR_ (2011) <br />
+  https://doi.org/10.1109/CVPR.2011.5995503
 
 - **Three Dimensional Curvilinear Structure Detection Using Optimally Oriented Flux** <br />
   MWK Law, ACS Chung <br />
@@ -1006,3 +1111,39 @@
     ```
   </details>
   
+
+# Synth-based segmentation
+
+- **Endotracheal Tube Detection and Segmentation in Chest Radiographs Using Synthetic Data** <br />
+  M Frid-Adar, R Amer, H Greenspan <br />
+  _MICCAI_ (2019) <br />
+  https://doi.org/10.1007/978-3-030-32226-7_87 <br />
+  <details>
+    <summary>bibtex</summary>
+    
+    ```bibtex
+    @inproceedings{frid2019endotracheal,
+      title={Endotracheal tube detection and segmentation in chest radiographs using synthetic data},
+      author={Frid-Adar, Maayan and Amer, Rula and Greenspan, Hayit},
+      booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+      pages={784--792},
+      year={2019},
+      organization={Springer}
+    }
+    ```
+  </details>
+
+- **Using synthetic training data for deep learning-based GBM segmentation** <br />
+  L Lindner, ..., J Egger <br />
+  _IEEE EMBC_ (2019) <br />
+  https://doi.org/10.1109/EMBC.2019.8856297
+
+- **The effects of physics-based data augmentation on the generalizability of deep neural networks: Demonstration on nodule false-positive reduction** <br />
+  AO Omigbodun, ..., SS Hsieh <br />
+  _Med Phys_ (2019) <br />
+  https://doi.org/10.1002/mp.13755
+
+- **Transfer learning from synthetic data reduces need for labels to segment brain vasculature and neural pathways in 3d** <br />
+  JC Paetzold, ..., BH Menze <br />
+  _MIDL_ (2019) <br />
+  https://openreview.net/forum?id=BJe02gRiY4
