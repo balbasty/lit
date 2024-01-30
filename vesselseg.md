@@ -47,6 +47,49 @@
 
 ## Microscopy
 
+- **Hierarchical imaging and computational analysis of three-dimensional vascular network architecture in the entire postnatal and adult mouse brain** <br />
+  T Wälchli, ..., M Stampanoni  <br />
+  _Nature Protocols_ (2021)
+  https://doi.org/10.1038/s41596-021-00587-1 <br />
+  <details>
+    <summary>bibtex</summary>
+    
+    ```bibtex
+    @article{walchli2021hierarchical,
+      title={Hierarchical imaging and computational analysis of three-dimensional vascular network architecture in the entire postnatal and adult mouse brain},
+      author={W{\"a}lchli, Thomas and Bisschop, Jeroen and Miettinen, Arttu and Ulmann-Schuler, Alexandra and Hinterm{\"u}ller, Christoph and Meyer, Eric P and Krucker, Thomas and W{\"a}lchli, Regula and Monnier, Philippe P and Carmeliet, Peter and others},
+      journal={Nature protocols},
+      volume={16},
+      number={10},
+      pages={4564--4610},
+      year={2021},
+      publisher={Nature Publishing Group UK London}
+    }
+    ```
+  </details>
+
+- **Segmentation-Less, Automated, Vascular Vectorization** <br />
+  SA Mihelic, ..., AK Dunn <br />
+  _PLoS Comp Bio_ (2021) <br />
+  https://doi.org/10.1371/journal.pcbi.1009451 <br />
+  <details>
+    <summary>bibtex</summary>
+    
+    ```bibtex
+    @article{mihelic2021segmentation,
+      title={Segmentation-less, automated, vascular vectorization},
+      author={Mihelic, Samuel A and Sikora, William A and Hassan, Ahmed M and Williamson, Michael R and Jones, Theresa A and Dunn, Andrew K},
+      journal={PLoS computational biology},
+      volume={17},
+      number={10},
+      pages={e1009451},
+      year={2021},
+      publisher={Public Library of Science San Francisco, CA USA}
+    }
+    ```
+  </details>
+  
+
 - **Machine learning analysis of whole mouse brain vasculature** <br />
   MI Todorov, ..., BH Menze, A Ertürk  <br />
   _Nature Methods_ (2020) <br />
@@ -105,6 +148,27 @@
       pages={220--249},
       year={2015},
       publisher={Elsevier}
+    }
+    ```
+  </details>
+
+- **A Novel Three-Dimensional Computer-Assisted Method for a Quantitative Study of Microvascular Networks of the Human Cerebral Cortex** <br />
+  F Cassot F, ...S, V Lauwers-Cances <br />
+  _Microcirculation_ (2006) <br />
+  https://doi.org/10.1080/10739680500383407 <br />
+  <details>
+    <summary>bibtex</summary>
+    
+    ```bibtex
+    @article{cassot2006novel,
+      title={A novel three-dimensional computer-assisted method for a quantitative study of microvascular networks of the human cerebral cortex},
+      author={Cassot, Francis and Lauwers, Frederic and Fouard, C{\'e}line and Prohaska, Steffen and Lauwers-Cances, Valerie},
+      journal={Microcirculation},
+      volume={13},
+      number={1},
+      pages={1--18},
+      year={2006},
+      publisher={Taylor \& Francis}
     }
     ```
   </details>
@@ -621,7 +685,7 @@
   </details>
   
   
-## Topology
+## Topology / Correction
 
 - **Topologically faithful image segmentation via induced matching of persistence barcodes** <br />
   N Stucki, ..., BH Menze, U Bauer <br />
@@ -794,7 +858,27 @@
     }
     ```
   </details>
-  
+
+- **Gap filling of 3-D microvascular networks by tensor voting** <br />
+  L Risser, F Plouraboué, X Descombes <br />
+  _IEEE TMI_ (2008) <br />
+  https://doi.org/10.1109/TMI.2007.913248 <br />
+  <details>
+    <summary>bibtex</summary>
+    
+    ```bibtex
+    @article{risser2008gap,
+      title={Gap filling of 3-D microvascular networks by tensor voting},
+      author={Risser, Laurent and Plourabou{\'e}, Franck and Descombes, Xavier},
+      journal={IEEE transactions on medical imaging},
+      volume={27},
+      number={5},
+      pages={674--687},
+      year={2008},
+      publisher={IEEE}
+    }
+    ```
+  </details>
 
 ## Constrained Constructive Optimization
 
