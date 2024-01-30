@@ -69,7 +69,7 @@
 
 ## Microscopy
 
-- **TriSAM: Tri-Plane SAM for zero-shot cortical blood vessel segmentation in VEM images**
+- **TriSAM: Tri-Plane SAM for zero-shot cortical blood vessel segmentation in VEM images** <br />
   J Wan, ..., D Wei <br />
   _ArXiv_ (2024) <br />
   https://arxiv.org/abs/2401.13961
