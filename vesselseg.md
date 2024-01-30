@@ -60,8 +60,29 @@
     ```
   </details>
 
+## Multi-modality
+
+- **tUbe net: a generalisable deep learning tool for 3D vessel segmentation** <br />
+  _bioRxiv_ (2023) <br />
+  N Holroyd, ..., S Walker-Samuel <br />
+  https://doi.org/10.1101/2023.07.24.550334
 
 ## Microscopy
+
+- **TriSAM: Tri-Plane SAM for zero-shot cortical blood vessel segmentation in VEM images**
+  J Wan, ..., D Wei <br />
+  _ArXiv_ (2024) <br />
+  https://arxiv.org/abs/2401.13961
+
+- **Rapid and fully automated blood vasculature analysis in 3D light-sheet image volumes of different organs** <br />
+  P Spangenberg, ..., A Mosig <br />
+  _Cell Rep Met_ (2023) <br />
+  https://doi.org/10.1016/j.crmeth.2023.100436
+
+- **Blood Vessel Segmentation from Low-Contrast and Wide-Field Optical Microscopic Images of Cranial Window by Attention-Gate-Based Network** <br />
+  Y Wu, ..., K Mori <br />
+  _CVPR_ (2022) <br />
+  https://doi.org/10.1109/CVPRW56347.2022.00203
 
 - **Hierarchical imaging and computational analysis of three-dimensional vascular network architecture in the entire postnatal and adult mouse brain** <br />
   T Wälchli, ..., M Stampanoni  <br />
@@ -127,6 +148,11 @@
     ```
   </details>
 
+- **Anatomical Modeling of Brain Vasculature in Two-Photon Microscopy by Generalizable Deep Learning** <br />
+  W Tahir, ..., L Tian <br />
+  _BMEF_ (2020) <br />
+  https://doi.org/10.34133/2020/8620932
+
 - **Transfer learning from synthetic data reduces need for labels to segment brain vasculature and neural pathways in 3d** <br />
   JC Paetzold, ..., BH Menze <br />
   _MIDL_ (2019) <br />
@@ -150,7 +176,11 @@
     }
     ```
   </details>
-  
+
+- **Cerebral vessels segmentation for light-sheet microscopy image using convolutional neural networks** <br />
+  C Hu, ..., J Tian <br />
+  _SPIE Medical Imaging_ (2017) <br />
+  https://doi.org/10.1117/12.2254714
 
 - **Joint 3-D vessel segmentation and centerline extraction using oblique Hough forests with steerable filters** <br />
   M Schneider, ..., BH Menze <br />
@@ -1124,6 +1154,21 @@
   
 
 # Synth-based segmentation
+
+- **Synthetic OCT-A blood vessel maps using fundus images and generative adversarial networks** <br />
+  I Coronado, ..., L Giancardo <br />
+  _Sci Rep_ (2023) <br />
+  https://doi.org/10.1038/s41598-023-42062-9
+
+- **Segmentation of 3D blood vessel networks using unsupervised deep learning** <br />
+  P Sweeney, ..., SE Bohndiek <br />
+  _bioRxiv_ (2023) <br />
+  https://doi.org/10.1101/2023.04.30.538453
+
+- **Deep learning based generation of synthetic blood vessel surfaces** <br />
+  M Danu, ..., LM Itu <br />
+  _ICSTCC_ (2019) <br />
+  https://doi.org/10.1109/ICSTCC.2019.8885576
 
 - **Endotracheal Tube Detection and Segmentation in Chest Radiographs Using Synthetic Data** <br />
   M Frid-Adar, R Amer, H Greenspan <br />
