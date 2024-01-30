@@ -1,5 +1,50 @@
 # Vasculature segmentation (and/or other tree-like objects)
 
+## Reviews
+
+- **A review of 3D vessel lumen segmentation techniques: models, features and extraction schemes** <br />
+  D Lesage, ..., G Funka-Lea <br />
+  _MedIA_ (2009) <br />
+  https://doi.org/10.1016/j.media.2009.07.011 <br />
+  <details>
+    <summary>bibtex</summary>
+    
+    ```bibtex
+    @article{lesage2009review,
+      title={A review of 3D vessel lumen segmentation techniques: Models, features and extraction schemes},
+      author={Lesage, David and Angelini, Elsa D and Bloch, Isabelle and Funka-Lea, Gareth},
+      journal={Medical image analysis},
+      volume={13},
+      number={6},
+      pages={819--845},
+      year={2009},
+      publisher={Elsevier}
+    }
+    ```
+  </details>
+
+- **A review of vessel extraction techniques and algorithms** <br />
+  C Kirbas, F Quek <br />
+  _ACM Computing Surveys_ (2004) <br />
+  https://doi.org/10.1145/1031120.1031121 <br />
+  <details>
+    <summary>bibtex</summary>
+    
+    ```bibtex
+    @article{kirbas2004review,
+      title={A review of vessel extraction techniques and algorithms},
+      author={Kirbas, Cemil and Quek, Francis},
+      journal={ACM Computing Surveys (CSUR)},
+      volume={36},
+      number={2},
+      pages={81--121},
+      year={2004},
+      publisher={ACM New York, NY, USA}
+    }
+    ```
+  </details>
+
+
 ## Microscopy
 
 - **Machine learning analysis of whole mouse brain vasculature** <br />
@@ -23,6 +68,26 @@
     ```
   </details>
 
+- **Learning to Segment 3D Linear Structures Using Only 2D Annotations** <br />
+  M Koziński, ..., P Fua  <br />
+  _MICCAI_ (2018) <br />
+  https://doi.org/10.1007/978-3-030-00934-2_32 <br />
+  <details>
+    <summary>bibtex</summary>
+    
+    ```bibtex
+    @inproceedings{kozinski2018learning,
+      title={Learning to segment 3D linear structures using only 2D annotations},
+      author={Kozi{\'n}ski, Mateusz and Mosinska, Agata and Salzmann, Mathieu and Fua, Pascal},
+      booktitle={Medical Image Computing and Computer Assisted Intervention--MICCAI 2018: 21st International Conference, Granada, Spain, September 16-20, 2018, Proceedings, Part II 11},
+      pages={283--291},
+      year={2018},
+      organization={Springer}
+    }
+    ```
+  </details>
+  
+
 - **Joint 3-D vessel segmentation and centerline extraction using oblique Hough forests with steerable filters** <br />
   M Schneider, ..., BH Menze <br />
   _MedIA_ (2015) <br />
@@ -43,7 +108,27 @@
     }
     ```
   </details>
-  
+
+- **Snake modeling and distance transform approach to vascular centerline extraction and quantification** <br />
+  M Maddah, H Soltanian-Zadeh, A Afzali-Kusha <br />
+  _CMIG_ (2003) <br />
+  https://doi.org/10.1016/s0895-6111(03)00040-5 <br />
+  <details>
+    <summary>bibtex</summary>
+    
+    ```bibtex
+    @article{maddah2003snake,
+      title={Snake modeling and distance transform approach to vascular centerline extraction and quantification},
+      author={Maddah, Mahnaz and Soltanian-Zadeh, Hamid and Afzali-Kusha, Ali},
+      journal={Computerized Medical Imaging and Graphics},
+      volume={27},
+      number={6},
+      pages={503--512},
+      year={2003},
+      publisher={Elsevier}
+    }
+    ```
+  </details>
 
 ## Retinal OCT
 
@@ -79,6 +164,160 @@
       booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
       pages={330--340},
       year={2022},
+      organization={Springer}
+    }
+    ```
+  </details>
+
+- **Automatic Location of Blood Vessel Bifurcations in Digital Eye Fundus Images** <br />
+  T Chaichana, ..., A Nagar <br />
+  _AISC_ (2017) <br />
+  https://doi.org/10.1007/978-981-10-3325-4_33 <br />
+  <details>
+    <summary>bibtex</summary>
+    
+    ```bibtex
+    @inproceedings{chaichana2017automatic,
+      title={Automatic location of blood vessel bifurcations in digital eye fundus images},
+      author={Chaichana, Thanapong and Sun, Zhonghua and Barrett-Baxendale, Mark and Nagar, Atulya},
+      booktitle={Proceedings of Sixth International Conference on Soft Computing for Problem Solving: SocProS 2016, Volume 2},
+      pages={332--342},
+      year={2017},
+      organization={Springer}
+    }
+    ```
+  </details>
+
+- **Deep-FExt: Deep Feature Extraction for Vessel Segmentation and Centerline Prediction** <br />
+  G Tetteh, ..., BH Menze <br />
+  _MLMI_ (2017) <br />
+  https://doi.org/10.1007/978-3-319-67389-9_40 <br />
+  <details>
+    <summary>bibtex</summary>
+    
+    ```bibtex
+    @inproceedings{tetteh2017deep,
+      title={Deep-FExt: Deep feature extraction for vessel segmentation and centerline prediction},
+      author={Tetteh, Giles and Rempfler, Markus and Zimmer, Claus and Menze, Bjoern H},
+      booktitle={Machine Learning in Medical Imaging: 8th International Workshop, MLMI 2017, Held in Conjunction with MICCAI 2017, Quebec City, QC, Canada, September 10, 2017, Proceedings 8},
+      pages={344--352},
+      year={2017},
+      organization={Springer}
+    }
+    ```
+  </details>
+  
+
+- **Deep Retinal Image Understanding** <br />
+  KK Maninis, ..., L Van Gool <br />
+  _MICCAI_ (2016) <br />
+  https://doi.org/10.1007/978-3-319-46723-8_17 <br />
+  <details>
+    <summary>bibtex</summary>
+    
+    ```bibtex
+    @inproceedings{maninis2016deep,
+      title={Deep retinal image understanding},
+      author={Maninis, Kevis-Kokitsi and Pont-Tuset, Jordi and Arbel{\'a}ez, Pablo and Van Gool, Luc},
+      booktitle={Medical Image Computing and Computer-Assisted Intervention--MICCAI 2016: 19th International Conference, Athens, Greece, October 17-21, 2016, Proceedings, Part II 19},
+      pages={140--148},
+      year={2016},
+      organization={Springer}
+    }
+    ```
+  </details>
+  
+- **Retinal vessel segmentation via deep learning network and fully-connected conditional random fields** <br />
+  H Fu, ..., J Liu <br />
+  _IEEE ISBI_ (2016) <br />
+  https://doi.org/10.1109/ISBI.2016.7493362 <br />
+  <details>
+    <summary>bibtex</summary>
+    
+    ```bibtex
+    @inproceedings{fu2016retinal,
+      title={Retinal vessel segmentation via deep learning network and fully-connected conditional random fields},
+      author={Fu, Huazhu and Xu, Yanwu and Wong, Damon Wing Kee and Liu, Jiang},
+      booktitle={2016 IEEE 13th international symposium on biomedical imaging (ISBI)},
+      pages={698--701},
+      year={2016},
+      organization={IEEE}
+    }
+    ```
+  </details>
+
+- **Deep vessel tracking: A generalized probabilistic approach via deep learning** <br />
+  A Wu, ..., DJ Mollura <br />
+  _IEEE ISBI_ (2016) <br />
+  https://doi.org/10.1109/ISBI.2016.7493520 <br />
+  <details>
+    <summary>bibtex</summary>
+    
+    ```bibtex
+    @inproceedings{wu2016deep,
+      title={Deep vessel tracking: A generalized probabilistic approach via deep learning},
+      author={Wu, Aaron and Xu, Ziyue and Gao, Mingchen and Buty, Mario and Mollura, Daniel J},
+      booktitle={2016 IEEE 13th International Symposium on Biomedical Imaging (ISBI)},
+      pages={1363--1367},
+      year={2016},
+      organization={IEEE}
+    }
+    ```
+  </details>
+  
+
+- **Piecewise Geodesics for Vessel Centerline Extraction and Boundary Delineation with Application to Retina Segmentation** <br />
+  D Chen, LD Cohen <br />
+  _SSVM_ (2015) <br />
+  https://doi.org/10.1007/978-3-319-18461-6_22 <br />
+  <details>
+    <summary>bibtex</summary>
+    
+    ```bibtex
+    @inproceedings{chen2015piecewise,
+      title={Piecewise geodesics for vessel centerline extraction and boundary delineation with application to retina segmentation},
+      author={Chen, Da and Cohen, Laurent D},
+      booktitle={Scale Space and Variational Methods in Computer Vision: 5th International Conference, SSVM 2015, L{\`e}ge-Cap Ferret, France, May 31-June 4, 2015, Proceedings 5},
+      pages={270--281},
+      year={2015},
+      organization={Springer}
+    }
+    ```
+  </details>
+
+- **Globally Optimal Curvature-Regularized Fast Marching for Vessel Segmentation** <br />
+  W Liao, K Rohr, S Wörz <br />
+  _MICCAI_ (2013) <br />
+  https://doi.org/10.1007/978-3-642-40811-3_69 <br />
+  <details>
+    <summary>bibtex</summary>
+    
+    ```bibtex
+    @inproceedings{liao2013globally,
+      title={Globally optimal curvature-regularized fast marching for vessel segmentation},
+      author={Liao, Wei and Rohr, Karl and W{\"o}rz, Stefan},
+      booktitle={Medical Image Computing and Computer-Assisted Intervention--MICCAI 2013: 16th International Conference, Nagoya, Japan, September 22-26, 2013, Proceedings, Part I 16},
+      pages={550--557},
+      year={2013},
+      organization={Springer}
+    }
+    ```
+  </details>
+
+- **Retinal Blood Vessel Segmentation by Means of Scale-Space Analysis and Region Growing** <br />
+  ME Martínez-Pérez, ..., KH Parker <br />
+  _MICCAI_ (1999) <br />
+  https://doi.org/10.1007/10704282_10 <br />
+  <details>
+    <summary>bibtex</summary>
+    
+    ```bibtex
+    @inproceedings{martinez1999retinal,
+      title={Retinal blood vessel segmentation by means of scale-space analysis and region growing},
+      author={Mart{\'\i}nez-P{\'e}rez, M Elena and Hughes, Alun D and Stanton, Alice V and Thom, Simon A and Bharath, Anil A and Parker, Kim H},
+      booktitle={Medical Image Computing and Computer-Assisted Intervention--MICCAI’99: Second International Conference, Cambridge, UK, September 19-22, 1999. Proceedings 2},
+      pages={90--97},
+      year={1999},
       organization={Springer}
     }
     ```
@@ -122,6 +361,265 @@
     }
     ```
   </details>
+
+- **Vascular Segmentation in TOF MRA Images of the Brain Using a Deep Convolutional Neural Network** <br />
+  R Phellan, ..., ND Forkert <br />
+  _LABELS_ (2017) <br />
+  https://doi.org/10.1007/978-3-319-67534-3_5 <br />
+  <details>
+    <summary>bibtex</summary>
+    
+    ```bibtex
+    @inproceedings{phellan2017vascular,
+      title={Vascular segmentation in TOF MRA images of the brain using a deep convolutional neural network},
+      author={Phellan, Renzo and Peixinho, Alan and Falc{\~a}o, Alexandre and Forkert, Nils D},
+      booktitle={Intravascular Imaging and Computer Assisted Stenting, and Large-Scale Annotation of Biomedical Data and Expert Label Synthesis: 6th Joint International Workshops, CVII-STENT 2017 and Second International Workshop, LABELS 2017, Held in Conjunction with MICCAI 2017, Qu{\'e}bec City, QC, Canada, September 10--14, 2017, Proceedings 2},
+      pages={39--46},
+      year={2017},
+      organization={Springer}
+    }
+    ```
+  </details>
+  
+  
+
+- **Comparison of vessel enhancement algorithms applied to time-of-flight MRA images for cerebrovascular segmentation** <br />
+  R Phellan, ND Forkert <br />
+  _Med Phys_ (2017) <br />
+  https://doi.org/10.1002/mp.12560 <br />
+  <details>
+    <summary>bibtex</summary>
+    
+    ```bibtex
+    @article{phellan2017comparison,
+      title={Comparison of vessel enhancement algorithms applied to time-of-flight MRA images for cerebrovascular segmentation},
+      author={Phellan, Renzo and Forkert, Nils D},
+      journal={Medical physics},
+      volume={44},
+      number={11},
+      pages={5901--5915},
+      year={2017},
+      publisher={Wiley Online Library}
+    }
+    ```
+  </details>
+  
+
+- **3D cerebrovascular segmentation combining fuzzy vessel enhancement and level-sets with anisotropic energy weights** <br />
+  ND Forket, ..., J Ehrhardt <br />
+  _MRI_ (2013) <br />
+  <details>
+    <summary>bibtex</summary>
+    
+    ```bibtex
+    @article{forkert20133d,
+      title={3D cerebrovascular segmentation combining fuzzy vessel enhancement and level-sets with anisotropic energy weights},
+      author={Forkert, Nils Daniel and Schmidt-Richberg, Alexander and Fiehler, Jens and Illies, Till and M{\"o}ller, Dietmar and S{\"a}ring, Dennis and Handels, Heinz and Ehrhardt, Jan},
+      journal={Magnetic resonance imaging},
+      volume={31},
+      number={2},
+      pages={262--271},
+      year={2013},
+      publisher={Elsevier}
+    }
+    ```
+  </details>
+
+- **Vessel Wall Segmentation Using Implicit Models and Total Curvature Penalizers** <br />
+  R Moreno, C Wang, O Smedby <br />
+  _SCIA_ (2013) <br />
+  https://doi.org/10.1007/978-3-642-38886-6_29 <br />
+  <details>
+    <summary>bibtex</summary>
+    
+    ```bibtex
+    @inproceedings{moreno2013vessel,
+      title={Vessel wall segmentation using implicit models and total curvature penalizers},
+      author={Moreno, Rodrigo and Wang, Chunliang and Smedby, {\"O}rjan},
+      booktitle={Image Analysis: 18th Scandinavian Conference, SCIA 2013, Espoo, Finland, June 17-20, 2013. Proceedings 18},
+      pages={299--308},
+      year={2013},
+      organization={Springer}
+    }
+    ```
+  </details>
+
+- **Robust and accurate coronary artery centerline extraction in CTA by combining model-driven and data-driven approaches** <br />
+  Y Zheng, H Tek, G Funka-Lea <br />
+  _MICCAI_ (2013) <br />
+  https://doi.org/10.1007/978-3-642-40760-4_10 <br />
+  <details>
+    <summary>bibtex</summary>
+    
+    ```bibtex
+    @inproceedings{zheng2013robust,
+      title={Robust and accurate coronary artery centerline extraction in CTA by combining model-driven and data-driven approaches},
+      author={Zheng, Yefeng and Tek, Huseyin and Funka-Lea, Gareth},
+      booktitle={Medical Image Computing and Computer-Assisted Intervention--MICCAI 2013: 16th International Conference, Nagoya, Japan, September 22-26, 2013, Proceedings, Part III 16},
+      pages={74--81},
+      year={2013},
+      organization={Springer}
+    }
+    ```
+  </details>
+  
+  
+- **Fuzzy-based vascular structure enhancement in Time-of-Flight MRA images for improved segmentation** <br />
+  ND Forket, ..., D Säring <br />
+  _MIM_ (2011) <br />
+  https://doi.org/10.3414/me10-02-0003 <br />
+  <details>
+    <summary>bibtex</summary>
+    
+    ```bibtex
+    @article{forkert2011fuzzy,
+      title={Fuzzy-based vascular structure enhancement in time-of-flight MRA images for improved segmentation},
+      author={Forkert, Nils Daniel and Schmidt-Richberg, A and Fiehler, J and Illies, T and M{\"o}ller, D and Handels, H and S{\"a}ring, D},
+      journal={Methods of information in medicine},
+      volume={50},
+      number={01},
+      pages={74--83},
+      year={2011},
+      publisher={Schattauer GmbH}
+    }
+    ```
+  </details>
+
+- **Vessel centerline tracking in CTA and MRA images using hough transform** <br />
+  MMG Macedo, C Mekkaoui, MP Jackowski <br />
+  _CIARP_ (2010) <br />
+  https://doi.org/10.1007/978-3-642-16687-7_41 <br />
+  <details>
+    <summary>bibtex</summary>
+    
+    ```bibtex
+    @inproceedings{macedo2010vessel,
+      title={Vessel centerline tracking in CTA and MRA images using hough transform},
+      author={Macedo, Maysa MG and Mekkaoui, Choukri and Jackowski, Marcel P},
+      booktitle={Progress in Pattern Recognition, Image Analysis, Computer Vision, and Applications: 15th Iberoamerican Congress on Pattern Recognition, CIARP 2010, Sao Paulo, Brazil, November 8-11, 2010. Proceedings 15},
+      pages={295--302},
+      year={2010},
+      organization={Springer}
+    }
+    ```
+  </details>
+  
+
+- **Globally Optimal Active Contours, Sequential Monte Carlo and On-Line Learning for Vessel Segmentation** <br />
+  C Florin, N Paragios, J Williams <br />
+  _ECCV_ (2006) <br />
+  https://doi.org/10.1007/11744078_37 <br />
+  <details>
+    <summary>bibtex</summary>
+    
+    ```bibtex
+    @inproceedings{florin2006globally,
+      title={Globally optimal active contours, sequential Monte Carlo and on-line learning for vessel segmentation},
+      author={Florin, Charles and Paragios, Nikos and Williams, Jim},
+      booktitle={Computer Vision--ECCV 2006: 9th European Conference on Computer Vision, Graz, Austria, May 7-13, 2006, Proceedings, Part III 9},
+      pages={476--489},
+      year={2006},
+      organization={Springer}
+    }
+    ```
+  </details>
+
+- **Vessel Segmentation Using a Shape Driven Flow** <br />
+  D Nain, A Yezzi, G Turk <br />
+  _MICCAI_ (2004) <br />
+  https://doi.org/10.1007/978-3-540-30135-6_7 <br />
+  <details>
+    <summary>bibtex</summary>
+    
+    ```bibtex
+    @inproceedings{nain2004vessel,
+      title={Vessel segmentation using a shape driven flow},
+      author={Nain, Delphine and Yezzi, Anthony and Turk, Greg},
+      booktitle={Medical Image Computing and Computer-Assisted Intervention--MICCAI 2004: 7th International Conference, Saint-Malo, France, September 26-29, 2004. Proceedings, Part I 7},
+      pages={51--59},
+      year={2004},
+      organization={Springer}
+    }
+    ```
+  </details>
+
+- **Vessel Segmentation for Visualization of MRA with Blood Pool Contrast Agent** <br />
+  S Young, V Pekar, J Weese  <br />
+  _MICCAI_ (2001) <br />
+  https://doi.org/10.1007/3-540-45468-3_59 <br />
+  <details>
+    <summary>bibtex</summary>
+    
+    ```bibtex
+    @inproceedings{young2001vessel,
+      title={Vessel segmentation for visualization of MRA with blood pool contrast agent},
+      author={Young, Stewart and Pekar, Vladimir and Weese, J{\"u}rgen},
+      booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+      pages={491--498},
+      year={2001},
+      organization={Springer}
+    }
+    ```
+  </details>
+  
+  
+- **Statistical 3D Vessel Segmentation Using a Rician Distribution** <br />
+  ACS Chung, JA Noble  <br />
+  _MICCAI_ (1999) <br />
+  https://doi.org/10.1007/10704282_9 <br />
+  <details>
+    <summary>bibtex</summary>
+    
+    ```bibtex
+    @inproceedings{chung1999statistical,
+      title={Statistical 3D vessel segmentation using a Rician distribution},
+      author={Chung, Albert CS and Noble, J Alison},
+      booktitle={Medical Image Computing and Computer-Assisted Intervention--MICCAI’99: Second International Conference, Cambridge, UK, September 19-22, 1999. Proceedings 2},
+      pages={82--89},
+      year={1999},
+      organization={Springer}
+    }
+    ```
+  </details>
+  
+- **Multiscale vessel enhancement filtering** <br />
+  AF Frangi, ..., MA  Viergever  <br />
+  _MICCAI_ (1998) <br />
+  https://doi.org/10.1007/BFb0056195 <br />
+  <details>
+    <summary>bibtex</summary>
+    
+    ```bibtex
+    @inproceedings{frangi1998multiscale,
+      title={Multiscale vessel enhancement filtering},
+      author={Frangi, Alejandro F and Niessen, Wiro J and Vincken, Koen L and Viergever, Max A},
+      booktitle={Medical Image Computing and Computer-Assisted Intervention—MICCAI’98: First International Conference Cambridge, MA, USA, October 11--13, 1998 Proceedings 1},
+      pages={130--137},
+      year={1998},
+      organization={Springer}
+    }
+    ```
+  </details>
+
+- **3D multi-scale line filter for segmentation and visualization of curvilinear structures in medical images** <br />
+  Y Sato, ..., R Kikinis <br />
+  _CVRMed-MRCAS_ (1997) <br />
+  https://doi.org/10.1007/BFb0029240 <br />
+  <details>
+    <summary>bibtex</summary>
+    
+    ```bibtex
+    @inproceedings{sato19973d,
+      title={3D multi-scale line filter for segmentation and visualization of curvilinear structures in medical images},
+      author={Sato, Yoshinobu and Nakajima, Shin and Atsumi, Hideki and Koller, Thomas and Gerig, Guido and Yoshida, Shigeyuki and Kikinis, Ron},
+      booktitle={International Conference on Computer Vision, Virtual Reality, and Robotics in Medicine},
+      pages={213--222},
+      year={1997},
+      organization={Springer}
+    }
+    ```
+  </details>
+  
   
 ## Topology
 
@@ -219,6 +717,27 @@
     ```
   </details>
 
+- **Reconstructing cerebrovascular networks under local physiological constraints by integer programming** <br />
+  M Rempfler, ..., BH Menze <br />
+  _MedIA_ (2015) <br />
+  https://doi.org/10.1016/j.media.2015.03.008 <br />
+  <details>
+    <summary>bibtex</summary>
+    
+    ```bibtex
+    @article{rempfler2015reconstructing,
+      title={Reconstructing cerebrovascular networks under local physiological constraints by integer programming},
+      author={Rempfler, Markus and Schneider, Matthias and Ielacqua, Giovanna D and Xiao, Xianghui and Stock, Stuart R and Klohs, Jan and Sz{\'e}kely, G{\'a}bor and Andres, Bjoern and Menze, Bjoern H},
+      journal={Medical Image Analysis},
+      volume={25},
+      number={1},
+      pages={86--94},
+      year={2015},
+      publisher={Elsevier}
+    }
+    ```
+  </details>
+
 - **TGIF: Topological Gap In-Fill for Vascular Networks** <br />
   M Schneider, ..., BH Menze <br />
   _MICCAI_ (2014) <br />
@@ -256,9 +775,69 @@
     }
     ```
   </details>
+
+- **Three Dimensional Curvilinear Structure Detection Using Optimally Oriented Flux** <br />
+  MWK Law, ACS Chung <br />
+  _ECCV_ (2008) <br />
+  https://doi.org/10.1007/978-3-540-88693-8_27 <br />
+  <details>
+    <summary>bibtex</summary>
+    
+    ```bibtex
+    @inproceedings{law2008three,
+      title={Three dimensional curvilinear structure detection using optimally oriented flux},
+      author={Law, Max WK and Chung, Albert CS},
+      booktitle={Computer Vision--ECCV 2008: 10th European Conference on Computer Vision, Marseille, France, October 12-18, 2008, Proceedings, Part IV 10},
+      pages={368--382},
+      year={2008},
+      organization={Springer}
+    }
+    ```
+  </details>
   
 
 ## Constrained Constructive Optimization
+
+- **Tissue metabolism driven arterial tree generation** <br />
+  M Schneider, ..., S Hirsch <br />
+  _MedIA_ (2012) <br />
+  https://doi.org/10.1016/j.media.2012.04.009 <br />
+  <details>
+    <summary>bibtex</summary>
+    
+    ```bibtex
+    @article{schneider2012tissue,
+      title={Tissue metabolism driven arterial tree generation},
+      author={Schneider, Matthias and Reichold, Johannes and Weber, Bruno and Sz{\'e}kely, G{\'a}bor and Hirsch, Sven},
+      journal={Medical image analysis},
+      volume={16},
+      number={7},
+      pages={1397--1414},
+      year={2012},
+      publisher={Elsevier}
+    }
+    ```
+  </details>
+
+- **Simulating vascular systems in arbitrary anatomies** <br />
+  D Szczerba, G Székely <br />
+  _MICCAI_ (2005) <br />
+  https://doi.org/10.1007/11566489_79 <br />
+  <details>
+    <summary>bibtex</summary>
+    
+    ```bibtex
+    @inproceedings{szczerba2005simulating,
+      title={Simulating vascular systems in arbitrary anatomies},
+      author={Szczerba, Dominik and Sz{\'e}kely, G{\'a}bor},
+      booktitle={Medical Image Computing and Computer-Assisted Intervention--MICCAI 2005: 8th International Conference, Palm Springs, CA, USA, October 26-29, 2005, Proceedings, Part II 8},
+      pages={641--648},
+      year={2005},
+      organization={Springer}
+    }
+    ```
+  </details>
+  
 
 ## Flow
 
@@ -280,5 +859,66 @@
     }
     ```
   </details>
+
+- **Vascular graph model to simulate the cerebral blood flow in realistic vascular networks** <br />
+  J Reichold, ..., B Weber <br />
+  _JCBFM_ (2009) <br />
+  https://doi.org/10.1038/jcbfm.2009.58 <br />
+  <details>
+    <summary>bibtex</summary>
+    
+    ```bibtex
+    @article{reichold2009vascular,
+      title={Vascular graph model to simulate the cerebral blood flow in realistic vascular networks},
+      author={Reichold, Johannes and Stampanoni, Marco and Keller, Anna Lena and Buck, Alfred and Jenny, Patrick and Weber, Bruno},
+      journal={Journal of Cerebral Blood Flow \& Metabolism},
+      volume={29},
+      number={8},
+      pages={1429--1443},
+      year={2009},
+      publisher={SAGE Publications Sage UK: London, England}
+    }
+    ```
+  </details>
   
+
+## Axons
+
+- **Triple-Crossing 2.5D Convolutional Neural Network for Detecting Neuronal Arbours in 3D Microscopic Images** <br />
+  S Liu, ..., W Cai  <br />
+  _MLMI_ (2017) <br />
+  https://doi.org/10.1007/978-3-319-67389-9_22 <br />
+  <details>
+    <summary>bibtex</summary>
+    
+    ```bibtex
+    @inproceedings{liu2017triple,
+      title={Triple-crossing 2.5 D convolutional neural network for detecting neuronal arbours in 3D microscopic images},
+      author={Liu, Siqi and Zhang, Donghao and Song, Yang and Peng, Hanchuan and Cai, Weidong},
+      booktitle={Machine Learning in Medical Imaging: 8th International Workshop, MLMI 2017, Held in Conjunction with MICCAI 2017, Quebec City, QC, Canada, September 10, 2017, Proceedings 8},
+      pages={185--193},
+      year={2017},
+      organization={Springer}
+    }
+    ```
+  </details>
+
+- **Automatic centerline extraction of irregular tubular structures using probability volumes from multiphoton imaging** <br />
+  A Santamaría-Pang, ..., IA Kakadiaris <br />
+  _MICCAI_ (2017) <br />
+  https://doi.org/10.1007/978-3-540-75759-7_59 <br />
+  <details>
+    <summary>bibtex</summary>
+    
+    ```bibtex
+    @inproceedings{santamaria2007automatic,
+      title={Automatic centerline extraction of irregular tubular structures using probability volumes from multiphoton imaging},
+      author={Santamar{\'\i}a-Pang, Alberto and Colbert, Costa M and Saggau, Peter and Kakadiaris, Ioannis A},
+      booktitle={Medical Image Computing and Computer-Assisted Intervention--MICCAI 2007: 10th International Conference, Brisbane, Australia, October 29-November 2, 2007, Proceedings, Part II 10},
+      pages={486--494},
+      year={2007},
+      organization={Springer}
+    }
+    ```
+  </details>
   
