@@ -54,7 +54,7 @@
 
 - **Hierarchical imaging and computational analysis of three-dimensional vascular network architecture in the entire postnatal and adult mouse brain** <br />
   T Wälchli, ..., M Stampanoni  <br />
-  _Nature Protocols_ (2021)
+  _Nature Protocols_ (2021) <br />
   https://doi.org/10.1038/s41596-021-00587-1 <br />
   <details>
     <summary>bibtex</summary>
