@@ -1,5 +1,15 @@
 # Vasculature segmentation (and/or other tree-like objects)
 
+## TOC
+- [**Reviews**](#Reviews)
+- [**Microscopy**](#Microscopy)
+- [**Retinal OCT**](#RetinalOCT)
+- [**Topology**](#TopologyCorrection)
+- [**Constrained Constructive Optimization**](#ConstrainedConstructiveOptimization)
+- [**Flow**](#Flow)
+- [**Axons**](#Axons)
+- [**Synth-based segmentation**](#SynthBasedSegmentation)
+
 ## Reviews
 
 - **Blood vessel segmentation methodologies in retinal images – A survey** <br />
