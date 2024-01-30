@@ -13,6 +13,11 @@
 
 ## Reviews
 
+- **Blood vessel segmentation algorithms—review of methods, datasets and evaluation metrics** <br />
+  S Moccia, ..., LS Mattos <br />
+  _CMPM_ (2018) <br />
+  https://doi.org/10.1016/j.cmpb.2018.02.001
+
 - **Blood vessel segmentation methodologies in retinal images – A survey** <br />
   MM Fraz, ..., SA Barman <br />
   _CMPM_ (2012) <br />
@@ -182,6 +187,11 @@
   _SPIE Medical Imaging_ (2017) <br />
   https://doi.org/10.1117/12.2254714
 
+- **Blood vessel characterization using virtual 3d models and convolutional neural networks in fluorescence microscopy** <br />
+  A Chowdhury, ..., A Santamaria-Pang <br />
+  _IEEE ISBI_ (2017) <br />
+  https://doi.org/10.1109/ISBI.2017.7950599
+
 - **Joint 3-D vessel segmentation and centerline extraction using oblique Hough forests with steerable filters** <br />
   M Schneider, ..., BH Menze <br />
   _MedIA_ (2015) <br />
@@ -309,6 +319,11 @@
   _MICCAI_ (2019) <br />
   https://doi.org/10.1007/978-3-030-32239-7_80
 
+- **Retinal blood vessels semantic segmentation method based on modified U-Net** <br />
+  L Luo, D Chen, D Xue <br />
+  _CCDC_ (2018) <br />
+  https://doi.org/10.1109/CCDC.2018.8407435
+
 - **Automatic Location of Blood Vessel Bifurcations in Digital Eye Fundus Images** <br />
   T Chaichana, ..., A Nagar <br />
   _AISC_ (2017) <br />
@@ -347,7 +362,6 @@
     ```
   </details>
   
-
 - **Deep Retinal Image Understanding** <br />
   KK Maninis, ..., L Van Gool <br />
   _MICCAI_ (2016) <br />
@@ -366,6 +380,11 @@
     }
     ```
   </details>
+
+- **Segmenting retinal blood vessels with deep neural networks** <br />
+  P Liskowski, K Krawiec <br />
+  _IEEE TMI_ (2016) <br />
+  https://doi.org/10.1109/TMI.2016.2546227
   
 - **Retinal vessel segmentation via deep learning network and fully-connected conditional random fields** <br />
   H Fu, ..., J Liu <br />
@@ -841,6 +860,11 @@
   M Cheng, ..., J Guo <br />
   _ICCV_ (2021) <br />
   https://doi.org/10.1109/ICCV48922.2021.00706
+
+- **3D Graph-Connectivity Constrained Network for Hepatic Vessel Segmentation** <br />
+  R Li, ..., L Wang <br />
+  _JBHI_ (2021) <br />
+  https://doi.org/10.1109/JBHI.2021.3118104
 
 - **A Topological Loss Function for Deep-Learning Based Image Segmentation Using Persistent Homology** <br />
   JR Clough, ..., AP King <br />
