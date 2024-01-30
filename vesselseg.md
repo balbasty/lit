@@ -3,12 +3,13 @@
 ## TOC
 - [**Reviews**](#Reviews)
 - [**Microscopy**](#Microscopy)
-- [**Retinal OCT**](#RetinalOCT)
-- [**Topology**](#TopologyCorrection)
-- [**Constrained Constructive Optimization**](#ConstrainedConstructiveOptimization)
+- [**Retinal OCT**](#Retinal-OCT)
+- [**Angio**](#Angio)
+- [**Topology**](#Topology--Correction)
+- [**Constrained Constructive Optimization**](#Constrained-Constructive-Optimization)
 - [**Flow**](#Flow)
 - [**Axons**](#Axons)
-- [**Synth-based segmentation**](#SynthBasedSegmentation)
+- [**Synth-based segmentation**](#Synth-Based-Segmentation)
 
 ## Reviews
 
