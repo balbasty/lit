@@ -22,7 +22,7 @@ A few notes on my notations:
 To simplify things, let us keep only references to $\boldsymbol\theta$, since that's what we optimize for:
 
 $$
-\mathcal{L} = \mathcal{S}\left(\boldsymbol\theta\right) + \mathcal{R}(\boldsymbol\theta) ~.
+\mathcal{L}\left(\boldsymbol\theta\right) = \mathcal{S}\left(\boldsymbol\theta\right) + \mathcal{R}(\boldsymbol\theta) ~.
 $$
 
 In 99% of the cases, the regularizer is actually quadratic in the parameters, so we have 
@@ -59,4 +59,4 @@ $$
 \boldsymbol\theta^{\text{new}} = \boldsymbol\theta - \mathbf{P}\_{\boldsymbol\theta}^{-1}\left(\mathbf{g}_{\boldsymbol\theta} + \mathbf{R}\boldsymbol\theta\right) ~,
 $$
 
-where $\mathbf{P}\_{\boldsymbol\theta}$ is known as the preconditioner. In Newton's case, the preconditioner changes at each step, with $\mathbf{P}\_{\boldsymbol\theta} = \mathbf{H}\_{\boldsymbol\theta} + \mathbf{R}$, whereas in gradient descent, the preconditioner is fixed and $\mathbf{P} = \mathbf{I}_K$.
+where $\mathbf{P}\_{\boldsymbol\theta}$ is known as the preconditioner. In Newton's case, the preconditioner changes at each step, with $\mathbf{P}\_{\boldsymbol\theta} = \mathbf{H}\_{\boldsymbol\theta} + \mathbf{R}$, whereas in gradient descent, the preconditioner is fixed and $\mathbf{P} = \mathbf{I}_K$. [This chapter ](https://web.eecs.umich.edu/~fessler/book/c-opt.pdf) in Jeff Fessler's unpublished textbook made me realize that most optimization techniques are variants of preconditioned GD. Now, in general we don't know $\mathbf{H}\_{\boldsymbol\theta}$ (and even when we know it, it may not be the best choice). Designing a good optimizer therefore reduces to finding a good preconditioner, that is both efficient to compute (and invert!)&mdash;so that each step is computationaly efficient&mdash; and close enough to the true Hessian&mdash;so that each step is close to optimal in some sense. 
