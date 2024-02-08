@@ -149,6 +149,18 @@ One problem with Fisher's scoring is that the approximate Hessian can be _less p
 - $\mathbf{H}^{\text{Levenberg}} = \mathbf{H}^{\text{Fisher}} + \lambda \mathbf{I}$
 - $\mathbf{H}^{\text{Marquardt}} = \mathbf{H}^{\text{Fisher}} + \lambda \text{diag}\left( \mathbf{H}^{\text{Fisher}} \right)$
 
-Another preconditioner that sometimes work well (and sometimes don't) is the diagonal of the true Hessian (or the diagonal of Fisher's Hessian), _i.e_, $\mathbf{H}^{\text{Jacobi}} = \text{diag}(\mathbf{H})$. It is the preconditioner used in [Jacobi's method](https://en.wikipedia.org/wiki/Jacobi_method) for diagonally-dominant systems.
+Another preconditioner that sometimes work well (and sometimes doesn't) is the diagonal of the true Hessian (or the diagonal of Fisher's Hessian), _i.e_, $\mathbf{H}^{\text{Jacobi}} = \text{diag}(\mathbf{H})$. It is the preconditioner used in [Jacobi's method](https://en.wikipedia.org/wiki/Jacobi_method) for diagonally-dominant systems.
 
-Similarly, the [Gauss-Seidel method](https://en.wikipedia.org/wiki/Gauss%E2%80%93Seidel_method) can be seen as using a preconditioner of the form $\mathbf{H}^{\text{Seidel}} = text{lower}(\mathbf{H})$, _i.e._, the lower triangular part of the Hessian.
+Finally, in registration (on generally in regulatised problems), we may set $\mathbf{H}^{\text{approx}} = \mathbf{0}$, which means our preconditioner is the inverse of the regulariser:
+
+$$
+\mathbf{P}^{\text{Hilbert}} = \gamma\mathbf{R}^{-1}
+$$
+
+giving the update step
+
+$$
+\boldsymbol{\theta}^{\text{new}} = \boldsymbol\theta - \gamma\mathbf{R}^{-1}\left(\mathbf{g}_{\boldsymbol\theta} + \mathbf{R}\boldsymbol\theta\right) = \boldsymbol\theta - \gamma\left(\mathbf{R}^{-1}\mathbf{g}\_{\boldsymbol\theta} + \boldsymbol\theta\right) = (1 - \gamma)\boldsymbol\theta  - \gamma\mathbf{R}^{-1}\mathbf{g}\_{\boldsymbol\theta} ~.
+$$
+
+These Hilbert gradients were introduced in [Beg et al. (2005)&mdash;section 6.1](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=ede22f3682bc33b361f5c67a17476a46ea3d3f4c). Interestingly, only $\mathbf{R}^{-1}$ appears in the update equation, not $\mathbf{R}$. While (as said before) $\mathbf{R}^{-1}$ can be computed from  $\mathbf{R}$ if one uses something like the membrane or bending energy, most LDDMM folks prefer to directly implement $\mathbf{R}^{-1}$ as a convolution with a Gaussian kernel (_i.e._, in other words, $\mathbf{R}^{-1}$ is the squared-exponential covariance matrix commonly used in Gaussian processes), even though that means no analytical expression for $\mathbf{R}$.
