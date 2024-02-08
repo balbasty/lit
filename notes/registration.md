@@ -53,10 +53,10 @@ When it comes to the similarity term, let us also write its gradient and Hessian
 
 Note that in general the similarity is not quadratic in $\boldsymbol\theta$, so the gradient and Hessian both depend on the point at which they are evaluated in some unknown way.
 
-Let's optimise! The simplest optimisation scheme is gradient descent:
+Let's optimise! The simplest optimisation scheme is gradient descent with step size $\gamma$:
 
 $$
-\boldsymbol\theta^{\text{new}} = \boldsymbol\theta - \left(\mathbf{g}_{\boldsymbol\theta} + \mathbf{R}\boldsymbol\theta\right) ~.
+\boldsymbol\theta^{\text{new}} = \boldsymbol\theta - \gamma\left(\mathbf{g}_{\boldsymbol\theta} + \mathbf{R}\boldsymbol\theta\right) ~.
 $$
 
 On the other end of the spectrum, if the Hessian of the similarity term is known, we can use [Newton-Raphson](https://en.wikipedia.org/wiki/Newton%27s_method_in_optimization) (also known simply as _Newton's optimisation method_):
@@ -68,11 +68,21 @@ $$
 However, they both belong to the broader family of [preconditioned gradient descent methods](https://en.wikipedia.org/wiki/Preconditioner#Preconditioning_in_optimization), of the form
 
 $$
-\boldsymbol\theta^{\text{new}} = \boldsymbol\theta - \mathbf{P}\_{\boldsymbol\theta}^{-1}\left(\mathbf{g}_{\boldsymbol\theta} + \mathbf{R}\boldsymbol\theta\right) ~,
+\boldsymbol\theta^{\text{new}} = \boldsymbol\theta - \mathbf{P}\left(\mathbf{g}_{\boldsymbol\theta} + \mathbf{R}\boldsymbol\theta\right) ~,
 $$
 
-where $\mathbf{P}\_{\boldsymbol\theta}$ is known as the preconditioner. In Newton's case, the preconditioner changes at each step, with $\mathbf{P}\_{\boldsymbol\theta} = \mathbf{H}\_{\boldsymbol\theta} + \mathbf{R}$, whereas in gradient descent, the preconditioner is fixed and $\mathbf{P} = \mathbf{I}_K$. [This chapter ](https://web.eecs.umich.edu/~fessler/book/c-opt.pdf) in Jeff Fessler's unpublished textbook made me realise that most optimisation techniques are variants of preconditioned GD. Now, in general we don't know $\mathbf{H}\_{\boldsymbol\theta}$ (and even when we know it, it may not be the best choice). Designing a good optimiser therefore reduces to finding a good preconditioner, that is both efficient to compute (and invert!)&mdash;so that each step is computationaly efficient&mdash; and close enough to the true Hessian&mdash;so that each step is close to optimal in some sense. 
+where $\mathbf{P}\_{\boldsymbol\theta}$ is known as the preconditioner. In Newton's case, the preconditioner changes at each step, with $\mathbf{P}\_{\boldsymbol\theta} = \left(\mathbf{H}\_{\boldsymbol\theta} + \mathbf{R}\right)^{-1}$, whereas in gradient descent, the preconditioner is fixed and $\mathbf{P} = \gamma\mathbf{I}_K$. [This chapter ](https://web.eecs.umich.edu/~fessler/book/c-opt.pdf) in Jeff Fessler's unpublished textbook made me realise that most optimisation techniques are variants of preconditioned GD. Now, in general we don't know $\mathbf{H}\_{\boldsymbol\theta}$ (and even when we know it, it may not be the best choice). Designing a good optimiser therefore reduces to finding a good preconditioner, that is both efficient to compute&mdash;so that each step is computationaly efficient&mdash;and close enough to the true Hessian&mdash;so that each step is close to optimal in some sense. 
 
 ---
 
 ## Preconditioners
+
+Gauss-Newton is generally presented in the context of nonlinear least-squares optimization. Keeping it general, let's assume that
+
+$$
+\mathcal{S}(\boldsymbol\theta) = \frac{1}{2} \mathcal{F}(\boldsymbol\theta)^{\mathbf{T}} \mathbf{W} \mathcal{F}(\boldsymbol\theta)
+$$
+
+where $\mathbf{W} \in \mathbb{R}^{M \times M}$ is positive semi-definite and $\mathcal{F} \in \mathcal{C}(\mathbb{R}^K \rightarrow \mathbb{R}^M)$ is some nonlinear function. By application of the chain rule, its gradient and Hessian are
+- $\boldsymbol\nabla\mathcal{S}(\boldsymbol\theta) = \boldsymbol\nabla\mathcal{F}(\boldsymbol\theta)^{\mathrm{T}} \mathbf{W} \mathcal{F}(\boldsymbol\theta)$.
+- $\mathcal{H}\mathcal{S}(\boldsymbol\theta) = \boldsymbol\nabla\mathcal{F}(\boldsymbol\theta)^{\mathrm{T}} \mathbf{W} \boldsymbol\nabla\mathcal{F}(\boldsymbol\theta) +\mathcal{H}\mathcal{F}(\boldsymbol\theta) \otimes  \mathbf{W} \mathcal{F}(\boldsymbol\theta)$.
