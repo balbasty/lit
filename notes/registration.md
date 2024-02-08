@@ -80,6 +80,8 @@ where $\mathbf{P}\_{\boldsymbol\theta}$ is known as the preconditioner. In Newto
 
 ## Preconditioners
 
+Since the regulariser is quadratic, all preconditioners will have the shape $\mathbf{P} = \left(\mathbf{H}^{\text{approx}} + \mathbf{R}\right)$, where $\mathbf{H}^{\text{approx}}$ is some alternative to the true Hessian of the similarity term. In this section, we will focus on variants of $\mathbf{H}^{\text{approx}}$.
+
 [Gauss-Newton](https://en.wikipedia.org/wiki/Gauss%E2%80%93Newton_algorithm) is generally presented in the context of nonlinear least-squares optimization. Keeping it general, let's assume that
 
 $$
@@ -93,10 +95,10 @@ where $\mathbf{W} \in \mathbb{R}^{M \times M}$ is a positive semi-definite matri
 Ths idea is that you're essentially discarding the second term of the Hessian, giving us the preconditioner
 
 $$
-\mathbf{P}_{\boldsymbol\theta} = \left(\boldsymbol\nabla\mathcal{F}(\boldsymbol\theta)^{\mathrm{T}} \mathbf{W} \boldsymbol\nabla\mathcal{F}(\boldsymbol\theta) + \mathbf{R}\right)^{-1}
+\mathbf{H}^{\text{approx}} = \boldsymbol\nabla\mathcal{F}(\boldsymbol\theta)^{\mathrm{T}} \mathbf{W} \boldsymbol\nabla\mathcal{F}(\boldsymbol\theta)
 $$
 
-Discarding the second term of the Hessian derives from the use of [Fisher's scoring](https://en.wikipedia.org/wiki/Scoring_algorithm), where the assumption $\boldsymbol\nabla\mathcal{S}(\boldsymbol\theta) = \mathbf{0}$ is plugged back into the Hessian. In this case, this yields $\mathcal{F}(\boldsymbol\theta) = \mathbf{0}$ and therefore the nulling of the second term. One of its main advantages is that it is always positive semi-definite, even in cases when the true Hessian $\mathcal{H}\mathcal{S}(\boldsymbol\theta)$ is negative semi-definite (which ca happen!).
+Discarding the second term of the Hessian derives from the use of [Fisher's scoring](https://en.wikipedia.org/wiki/Scoring_algorithm), where the assumption $\boldsymbol\nabla\mathcal{S}(\boldsymbol\theta) = \mathbf{0}$ is plugged back into the Hessian. In this case, this yields $\mathcal{F}(\boldsymbol\theta) = \mathbf{0}$ and therefore the nulling of the second term. One of its main advantages is that it is always positive semi-definite, even in cases when the true Hessian $\mathcal{H}\mathcal{S}(\boldsymbol\theta)$ is negative semi-definite (which can happen!).
 
 > [!NOTE]
 > Fisher's scoring can be applied in more general contexts than nonlinear least-squares,
@@ -117,3 +119,36 @@ Discarding the second term of the Hessian derives from the use of [Fisher's scor
 > - $\mathcal{H}^{\text{Fisher}}\mathcal{L}(\beta) = 1 + \frac{\left(\exp(\beta)x\right)^2}{\sigma^2}$
 >
 > This si typically a case where the true Hessian can be negative, but Fisher's Hessian is not!
+
+One problem with Fisher's scoring is that the approximate Hessian can be _less positive-definite_ than the true Hessian. Before delving into it, let's better define what we mean by "more or less positive-definite".
+
+> [!TIP]
+> A partial order on the cone of positive-semidefinite (PSD) matrices can be defined, and it is known as [Loewner's order](https://en.wikipedia.org/wiki/Loewner_order).
+>
+> Given two PSD matrices $\mathbf{X}$ and $\mathbf{Y}$, we say that $\mathbf{X}$ _majorises_ $\mathbf{Y}$ (_i.e._, is more positive-definite), noted $\mathbf{X} \succeq \mathbf{Y}$, if $\mathbf{X} - \mathbf{Y}$ is positive semi-definite (also written $\mathbf{X} - \mathbf{Y} \succeq \mathbf{0}$).
+
+> [!IMPORTANT]
+> In optimization, Loewner's order matters because, for a convex function $\mathcal{L}$, using a preconditioner whose inverse is more positive definite than all Hessians of $\mathcal{L}$ ensures that preconditioned gradient descent converges. If you're familiar with maximization-minimization framework, it's quite easy to see that with such a preconditioner the quadratic
+> 
+> $$
+> \mathcal{Q}(\boldsymbol\theta) = \mathcal{L}(\boldsymbol\theta_0) + \boldsymbol\nabla\mathcal{L}(\boldsymbol\theta_0) \left(\boldsymbol\theta - \boldsymbol\theta_0\right) + \frac{1}{2}\left(\boldsymbol\theta - \boldsymbol\theta_0\right)^{\mathrm{T}}\mathbf{P}^{-1}\left(\boldsymbol\theta - \boldsymbol\theta_0\right) ~,
+> $$
+>
+> which the preconditioned gradient descent step happens to minimize, is above $\mathcal{L}(\boldsymbol\theta)$ everywhere.
+
+> [!NOTE]
+> In [Model-based multiparameter mapping](https://arxiv.org/pdf/2102.01604.pdf) (which is not very well written, sorry...) we show that an approximate Hessian of the form
+>
+> $$
+> \mathbf{H}^{\text{aprox}} = \boldsymbol\nabla\mathcal{F}(\boldsymbol\theta)^{\mathrm{T}} \mathbf{W} \boldsymbol\nabla\mathcal{F}(\boldsymbol\theta) + \text{diag}\left(\left|\sum\_{m}\mathcal{H}\mathcal{F}_m(\boldsymbol\theta) \cdot \mathbf{w}\_m^{\text{T}} \mathcal{F}(\boldsymbol\theta)\right| \mathbf{1}\right)~,
+> $$
+>
+> which is a majorizer of the true Hessian, works better than the Gauss-Newton preconditioner.
+
+[Levenberg-Marquardt](https://en.wikipedia.org/wiki/Levenberg%E2%80%93Marquardt_algorithm) simply consists of choosing a preconditioner that interpolates between gradient descent and Gauss-Newton. Their preconditioners are:
+- $\mathbf{H}^{\text{Levenberg}} = \mathbf{H}^{\text{Fisher}} + \lambda \mathbf{I}$
+- $\mathbf{H}^{\text{Marquardt}} = \mathbf{H}^{\text{Fisher}} + \lambda \text{diag}\left( \mathbf{H}^{\text{Fisher}} \right)$
+
+Another preconditioner that sometimes work well (and sometimes don't) is the diagonal of the true Hessian (or the diagonal of Fisher's Hessian), _i.e_, $\mathbf{H}^{\text{Jacobi}} = \text{diag}(\mathbf{H})$. It is the preconditioner used in [Jacobi's method](https://en.wikipedia.org/wiki/Jacobi_method) for diagonally-dominant systems.
+
+Similarly, the [Gauss-Seidel method](https://en.wikipedia.org/wiki/Gauss%E2%80%93Seidel_method) can be seen as using a preconditioner of the form $\mathbf{H}^{\text{Seidel}} = text{lower}(\mathbf{H})$, _i.e._, the lower triangular part of the Hessian.
