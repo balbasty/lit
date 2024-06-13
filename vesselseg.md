@@ -356,7 +356,7 @@
   https://doi.org/10.1109/ISBI.2017.7950599
 
 - **Vascular Segmentation in TOF MRA Images of the Brain Using a Deep Convolutional Neural Network** <br />
-  ![micro](angio://img.shields.io/badge/angio-cyan)
+  ![micro](https://img.shields.io/badge/angio-cyan)
   ![deep](https://img.shields.io/badge/deep-black) <br />
   R Phellan, ..., ND Forkert <br />
   _LABELS_ (2017) <br />
@@ -377,7 +377,7 @@
   </details>
   
 - **Comparison of vessel enhancement algorithms applied to time-of-flight MRA images for cerebrovascular segmentation** <br />
-  ![micro](angio://img.shields.io/badge/angio-cyan)
+  ![micro](https://img.shields.io/badge/angio-cyan)
   ![frangi](https://img.shields.io/badge/frangi-red) <br />
   R Phellan, ND Forkert <br />
   _Med Phys_ (2017) <br />
