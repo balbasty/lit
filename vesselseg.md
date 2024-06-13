@@ -2,6 +2,7 @@
 
 ## TOC
 - [**Segmentation**](#Segmentation)
+- [**Topology**](#Topology)
 - [**Constrained Constructive Optimization**](#Constrained-Constructive-Optimization)
 - [**Flow**](#Flow)
 - [**Axons**](#Axons)
@@ -902,6 +903,8 @@
 ## Topology / Correction
 
 - **Topologically faithful image segmentation via induced matching of persistence barcodes** <br />
+  ![topo](https://img.shields.io/badge/topo-pink) 
+  ![deep](https://img.shields.io/badge/deep-black) <br />
   N Stucki, ..., BH Menze, U Bauer <br />
   _ICML_ (2023) <br />
   https://proceedings.mlr.press/v202/stucki23a.html <br />
@@ -921,26 +924,36 @@
   </details>
 
 - **Structure-Aware Image Segmentation with Homotopy Warping** <br />
+  ![topo](https://img.shields.io/badge/topo-pink)
+  ![deep](https://img.shields.io/badge/deep-black) <br />
   X Hu <br />
   _NeurIPS_ (2022) <br />
   https://openreview.net/forum?id=CMcptt6nFaQ
 
 - **Topology-Preserving Segmentation Network: A Deep Learning Segmentation Framework for Connected Component** <br />
+  ![topo](https://img.shields.io/badge/topo-pink)
+  ![deep](https://img.shields.io/badge/deep-black) <br />
   H Zhang, LM Lui <br />
   _ArXiv_ (2022) <br />
   https://arxiv.org/abs/2202.13331
 
 - **Capturing Shape Information with Multi-scale Topological Loss Terms for 3D Reconstruction** <br />
+  ![topo](https://img.shields.io/badge/topo-pink) 
+  ![deep](https://img.shields.io/badge/deep-black) <br />
   DJE Waibel, ..., B Rieck <br />
   _MICCAI_ (2022) <br />
   https://doi.org/10.1007/978-3-031-16440-8_15
 
 - **Topology-Aware Segmentation Using Discrete Morse Theory** <br />
+  ![topo](https://img.shields.io/badge/topo-pink) 
+  ![deep](https://img.shields.io/badge/deep-black) <br />
   X Hu, ..., C Chen <br />
   _ICLR_ (2021) <br />
   https://arxiv.org/abs/2103.09992
 
 - **Whole Brain Vessel Graphs: A Dataset and Benchmark for Graph Learning and Neuroscience (VesselGraph)** <br />
+  ![topo](https://img.shields.io/badge/topo-pink) 
+  ![deep](https://img.shields.io/badge/deep-black) <br />
   JC Paetzold, ..., BH Menze <br />
   NeurIPS Datasets and Benchmarks (2021) <br />
   https://doi.org/10.48550/arXiv.2108.13233 <br />
@@ -958,6 +971,9 @@
   </details>
 
 - **clDice - A Novel Topology-Preserving Loss Function for Tubular Structure Segmentation** <br />
+  ![micro](https://img.shields.io/badge/micro-green) 
+  ![topo](https://img.shields.io/badge/topo-pink)  
+  ![deep](https://img.shields.io/badge/deep-black) <br />
   S Shit, ..., BH Menze <br />
   _CVPR_ (2021) <br />
   https://openaccess.thecvf.com/content/CVPR2021/html/Shit_clDice_-_A_Novel_Topology-Preserving_Loss_Function_for_Tubular_Structure_CVPR_2021_paper.html <br />
@@ -976,51 +992,71 @@
   </details>
 
 - **Joint Topology-preserving and Feature-refinement Network for Curvilinear Structure Segmentation** <br />
+  ![topo](https://img.shields.io/badge/topo-pink) 
+  ![deep](https://img.shields.io/badge/deep-black) <br />
   M Cheng, ..., J Guo <br />
   _ICCV_ (2021) <br />
   https://doi.org/10.1109/ICCV48922.2021.00706
 
 - **3D Graph-Connectivity Constrained Network for Hepatic Vessel Segmentation** <br />
+  ![topo](https://img.shields.io/badge/topo-pink) 
+  ![deep](https://img.shields.io/badge/deep-black) <br />
   R Li, ..., L Wang <br />
   _JBHI_ (2021) <br />
   https://doi.org/10.1109/JBHI.2021.3118104
 
 - **A Topological Loss Function for Deep-Learning Based Image Segmentation Using Persistent Homology** <br />
+  ![topo](https://img.shields.io/badge/topo-pink) 
+  ![deep](https://img.shields.io/badge/deep-black) <br />
   JR Clough, ..., AP King <br />
   _IEEE TPAMI_ (2020) <br />
   https://doi.org/10.1109/TPAMI.2020.3013679
 
 - **Learning tree-structured representation for 3D coronary artery segmentation** <br />
+  ![topo](https://img.shields.io/badge/topo-pink) 
+  ![deep](https://img.shields.io/badge/deep-black) <br />
   B Kong, ..., Y Yin <br />
   _CMIG_ (2020) <br />
   https://doi.org/10.1016/j.compmedimag.2019.101688
 
 - **TopoAL: An Adversarial Learning Approach for Topology-Aware Road Segmentation** <br />
+  ![topo](https://img.shields.io/badge/topo-pink) 
+  ![deep](https://img.shields.io/badge/deep-black) <br />
   S Vasu, ..., P Fua <br />
   _ECCV_ (2020) <br />
   https://doi.org/10.1007/978-3-030-58583-9_14
 
 - **Topology-Preserving Deep Image Segmentation** <br />
+  ![topo](https://img.shields.io/badge/topo-pink) 
+  ![deep](https://img.shields.io/badge/deep-black) <br />
   X Hu, ..., C Chen <br />
   _NeurIPS_ (2019) <br />
   https://arxiv.org/abs/1906.05404
 
 - **Unsupervised Microvascular Image Segmentation Using an Active Contours Mimicking Neural Network** <br />
+  ![topo](https://img.shields.io/badge/topo-pink) 
+  ![deep](https://img.shields.io/badge/deep-black) <br />
   S Gur, ..., P Blinder <br />
   _ICCV_ (2019) <br />
   https://arxiv.org/abs/1908.01373
 
 - **A Deep Learning Design for Improving Topology Coherence in Blood Vessel Segmentation** <br />
+  ![topo](https://img.shields.io/badge/topo-pink) 
+  ![deep](https://img.shields.io/badge/deep-black) <br />
   RJ Araújo, JS Cardoso, HP Oliveira <br />
   _MICCAI_ (2019) <br />
   https://doi.org/10.1007/978-3-030-32239-7_11
 
 - **Large Scale Image Segmentation with Structured Loss Based Deep Learning for Connectome Reconstruction** <br />
+  ![topo](https://img.shields.io/badge/topo-pink) 
+  ![deep](https://img.shields.io/badge/deep-black) <br />
   J Funke, ..., SC Turaga <br />
   _IEEE TPAMI_ (2018) <br />
   https://doi.org/10.1109/TPAMI.2018.2835450
 
 - **Beyond the Pixel-Wise Loss for Topology-Aware Delineation** <br />
+  ![topo](https://img.shields.io/badge/topo-pink) 
+  ![deep](https://img.shields.io/badge/deep-black) <br />
   A Mosinska, ..., P Fua <br />
   _CVPR_ (2018) <br />
   https://doi.org/10.1109/CVPR.2018.00331
