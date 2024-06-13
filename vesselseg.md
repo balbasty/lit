@@ -15,9 +15,30 @@
   _ArXiv_ (2024) <br />
   https://arxiv.org/abs/2401.13961
 
+- **Synthetic optical coherence tomography angiographs for detailed retinal vessel segmentation without human annotations** <br />
+  ![retina](https://img.shields.io/badge/retina-orange)
+  ![synth](https://img.shields.io/badge/synth-yellow)
+  ![deep](https://img.shields.io/badge/deep-black) <br />
+  L Kreitner, ..., D Rueckert, MJ Menten <br />
+  _IEEE TMI_ (2024) <br />
+  https://doi.org/10.1109/TMI.2024.3354408 <br />
+  <details>
+    <summary>bibtex</summary>
+    
+    ```bibtex
+    @article{kreitner2024synthetic,
+      title={Synthetic optical coherence tomography angiographs for detailed retinal vessel segmentation without human annotations},
+      author={Kreitner, Linus and Paetzold, Johannes C and Rauch, Nikolaus and Chen, Chen and Hagag, Ahmed M and Fayed, Alaa E and Sivaprasad, Sobha and Rausch, Sebastian and Weichsel, Julian and Menze, Bjoern H and others},
+      journal={IEEE Transactions on Medical Imaging},
+      year={2024},
+      publisher={IEEE}
+    }
+    ```
+  </details>
+  
 - **Rapid and fully automated blood vasculature analysis in 3D light-sheet image volumes of different organs** <br />
   ![micro](https://img.shields.io/badge/micro-green)
-  ![deep](https://img.shields.io/badge/frangi-red) <br />
+  ![frangi](https://img.shields.io/badge/frangi-red) <br />
   P Spangenberg, ..., A Mosig <br />
   _Cell Rep Met_ (2023) <br />
   https://doi.org/10.1016/j.crmeth.2023.100436
@@ -38,7 +59,7 @@
 - **Volumetric characterization of microvasculature in ex vivo human brain samples by serial sectioning optical coherence tomography** <br />
   J Yang, ..., H Wang <br />
   ![micro](https://img.shields.io/badge/micro-green)
-  ![deep](https://img.shields.io/badge/frangi-red) <br />
+  ![frangi](https://img.shields.io/badge/frangi-red) <br />
   _IEEE TBE__ (2022) <br />
   https://doi.org/10.1109/TBME.2022.3175072 <br />
   <details>
@@ -58,9 +79,38 @@
     ```
   </details>
 
+- **Physiology-based simulation of the retinal vasculature enables annotation-free segmentation of OCT angiographs** <br />
+  ![retina](https://img.shields.io/badge/retina-orange)
+  ![synth](https://img.shields.io/badge/synth-yellow)
+  ![deep](https://img.shields.io/badge/deep-black) <br />
+  MJ Menten, ..., D Rueckert <br />
+  _MICCAI_ (2022) <br />
+  https://doi.org/10.1007/978-3-031-16452-1_32 <br />
+  <details>
+    <summary>bibtex</summary>
+    
+    ```bibtex
+    @inproceedings{menten2022physiology,
+      title={Physiology-based simulation of the retinal vasculature enables annotation-free segmentation of oct angiographs},
+      author={Menten, Martin J and Paetzold, Johannes C and Dima, Alina and Menze, Bjoern H and Knier, Benjamin and Rueckert, Daniel},
+      booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+      pages={330--340},
+      year={2022},
+      organization={Springer}
+    }
+    ```
+  </details>
+
+- **Cross-Domain Depth Estimation Network for 3D Vessel Reconstruction in OCT Angiography** <br />
+  ![retina](https://img.shields.io/badge/retina-orange)
+  ![deep](https://img.shields.io/badge/deep-black) <br />
+  S Yu, ..., Y Zhao <br />
+  _MICCAI_ (2021) <br />
+  https://doi.org/10.1007/978-3-030-87237-3_2
+  
 - **Hierarchical imaging and computational analysis of three-dimensional vascular network architecture in the entire postnatal and adult mouse brain** <br />
   ![micro](https://img.shields.io/badge/micro-green)
-  ![deep](https://img.shields.io/badge/morpho-purple) <br />
+  ![morpho](https://img.shields.io/badge/morpho-purple) <br />
   T Wälchli, ..., M Stampanoni  <br />
   _Nature Protocols_ (2021) <br />
   https://doi.org/10.1038/s41596-021-00587-1 <br />
@@ -83,7 +133,7 @@
 
 - **Segmentation-Less, Automated, Vascular Vectorization** <br />
   ![micro](https://img.shields.io/badge/micro-green)
-  ![deep](https://img.shields.io/badge/filter-red) <br />
+  ![filter](https://img.shields.io/badge/filter-red) <br />
   SA Mihelic, ..., AK Dunn <br />
   _PLoS Comp Bio_ (2021) <br />
   https://doi.org/10.1371/journal.pcbi.1009451 <br />
@@ -104,10 +154,9 @@
     ```
   </details>
   
-
 - **Machine learning analysis of whole mouse brain vasculature** <br />
   ![micro](https://img.shields.io/badge/micro-green)
-  ![micro](https://img.shields.io/badge/synth-yellow)
+  ![synth](https://img.shields.io/badge/synth-yellow)
   ![deep](https://img.shields.io/badge/deep-black) <br />
   MI Todorov, ..., BH Menze, A Ertürk  <br />
   _Nature Methods_ (2020) <br />
@@ -136,16 +185,44 @@
   _BMEF_ (2020) <br />
   https://doi.org/10.34133/2020/8620932
 
+- **A Distance-Based Loss for Smooth and Continuous Skin Layer Segmentation in Optoacoustic Images**  <br />
+  ![retina](https://img.shields.io/badge/retina-orange)
+  ![deep](https://img.shields.io/badge/deep-black) <br />
+  S Gerl, ..., BH Menze <br />
+  _MICCAI_ (2020) <br />
+  https://doi.org/10.1007/978-3-030-59725-2_30
+
+- **Image Projection Network: 3D to 2D Image Segmentation in OCTA Images** <br />
+  ![retina](https://img.shields.io/badge/retina-orange)
+  ![deep](https://img.shields.io/badge/deep-black) <br />
+  M Li, ..., S, Li <br />
+  _IEEE TMI_ (2020) <br />
+  https://doi.org/10.1109/TMI.2020.2992244
+
+- **Variational intensity cross channel encoder for unsupervised vessel segmentation on OCT angiography** <br />
+  ![retina](https://img.shields.io/badge/retina-orange)
+  ![deep](https://img.shields.io/badge/deep-black) <br />
+  Y Liu, ..., JL Prince <br />
+  _SPIE Medical Imaging: Image Processing_ (2020) <br />
+  https://doi.org/10.1117/12.2549967
+
+- **CS-Net: Channel and Spatial Attention Network for Curvilinear Structure Segmentation** <br />
+  ![retina](https://img.shields.io/badge/retina-orange)
+  ![deep](https://img.shields.io/badge/deep-black) <br />
+  L Mou, ..., J Liu <br />
+  _MICCAI_ (2019) <br />
+  https://doi.org/10.1007/978-3-030-32239-7_80
+  
 - **Transfer learning from synthetic data reduces need for labels to segment brain vasculature and neural pathways in 3d** <br />
   ![micro](https://img.shields.io/badge/micro-green)
-  ![micro](https://img.shields.io/badge/synth-yellow)
+  ![synth](https://img.shields.io/badge/synth-yellow)
   ![deep](https://img.shields.io/badge/deep-black) <br />
   JC Paetzold, ..., BH Menze <br />
   _MIDL_ (2019) <br />
   https://openreview.net/forum?id=BJe02gRiY4
   
 - **Learning to Segment 3D Linear Structures Using Only 2D Annotations** <br />
-  ![micro](https://img.shields.io/badge/angio-cyan)
+  ![angio](https://img.shields.io/badge/angio-cyan)
   ![deep](https://img.shields.io/badge/deep-black) <br />
   M Koziński, ..., P Fua  <br />
   _MICCAI_ (2018) <br />
@@ -171,17 +248,73 @@
   _CMPM_ (2018) <br />
   https://doi.org/10.1016/j.cmpb.2018.02.001
 
+- **Retinal blood vessels semantic segmentation method based on modified U-Net** <br />
+  ![retina](https://img.shields.io/badge/retina-orange)
+  ![deep](https://img.shields.io/badge/deep-black) <br />
+  L Luo, D Chen, D Xue <br />
+  _CCDC_ (2018) <br />
+  https://doi.org/10.1109/CCDC.2018.8407435
+
+- **Automatic Location of Blood Vessel Bifurcations in Digital Eye Fundus Images** <br />
+  ![retina](https://img.shields.io/badge/retina-orange)
+  ![deep](https://img.shields.io/badge/deep-black) <br />
+  T Chaichana, ..., A Nagar <br />
+  _AISC_ (2017) <br />
+  https://doi.org/10.1007/978-981-10-3325-4_33 <br />
+  <details>
+    <summary>bibtex</summary>
+    
+    ```bibtex
+    @inproceedings{chaichana2017automatic,
+      title={Automatic location of blood vessel bifurcations in digital eye fundus images},
+      author={Chaichana, Thanapong and Sun, Zhonghua and Barrett-Baxendale, Mark and Nagar, Atulya},
+      booktitle={Proceedings of Sixth International Conference on Soft Computing for Problem Solving: SocProS 2016, Volume 2},
+      pages={332--342},
+      year={2017},
+      organization={Springer}
+    }
+    ```
+  </details>
+
+- **Deep-FExt: Deep Feature Extraction for Vessel Segmentation and Centerline Prediction** <br />
+  ![retina](https://img.shields.io/badge/retina-orange)
+  ![deep](https://img.shields.io/badge/deep-black) <br />
+  G Tetteh, ..., BH Menze <br />
+  _MLMI_ (2017) <br />
+  https://doi.org/10.1007/978-3-319-67389-9_40 <br />
+  <details>
+    <summary>bibtex</summary>
+    
+    ```bibtex
+    @inproceedings{tetteh2017deep,
+      title={Deep-FExt: Deep feature extraction for vessel segmentation and centerline prediction},
+      author={Tetteh, Giles and Rempfler, Markus and Zimmer, Claus and Menze, Bjoern H},
+      booktitle={Machine Learning in Medical Imaging: 8th International Workshop, MLMI 2017, Held in Conjunction with MICCAI 2017, Quebec City, QC, Canada, September 10, 2017, Proceedings 8},
+      pages={344--352},
+      year={2017},
+      organization={Springer}
+    }
+    ```
+  </details>
+  
 - **Cerebral vessels segmentation for light-sheet microscopy image using convolutional neural networks** <br />
+  ![micro](https://img.shields.io/badge/micro-green)
+  ![deep](https://img.shields.io/badge/deep-black) <br />
   C Hu, ..., J Tian <br />
   _SPIE Medical Imaging_ (2017) <br />
   https://doi.org/10.1117/12.2254714
 
 - **Blood vessel characterization using virtual 3d models and convolutional neural networks in fluorescence microscopy** <br />
+  ![micro](https://img.shields.io/badge/micro-green)
+  ![synth](https://img.shields.io/badge/synth-yellow)
+  ![deep](https://img.shields.io/badge/deep-black) <br />
   A Chowdhury, ..., A Santamaria-Pang <br />
   _IEEE ISBI_ (2017) <br />
   https://doi.org/10.1109/ISBI.2017.7950599
 
 - **Joint 3-D vessel segmentation and centerline extraction using oblique Hough forests with steerable filters** <br />
+  ![micro](https://img.shields.io/badge/micro-green)
+  ![filter](https://img.shields.io/badge/filter-red) <br />
   M Schneider, ..., BH Menze <br />
   _MedIA_ (2015) <br />
   https://doi.org/10.1016/j.media.2014.09.007 <br />
@@ -232,6 +365,8 @@
   </details>
 
 - **A Novel Three-Dimensional Computer-Assisted Method for a Quantitative Study of Microvascular Networks of the Human Cerebral Cortex** <br />
+  ![micro](https://img.shields.io/badge/micro-green)
+  ![classic](https://img.shields.io/badge/classic-purple) <br />
   F Cassot F, ...S, V Lauwers-Cances <br />
   _Microcirculation_ (2006) <br />
   https://doi.org/10.1080/10739680500383407 <br />
@@ -275,6 +410,8 @@
   </details>
 
 - **Snake modeling and distance transform approach to vascular centerline extraction and quantification** <br />
+  ![micro](https://img.shields.io/badge/micro-green)
+  ![classic](https://img.shields.io/badge/classic-purple) <br />
   M Maddah, H Soltanian-Zadeh, A Afzali-Kusha <br />
   _CMIG_ (2003) <br />
   https://doi.org/10.1016/s0895-6111(03)00040-5 <br />
@@ -297,192 +434,9 @@
 
 ## Retinal OCT
 
-- **Synthetic optical coherence tomography angiographs for detailed retinal vessel segmentation without human annotations** <br />
-  L Kreitner, ..., D Rueckert, MJ Menten <br />
-  _IEEE TMI_ (2024) <br />
-  https://doi.org/10.1109/TMI.2024.3354408 <br />
-  <details>
-    <summary>bibtex</summary>
-    
-    ```bibtex
-    @article{kreitner2024synthetic,
-      title={Synthetic optical coherence tomography angiographs for detailed retinal vessel segmentation without human annotations},
-      author={Kreitner, Linus and Paetzold, Johannes C and Rauch, Nikolaus and Chen, Chen and Hagag, Ahmed M and Fayed, Alaa E and Sivaprasad, Sobha and Rausch, Sebastian and Weichsel, Julian and Menze, Bjoern H and others},
-      journal={IEEE Transactions on Medical Imaging},
-      year={2024},
-      publisher={IEEE}
-    }
-    ```
-  </details>
 
-- **Physiology-based simulation of the retinal vasculature enables annotation-free segmentation of OCT angiographs** <br />
-  MJ Menten, ..., D Rueckert <br />
-  _MICCAI_ (2022) <br />
-  https://doi.org/10.1007/978-3-031-16452-1_32 <br />
-  <details>
-    <summary>bibtex</summary>
-    
-    ```bibtex
-    @inproceedings{menten2022physiology,
-      title={Physiology-based simulation of the retinal vasculature enables annotation-free segmentation of oct angiographs},
-      author={Menten, Martin J and Paetzold, Johannes C and Dima, Alina and Menze, Bjoern H and Knier, Benjamin and Rueckert, Daniel},
-      booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
-      pages={330--340},
-      year={2022},
-      organization={Springer}
-    }
-    ```
-  </details>
 
-- **Cross-Domain Depth Estimation Network for 3D Vessel Reconstruction in OCT Angiography** <br />
-  S Yu, ..., Y Zhao <br />
-  _MICCAI_ (2021) <br />
-  https://doi.org/10.1007/978-3-030-87237-3_2
 
-- **A Distance-Based Loss for Smooth and Continuous Skin Layer Segmentation in Optoacoustic Images**  <br />
-  S Gerl, ..., BH Menze <br />
-  _MICCAI_ (2020) <br />
-  https://doi.org/10.1007/978-3-030-59725-2_30
-
-- **Image Projection Network: 3D to 2D Image Segmentation in OCTA Images** <br />
-  M Li, ..., S, Li <br />
-  _IEEE TMI_ (2020) <br />
-  https://doi.org/10.1109/TMI.2020.2992244
-
-- **Variational intensity cross channel encoder for unsupervised vessel segmentation on OCT angiography** <br />
-  Y Liu, ..., JL Prince <br />
-  _SPIE Medical Imaging: Image Processing_ (2020) <br />
-  https://doi.org/10.1117/12.2549967
-
-- **CS-Net: Channel and Spatial Attention Network for Curvilinear Structure Segmentation** <br />
-  L Mou, ..., J Liu <br />
-  _MICCAI_ (2019) <br />
-  https://doi.org/10.1007/978-3-030-32239-7_80
-
-- **Retinal blood vessels semantic segmentation method based on modified U-Net** <br />
-  L Luo, D Chen, D Xue <br />
-  _CCDC_ (2018) <br />
-  https://doi.org/10.1109/CCDC.2018.8407435
-
-- **Automatic Location of Blood Vessel Bifurcations in Digital Eye Fundus Images** <br />
-  T Chaichana, ..., A Nagar <br />
-  _AISC_ (2017) <br />
-  https://doi.org/10.1007/978-981-10-3325-4_33 <br />
-  <details>
-    <summary>bibtex</summary>
-    
-    ```bibtex
-    @inproceedings{chaichana2017automatic,
-      title={Automatic location of blood vessel bifurcations in digital eye fundus images},
-      author={Chaichana, Thanapong and Sun, Zhonghua and Barrett-Baxendale, Mark and Nagar, Atulya},
-      booktitle={Proceedings of Sixth International Conference on Soft Computing for Problem Solving: SocProS 2016, Volume 2},
-      pages={332--342},
-      year={2017},
-      organization={Springer}
-    }
-    ```
-  </details>
-
-- **Deep-FExt: Deep Feature Extraction for Vessel Segmentation and Centerline Prediction** <br />
-  G Tetteh, ..., BH Menze <br />
-  _MLMI_ (2017) <br />
-  https://doi.org/10.1007/978-3-319-67389-9_40 <br />
-  <details>
-    <summary>bibtex</summary>
-    
-    ```bibtex
-    @inproceedings{tetteh2017deep,
-      title={Deep-FExt: Deep feature extraction for vessel segmentation and centerline prediction},
-      author={Tetteh, Giles and Rempfler, Markus and Zimmer, Claus and Menze, Bjoern H},
-      booktitle={Machine Learning in Medical Imaging: 8th International Workshop, MLMI 2017, Held in Conjunction with MICCAI 2017, Quebec City, QC, Canada, September 10, 2017, Proceedings 8},
-      pages={344--352},
-      year={2017},
-      organization={Springer}
-    }
-    ```
-  </details>
-  
-- **Deep Retinal Image Understanding** <br />
-  KK Maninis, ..., L Van Gool <br />
-  _MICCAI_ (2016) <br />
-  https://doi.org/10.1007/978-3-319-46723-8_17 <br />
-  <details>
-    <summary>bibtex</summary>
-    
-    ```bibtex
-    @inproceedings{maninis2016deep,
-      title={Deep retinal image understanding},
-      author={Maninis, Kevis-Kokitsi and Pont-Tuset, Jordi and Arbel{\'a}ez, Pablo and Van Gool, Luc},
-      booktitle={Medical Image Computing and Computer-Assisted Intervention--MICCAI 2016: 19th International Conference, Athens, Greece, October 17-21, 2016, Proceedings, Part II 19},
-      pages={140--148},
-      year={2016},
-      organization={Springer}
-    }
-    ```
-  </details>
-
-- **Segmenting retinal blood vessels with deep neural networks** <br />
-  P Liskowski, K Krawiec <br />
-  _IEEE TMI_ (2016) <br />
-  https://doi.org/10.1109/TMI.2016.2546227
-  
-- **Retinal vessel segmentation via deep learning network and fully-connected conditional random fields** <br />
-  H Fu, ..., J Liu <br />
-  _IEEE ISBI_ (2016) <br />
-  https://doi.org/10.1109/ISBI.2016.7493362 <br />
-  <details>
-    <summary>bibtex</summary>
-    
-    ```bibtex
-    @inproceedings{fu2016retinal,
-      title={Retinal vessel segmentation via deep learning network and fully-connected conditional random fields},
-      author={Fu, Huazhu and Xu, Yanwu and Wong, Damon Wing Kee and Liu, Jiang},
-      booktitle={2016 IEEE 13th international symposium on biomedical imaging (ISBI)},
-      pages={698--701},
-      year={2016},
-      organization={IEEE}
-    }
-    ```
-  </details>
-
-- **Deep vessel tracking: A generalized probabilistic approach via deep learning** <br />
-  A Wu, ..., DJ Mollura <br />
-  _IEEE ISBI_ (2016) <br />
-  https://doi.org/10.1109/ISBI.2016.7493520 <br />
-  <details>
-    <summary>bibtex</summary>
-    
-    ```bibtex
-    @inproceedings{wu2016deep,
-      title={Deep vessel tracking: A generalized probabilistic approach via deep learning},
-      author={Wu, Aaron and Xu, Ziyue and Gao, Mingchen and Buty, Mario and Mollura, Daniel J},
-      booktitle={2016 IEEE 13th International Symposium on Biomedical Imaging (ISBI)},
-      pages={1363--1367},
-      year={2016},
-      organization={IEEE}
-    }
-    ```
-  </details>
-  
-
-- **Piecewise Geodesics for Vessel Centerline Extraction and Boundary Delineation with Application to Retina Segmentation** <br />
-  D Chen, LD Cohen <br />
-  _SSVM_ (2015) <br />
-  https://doi.org/10.1007/978-3-319-18461-6_22 <br />
-  <details>
-    <summary>bibtex</summary>
-    
-    ```bibtex
-    @inproceedings{chen2015piecewise,
-      title={Piecewise geodesics for vessel centerline extraction and boundary delineation with application to retina segmentation},
-      author={Chen, Da and Cohen, Laurent D},
-      booktitle={Scale Space and Variational Methods in Computer Vision: 5th International Conference, SSVM 2015, L{\`e}ge-Cap Ferret, France, May 31-June 4, 2015, Proceedings 5},
-      pages={270--281},
-      year={2015},
-      organization={Springer}
-    }
-    ```
-  </details>
 
 - **Globally Optimal Curvature-Regularized Fast Marching for Vessel Segmentation** <br />
   W Liao, K Rohr, S Wörz <br />
