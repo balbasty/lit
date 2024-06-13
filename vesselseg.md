@@ -553,6 +553,46 @@
     ```
   </details>
   
+- **Vessel Wall Segmentation Using Implicit Models and Total Curvature Penalizers** <br />
+  ![angio](https://img.shields.io/badge/angio-cyan) <br />
+  R Moreno, C Wang, O Smedby <br />
+  _SCIA_ (2013) <br />
+  https://doi.org/10.1007/978-3-642-38886-6_29 <br />
+  <details>
+    <summary>bibtex</summary>
+    
+    ```bibtex
+    @inproceedings{moreno2013vessel,
+      title={Vessel wall segmentation using implicit models and total curvature penalizers},
+      author={Moreno, Rodrigo and Wang, Chunliang and Smedby, {\"O}rjan},
+      booktitle={Image Analysis: 18th Scandinavian Conference, SCIA 2013, Espoo, Finland, June 17-20, 2013. Proceedings 18},
+      pages={299--308},
+      year={2013},
+      organization={Springer}
+    }
+    ```
+  </details>
+  
+- **Robust and accurate coronary artery centerline extraction in CTA by combining model-driven and data-driven approaches** <br />
+  ![angio](https://img.shields.io/badge/angio-cyan) <br />
+  Y Zheng, H Tek, G Funka-Lea <br />
+  _MICCAI_ (2013) <br />
+  https://doi.org/10.1007/978-3-642-40760-4_10 <br />
+  <details>
+    <summary>bibtex</summary>
+    
+    ```bibtex
+    @inproceedings{zheng2013robust,
+      title={Robust and accurate coronary artery centerline extraction in CTA by combining model-driven and data-driven approaches},
+      author={Zheng, Yefeng and Tek, Huseyin and Funka-Lea, Gareth},
+      booktitle={Medical Image Computing and Computer-Assisted Intervention--MICCAI 2013: 16th International Conference, Nagoya, Japan, September 22-26, 2013, Proceedings, Part III 16},
+      pages={74--81},
+      year={2013},
+      organization={Springer}
+    }
+    ```
+  </details>
+  
 - **Blood vessel segmentation methodologies in retinal images – A survey** <br />
   ![review](https://img.shields.io/badge/review-blue)
   ![retina](https://img.shields.io/badge/retina-orange)<br />
@@ -560,6 +600,49 @@
   _CMPM_ (2012) <br />
   https://doi.org/10.1016/j.cmpb.2012.03.009
 
+- **Fuzzy-based vascular structure enhancement in Time-of-Flight MRA images for improved segmentation** <br />
+  ![angio](https://img.shields.io/badge/angio-cyan) <br />
+  ND Forket, ..., D Säring <br />
+  _MIM_ (2011) <br />
+  https://doi.org/10.3414/me10-02-0003 <br />
+  <details>
+    <summary>bibtex</summary>
+    
+    ```bibtex
+    @article{forkert2011fuzzy,
+      title={Fuzzy-based vascular structure enhancement in time-of-flight MRA images for improved segmentation},
+      author={Forkert, Nils Daniel and Schmidt-Richberg, A and Fiehler, J and Illies, T and M{\"o}ller, D and Handels, H and S{\"a}ring, D},
+      journal={Methods of information in medicine},
+      volume={50},
+      number={01},
+      pages={74--83},
+      year={2011},
+      publisher={Schattauer GmbH}
+    }
+    ```
+  </details>
+  
+- **Vessel centerline tracking in CTA and MRA images using hough transform** <br />
+  ![angio](https://img.shields.io/badge/angio-cyan)
+  ![filter](https://img.shields.io/badge/filter-red) <br />
+  MMG Macedo, C Mekkaoui, MP Jackowski <br />
+  _CIARP_ (2010) <br />
+  https://doi.org/10.1007/978-3-642-16687-7_41 <br />
+  <details>
+    <summary>bibtex</summary>
+    
+    ```bibtex
+    @inproceedings{macedo2010vessel,
+      title={Vessel centerline tracking in CTA and MRA images using hough transform},
+      author={Macedo, Maysa MG and Mekkaoui, Choukri and Jackowski, Marcel P},
+      booktitle={Progress in Pattern Recognition, Image Analysis, Computer Vision, and Applications: 15th Iberoamerican Congress on Pattern Recognition, CIARP 2010, Sao Paulo, Brazil, November 8-11, 2010. Proceedings 15},
+      pages={295--302},
+      year={2010},
+      organization={Springer}
+    }
+    ```
+  </details>
+  
 - **A review of 3D vessel lumen segmentation techniques: models, features and extraction schemes** <br />
   ![review](https://img.shields.io/badge/review-blue) <br />
   D Lesage, ..., G Funka-Lea <br />
@@ -605,6 +688,26 @@
     ```
   </details>
   
+- **Globally Optimal Active Contours, Sequential Monte Carlo and On-Line Learning for Vessel Segmentation** <br />
+  ![angio](https://img.shields.io/badge/angio-cyan) <br />
+  C Florin, N Paragios, J Williams <br />
+  _ECCV_ (2006) <br />
+  https://doi.org/10.1007/11744078_37 <br />
+  <details>
+    <summary>bibtex</summary>
+    
+    ```bibtex
+    @inproceedings{florin2006globally,
+      title={Globally optimal active contours, sequential Monte Carlo and on-line learning for vessel segmentation},
+      author={Florin, Charles and Paragios, Nikos and Williams, Jim},
+      booktitle={Computer Vision--ECCV 2006: 9th European Conference on Computer Vision, Graz, Austria, May 7-13, 2006, Proceedings, Part III 9},
+      pages={476--489},
+      year={2006},
+      organization={Springer}
+    }
+    ```
+  </details>
+  
 - **A review of vessel extraction techniques and algorithms** <br />
   ![review](https://img.shields.io/badge/review-blue) <br />
   C Kirbas, F Quek <br />
@@ -627,6 +730,26 @@
     ```
   </details>
 
+- **Vessel Segmentation Using a Shape Driven Flow** <br />
+  ![angio](https://img.shields.io/badge/angio-cyan) <br />
+  D Nain, A Yezzi, G Turk <br />
+  _MICCAI_ (2004) <br />
+  https://doi.org/10.1007/978-3-540-30135-6_7 <br />
+  <details>
+    <summary>bibtex</summary>
+    
+    ```bibtex
+    @inproceedings{nain2004vessel,
+      title={Vessel segmentation using a shape driven flow},
+      author={Nain, Delphine and Yezzi, Anthony and Turk, Greg},
+      booktitle={Medical Image Computing and Computer-Assisted Intervention--MICCAI 2004: 7th International Conference, Saint-Malo, France, September 26-29, 2004. Proceedings, Part I 7},
+      pages={51--59},
+      year={2004},
+      organization={Springer}
+    }
+    ```
+  </details>
+  
 - **Snake modeling and distance transform approach to vascular centerline extraction and quantification** <br />
   ![micro](https://img.shields.io/badge/micro-green)
   ![classic](https://img.shields.io/badge/classic-purple) <br />
@@ -673,6 +796,26 @@
     ```
   </details>
 
+- **Vessel Segmentation for Visualization of MRA with Blood Pool Contrast Agent** <br />
+  ![angio](https://img.shields.io/badge/angio-cyan) <br />
+  S Young, V Pekar, J Weese  <br />
+  _MICCAI_ (2001) <br />
+  https://doi.org/10.1007/3-540-45468-3_59 <br />
+  <details>
+    <summary>bibtex</summary>
+    
+    ```bibtex
+    @inproceedings{young2001vessel,
+      title={Vessel segmentation for visualization of MRA with blood pool contrast agent},
+      author={Young, Stewart and Pekar, Vladimir and Weese, J{\"u}rgen},
+      booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+      pages={491--498},
+      year={2001},
+      organization={Springer}
+    }
+    ```
+  </details>
+  
 - **Retinal Blood Vessel Segmentation by Means of Scale-Space Analysis and Region Growing** <br />
   ![retina](https://img.shields.io/badge/retina-orange)
   ![morpho](https://img.shields.io/badge/morpho-purple) <br />
@@ -689,6 +832,68 @@
       booktitle={Medical Image Computing and Computer-Assisted Intervention--MICCAI’99: Second International Conference, Cambridge, UK, September 19-22, 1999. Proceedings 2},
       pages={90--97},
       year={1999},
+      organization={Springer}
+    }
+    ```
+  </details>
+  
+- **Statistical 3D Vessel Segmentation Using a Rician Distribution** <br />
+  ![angio](https://img.shields.io/badge/angio-cyan) <br />
+  ACS Chung, JA Noble  <br />
+  _MICCAI_ (1999) <br />
+  https://doi.org/10.1007/10704282_9 <br />
+  <details>
+    <summary>bibtex</summary>
+    
+    ```bibtex
+    @inproceedings{chung1999statistical,
+      title={Statistical 3D vessel segmentation using a Rician distribution},
+      author={Chung, Albert CS and Noble, J Alison},
+      booktitle={Medical Image Computing and Computer-Assisted Intervention--MICCAI’99: Second International Conference, Cambridge, UK, September 19-22, 1999. Proceedings 2},
+      pages={82--89},
+      year={1999},
+      organization={Springer}
+    }
+    ```
+  </details>
+  
+- **Multiscale vessel enhancement filtering** <br />
+  ![angio](https://img.shields.io/badge/angio-cyan)
+  ![frangi](https://img.shields.io/badge/frangi-red) <br />
+  AF Frangi, ..., MA  Viergever  <br />
+  _MICCAI_ (1998) <br />
+  https://doi.org/10.1007/BFb0056195 <br />
+  <details>
+    <summary>bibtex</summary>
+    
+    ```bibtex
+    @inproceedings{frangi1998multiscale,
+      title={Multiscale vessel enhancement filtering},
+      author={Frangi, Alejandro F and Niessen, Wiro J and Vincken, Koen L and Viergever, Max A},
+      booktitle={Medical Image Computing and Computer-Assisted Intervention—MICCAI’98: First International Conference Cambridge, MA, USA, October 11--13, 1998 Proceedings 1},
+      pages={130--137},
+      year={1998},
+      organization={Springer}
+    }
+    ```
+  </details>
+
+- **3D multi-scale line filter for segmentation and visualization of curvilinear structures in medical images** <br />
+  ![angio](https://img.shields.io/badge/angio-cyan)
+  ![frangi](https://img.shields.io/badge/frangi-red) <br />
+  Y Sato, ..., R Kikinis <br />
+  _CVRMed-MRCAS_ (1997) <br />
+  https://doi.org/10.1007/BFb0029240 <br />
+  <details>
+    <summary>bibtex</summary>
+    
+    ```bibtex
+    @inproceedings{sato19973d,
+      title={3D multi-scale line filter for segmentation and visualization of curvilinear structures in medical images},
+      author={Sato, Yoshinobu and Nakajima, Shin and Atsumi, Hideki and Koller, Thomas and Gerig, Guido and Yoshida, Shigeyuki and Kikinis, Ron},
+      booktitle={International Conference on Computer Vision, Virtual Reality, and Robotics in Medicine},
+      pages={213--222},
+      year={1997},
       organization={Springer}
     }
     ```
