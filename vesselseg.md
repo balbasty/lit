@@ -14,16 +14,20 @@
 ## Reviews
 
 - **Blood vessel segmentation algorithms—review of methods, datasets and evaluation metrics** <br />
+  ![review](https://img.shields.io/badge/review-blue) <br />
   S Moccia, ..., LS Mattos <br />
   _CMPM_ (2018) <br />
   https://doi.org/10.1016/j.cmpb.2018.02.001
 
 - **Blood vessel segmentation methodologies in retinal images – A survey** <br />
+  ![review](https://img.shields.io/badge/review-blue)
+  ![retina](https://img.shields.io/badge/retina-orange)<br />
   MM Fraz, ..., SA Barman <br />
   _CMPM_ (2012) <br />
   https://doi.org/10.1016/j.cmpb.2012.03.009
 
 - **A review of 3D vessel lumen segmentation techniques: models, features and extraction schemes** <br />
+  ![review](https://img.shields.io/badge/review-blue) <br />
   D Lesage, ..., G Funka-Lea <br />
   _MedIA_ (2009) <br />
   https://doi.org/10.1016/j.media.2009.07.011 <br />
@@ -45,6 +49,7 @@
   </details>
 
 - **A review of vessel extraction techniques and algorithms** <br />
+  ![review](https://img.shields.io/badge/review-blue) <br />
   C Kirbas, F Quek <br />
   _ACM Computing Surveys_ (2004) <br />
   https://doi.org/10.1145/1031120.1031121 <br />
@@ -88,6 +93,27 @@
   Y Wu, ..., K Mori <br />
   _CVPR_ (2022) <br />
   https://doi.org/10.1109/CVPRW56347.2022.00203
+
+- **Volumetric characterization of microvasculature in ex vivo human brain samples by serial sectioning optical coherence tomography** <br />
+  J Yang, ..., H Wang <br />
+  _IEEE TBE__ (2022) <br />
+  https://doi.org/10.1109/TBME.2022.3175072 <br />
+  <details>
+    <summary>bibtex</summary>
+    
+    ```bibtex
+    @article{yang2022volumetric,
+      title={Volumetric characterization of microvasculature in ex vivo human brain samples by serial sectioning optical coherence tomography},
+      author={Yang, Jiarui and Chang, Shuaibin and Chen, Ichun Anderson and Kura, Sreekanth and Rosen, Grace A and Saltiel, Nicole A and Huber, Bertrand R and Varadarajan, Divya and Balbastre, Yael and Magnain, Caroline and others},
+      journal={IEEE Transactions on Biomedical Engineering},
+      volume={69},
+      number={12},
+      pages={3645--3656},
+      year={2022},
+      publisher={IEEE}
+    }
+    ```
+  </details>
 
 - **Hierarchical imaging and computational analysis of three-dimensional vascular network architecture in the entire postnatal and adult mouse brain** <br />
   T Wälchli, ..., M Stampanoni  <br />
@@ -459,6 +485,27 @@
       pages={550--557},
       year={2013},
       organization={Springer}
+    }
+    ```
+  </details>
+
+- **Segmentation of vessel-like patterns using mathematical morphology and curvature evaluation** <br />
+  F Zana, JC Klein <br />
+  _IEEE TIP_ (2001) <br />
+  https://doi.org/10.1109/83.931095 <br />
+  <details>
+    <summary>bibtex</summary>
+    
+    ```bibtex
+    @article{zana2001segmentation,
+      title={Segmentation of vessel-like patterns using mathematical morphology and curvature evaluation},
+      author={Zana, Frederic and Klein, J-C},
+      journal={IEEE transactions on image processing},
+      volume={10},
+      number={7},
+      pages={1010--1019},
+      year={2001},
+      publisher={IEEE}
     }
     ```
   </details>
@@ -1046,6 +1093,25 @@
       pages={674--687},
       year={2008},
       publisher={IEEE}
+    }
+    ```
+  </details>
+
+- **Liver blood vessels extraction by a 3-D topological approach** <br />
+  P Dokládal, ..., G Bertrand <br />
+  _MICCAI_ (1999) <br />
+  https://doi.org/10.1007/10704282_11 <br />
+  <details>
+    <summary>bibtex</summary>
+    
+    ```bibtex
+    @inproceedings{dokladal1999liver,
+      title={Liver blood vessels extraction by a 3-D topological approach},
+      author={Dokl{\'a}dal, Petr and Lohou, Christophe and Perroton, Laurent and Bertrand, Gilles},
+      booktitle={Medical Image Computing and Computer-Assisted Intervention--MICCAI’99: Second International Conference, Cambridge, UK, September 19-22, 1999. Proceedings 2},
+      pages={98--105},
+      year={1999},
+      organization={Springer}
     }
     ```
   </details>
