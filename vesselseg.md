@@ -1,101 +1,44 @@
 # Vasculature segmentation (and/or other tree-like objects)
 
 ## TOC
-- [**Reviews**](#Reviews)
-- [**Microscopy**](#Microscopy)
-- [**Retinal OCT**](#Retinal-OCT)
-- [**Angio**](#Angio)
-- [**Topology**](#Topology--Correction)
+- [**Segmentation**](#Segmentation)
 - [**Constrained Constructive Optimization**](#Constrained-Constructive-Optimization)
 - [**Flow**](#Flow)
 - [**Axons**](#Axons)
-- [**Synth-based segmentation**](#Synth-Based-Segmentation)
 
-## Reviews
-
-- **Blood vessel segmentation algorithms—review of methods, datasets and evaluation metrics** <br />
-  ![review](https://img.shields.io/badge/review-blue) <br />
-  S Moccia, ..., LS Mattos <br />
-  _CMPM_ (2018) <br />
-  https://doi.org/10.1016/j.cmpb.2018.02.001
-
-- **Blood vessel segmentation methodologies in retinal images – A survey** <br />
-  ![review](https://img.shields.io/badge/review-blue)
-  ![retina](https://img.shields.io/badge/retina-orange)<br />
-  MM Fraz, ..., SA Barman <br />
-  _CMPM_ (2012) <br />
-  https://doi.org/10.1016/j.cmpb.2012.03.009
-
-- **A review of 3D vessel lumen segmentation techniques: models, features and extraction schemes** <br />
-  ![review](https://img.shields.io/badge/review-blue) <br />
-  D Lesage, ..., G Funka-Lea <br />
-  _MedIA_ (2009) <br />
-  https://doi.org/10.1016/j.media.2009.07.011 <br />
-  <details>
-    <summary>bibtex</summary>
-    
-    ```bibtex
-    @article{lesage2009review,
-      title={A review of 3D vessel lumen segmentation techniques: Models, features and extraction schemes},
-      author={Lesage, David and Angelini, Elsa D and Bloch, Isabelle and Funka-Lea, Gareth},
-      journal={Medical image analysis},
-      volume={13},
-      number={6},
-      pages={819--845},
-      year={2009},
-      publisher={Elsevier}
-    }
-    ```
-  </details>
-
-- **A review of vessel extraction techniques and algorithms** <br />
-  ![review](https://img.shields.io/badge/review-blue) <br />
-  C Kirbas, F Quek <br />
-  _ACM Computing Surveys_ (2004) <br />
-  https://doi.org/10.1145/1031120.1031121 <br />
-  <details>
-    <summary>bibtex</summary>
-    
-    ```bibtex
-    @article{kirbas2004review,
-      title={A review of vessel extraction techniques and algorithms},
-      author={Kirbas, Cemil and Quek, Francis},
-      journal={ACM Computing Surveys (CSUR)},
-      volume={36},
-      number={2},
-      pages={81--121},
-      year={2004},
-      publisher={ACM New York, NY, USA}
-    }
-    ```
-  </details>
-
-## Multi-modality
-
-- **tUbe net: a generalisable deep learning tool for 3D vessel segmentation** <br />
-  _bioRxiv_ (2023) <br />
-  N Holroyd, ..., S Walker-Samuel <br />
-  https://doi.org/10.1101/2023.07.24.550334
-
-## Microscopy
+## Segmentation
 
 - **TriSAM: Tri-Plane SAM for zero-shot cortical blood vessel segmentation in VEM images** <br />
+  ![micro](https://img.shields.io/badge/micro-green)
+  ![deep](https://img.shields.io/badge/deep-black) <br />
   J Wan, ..., D Wei <br />
   _ArXiv_ (2024) <br />
   https://arxiv.org/abs/2401.13961
 
 - **Rapid and fully automated blood vasculature analysis in 3D light-sheet image volumes of different organs** <br />
+  ![micro](https://img.shields.io/badge/micro-green)
+  ![deep](https://img.shields.io/badge/frangi-red) <br />
   P Spangenberg, ..., A Mosig <br />
   _Cell Rep Met_ (2023) <br />
   https://doi.org/10.1016/j.crmeth.2023.100436
 
+- **tUbe net: a generalisable deep learning tool for 3D vessel segmentation** <br />
+  ![deep](https://img.shields.io/badge/deep-black) <br />
+  _bioRxiv_ (2023) <br />
+  N Holroyd, ..., S Walker-Samuel <br />
+  https://doi.org/10.1101/2023.07.24.550334
+  
 - **Blood Vessel Segmentation from Low-Contrast and Wide-Field Optical Microscopic Images of Cranial Window by Attention-Gate-Based Network** <br />
+  ![micro](https://img.shields.io/badge/micro-green)
+  ![deep](https://img.shields.io/badge/deep-black) <br />
   Y Wu, ..., K Mori <br />
   _CVPR_ (2022) <br />
   https://doi.org/10.1109/CVPRW56347.2022.00203
 
 - **Volumetric characterization of microvasculature in ex vivo human brain samples by serial sectioning optical coherence tomography** <br />
   J Yang, ..., H Wang <br />
+  ![micro](https://img.shields.io/badge/micro-green)
+  ![deep](https://img.shields.io/badge/frangi-red) <br />
   _IEEE TBE__ (2022) <br />
   https://doi.org/10.1109/TBME.2022.3175072 <br />
   <details>
@@ -116,6 +59,8 @@
   </details>
 
 - **Hierarchical imaging and computational analysis of three-dimensional vascular network architecture in the entire postnatal and adult mouse brain** <br />
+  ![micro](https://img.shields.io/badge/micro-green)
+  ![deep](https://img.shields.io/badge/morpho-purple) <br />
   T Wälchli, ..., M Stampanoni  <br />
   _Nature Protocols_ (2021) <br />
   https://doi.org/10.1038/s41596-021-00587-1 <br />
@@ -137,6 +82,8 @@
   </details>
 
 - **Segmentation-Less, Automated, Vascular Vectorization** <br />
+  ![micro](https://img.shields.io/badge/micro-green)
+  ![deep](https://img.shields.io/badge/filter-red) <br />
   SA Mihelic, ..., AK Dunn <br />
   _PLoS Comp Bio_ (2021) <br />
   https://doi.org/10.1371/journal.pcbi.1009451 <br />
@@ -159,6 +106,9 @@
   
 
 - **Machine learning analysis of whole mouse brain vasculature** <br />
+  ![micro](https://img.shields.io/badge/micro-green)
+  ![micro](https://img.shields.io/badge/synth-yellow)
+  ![deep](https://img.shields.io/badge/deep-black) <br />
   MI Todorov, ..., BH Menze, A Ertürk  <br />
   _Nature Methods_ (2020) <br />
   https://doi.org/10.1038/s41592-020-0792-1 <br />
@@ -180,16 +130,23 @@
   </details>
 
 - **Anatomical Modeling of Brain Vasculature in Two-Photon Microscopy by Generalizable Deep Learning** <br />
+  ![micro](https://img.shields.io/badge/micro-green)
+  ![deep](https://img.shields.io/badge/deep-black) <br />
   W Tahir, ..., L Tian <br />
   _BMEF_ (2020) <br />
   https://doi.org/10.34133/2020/8620932
 
 - **Transfer learning from synthetic data reduces need for labels to segment brain vasculature and neural pathways in 3d** <br />
+  ![micro](https://img.shields.io/badge/micro-green)
+  ![micro](https://img.shields.io/badge/synth-yellow)
+  ![deep](https://img.shields.io/badge/deep-black) <br />
   JC Paetzold, ..., BH Menze <br />
   _MIDL_ (2019) <br />
   https://openreview.net/forum?id=BJe02gRiY4
   
 - **Learning to Segment 3D Linear Structures Using Only 2D Annotations** <br />
+  ![micro](https://img.shields.io/badge/angio-cyan)
+  ![deep](https://img.shields.io/badge/deep-black) <br />
   M Koziński, ..., P Fua  <br />
   _MICCAI_ (2018) <br />
   https://doi.org/10.1007/978-3-030-00934-2_32 <br />
@@ -207,6 +164,12 @@
     }
     ```
   </details>
+
+- **Blood vessel segmentation algorithms—review of methods, datasets and evaluation metrics** <br />
+  ![review](https://img.shields.io/badge/review-blue) <br />
+  S Moccia, ..., LS Mattos <br />
+  _CMPM_ (2018) <br />
+  https://doi.org/10.1016/j.cmpb.2018.02.001
 
 - **Cerebral vessels segmentation for light-sheet microscopy image using convolutional neural networks** <br />
   C Hu, ..., J Tian <br />
@@ -238,6 +201,35 @@
     }
     ```
   </details>
+  
+- **Blood vessel segmentation methodologies in retinal images – A survey** <br />
+  ![review](https://img.shields.io/badge/review-blue)
+  ![retina](https://img.shields.io/badge/retina-orange)<br />
+  MM Fraz, ..., SA Barman <br />
+  _CMPM_ (2012) <br />
+  https://doi.org/10.1016/j.cmpb.2012.03.009
+
+- **A review of 3D vessel lumen segmentation techniques: models, features and extraction schemes** <br />
+  ![review](https://img.shields.io/badge/review-blue) <br />
+  D Lesage, ..., G Funka-Lea <br />
+  _MedIA_ (2009) <br />
+  https://doi.org/10.1016/j.media.2009.07.011 <br />
+  <details>
+    <summary>bibtex</summary>
+    
+    ```bibtex
+    @article{lesage2009review,
+      title={A review of 3D vessel lumen segmentation techniques: Models, features and extraction schemes},
+      author={Lesage, David and Angelini, Elsa D and Bloch, Isabelle and Funka-Lea, Gareth},
+      journal={Medical image analysis},
+      volume={13},
+      number={6},
+      pages={819--845},
+      year={2009},
+      publisher={Elsevier}
+    }
+    ```
+  </details>
 
 - **A Novel Three-Dimensional Computer-Assisted Method for a Quantitative Study of Microvascular Networks of the Human Cerebral Cortex** <br />
   F Cassot F, ...S, V Lauwers-Cances <br />
@@ -256,6 +248,28 @@
       pages={1--18},
       year={2006},
       publisher={Taylor \& Francis}
+    }
+    ```
+  </details>
+  
+- **A review of vessel extraction techniques and algorithms** <br />
+  ![review](https://img.shields.io/badge/review-blue) <br />
+  C Kirbas, F Quek <br />
+  _ACM Computing Surveys_ (2004) <br />
+  https://doi.org/10.1145/1031120.1031121 <br />
+  <details>
+    <summary>bibtex</summary>
+    
+    ```bibtex
+    @article{kirbas2004review,
+      title={A review of vessel extraction techniques and algorithms},
+      author={Kirbas, Cemil and Quek, Francis},
+      journal={ACM Computing Surveys (CSUR)},
+      volume={36},
+      number={2},
+      pages={81--121},
+      year={2004},
+      publisher={ACM New York, NY, USA}
     }
     ```
   </details>
