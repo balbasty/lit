@@ -312,6 +312,96 @@
   _IEEE ISBI_ (2017) <br />
   https://doi.org/10.1109/ISBI.2017.7950599
 
+- **Deep Retinal Image Understanding** <br />
+  ![retina](https://img.shields.io/badge/retina-orange)
+  ![deep](https://img.shields.io/badge/deep-black) <br />
+  KK Maninis, ..., L Van Gool <br />
+  _MICCAI_ (2016) <br />
+  https://doi.org/10.1007/978-3-319-46723-8_17 <br />
+  <details>
+    <summary>bibtex</summary>
+    
+    ```bibtex
+    @inproceedings{maninis2016deep,
+      title={Deep retinal image understanding},
+      author={Maninis, Kevis-Kokitsi and Pont-Tuset, Jordi and Arbel{\'a}ez, Pablo and Van Gool, Luc},
+      booktitle={Medical Image Computing and Computer-Assisted Intervention--MICCAI 2016: 19th International Conference, Athens, Greece, October 17-21, 2016, Proceedings, Part II 19},
+      pages={140--148},
+      year={2016},
+      organization={Springer}
+    }
+    ```
+  </details>
+
+- **Segmenting retinal blood vessels with deep neural networks** <br />
+  ![retina](https://img.shields.io/badge/retina-orange)
+  ![deep](https://img.shields.io/badge/deep-black) <br />
+  P Liskowski, K Krawiec <br />
+  _IEEE TMI_ (2016) <br />
+  https://doi.org/10.1109/TMI.2016.2546227
+  
+- **Retinal vessel segmentation via deep learning network and fully-connected conditional random fields** <br />
+  ![retina](https://img.shields.io/badge/retina-orange)
+  ![deep](https://img.shields.io/badge/deep-black) <br />
+  H Fu, ..., J Liu <br />
+  _IEEE ISBI_ (2016) <br />
+  https://doi.org/10.1109/ISBI.2016.7493362 <br />
+  <details>
+    <summary>bibtex</summary>
+    
+    ```bibtex
+    @inproceedings{fu2016retinal,
+      title={Retinal vessel segmentation via deep learning network and fully-connected conditional random fields},
+      author={Fu, Huazhu and Xu, Yanwu and Wong, Damon Wing Kee and Liu, Jiang},
+      booktitle={2016 IEEE 13th international symposium on biomedical imaging (ISBI)},
+      pages={698--701},
+      year={2016},
+      organization={IEEE}
+    }
+    ```
+  </details>
+
+- **Deep vessel tracking: A generalized probabilistic approach via deep learning** <br />
+  ![retina](https://img.shields.io/badge/retina-orange)
+  ![deep](https://img.shields.io/badge/deep-black) <br />
+  A Wu, ..., DJ Mollura <br />
+  _IEEE ISBI_ (2016) <br />
+  https://doi.org/10.1109/ISBI.2016.7493520 <br />
+  <details>
+    <summary>bibtex</summary>
+    
+    ```bibtex
+    @inproceedings{wu2016deep,
+      title={Deep vessel tracking: A generalized probabilistic approach via deep learning},
+      author={Wu, Aaron and Xu, Ziyue and Gao, Mingchen and Buty, Mario and Mollura, Daniel J},
+      booktitle={2016 IEEE 13th International Symposium on Biomedical Imaging (ISBI)},
+      pages={1363--1367},
+      year={2016},
+      organization={IEEE}
+    }
+    ```
+  </details>
+
+- **Piecewise Geodesics for Vessel Centerline Extraction and Boundary Delineation with Application to Retina Segmentation** <br />
+  ![retina](https://img.shields.io/badge/retina-orange)  <br />
+  D Chen, LD Cohen <br />
+  _SSVM_ (2015) <br />
+  https://doi.org/10.1007/978-3-319-18461-6_22 <br />
+  <details>
+    <summary>bibtex</summary>
+    
+    ```bibtex
+    @inproceedings{chen2015piecewise,
+      title={Piecewise geodesics for vessel centerline extraction and boundary delineation with application to retina segmentation},
+      author={Chen, Da and Cohen, Laurent D},
+      booktitle={Scale Space and Variational Methods in Computer Vision: 5th International Conference, SSVM 2015, L{\`e}ge-Cap Ferret, France, May 31-June 4, 2015, Proceedings 5},
+      pages={270--281},
+      year={2015},
+      organization={Springer}
+    }
+    ```
+  </details>
+  
 - **Joint 3-D vessel segmentation and centerline extraction using oblique Hough forests with steerable filters** <br />
   ![micro](https://img.shields.io/badge/micro-green)
   ![filter](https://img.shields.io/badge/filter-red) <br />
@@ -331,6 +421,26 @@
       pages={220--249},
       year={2015},
       publisher={Elsevier}
+    }
+    ```
+  </details>
+  
+- **Globally Optimal Curvature-Regularized Fast Marching for Vessel Segmentation** <br />
+  ![retina](https://img.shields.io/badge/retina-orange) <br />
+  W Liao, K Rohr, S Wörz <br />
+  _MICCAI_ (2013) <br />
+  https://doi.org/10.1007/978-3-642-40811-3_69 <br />
+  <details>
+    <summary>bibtex</summary>
+    
+    ```bibtex
+    @inproceedings{liao2013globally,
+      title={Globally optimal curvature-regularized fast marching for vessel segmentation},
+      author={Liao, Wei and Rohr, Karl and W{\"o}rz, Stefan},
+      booktitle={Medical Image Computing and Computer-Assisted Intervention--MICCAI 2013: 16th International Conference, Nagoya, Japan, September 22-26, 2013, Proceedings, Part I 16},
+      pages={550--557},
+      year={2013},
+      organization={Springer}
     }
     ```
   </details>
@@ -432,32 +542,9 @@
     ```
   </details>
 
-## Retinal OCT
-
-
-
-
-
-- **Globally Optimal Curvature-Regularized Fast Marching for Vessel Segmentation** <br />
-  W Liao, K Rohr, S Wörz <br />
-  _MICCAI_ (2013) <br />
-  https://doi.org/10.1007/978-3-642-40811-3_69 <br />
-  <details>
-    <summary>bibtex</summary>
-    
-    ```bibtex
-    @inproceedings{liao2013globally,
-      title={Globally optimal curvature-regularized fast marching for vessel segmentation},
-      author={Liao, Wei and Rohr, Karl and W{\"o}rz, Stefan},
-      booktitle={Medical Image Computing and Computer-Assisted Intervention--MICCAI 2013: 16th International Conference, Nagoya, Japan, September 22-26, 2013, Proceedings, Part I 16},
-      pages={550--557},
-      year={2013},
-      organization={Springer}
-    }
-    ```
-  </details>
-
 - **Segmentation of vessel-like patterns using mathematical morphology and curvature evaluation** <br />
+  ![retina](https://img.shields.io/badge/retina-orange)
+  ![morpho](https://img.shields.io/badge/morpho-purple) <br />
   F Zana, JC Klein <br />
   _IEEE TIP_ (2001) <br />
   https://doi.org/10.1109/83.931095 <br />
@@ -479,6 +566,8 @@
   </details>
 
 - **Retinal Blood Vessel Segmentation by Means of Scale-Space Analysis and Region Growing** <br />
+  ![retina](https://img.shields.io/badge/retina-orange)
+  ![morpho](https://img.shields.io/badge/morpho-purple) <br />
   ME Martínez-Pérez, ..., KH Parker <br />
   _MICCAI_ (1999) <br />
   https://doi.org/10.1007/10704282_10 <br />
