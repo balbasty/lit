@@ -1047,6 +1047,13 @@
   _MICCAI_ (2019) <br />
   https://doi.org/10.1007/978-3-030-32239-7_11
 
+- **Explicit topological priors for deep-learning based image segmentation using persistent homology** <br />
+  ![topo](https://img.shields.io/badge/topo-pink) 
+  ![deep](https://img.shields.io/badge/deep-black) <br />
+  JR Clough, I Oksuz, N Byrne, JA Schnabel, AP King <br />
+  _IPMI_ (2019) <br />
+  https://doi.org/10.1007/978-3-030-20351-1_2
+
 - **Large Scale Image Segmentation with Structured Loss Based Deep Learning for Connectome Reconstruction** <br />
   ![topo](https://img.shields.io/badge/topo-pink) 
   ![deep](https://img.shields.io/badge/deep-black) <br />
