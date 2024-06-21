@@ -47,12 +47,16 @@
   [![pdf](https://img.shields.io/badge/pdf-red)](https://people.eecs.berkeley.edu/~sequin/CS285/PAPERS/Sederberg_Parry.pdf)
   ![bernstein](https://img.shields.io/badge/bernstein-grey)
 
+- **On the multi-level splitting of finite element spaces** <br />
+  Yserentant <br />
+  [![doi](https://img.shields.io/badge/doi-10.1007/BF01389538-blue)](https://doi.org/10.1007/BF01389538) 
+
 - **Extended free-form deformation : a sculpturing tool for 3D geometric modeling** <br />
   Coquillart <br />
+  _SIGGRAPH__ (1990)
   [![doi](https://img.shields.io/badge/doi-10.1145/97880.97900-blue)](https://doi.org/10.1145/97880.97900) 
   [![pdf](https://img.shields.io/badge/pdf-red)](https://dl.acm.org/doi/pdf/10.1145/97880.97900)
   ![bernstein](https://img.shields.io/badge/bsplines-grey)
-  
 
 - **Recovery of parametric models from range images: the case for superquadrics with global deformations** <br />
   Solina & Bajcsy <br />
@@ -60,6 +64,66 @@
   [![doi](https://img.shields.io/badge/doi-10.1109/34.44401-blue)](https://doi.org/10.1109/34.44401) 
   ![superquadratics](https://img.shields.io/badge/superquadratics-grey)
 
+- **Fast Surface Interpolation Using Hierarchical Basis Functions** <br />
+  Szeliski <br />
+  _IEEE TPAMI_ (1990) <br />
+  [![doi](https://img.shields.io/badge/doi-10.1109/34.56188-blue)](https://doi.org/10.1109/34.56188) 
+  [![pdf](https://img.shields.io/badge/pdf-red)](https://szeliski.org/papers/Szeliski_HierarchicalBasisFunctions_PAMI90.pdf)
+  ![bsplines](https://img.shields.io/badge/bsplines-grey)
+  ![important](https://img.shields.io/badge/!!!-yellow)
+
+- **Polynomial spline signal approximations: filter design and asymptotic equivalence with Shannon's sampling theorem** <br />
+  Unser, Aldroubi & Eden <br />
+  _IEEE TIT_ (1992) <br />
+  [![doi](https://img.shields.io/badge/doi-10.1109/18.108253-blue)](https://doi.org/10.1109/18.108253) 
+  ![bsplines](https://img.shields.io/badge/bsplines-grey)
+  ![important](https://img.shields.io/badge/!!!-yellow)
+
+- **The L2 Polynomial Spline Pyramid** <br />
+  Unser, Aldroubi & Eden <br />
+  _IEEE TPAMI_ (1993) <br />
+  [![doi](https://img.shields.io/badge/doi-10.1109/34.206956-blue)](https://doi.org/10.1109/34.206956) 
+  ![bsplines](https://img.shields.io/badge/bsplines-grey)
+  ![important](https://img.shields.io/badge/!!!-yellow)
+
+- **Affine transformations of images: a least squares formulation** <br />
+  Unser, Neimark & Lee <br />
+  _ICIP_ (1994) <br />
+  [![doi](https://img.shields.io/badge/doi-10.1109/ICIP.1994.413744-blue)](https://doi.org/10.1109/ICIP.1994.413744) 
+  ![bsplines](https://img.shields.io/badge/bsplines-grey)
+  ![important](https://img.shields.io/badge/!!!-yellow)
+
+- **Efficient geometric transformations and 3-d image registration** <br />
+  Thevenaz & Unser <br />
+  _ICASSP_ (1995) <br />
+  [![pdf](https://img.shields.io/badge/pdf-red)](https://bigwww.epfl.ch/publications/thevenaz9502.pdf)
+  ![bsplines](https://img.shields.io/badge/bsplines-grey)
+
+- **Iterative multi-scale registration without landmarks** <br />
+  Thevenaz & Unser <br />
+  _ICIP_ (1995) <br />
+  [![doi](https://img.shields.io/badge/doi-10.1109/ICIP.1995.537622-blue)](https://doi.org/10.1109/ICIP.1995.537622) 
+  ![bsplines](https://img.shields.io/badge/bsplines-grey)
+
+- **Matching 3-D anatomical surfaces with non-rigid deformations using octree-splines** <br />
+  Szeliski & Lavallée  <br />
+  _IJCV_ (1996) <br />
+  [![doi](https://img.shields.io/badge/doi-10.1007/BF00055001-blue)](https://doi.org/10.1007/BF00055001) 
+  ![bsplines](https://img.shields.io/badge/bsplines-grey)
+  ![important](https://img.shields.io/badge/!!!-yellow)
+
+- **Tracking and motion analysis of the left ventricle with deformable superquadrics** <br />
+  Bardinet, Cohen & Ayache <br />
+  _MedIA_ (1996) <br />
+  [![doi](https://img.shields.io/badge/doi-10.1016/S1361--8415(96)80009--0-blue)](https://doi.org/10.1016/S1361-8415(96)80009-0)
+  ![bernstein](https://img.shields.io/badge/bernstein-grey)
+
+- **A Generic Framework for Non-rigid Registration Based on Non-uniform Multi-level Free-Form Deformations** <br />
+  Schnabel, Rueckert, et al. <br />
+  _MICCAI_ (2001) <br />
+  [![doi](https://img.shields.io/badge/doi-10.1007/3--540--45468--3__69-blue)](https://doi.org/10.1007/3-540-45468-3_69)
+  ![bsplines](https://img.shields.io/badge/bsplines-grey)
+  ![important](https://img.shields.io/badge/!!!-yellow)
 
 # Dense deformations
 
