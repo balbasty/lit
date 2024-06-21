@@ -2,7 +2,14 @@
 
 - **A parametric cubic modelling system for general solids of composite material** <br />
   Stanton, Crain & Neu <br />
+  _Num Meth Eng_ (1977) <br />
   [![doi](https://img.shields.io/badge/doi-10.1002/nme.1620110405-blue)](https://doi.org/10.1002/nme.1620110405) 
+
+- **Discrete B-splines and subdivision techniques in computer-aided geometric design and computer graphics** <br />
+  Cohen, Lyche & Riesenfeld <br />
+  _CGIP_ (1980) <br />
+  [![doi](https://img.shields.io/badge/doi-10.1016/0146--664X(80)90040--4-blue)](https://doi.org/10.1016/0146-664X(80)90040-4) 
+  ![bsplines](https://img.shields.io/badge/bsplines-grey)
 
 - **Superquadrics and Angle-Preserving Transformations** <br />
   Barr <br />
@@ -39,7 +46,13 @@
   _IEEE CGA_ (1985) <br />
   [![doi](https://img.shields.io/badge/doi-10.1109/MCG.1985.276402-blue)](https://doi.org/10.1109/MCG.1985.276402) 
   ![bezier3d](https://img.shields.io/badge/bezier3d-grey)
-    
+
+- **An introduction to the use of splines in computer graphics** <br />
+  Bartels, Beatty & Barsky <br />
+  (1985) <br />
+  [![pdf](https://img.shields.io/badge/pdf-red)](https://cs.uwaterloo.ca/research/tr/1983/CS-83-09.pdf) <br />
+  ![bsplines](https://img.shields.io/badge/bsplines-grey)
+
 - **Free-Form Deformation of Solid Geometric Models** <br />
   Sederberg & Parry <br />
   _SIGGRAPH_ (1986) <br />
@@ -51,12 +64,19 @@
   Yserentant <br />
   [![doi](https://img.shields.io/badge/doi-10.1007/BF01389538-blue)](https://doi.org/10.1007/BF01389538) 
 
+- **Hierarchical B-spline refinement** <br />
+  Forsey & Bartels <br />
+  _SIGGRAPH_ (1988) <br />
+  [![doi](https://img.shields.io/badge/doi-10.1145/378456.378512-blue)](https://doi.org/10.1145/378456.378512) 
+  [![pdf](https://img.shields.io/badge/pdf-red)](https://dl.acm.org/doi/pdf/10.1145/378456.378512)
+  ![bsplines](https://img.shields.io/badge/bsplines-grey)
+
 - **Extended free-form deformation : a sculpturing tool for 3D geometric modeling** <br />
   Coquillart <br />
   _SIGGRAPH__ (1990)
   [![doi](https://img.shields.io/badge/doi-10.1145/97880.97900-blue)](https://doi.org/10.1145/97880.97900) 
   [![pdf](https://img.shields.io/badge/pdf-red)](https://dl.acm.org/doi/pdf/10.1145/97880.97900)
-  ![bernstein](https://img.shields.io/badge/bsplines-grey)
+  ![bsplines](https://img.shields.io/badge/bsplines-grey)
 
 - **Recovery of parametric models from range images: the case for superquadrics with global deformations** <br />
   Solina & Bajcsy <br />
@@ -72,6 +92,12 @@
   ![bsplines](https://img.shields.io/badge/bsplines-grey)
   ![important](https://img.shields.io/badge/!!!-yellow)
 
+- **Spline Models for Observational Data** <br />
+  Wahba <br />
+  (1990) <br />
+  [![doi](https://img.shields.io/badge/doi-10.1137/1.9781611970128-blue)](https://doi.org/10.1137/1.9781611970128) 
+  ![bsplines](https://img.shields.io/badge/bsplines-grey)
+  
 - **Polynomial spline signal approximations: filter design and asymptotic equivalence with Shannon's sampling theorem** <br />
   Unser, Aldroubi & Eden <br />
   _IEEE TIT_ (1992) <br />
@@ -118,12 +144,42 @@
   [![doi](https://img.shields.io/badge/doi-10.1016/S1361--8415(96)80009--0-blue)](https://doi.org/10.1016/S1361-8415(96)80009-0)
   ![bernstein](https://img.shields.io/badge/bernstein-grey)
 
+- **Scattered Data Interpolation with Multilevel B-Splines** <br />
+  Lee, Wolberg & Shin <br />
+  _IEEE TVCG_ (1997) <br />
+  [![doi](https://img.shields.io/badge/doi-10.1109/2945.620490-blue)](https://doi.org/10.1109/2945.620490) 
+  ![bsplines](https://img.shields.io/badge/bsplines-grey)
+
+- **Non-rigid registration using free-form deformations** <br />
+  Rueckert & al <br />
+  _IEEE TMI_ (1999) <br />
+  [![doi](https://img.shields.io/badge/doi-10.1109/42.796284-blue)](https://doi.org/10.1109/42.796284) 
+  ![bsplines](https://img.shields.io/badge/bsplines-grey)
+
 - **A Generic Framework for Non-rigid Registration Based on Non-uniform Multi-level Free-Form Deformations** <br />
   Schnabel, Rueckert, et al. <br />
   _MICCAI_ (2001) <br />
   [![doi](https://img.shields.io/badge/doi-10.1007/3--540--45468--3__69-blue)](https://doi.org/10.1007/3-540-45468-3_69)
   ![bsplines](https://img.shields.io/badge/bsplines-grey)
   ![important](https://img.shields.io/badge/!!!-yellow)
+
+- **Volume-Preserving Nonrigid Registration of MR Breast Images Using Free-Form Deformation With an Incompressibility Constraint** <br />
+  Rohlfing & al <br />
+  _IEEE TMI_ (2003) <br />
+  [![doi](https://img.shields.io/badge/doi-10.1109/TMI.2003.814791-blue)](https://doi.org/10.1109/TMI.2003.814791)
+  ![bsplines](https://img.shields.io/badge/bsplines-grey)
+
+- **Nonrigid Image Registration Using Free-Form Deformations with a Local Rigidity Constraint** <br />
+  Lockx, Maes, Vandermeulen, Suetens <br />
+  _MICCAI_ (2004) <br />
+  [![doi](https://img.shields.io/badge/doi-10.1007/978--3--540--30135--6__78-blue)](https://doi.org/10.1007/978-3-540-30135-6_78)
+  ![bsplines](https://img.shields.io/badge/bsplines-grey)
+  
+- **Diffeomorphic Registration Using B-Splines** <br />
+  Rueckert & al <br />
+  _MICCAI_ (2006) <br />
+  [![doi](https://img.shields.io/badge/doi-10.1007/11866763__86-blue)](https://doi.org/10.1007/11866763_86)
+  ![bsplines](https://img.shields.io/badge/bsplines-grey)
 
 # Dense deformations
 
