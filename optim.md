@@ -177,7 +177,7 @@ The simplest acceleration methods adds a _momentum_ term, such that the effectiv
 ```math
 \begin{align*}
 \mathbf{g}_{k}            & = \nabla f(\mathbf{x}_{k}) \\
-\boldsymbol{\Delta}_{k+1} & = \beta \boldsymbol{\Delta}_{k} - η~\mathbf{g}_{k} \\
+\boldsymbol{\Delta}_{k+1} & = \beta \boldsymbol{\Delta}_{k} - \eta~\mathbf{g}_{k} \\
 \mathbf{x}_{k+1}          & = \mathbf{x}_{k} + \boldsymbol{\Delta}_{k+1}
 \end{align*}
 ```
@@ -186,8 +186,53 @@ Note that the steps $\boldsymbol{\Delta}$ are recursive averages of all gradient
 \begin{align*}
 \mathbf{g}_{k}            & = \nabla f(\mathbf{x}_{k}) \\
 \bar{\mathbf{g}}_{k+1}    & = \beta \bar{\mathbf{g}}_{k} + (1-\beta) \mathbf{g}_{k} \\
-\boldsymbol{\Delta}_{k+1} & = - η~\bar{\mathbf{g}}_{k+1} \\
+\boldsymbol{\Delta}_{k+1} & = - \eta~\bar{\mathbf{g}}_{k+1} \\
 \mathbf{x}_{k+1}          & = \mathbf{x}_{k} + \boldsymbol{\Delta}_{k+1}
 \end{align*}
 ```
 where the "old" $\eta$ is equal to the "new" $\eta(1-\beta)$. This reformulation allows gradient descent with momentum to be interpreted as some "moving average" gradient descent. It will also help us connect this method with adaptive moment methods later on.
+
+#### Nesterov's momentum
+
+Nesterov introduced a variant of the momentum method, where the gradient is computed _after_ re-taking a step. The gradient step can thereby be seen as correcting the momentum step. This can be written as
+```math
+\begin{align*}
+\boldsymbol{\Delta}_{k+1} & = \beta_{k} \Delta_{k} - \eta~\nabla f(\mathbf{x}_{k} + \beta_{k} \boldsymbol{\Delta}_{k}) \\
+\mathbf{x}_{k+1}          & = \mathbf{x}_{k} + \boldsymbol{\Delta}_{k+1}
+\end{align*}
+```
+We can introduce an auxiliary sequence of points at which the gradient is computed:
+```math
+\begin{align*}
+\mathbf{y}_{k}            & = \mathbf{x}_{k} + \beta_{k} \Delta_{k} \\
+\mathbf{g}_{k}            & = \nabla f(\mathbf{y}_{k}) \\
+\boldsymbol{\Delta}_{k+1} & = \beta_{k} \boldsymbol{\Delta}_{k} - \eta~\mathbf{g}_{k} \\
+\mathbf{x}_{k+1}          & = \mathbf{x}_{k} + \boldsymbol{\Delta}_{k+1}
+\end{align*}
+```
+Following Sutskever et al (2013) and Bengio et al (2013), we can switch half iterations and rewrite these steps as 
+```math
+\begin{align*}
+\mathbf{g}_{k}            & = \nabla f(\mathbf{x}_{k}) \\
+\boldsymbol{\Delta}_{k+1} & = \beta_{k} \boldsymbol{\Delta}_{k} - \eta~\mathbf{g}_{k} \\
+\mathbf{x}_{k+1}          & = \mathbf{x}_{k} + \beta_{k+1}\boldsymbol{\Delta}_{k+1} - \eta~\mathbf{g}_{k}
+\end{align*}
+```
+where the new $\mathbf{x}$ corresponds to the old $\mathbf{y}$. Which (assuming the series of $\beta\_k$ constant) we can again rewrite as an averaged gradient step
+```math
+\begin{align*}
+\mathbf{g}_{k}            & = \nabla f(\mathbf{x}_{k}) \\
+\bar{\mathbf{g}}_{k+1}    & = \beta \bar{\mathbf{g}}_{k} + (1-\beta) \mathbf{g}_{k} \\
+\boldsymbol{\Delta}_{k+1} & = - \eta~\left(\beta\bar{\mathbf{g}}_{k+1} + (1-\beta) \mathbf{g}_{k}\right) \\
+\mathbf{x}_{k+1}          & = \mathbf{x}_{k} + \boldsymbol{\Delta}_{k+1}
+\end{align*}
+```
+(^^^ THIS SHOULD BE CHECKED... MY MATH IS FUZZY)
+
+In practice, the series of $\beta_k$ is set such that
+```math
+\begin{align*}
+\theta_{k+1} & = \frac{1}{2} (1 + \sqrt{1 + 4 \theta^2}) \\
+\beta_{k+1} & = \frac{\theta_{k+1} - 1}{\theta_{k}}
+\end{align*}
+```
