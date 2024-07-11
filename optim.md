@@ -161,7 +161,7 @@ from $t=0$ to $t=\infty$, with $\mathbf{x}\_0  = \mathbf{x}\_{k}$. One way to re
 \begin{align*}
 \mathbf{g}_{k}            & = \nabla f(\mathbf{x}_{k}) \\
 \mathbf{H}_{k}            & = \mathbf{H}f(\mathbf{x}_k) \\
-\mathbf{P}_k              & = \left(\mathrm{expm}(t\mathbf{H}_k) - \mathbf{I}\right)\mathbf{H}_k^{-1} \\
+\mathbf{P}_k              & = \left(\mathbf{I} - \mathrm{expm}(t\mathbf{H}_k)\right)\mathbf{H}_k^{-1} \\
 \boldsymbol{\Delta}_{k+1} & = - \mathbf{P}_k \mathbf{g}_{k} \\
 \mathbf{x}_{k+1}          & = \mathbf{x}_{k} + \boldsymbol{\Delta}_{k+1}
 \end{align*}
