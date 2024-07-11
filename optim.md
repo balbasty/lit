@@ -156,7 +156,7 @@ the step $\mathbf{x}\_{k+1} = \mathbf{x}\_{k} + \mathbf{P}\_k \mathbf{g}\_k$ fin
 \hat{f}(\mathbf{x}) = \mathbf{x}_{k} + (\mathbf{x} - \mathbf{x}_{k})^\mathrm{T} \mathbf{g}_k + \frac{1}{2}(\mathbf{x} - \mathbf{x}_{k})^\mathrm{T}\mathbf{P}_k^{-1}(\mathbf{x} - \mathbf{x}_{k})
 ```
 by integrating its gradient flow (defined by $\dot{\mathbf{x}} = -\frac{\partial f}{\partial \mathbf{x}}$)
-from $t=0$ to $t=\infty$, with $\mathbf{x}\_0  = \mathbf{x}\_{k}$. One way to regularize this step, when the preconditioner cannot be completely trusted, is to stop the integration of the flow early, _e.g._, integrate until $t=\hat{t}$. This partial gradient flow can again be obtained in closed form, yielding the update step
+from $t=0$ to $t=\infty$, with $\mathbf{x}\_0  = \mathbf{x}\_{k}$. One way to regularize this step, when the preconditioner cannot be completely trusted, is to stop the integration of the flow early, _e.g._, integrate until some finite $t$. This partial gradient flow can again be obtained in closed form, yielding the update step
 ```math
 \begin{align*}
 \mathbf{g}_{k}            & = \nabla f(\mathbf{x}_{k}) \\
@@ -166,3 +166,28 @@ from $t=0$ to $t=\infty$, with $\mathbf{x}\_0  = \mathbf{x}\_{k}$. One way to re
 \mathbf{x}_{k+1}          & = \mathbf{x}_{k} + \boldsymbol{\Delta}_{k+1}
 \end{align*}
 ```
+
+### Accelerated first-order methods
+
+Rather than computing the analytical Hessian, the family of _accelerated_ gradient methods use gradients from the previous steps to diverge from the gradient flow in an efficient way.
+
+#### Momentum
+
+The simplest acceleration methods adds a _momentum_ term, such that the effective step taken is a weighted average of the previous step and current gradient step:
+```math
+\begin{align*}
+\mathbf{g}_{k}            & = \nabla f(\mathbf{x}_{k}) \\
+\boldsymbol{\Delta}_{k+1} & = \beta \boldsymbol{\Delta}_{k} - η~\mathbf{g}_{k} \\
+\mathbf{x}_{k+1}          & = \mathbf{x}_{k} + \boldsymbol{\Delta}_{k+1}
+\end{align*}
+```
+Note that the steps $\boldsymbol{\Delta}$ are recursive averages of all gradients, and the momentum strategy can thefore be rewritten as
+```math
+\begin{align*}
+\mathbf{g}_{k}            & = \nabla f(\mathbf{x}_{k}) \\
+\bar{\mathbf{g}}_{k+1}    & = \beta \bar{\mathbf{g}}_{k} + (1-\beta) \mathbf{g}_{k} \\
+\boldsymbol{\Delta}_{k+1} & = - η~\bar{\mathbf{g}}_{k+1} \\
+\mathbf{x}_{k+1}          & = \mathbf{x}_{k} + \boldsymbol{\Delta}_{k+1}
+\end{align*}
+```
+where the "old" $\eta$ is equal to the "new" $\eta(1-\beta)$. This reformulation allows gradient descent with momentum to be interpreted as some "moving average" gradient descent. It will also help us connect this method with adaptive moment methods later on.
