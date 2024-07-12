@@ -12,6 +12,10 @@
   _JMLR_ (2011) <br />
   https://jmlr.org/papers/volume12/duchi11a/duchi11a.pdf
 
+- **ADADELTA: An Adaptive Learning Rate Method** <br />
+  Matthew D. Zeiler <br />
+  https://arxiv.org/abs/1212.5701
+
 - **On the importance of initialization and momentum in deep learning** <br />
   Ilya Sutskever, James Martens, George Dahl, Geoffrey Hinton <br />
   _ICML_ (2013) <br />
@@ -377,6 +381,20 @@ where $\phi_k$ and $\psi_k$ are arbitrary functions. Note that we do not include
 > \end{align*}
 > ```
 
+**Adadelta** (Zeiler, 2012)
+
+> ##### Adadelta
+> ```math
+> \begin{align*}
+> \mathbf{g}_{k}           & = \boldsymbol{\nabla} f(\mathbf{x}_{k}) \\
+> \mathbf{v}_{k}           & = \beta \mathbf{v}_{k-1} + (1-\beta) \mathbf{g}_{k} \odot \mathbf{g}_{k} \\
+> \tilde{\mathbf{g}}_k     & = \mathbf{g}_{k} \odot \sqrt{\mathbf{w}_{k-1}} \div \left(\sqrt{\mathbf{v}_{k}} + \varepsilon\right) \\
+> \boldsymbol{\Delta}_{k}  & = - \tilde{\mathbf{g}}_k \\
+> \mathbf{w}_{k}           & = \beta \mathbf{w}_{k-1} + (1-\beta) \boldsymbol{\Delta}_{k} \odot \boldsymbol{\Delta}_{k} \\
+> \mathbf{x}_{k+1}         & = \mathbf{x}_{k} + \boldsymbol{\Delta}_{k}
+> \end{align*}
+> ```
+
 **RMSProp** (Tieleman & Hinton, unpublished) uses
 ```math
 \begin{align*}
@@ -412,7 +430,20 @@ which yields the following algorithm
 > \mathbf{v}_{k}           & = \beta_2 \mathbf{v}_{k-1} + (1-\beta_2) \mathbf{g}_{k} \odot \mathbf{g}_{k} \\
 > \tilde{\mathbf{g}}_k     & = \bar{\mathbf{g}}_{k} \div \left(\sqrt{\mathbf{v}_{k}} + \varepsilon\right) \\
 > \tilde{\eta}_k           & = \eta_k~\frac{\sqrt{1-\beta_2^k}}{1-\beta_1^k} \\
-> \boldsymbol{\Delta}_{k}  & = - \eta_k \tilde{\mathbf{g}}_k \\
+> \boldsymbol{\Delta}_{k}  & = - \tilde{\eta}_k \tilde{\mathbf{g}}_k \\
+> \mathbf{x}_{k+1}         & = \mathbf{x}_{k} + \boldsymbol{\Delta}_{k}
+> \end{align*}
+> ```
+
+> ##### Adamax
+> ```math
+> \begin{align*}
+> \mathbf{g}_{k}           & = \boldsymbol{\nabla} f(\mathbf{x}_{k}) \\
+> \bar{\mathbf{g}}_{k}     & = \beta_1 \bar{\mathbf{g}}_{k-1} + (1-\beta_1) \mathbf{g}_{k} \\
+> \mathbf{v}_{k}           & = \max\left(\beta_2 \mathbf{v}_{k-1}, \left|\mathbf{g}_{k}\right| + \varepsilon\right) \\
+> \tilde{\mathbf{g}}_k     & = \bar{\mathbf{g}}_{k} \div \mathbf{v}_{k} \\
+> \tilde{\eta}_k           & = \eta_k~\frac{1}{1-\beta_1^k} \\
+> \boldsymbol{\Delta}_{k}  & = - \tilde{\eta}_k \tilde{\mathbf{g}}_k \\
 > \mathbf{x}_{k+1}         & = \mathbf{x}_{k} + \boldsymbol{\Delta}_{k}
 > \end{align*}
 > ```
