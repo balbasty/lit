@@ -286,7 +286,7 @@ which we can relate to [Nesterov's third variant](#nesterov-variant-3). Let us n
 > ```math
 > \begin{align*}
 > \mathbf{g}_{k}                  & = \boldsymbol{\nabla} f(\mathbf{x}_{k}) \\
-> \boldsymbol{\delta}{k}          & = \mathbf{g}_{k} - \mathbf{g}_{k-1} \\
+> \boldsymbol{\delta}_{k}          & = \mathbf{g}_{k} - \mathbf{g}_{k-1} \\
 > \bar{\mathbf{g}}_{k}            & = \beta \bar{\mathbf{g}}_{k-1} + (1-\beta) \mathbf{g}_{k} \\
 > \bar{\boldsymbol{\delta}}_{k}   & = \beta \bar{\boldsymbol{\delta}}_{k-1} + (1-\beta) \boldsymbol{\delta}_{k} \\
 > \tilde{\mathbf{g}}_{k}          & = (1-\beta\gamma)\bar{\mathbf{g}}_{k} + \beta(1+\gamma) \bar{\boldsymbol{\delta}}_{k} \\
@@ -302,4 +302,29 @@ Note that, in accelerated frameworks, the value of the learning rate is quite ar
 > \begin{align*}
 > \tilde{\mathbf{g}}_{k}          & = \bar{\mathbf{g}}_{k} + \gamma \bar{\boldsymbol{\delta}}_{k} \\
 > \end{align*}
+> ```
+
+#### Conjugate gradient descent
+
+CGD is quite related to accelerated first order methods, in that they also consider that a better decision can be made if it is based on the history of previous gradients, rather than just the current gradient. I need to come back to this section later after I re-read some background, but in the meantime, I'll introduce the most common variants of CGD.
+
+All CGD algorithms have the following structure
+> ```math
+> \begin{align*}
+> \mathbf{g}_{k}                  & = \boldsymbol{\nabla} f(\mathbf{x}_{k}) \\
+> \boldsymbol{\delta}_{k}          & = \mathbf{g}_{k} - \mathbf{g}_{k-1} \\
+> \mathbf{s}_{k}                  & = \beta_k \mathbf{s}_{k-1} + \mathbf{g}_{k} \\
+> \boldsymbol{\Delta}_{k}         & = - \eta~\mathbf{s}_{k} \\
+> \mathbf{x}_{k+1}                & = \mathbf{x}_{k} + \boldsymbol{\Delta}_{k}
+> \end{align*}
+> ```
+
+With four different variants depending on the calculation of the series of $\beta\_k$:
+> ```math
+> \begin{alignat*}{4}
+> & \mathrm{Fletcher-Reeves:}  ~~& \beta_{k} & = \frac{\mathbf{g}_{k}^\mathrm{T}\mathbf{g}_{k}}{\mathbf{g}_{k-1}^\mathrm{T}\mathbf{g}_{k-1}} \\
+> & \mathrm{Polak-Ribière:}   ~~& \beta_{k} & = \frac{\mathbf{g}_{k}^\mathrm{T}\boldsymbol{\delta}_{k}}{\mathbf{g}_{k-1}^\mathrm{T}\mathbf{g}_{k-1}}\\
+> & \mathrm{Hestenes-Stiefel:} ~~& \beta_{k} & = \frac{\mathbf{g}_{k}^\mathrm{T}\boldsymbol{\delta}_{k}}{\mathbf{s}_{k-1}^\mathrm{T}\boldsymbol{\delta}_{k}}\\
+> & \mathrm{Dai-Yuan:}         ~~& \beta_{k} & = \frac{\mathbf{g}_{k}^\mathrm{T}\mathbf{g}_{k}}{\mathbf{s}_{k-1}^\mathrm{T}\boldsymbol{\delta}_{k}}
+> \end{alignat*}
 > ```
