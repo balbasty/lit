@@ -181,7 +181,7 @@ from $t=0$ to $t=\infty$, with $\mathbf{x}\_0  = \mathbf{x}\_{k}$. One way to re
 
 ### Accelerated first-order methods
 
-Rather than computing the analytical Hessian, the family of _accelerated_ gradient methods use gradients from the previous steps to diverge from the gradient flow in an efficient way.
+Rather than computing the analytical Hessian, the family of _accelerated_ gradient methods use gradients from all previous steps to diverge from the gradient flow in an efficient way.
 
 #### Momentum
 
@@ -326,14 +326,14 @@ All CGD algorithms have the following structure
 > ```
 
 With four different variants depending on the calculation of the series of $\beta\_k$:
-> ```math
-> \begin{alignat*}{4}
-> & \mathrm{Fletcher-Reeves:}  ~~& \beta_{k} & = \frac{\mathbf{g}_{k}^\mathrm{T}\mathbf{g}_{k}}{\mathbf{g}_{k-1}^\mathrm{T}\mathbf{g}_{k-1}} \\
-> & \mathrm{Polak-Ribière:}   ~~& \beta_{k} & = \frac{\mathbf{g}_{k}^\mathrm{T}\boldsymbol{\delta}_{k}}{\mathbf{g}_{k-1}^\mathrm{T}\mathbf{g}_{k-1}}\\
-> & \mathrm{Hestenes-Stiefel:} ~~& \beta_{k} & = \frac{\mathbf{g}_{k}^\mathrm{T}\boldsymbol{\delta}_{k}}{\mathbf{s}_{k-1}^\mathrm{T}\boldsymbol{\delta}_{k}}\\
-> & \mathrm{Dai-Yuan:}         ~~& \beta_{k} & = \frac{\mathbf{g}_{k}^\mathrm{T}\mathbf{g}_{k}}{\mathbf{s}_{k-1}^\mathrm{T}\boldsymbol{\delta}_{k}}
-> \end{alignat*}
-> ```
+```math
+\begin{alignat*}{4}
+& \mathrm{Fletcher-Reeves:}  ~~& \beta_{k} & = \frac{\mathbf{g}_{k}^\mathrm{T}\mathbf{g}_{k}}{\mathbf{g}_{k-1}^\mathrm{T}\mathbf{g}_{k-1}} \\
+& \mathrm{Polak-Ribière:}   ~~& \beta_{k} & = \frac{\mathbf{g}_{k}^\mathrm{T}\boldsymbol{\delta}_{k}}{\mathbf{g}_{k-1}^\mathrm{T}\mathbf{g}_{k-1}}\\
+& \mathrm{Hestenes-Stiefel:} ~~& \beta_{k} & = \frac{\mathbf{g}_{k}^\mathrm{T}\boldsymbol{\delta}_{k}}{\mathbf{s}_{k-1}^\mathrm{T}\boldsymbol{\delta}_{k}}\\
+& \mathrm{Dai-Yuan:}         ~~& \beta_{k} & = \frac{\mathbf{g}_{k}^\mathrm{T}\mathbf{g}_{k}}{\mathbf{s}_{k-1}^\mathrm{T}\boldsymbol{\delta}_{k}}
+\end{alignat*}
+```
 
 ### Adaptive learning rate methods
 
