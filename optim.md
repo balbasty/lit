@@ -95,7 +95,7 @@ scalar $\alpha\_{k}$ that is optimised until some condition is enforced, giving 
 One of the simplest and most used optimisation scheme is gradient descent, in which case
 the step is defined as the gradient of the function modulated by a parameter $\eta$ (called
 _learning rate_ in machine learning):
-> ##### Gradient descent
+> ##### GD
 > ```math
 > \begin{align*}
 > \mathbf{g}_{k}            & = \boldsymbol{\nabla} f(\mathbf{x}_{k}) \\
@@ -113,7 +113,7 @@ where $\lVert \mathbf{H} \rVert_2$ returns the largest singular value of $\mathb
 ### Preconditioning
 
 Gradient descent is a special case of the broader "preconditioned gradient descent" family, which take updates of the form
-> ##### Preconditioned gradient descent
+> ##### PGD
 > ```math
 > \begin{align*}
 > \mathbf{g}_{k}            & = \boldsymbol{\nabla} f(\mathbf{x}_{k}) \\
@@ -309,6 +309,7 @@ Note that, in accelerated frameworks, the value of the learning rate is quite ar
 CGD is quite related to accelerated first order methods, in that they also consider that a better decision can be made if it is based on the history of previous gradients, rather than just the current gradient. I need to come back to this section later after I re-read some background, but in the meantime, I'll introduce the most common variants of CGD.
 
 All CGD algorithms have the following structure
+> ##### CGD
 > ```math
 > \begin{align*}
 > \mathbf{g}_{k}                  & = \boldsymbol{\nabla} f(\mathbf{x}_{k}) \\
@@ -327,4 +328,17 @@ With four different variants depending on the calculation of the series of $\bet
 > & \mathrm{Hestenes-Stiefel:} ~~& \beta_{k} & = \frac{\mathbf{g}_{k}^\mathrm{T}\boldsymbol{\delta}_{k}}{\mathbf{s}_{k-1}^\mathrm{T}\boldsymbol{\delta}_{k}}\\
 > & \mathrm{Dai-Yuan:}         ~~& \beta_{k} & = \frac{\mathbf{g}_{k}^\mathrm{T}\mathbf{g}_{k}}{\mathbf{s}_{k-1}^\mathrm{T}\boldsymbol{\delta}_{k}}
 > \end{alignat*}
+> ```
+
+#### Adam
+
+Adam has the following structure
+> ```math
+> \begin{align*}
+> \mathbf{g}_{k}                             & = \boldsymbol{\nabla} f(\mathbf{x}_{k}) \\
+> \bar{\mathbf{g}}_{k}                       & = \beta_1 \bar{\mathbf{g}}_{k-1} + (1-\beta_1) \mathbf{g}_{k} \\
+> \overline{\mathbf{v}}_{k}                  & = \beta_2 \overline{\mathbf{v}}_{k-1} + (1-\beta_2) \mathbf{g}_{k} \odot \mathbf{g}_{k} \\
+> \boldsymbol{\Delta}_{k}                    & = - \left(\eta~\frac{1-\beta_1^k}{\sqrt{1-\beta_2^k}}\right)~\bar{\mathbf{g}}_{k} \div \left(\sqrt{\bar{\mathbf{v}}_{k}} + \varepsilon\right) \\
+> \mathbf{x}_{k+1}                           & = \mathbf{x}_{k} + \boldsymbol{\Delta}_{k}
+> \end{align*}
 > ```
