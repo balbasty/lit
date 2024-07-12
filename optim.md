@@ -215,7 +215,7 @@ We can introduce an auxiliary sequence of points at which the gradient is comput
 > ##### Nesterov (variant 2)
 > ```math
 > \begin{align*}
-> \mathbf{y}_{k}            & = \mathbf{x}_{k} + \beta_{k} \boldsymbol{\Delta}_{k} \\
+> \mathbf{y}_{k}            & = \mathbf{x}_{k} + \beta_{k} \boldsymbol{\Delta}_{k-1} \\
 > \mathbf{g}_{k}            & = \boldsymbol{\nabla} f(\mathbf{y}_{k}) \\
 > \boldsymbol{\Delta}_{k}   & = \beta_{k} \boldsymbol{\Delta}_{k-1} - \eta~\mathbf{g}_{k} \\
 > \mathbf{x}_{k+1}          & = \mathbf{x}_{k} + \boldsymbol{\Delta}_{k}
