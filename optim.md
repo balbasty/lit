@@ -230,7 +230,7 @@ Following Sutskever et al (2013) and Bengio et al (2013), we can switch half ite
 > \mathbf{x}_{k+1}          & = \mathbf{x}_{k} + \beta_{k+1}\boldsymbol{\Delta}_{k} - \eta~\mathbf{g}_{k}
 > \end{align*}
 > ```
-where the new $\mathbf{x}$ corresponds to the old $\mathbf{y}$. Note that in all instances, the first (and half) step taken is $-\eta(1+\beta)\mathbf{g}_1$. 
+where the new $\mathbf{x}$ corresponds to the old $\mathbf{y}$. 
 
 We can again (assuming the series of $\beta\_k$ constant) rewrite this as an averaged gradient step, that looks very much like classical momentum, but with a different initial state
 > ##### Nesterov (variant 4)
