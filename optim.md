@@ -7,6 +7,11 @@
   _NeuroImage_ (2007) <br />
   https://www.fil.ion.ucl.ac.uk/~karl/Variational%20free%20energy%20and%20the%20Laplace%20approximation.pdf
 
+- **Adaptive subgradient methods for online learning and stochastic optimization** <br />
+  John Duchi, Elad Hazan, Yoram Singer <br />
+  _JMLR_ (2011) <br />
+  https://jmlr.org/papers/volume12/duchi11a/duchi11a.pdf
+
 - **On the importance of initialization and momentum in deep learning** <br />
   Ilya Sutskever, James Martens, George Dahl, Geoffrey Hinton <br />
   _ICML_ (2013) <br />
@@ -304,7 +309,7 @@ Note that, in accelerated frameworks, the value of the learning rate is quite ar
 > \end{align*}
 > ```
 
-#### Conjugate gradient descent
+### Conjugate gradient descent
 
 CGD is quite related to accelerated first order methods, in that they also consider that a better decision can be made if it is based on the history of previous gradients, rather than just the current gradient. I need to come back to this section later after I re-read some background, but in the meantime, I'll introduce the most common variants of CGD.
 
@@ -330,15 +335,68 @@ With four different variants depending on the calculation of the series of $\bet
 > \end{alignat*}
 > ```
 
-#### Adam
+### Adaptive learning rate methods
 
-Adam has the following structure
+While first order methods can rely on the full history of gradients, they do not use a data-drive learning rate (the sequence of $beta_k$ can be non-constant, but typically follows some analytical formula -- note that we do not include CGD methods here), which means that the effective step is a linear combination of all previous gradients. In the last 10 years, there's been a focus in the machine learning community on methods that use a data-driven _adaptive_ step size to accelerate convergence. Reddi et a (2018) proposed a generic formulation that captures most of these adaptive solutions:
 > ```math
 > \begin{align*}
 > \mathbf{g}_{k}                             & = \boldsymbol{\nabla} f(\mathbf{x}_{k}) \\
-> \bar{\mathbf{g}}_{k}                       & = \beta_1 \bar{\mathbf{g}}_{k-1} + (1-\beta_1) \mathbf{g}_{k} \\
-> \overline{\mathbf{v}}_{k}                  & = \beta_2 \overline{\mathbf{v}}_{k-1} + (1-\beta_2) \mathbf{g}_{k} \odot \mathbf{g}_{k} \\
-> \boldsymbol{\Delta}_{k}                    & = - \left(\eta~\frac{1-\beta_1^k}{\sqrt{1-\beta_2^k}}\right)~\bar{\mathbf{g}}_{k} \div \left(\sqrt{\bar{\mathbf{v}}_{k}} + \varepsilon\right) \\
+> \mathbf{m}_{k}                             & = \phi_k\left(\left\{\mathbf{g}_{i}\right\}_{i=1}^k\right) \\
+> \mathbf{v}_{k}                             & = \psi_k\left(\left\{\mathbf{g}_{i}\right\}_{i=1}^k\right) \\
+> \boldsymbol{\Delta}_{k}                    & = - \eta~\mathbf{m}_{k} \div \left(\sqrt{\mathbf{v}_{k}} + \varepsilon\right) \\
 > \mathbf{x}_{k+1}                           & = \mathbf{x}_{k} + \boldsymbol{\Delta}_{k}
+> \end{align*}
+> ```
+where $\phi_k$ and $\psi_k$ are arbitrary functions. Note that we do not include their "projector onto feasible set" $\Pi$ here.
+
+Gradient descent falls in this framework and uses
+```math
+\begin{align*}
+\phi_k\left(\left\{\mathbf{g}_{i}\right\}_{i=1}^k\right) & = g_k \\
+\psi_k\left(\left\{\mathbf{g}_{i}\right\}_{i=1}^k\right) & = \mathbf{1}
+\end{align*}
+```
+
+#### Adagrad
+
+Adagrad (Duchi et al 2011) uses
+```math
+\begin{align*}
+\phi_k\left(\left\{\mathbf{g}_{i}\right\}_{i=1}^k\right) & = g_k \\
+\psi_k\left(\left\{\mathbf{g}_{i}\right\}_{i=1}^k\right) & = \frac{1}{K} \sum_{i=1}^K \mathbf{g}_{i} \odot \mathbf{g}_{i}
+\end{align*}
+```
+
+#### Adam
+
+Adam (Kingma & Ba, 2015) uses
+```math
+\begin{align*}
+\phi_k\left(\left\{\mathbf{g}_{i}\right\}_{i=1}^k\right) & = (1-\beta_1) \sum_{i=1}^k \beta_1^{k-1} \mathbf{g}_i \\
+\psi_k\left(\left\{\mathbf{g}_{i}\right\}_{i=1}^k\right) & = (1-\beta_2) \sum_{i=1}^k \beta_2^{k-1} \mathbf{g}_i \odot \mathbf{g}_i
+\end{align*}
+```
+Which yields the following algorithm
+> ```math
+> \begin{align*}
+> \mathbf{g}_{k}           & = \boldsymbol{\nabla} f(\mathbf{x}_{k}) \\
+> \bar{\mathbf{g}}_{k}     & = \beta_1 \bar{\mathbf{g}}_{k-1} + (1-\beta_1) \mathbf{g}_{k} \\
+> \bar{\mathbf{v}}_{k}     & = \beta_2 \overline{\mathbf{v}}_{k-1} + (1-\beta_2) \mathbf{g}_{k} \odot \mathbf{g}_{k} \\
+> \boldsymbol{\Delta}_{k}  & = - \left(\eta~\frac{1-\beta_1^k}{\sqrt{1-\beta_2^k}}\right)~\bar{\mathbf{g}}_{k} \div \left(\sqrt{\bar{\mathbf{v}}_{k}} + \varepsilon\right) \\
+> \mathbf{x}_{k+1}         & = \mathbf{x}_{k} + \boldsymbol{\Delta}_{k}
+> \end{align*}
+> ```
+
+
+#### AMSGrad
+
+> ```math
+> \begin{align*}
+> \mathbf{g}_{k}           & = \boldsymbol{\nabla} f(\mathbf{x}_{k}) \\
+> \bar{\mathbf{g}}_{k}     & = \beta_{1k} \bar{\mathbf{g}}_{k-1} + (1-\beta_{1k}) \mathbf{g}_{k} \\
+> \bar{\mathbf{v}}_{k}     & = \beta_2 \overline{\mathbf{v}}_{k-1} + (1-\beta_2) \mathbf{g}_{k} \odot \mathbf{g}_{k} \\
+> \hat{\mathbf{v}}_{k}     & = \max\left(\hat{\mathbf{v}}_{k-1}, \bar{\mathbf{v}}_{k}\right) \\
+> \boldsymbol{\Delta}_{k}  & = - \left(\eta_k~\frac{1-\beta_1^k}{\sqrt{1-\beta_2^k}}\right)~\bar{\mathbf{g}}_{k} \div \left(\sqrt{\hat{\mathbf{v}}_{k}} + \varepsilon\right) \\
+> \mathbf{x}_{k+1}         & = \mathbf{x}_{k} + \boldsymbol{\Delta}_{k}
 > \end{align*}
 > ```
