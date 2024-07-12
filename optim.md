@@ -446,8 +446,8 @@ Reddi et al. (2018) showed that Adam may not converge and propose two possible s
 > \end{align*}
 > ```
 
-Liu et al. (2020) proposed a rectified version of Adam that reduces the learning rate when the variance of the second-order moments is high, 
-and can even fallback to SGD in cases of extreme variance. This is proposed as an alternative to learning rate warmup.
+Liu et al. (2020) proposed a rectified (or warmed-up) version of Adam that reduces the learning rate in early iterations (when the variance of the moments is supposed to be higher), 
+and can even fallback to SGD in the very first iterations.
 
 > ##### RAdam
 > ```math
