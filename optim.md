@@ -341,16 +341,16 @@ While first order methods can rely on the full history of gradients, they do not
 > ```math
 > \begin{align*}
 > \mathbf{g}_{k}            & = \boldsymbol{\nabla} f(\mathbf{x}_{k}) \\
-> \mathbf{m}_{k}            & = \phi_k\left(\left\{\mathbf{g}_{i}\right\}_{i=1}^k\right) \\
+> \bar{\mathbf{g}}_{k}      & = \phi_k\left(\left\{\mathbf{g}_{i}\right\}_{i=1}^k\right) \\
 > \mathbf{v}_{k}            & = \psi_k\left(\left\{\mathbf{g}_{i}\right\}_{i=1}^k\right) \\
-> \tilde{\mathbf{g}}_k      & = \mathbf{m}_{k} \div \left(\sqrt{\mathbf{v}_{k}} + \varepsilon\right) \\
+> \tilde{\mathbf{g}}_k      & = \bar{\mathbf{g}}_{k} \div \left(\sqrt{\mathbf{v}_{k}} + \varepsilon\right) \\
 > \boldsymbol{\Delta}_{k}   & = - \eta_k~\tilde{\mathbf{g}}_k \\
 > \mathbf{x}_{k+1}          & = \mathbf{x}_{k} + \boldsymbol{\Delta}_{k}
 > \end{align*}
 > ```
 where $\phi_k$ and $\psi_k$ are arbitrary functions. Note that we do not include their "projector onto feasible set" $\Pi$ here.
 
-Gradient descent falls in this framework and uses
+**Stochastic gradient descent (SGD)** falls in this framework and uses
 ```math
 \begin{align*}
 \phi_k\left(\left\{\mathbf{g}_{i}\right\}_{i=1}^k\right) & = g_k \\
@@ -358,9 +358,7 @@ Gradient descent falls in this framework and uses
 \end{align*}
 ```
 
-#### Adagrad
-
-Adagrad (Duchi et al 2011) uses
+**Adagrad** (Duchi et al 2011) uses
 ```math
 \begin{align*}
 \phi_k\left(\left\{\mathbf{g}_{i}\right\}_{i=1}^k\right) & = g_k \\
@@ -379,9 +377,7 @@ Adagrad (Duchi et al 2011) uses
 > \end{align*}
 > ```
 
-#### RMSProp
-
-RMSProp (Tieleman & Hinton, unpublished) uses
+**RMSProp** (Tieleman & Hinton, unpublished) uses
 ```math
 \begin{align*}
 \phi_k\left(\left\{\mathbf{g}_{i}\right\}_{i=1}^k\right) & = g_k \\
@@ -400,9 +396,7 @@ which yields the following algorithm
 > \end{align*}
 > ```
 
-#### Adam
-
-Adam (Kingma & Ba, 2015) uses
+**Adam** (Kingma & Ba, 2015) uses
 ```math
 \begin{align*}
 \phi_k\left(\left\{\mathbf{g}_{i}\right\}_{i=1}^k\right) & = (1-\beta_1) \sum_{i=1}^k \beta_1^{k-1} \mathbf{g}_i \\
@@ -414,22 +408,25 @@ which yields the following algorithm
 > ```math
 > \begin{align*}
 > \mathbf{g}_{k}           & = \boldsymbol{\nabla} f(\mathbf{x}_{k}) \\
-> \mathbf{m}_{k}           & = \beta_1 \mathbf{m}_{k-1} + (1-\beta_1) \mathbf{g}_{k} \\
+> \bar{\mathbf{g}}_{k}     & = \beta_1 \bar{\mathbf{g}}_{k-1} + (1-\beta_1) \mathbf{g}_{k} \\
 > \mathbf{v}_{k}           & = \beta_2 \mathbf{v}_{k-1} + (1-\beta_2) \mathbf{g}_{k} \odot \mathbf{g}_{k} \\
-> \tilde{\mathbf{g}}_k     & = \mathbf{m}_{k} \div \left(\sqrt{\mathbf{v}_{k}} + \varepsilon\right) \\
+> \tilde{\mathbf{g}}_k     & = \bar{\mathbf{g}}_{k} \div \left(\sqrt{\mathbf{v}_{k}} + \varepsilon\right) \\
+> \tilde{\eta}_k           & = \eta_k~\frac{\sqrt{1-\beta_2^k}}{1-\beta_1^k} \\
 > \boldsymbol{\Delta}_{k}  & = - \eta_k \tilde{\mathbf{g}}_k \\
 > \mathbf{x}_{k+1}         & = \mathbf{x}_{k} + \boldsymbol{\Delta}_{k}
 > \end{align*}
 > ```
 
+Reddi et al. (2018) showed that Adam may not converge and propose two possible solution: AMSGrad uses an upper bound across all second-moment averages, and AdamNC uses a linear average of second moments instead of an exponential average. Both solutions use a decreasing $\beta_1$ for their proof of convergence but in practice can use a constant $\beta_1$ for most applications.
+
 > ##### AMSGrad
 > ```math
 > \begin{align*}
 > \mathbf{g}_{k}           & = \boldsymbol{\nabla} f(\mathbf{x}_{k}) \\
-> \mathbf{m}_{k}           & = \beta_{1k} \mathbf{g}_{k-1} + (1-\beta_{1k}) \mathbf{g}_{k} \\
+> \bar{\mathbf{g}}_{k}     & = \beta_{1k} \mathbf{g}_{k-1} + (1-\beta_{1k}) \mathbf{g}_{k} \\
 > \mathbf{v}_{k}           & = \beta_2 \mathbf{v}_{k-1} + (1-\beta_2) \mathbf{g}_{k} \odot \mathbf{g}_{k} \\
 > \hat{\mathbf{v}}_{k}     & = \max\left(\hat{\mathbf{v}}_{k-1}, \bar{\mathbf{v}}_{k}\right) \\
-> \tilde{\mathbf{g}}_k     & = \mathbf{m}_{k} \div \left(\sqrt{\hat{\mathbf{v}}_{k}} + \varepsilon\right) \\
+> \tilde{\mathbf{g}}_k     & = \bar{\mathbf{g}}_{k} \div \left(\sqrt{\hat{\mathbf{v}}_{k}} + \varepsilon\right) \\
 > \boldsymbol{\Delta}_{k}  & = - \eta_k \tilde{\mathbf{g}}_k \\
 > \mathbf{x}_{k+1}         & = \mathbf{x}_{k} + \boldsymbol{\Delta}_{k}
 > \end{align*}
@@ -441,10 +438,33 @@ which yields the following algorithm
 > \mathbf{g}_{k}           & = \boldsymbol{\nabla} f(\mathbf{x}_{k}) \\
 > \beta_{1k}               & = \beta_1 \lambda^{k-1} \\
 > \beta_{2k}               & = \frac{k-1}{k} \\
-> \mathbf{m}_{k}           & = \beta_{1k} \mathbf{g}_{k-1} + (1-\beta_{1k}) \mathbf{g}_{k} \\
+> \bar{\mathbf{g}}_{k}     & = \beta_{1k} \mathbf{g}_{k-1} + (1-\beta_{1k}) \mathbf{g}_{k} \\
 > \mathbf{v}_{k}           & = \beta_{2k} \mathbf{v}_{k-1} + (1-\beta_{2k}) \mathbf{g}_{k} \odot \mathbf{g}_{k} \\
-> \tilde{\mathbf{g}}_k     & = \mathbf{m}_{k} \div \left(\sqrt{\mathbf{v}_{k}} + \varepsilon\right) \\
+> \tilde{\mathbf{g}}_k     & = \bar{\mathbf{g}}_{k} \div \left(\sqrt{\mathbf{v}_{k}} + \varepsilon\right) \\
 > \boldsymbol{\Delta}_{k}  & = - \eta_k \tilde{\mathbf{g}}_k \\
+> \mathbf{x}_{k+1}         & = \mathbf{x}_{k} + \boldsymbol{\Delta}_{k}
+> \end{align*}
+> ```
+
+Liu et al. (2020) proposed a rectified version of Adam that reduces the learning rate when the variance of the second-order moments is high, 
+and can even fallback to SGD in cases of extreme variance. This is proposed as an alternative to learning rate warmup.
+
+> ##### RAdam
+> ```math
+> \begin{align*}
+> \rho_\infty              & = \frac{2}{1-\beta_2}-1 \\
+> \mathbf{g}_{k}           & = \boldsymbol{\nabla} f(\mathbf{x}_{k}) \\
+> \bar{\mathbf{g}}_{k}     & = \beta_1 \bar{\mathbf{g}}_{k-1} + (1-\beta_1) \mathbf{g}_{k} \\
+> \mathbf{v}_{k}           & = \beta_2 \mathbf{v}_{k-1} + (1-\beta_2) \mathbf{g}_{k} \odot \mathbf{g}_{k} \\
+> \rho_k                   & = \rho_\infty - 2k\frac{\beta_2^k}{1-\beta_2^k} \\
+> \text{If}~\rho_k > 4 & \\
+> \tilde{\mathbf{g}}_k     & = \bar{\mathbf{g}}_{k} \div \left(\sqrt{\mathbf{v}_{k}} + \varepsilon\right) \\
+> \tilde{\eta}_k           & = \eta_k~\sqrt{\frac{(\rho_k-4)(\rho_k-2)\rho_\infty}{(\rho_\infty-4)(\rho_\infty-2)\rho_k}}~\frac{\sqrt{1-\beta_2^k}}{1-\beta_1^k}\\
+> \text{Else} & \\
+> \tilde{\mathbf{g}}_k     & = \bar{\mathbf{g}}_{k} \\
+> \tilde{\eta}_k           & = \eta_k \\
+> \text{Finally} & \\
+> \boldsymbol{\Delta}_{k}  & = - \tilde{\eta}_k \tilde{\mathbf{g}}_k \\
 > \mathbf{x}_{k+1}         & = \mathbf{x}_{k} + \boldsymbol{\Delta}_{k}
 > \end{align*}
 > ```
