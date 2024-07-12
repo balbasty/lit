@@ -42,7 +42,7 @@
   _Optim Theory Appl_ (2017) <br />
   https://arxiv.org/abs/1510.08573
 
-- **On the Convergence of Adam and Beyond** <br />
+- **On the Convergence of Adam and Beyond** (AMSgrad) <br />
   Sashank J. Reddi, Satyen Kale, Sanjiv Kumar <br />
   _ICLR_ (2018) <br />
   https://arxiv.org/abs/1904.09237
