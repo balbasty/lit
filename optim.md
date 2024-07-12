@@ -337,7 +337,7 @@ With four different variants depending on the calculation of the series of $\bet
 
 ### Adaptive learning rate methods
 
-While first order methods can rely on the full history of gradients, they do not use a data-drive learning rate (the sequence of $beta_k$ can be non-constant, but typically follows some analytical formula -- note that we do not include CGD methods here), which means that the effective step is a linear combination of all previous gradients. In the last 10 years, there's been a focus in the machine learning community on methods that use a data-driven _adaptive_ step size to accelerate convergence. Reddi et a (2018) proposed a generic formulation that captures most of these adaptive solutions:
+While first order methods can rely on the full history of gradients, they do not use a data-drive learning rate (the sequence of $\beta\_k$ can be non-constant, but typically follows some analytical formula -- note that we do not include CGD methods here), which means that the effective step is a linear combination of all previous gradients. In the last 10 years, there's been a focus in the machine learning community on methods that use a data-driven _adaptive_ step size to accelerate convergence. Reddi et a (2018) proposed a generic formulation that captures most of these adaptive solutions:
 > ```math
 > \begin{align*}
 > \mathbf{g}_{k}                             & = \boldsymbol{\nabla} f(\mathbf{x}_{k}) \\
