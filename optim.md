@@ -232,7 +232,7 @@ Following Sutskever et al (2013) and Bengio et al (2013), we can switch half ite
 > ```
 where the new $\mathbf{x}$ corresponds to the old $\mathbf{y}$. 
 
-We can again (assuming the series of $\beta\_k$ constant) rewrite this as an averaged gradient step, that looks very much like classical momentum, but with a different initial state
+We can again (assuming the series of $\beta\_k$ constant) rewrite this as an averaged gradient step, that looks very much like classical momentum:
 > ##### Nesterov (variant 4)
 > ```math
 > \begin{align*}
