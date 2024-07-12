@@ -230,33 +230,23 @@ Following Sutskever et al (2013) and Bengio et al (2013), we can switch half ite
 > \mathbf{x}_{k+1}          & = \mathbf{x}_{k} + \beta_{k+1}\boldsymbol{\Delta}_{k} - \eta~\mathbf{g}_{k}
 > \end{align*}
 > ```
-where the new $\mathbf{x}$ corresponds to the old $\mathbf{y}$. Which (assuming the series of $\beta\_k$ constant) we can again rewrite as an averaged gradient step
-> ##### Nesterov (variant 4)
-> ```math
-> \begin{align*}
-> \mathbf{g}_{k}            & = \boldsymbol{\nabla} f(\mathbf{x}_{k}) \\
-> \bar{\mathbf{g}}_{k}      & = \beta \bar{\mathbf{g}}_{k-1}+ (1-\beta) \mathbf{g}_{k} \\
-> \tilde{\mathbf{g}}_{k}    & = \beta \bar{\mathbf{g}}_{k}~~~~+ (1-\beta) \mathbf{g}_{k} \\
-> \boldsymbol{\Delta}_{k}   & = - \eta~\tilde{\mathbf{g}}_{k} \\
-> \mathbf{x}_{k+1}          & = \mathbf{x}_{k} + \boldsymbol{\Delta}_{k}
-> \end{align*}
-> ```
-Note that the effective gradient step $\tilde{\mathbf{g}}$ is a combination of the "moving average" gradient $\bar{\mathbf{g}}$ and the last gradient $\mathbf{g}$. In other words, the last gradient gets positively reweighted.
+where the new $\mathbf{x}$ corresponds to the old $\mathbf{y}$. Note that in all instances, the first (and half) step taken is $-\eta(1+\beta)\mathbf{g}_1$. 
 
-Another equivalent series of steps (trust me?) is
-> ##### Nesterov (variant 5)
+We can again (assuming the series of $\beta\_k$ constant) rewrite this as an averaged gradient step, that looks very much like classical momentum, but with a different initial state
+> ##### Nesterov (variant 4)
 > ```math
 > \begin{align*}
 > \mathbf{g}_{k}                  & = \boldsymbol{\nabla} f(\mathbf{x}_{k}) \\
 > \boldsymbol{\delta}{k}          & = \mathbf{g}_{k} - \mathbf{g}_{k-1} \\
-> \bar{\mathbf{g}}_{k}            & = \beta \bar{\mathbf{g}}_{k-1}+ (1-\beta) \mathbf{g}_{k} \\
-> \bar{\boldsymbol{\delta}}_{k}   & = \beta \bar{\boldsymbol{\delta}}_{k-1}+ (1-\beta) \boldsymbol{\delta}_{k} \\
+> \bar{\mathbf{g}}_{k}            & = \beta \bar{\mathbf{g}}_{k-1} + (1-\beta) \mathbf{g}_{k} \\
+> \bar{\boldsymbol{\delta}}_{k}   & = \beta \bar{\boldsymbol{\delta}}_{k-1} + (1-\beta) \boldsymbol{\delta}_{k} \\
 > \tilde{\mathbf{g}}_{k}          & = \bar{\mathbf{g}}_{k} + \beta \bar{\boldsymbol{\delta}}_{k} \\
 > \boldsymbol{\Delta}_{k}         & = - \eta~\tilde{\mathbf{g}}_{k} \\
 > \mathbf{x}_{k+1}                & = \mathbf{x}_{k} + \boldsymbol{\Delta}_{k}
 > \end{align*}
 > ```
-which can intepreted as adding a second order momentum term. Note that this term is a difference of successive gradients, and therefore a local estimate of curvature:
+where again the "old" $\eta$ is equal to the "new" $\eta(1-\beta)$. We see that the effective gradient $\tilde{\mathbf{g}}$ is the moving average gradient $\bar{\mathbf{g}}$ 
+plus a second-order momentum term $\bar{\boldsymbol{\delta}}$. Note that this term is a difference of successive gradients, and therefore a local estimate of curvature:
 - if $\delta < 0$, the new slope is steeper than the old slope, and curvature is negative -- the second order term leads to an even more negative gradient and an accelerated descent;
 - if $\delta = 0$, there is no change in slope (null curvature) -- we keep our simple moving average descent;
 - if $\delta > 0$, the new slope is less steep than the old slope (or even with opposite sign!), and curvature is positive -- the second order term leads to a descelerated descent.
@@ -299,9 +289,17 @@ which we can relate to [Nesterov's third variant](#nesterov-variant-3). Let us n
 > \boldsymbol{\delta}{k}          & = \mathbf{g}_{k} - \mathbf{g}_{k-1} \\
 > \bar{\mathbf{g}}_{k}            & = \beta \bar{\mathbf{g}}_{k-1} + (1-\beta) \mathbf{g}_{k} \\
 > \bar{\boldsymbol{\delta}}_{k}   & = \beta \bar{\boldsymbol{\delta}}_{k-1} + (1-\beta) \boldsymbol{\delta}_{k} \\
-> \tilde{\mathbf{g}}_{k}          & = (1 - \gamma)\bar{\mathbf{g}}_{k} + \gamma \bar{\boldsymbol{\delta}}_{k} \\
+> \tilde{\mathbf{g}}_{k}          & = (1-\beta\gamma)\bar{\mathbf{g}}_{k} + \beta(1+\gamma) \bar{\boldsymbol{\delta}}_{k} \\
 > \boldsymbol{\Delta}_{k}         & = - \eta~\tilde{\mathbf{g}}_{k} \\
 > \mathbf{x}_{k+1}                & = \mathbf{x}_{k} + \boldsymbol{\Delta}_{k}
 > \end{align*}
 > ```
-which we can relate to [Nesterov's fifth variant](#nesterov-variant-5), where the "old" $\eta$ is equal to the "new" $\eta(1-\beta)$.
+which we can relate to [Nesterov's fourth variant](#nesterov-variant-4), where the "old" $\eta$ is (as always) equal to the "new" $\eta(1-\beta)$.
+It becomes clear the OGM simply allows th strength of the second-order term to be decorrelated from the averaging parameter $\beta$, through the introduction of $\gamma$.
+
+Note that, in accelerated frameworks, the value of the learning rate is quite arbitrar; we can therefore capture the magnitude of the effective weighting factors (in $\tilde{\mathbf{g}}$ ) into the learning rate, and reparameterize $\gamma$ to find the more visually pleasing update
+> ```math
+> \begin{align*}
+> \tilde{\mathbf{g}}_{k}          & = \bar{\mathbf{g}}_{k} + \gamma \bar{\boldsymbol{\delta}}_{k} \\
+> \end{align*}
+> ```
