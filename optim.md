@@ -396,7 +396,7 @@ Which yields the following algorithm
 > \bar{\mathbf{g}}_{k}     & = \beta_{1k} \bar{\mathbf{g}}_{k-1} + (1-\beta_{1k}) \mathbf{g}_{k} \\
 > \bar{\mathbf{v}}_{k}     & = \beta_2 \overline{\mathbf{v}}_{k-1} + (1-\beta_2) \mathbf{g}_{k} \odot \mathbf{g}_{k} \\
 > \hat{\mathbf{v}}_{k}     & = \max\left(\hat{\mathbf{v}}_{k-1}, \bar{\mathbf{v}}_{k}\right) \\
-> \boldsymbol{\Delta}_{k}  & = - \left(\eta_k~\frac{1-\beta_1^k}{\sqrt{1-\beta_2^k}}\right)~\bar{\mathbf{g}}_{k} \div \left(\sqrt{\hat{\mathbf{v}}_{k}} + \varepsilon\right) \\
+> \boldsymbol{\Delta}_{k}  & = - \eta_k~\bar{\mathbf{g}}_{k} \div \left(\sqrt{\hat{\mathbf{v}}_{k}} + \varepsilon\right) \\
 > \mathbf{x}_{k+1}         & = \mathbf{x}_{k} + \boldsymbol{\Delta}_{k}
 > \end{align*}
 > ```
