@@ -215,10 +215,10 @@ We can introduce an auxiliary sequence of points at which the gradient is comput
 > ##### Nesterov (variant 2)
 > ```math
 > \begin{align*}
-> \mathbf{y}_{k}            & = \mathbf{x}_{k} + \beta_{k} \Delta_{k} \\
+> \mathbf{y}_{k}            & = \mathbf{x}_{k} + \beta_{k} \boldsymbol{\Delta}_{k} \\
 > \mathbf{g}_{k}            & = \boldsymbol{\nabla} f(\mathbf{y}_{k}) \\
 > \boldsymbol{\Delta}_{k}   & = \beta_{k} \boldsymbol{\Delta}_{k-1} - \eta~\mathbf{g}_{k} \\
-> \mathbf{x}_{k}            & = \mathbf{x}_{k} + \boldsymbol{\Delta}_{k}
+> \mathbf{x}_{k}            & = \mathbf{x}_{k+1} + \boldsymbol{\Delta}_{k}
 > \end{align*}
 > ```
 Following Sutskever et al (2013) and Bengio et al (2013), we can switch half iterations and rewrite these steps as 
@@ -292,3 +292,16 @@ We can again switch half-iterations and rewrite this algorithm in terms of $\Del
 > \end{align*}
 > ```
 which we can relate to [Nesterov's third variant](#nesterov-variant-3). Let us now rephrase this iteration in terms of averaged moments:
+> ##### OGM (variant 3)
+> ```math
+> \begin{align*}
+> \mathbf{g}_{k}                  & = \boldsymbol{\nabla} f(\mathbf{x}_{k}) \\
+> \boldsymbol{\delta}{k}          & = \mathbf{g}_{k} - \mathbf{g}_{k-1} \\
+> \bar{\mathbf{g}}_{k}            & = \beta \bar{\mathbf{g}}_{k-1} + (1-\beta) \mathbf{g}_{k} \\
+> \bar{\boldsymbol{\delta}}_{k}   & = \beta \bar{\boldsymbol{\delta}}_{k-1} + (1-\beta) \boldsymbol{\delta}_{k} \\
+> \tilde{\mathbf{g}}_{k}          & = (1 - \gamma)\bar{\mathbf{g}}_{k} + \gamma \bar{\boldsymbol{\delta}}_{k} \\
+> \boldsymbol{\Delta}_{k}         & = - \eta~\tilde{\mathbf{g}}_{k} \\
+> \mathbf{x}_{k+1}                & = \mathbf{x}_{k} + \boldsymbol{\Delta}_{k}
+> \end{align*}
+> ```
+which we can relate to [Nesterov's fifth variant](#nesterov-variant-5), where the "old" $\eta$ is equal to the "new" $\eta(1-\beta)$.
