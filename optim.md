@@ -218,7 +218,7 @@ We can introduce an auxiliary sequence of points at which the gradient is comput
 > \mathbf{y}_{k}            & = \mathbf{x}_{k} + \beta_{k} \boldsymbol{\Delta}_{k} \\
 > \mathbf{g}_{k}            & = \boldsymbol{\nabla} f(\mathbf{y}_{k}) \\
 > \boldsymbol{\Delta}_{k}   & = \beta_{k} \boldsymbol{\Delta}_{k-1} - \eta~\mathbf{g}_{k} \\
-> \mathbf{x}_{k}            & = \mathbf{x}_{k+1} + \boldsymbol{\Delta}_{k}
+> \mathbf{x}_{k+1}          & = \mathbf{x}_{k} + \boldsymbol{\Delta}_{k}
 > \end{align*}
 > ```
 Following Sutskever et al (2013) and Bengio et al (2013), we can switch half iterations and rewrite these steps as 
