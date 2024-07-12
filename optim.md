@@ -230,17 +230,22 @@ where the new $\mathbf{x}$ corresponds to the old $\mathbf{y}$. Which (assuming 
 ```
 Note that the effective gradient step $\tilde{\mathbf{g}}$ is a combination of the "moving average" gradient $\bar{\mathbf{g}}$ and the last gradient $\mathbf{g}$. In other words, the last gradient gets positively reweighted.
 
-Another equivalent series of steps is
+Another equivalent series of steps (trust me?) is
 ```math
 \begin{align*}
-\mathbf{g}_{k}            & = \boldsymbol{\nabla} f(\mathbf{x}_{k}) \\
-\boldsymbol{\delta}{k}    & = \mathbf{g}_{k} - \mathbf{g}_{k-1} \\
-\bar{\mathbf{g}}_{k}      & = \beta \bar{\mathbf{g}}_{k-1} + (1-\beta) \mathbf{g}_{k}  + \beta(1-\beta) \boldsymbol{\delta}{k} \\
-\boldsymbol{\Delta}_{k}   & = - \eta~\bar{\mathbf{g}}_{k} \\
-\mathbf{x}_{k+1}          & = \mathbf{x}_{k} + \boldsymbol{\Delta}_{k}
+\mathbf{g}_{k}                  & = \boldsymbol{\nabla} f(\mathbf{x}_{k}) \\
+\boldsymbol{\delta}{k}          & = \mathbf{g}_{k} - \mathbf{g}_{k-1} \\
+\bar{\mathbf{g}}_{k}            & = \beta \bar{\mathbf{g}}_{k-1}+ (1-\beta) \mathbf{g}_{k} \\
+\bar{\boldsymbol{\delta}}_{k}   & = \beta \bar{\boldsymbol{\delta}}_{k-1}+ (1-\beta) \boldsymbol{\delta}_{k} \\
+\tilde{\mathbf{g}}_{k}          & = \bar{\mathbf{g}}_{k} + \beta \bar{\boldsymbol{\delta}}_{k} \\
+\boldsymbol{\Delta}_{k}         & = - \eta~\tilde{\mathbf{g}}_{k} \\
+\mathbf{x}_{k+1}                & = \mathbf{x}_{k} + \boldsymbol{\Delta}_{k}
 \end{align*}
 ```
-which can intepreted as adding a second order momentum term.
+which can intepreted as adding a second order momentum term. Note that this term is a difference of successive gradients, and therefore a local estimate of curvature:
+- if $\delta < 0$, the new slope is steeper than the old slope, and curvature is negative -- the second order term leads to an even more negative gradient and an accelerated descent;
+- if $\delta = 0$, there is no change in slope (null curvature) -- we keep our simple moving average descent;
+- if $\delta > 0$, the new slope is less steep than the old slope (or even with opposite sign!), and curvature is positive -- the second order term leads to a descelerated descent.
 
 In practice, a nonstationary series of $\beta_k$ is often used:
 ```math
