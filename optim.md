@@ -295,9 +295,9 @@ which we can relate to [Nesterov's third variant](#nesterov-variant-3). Let us n
 > \end{align*}
 > ```
 which we can relate to [Nesterov's fourth variant](#nesterov-variant-4), where the "old" $\eta$ is (as always) equal to the "new" $\eta(1-\beta)$.
-It becomes clear the OGM simply allows th strength of the second-order term to be decorrelated from the averaging parameter $\beta$, through the introduction of $\gamma$.
+It becomes clear the OGM simply allows the strength of the second-order term to be decorrelated from the averaging parameter $\beta$, through the introduction of $\gamma$.
 
-Note that, in accelerated frameworks, the value of the learning rate is quite arbitrar; we can therefore capture the magnitude of the effective weighting factors (in $\tilde{\mathbf{g}}$ ) into the learning rate, and reparameterize $\gamma$ to find the more visually pleasing update
+Note that, in accelerated frameworks, the value of the learning rate is quite arbitrary; we can therefore reparameterize the learnign rate $\eta$ to capture the magnitude of the effective weighting factors (in $\tilde{\mathbf{g}}$ ), and also reparameterize $\gamma$ to find the more visually pleasing update
 > ```math
 > \begin{align*}
 > \tilde{\mathbf{g}}_{k}          & = \bar{\mathbf{g}}_{k} + \gamma \bar{\boldsymbol{\delta}}_{k} \\
