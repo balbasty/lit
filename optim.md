@@ -381,19 +381,6 @@ where $\phi_k$ and $\psi_k$ are arbitrary functions. Note that we do not include
 > \end{align*}
 > ```
 
-**Adadelta** (Zeiler, 2012)
-
-> ##### Adadelta
-> ```math
-> \begin{align*}
-> \mathbf{g}_{k}           & = \boldsymbol{\nabla} f(\mathbf{x}_{k}) \\
-> \mathbf{v}_{k}           & = \beta \mathbf{v}_{k-1} + (1-\beta) \mathbf{g}_{k} \odot \mathbf{g}_{k} \\
-> \tilde{\mathbf{g}}_k     & = \mathbf{g}_{k} \odot \sqrt{\mathbf{w}_{k-1}} \div \left(\sqrt{\mathbf{v}_{k}} + \varepsilon\right) \\
-> \boldsymbol{\Delta}_{k}  & = - \tilde{\mathbf{g}}_k \\
-> \mathbf{w}_{k}           & = \beta \mathbf{w}_{k-1} + (1-\beta) \boldsymbol{\Delta}_{k} \odot \boldsymbol{\Delta}_{k} \\
-> \mathbf{x}_{k+1}         & = \mathbf{x}_{k} + \boldsymbol{\Delta}_{k}
-> \end{align*}
-> ```
 
 **RMSProp** (Tieleman & Hinton, unpublished) uses
 ```math
@@ -410,6 +397,18 @@ which yields the following algorithm
 > \mathbf{v}_{k}           & = \beta \mathbf{v}_{k-1} + (1-\beta) \mathbf{g}_{k} \odot \mathbf{g}_{k} \\
 > \tilde{\mathbf{g}}_k     & = \mathbf{g}_{k} \div \left(\sqrt{\mathbf{v}_{k}} + \varepsilon\right) \\
 > \boldsymbol{\Delta}_{k}  & = - \eta_k \tilde{\mathbf{g}}_k \\
+> \mathbf{x}_{k+1}         & = \mathbf{x}_{k} + \boldsymbol{\Delta}_{k}
+> \end{align*}
+> ```
+
+> ##### Adadelta (Zeiler, 2012)
+> ```math
+> \begin{align*}
+> \mathbf{g}_{k}           & = \boldsymbol{\nabla} f(\mathbf{x}_{k}) \\
+> \mathbf{v}_{k}           & = \beta \mathbf{v}_{k-1} + (1-\beta) \mathbf{g}_{k} \odot \mathbf{g}_{k} \\
+> \tilde{\mathbf{g}}_k     & = \mathbf{g}_{k} \odot \sqrt{\mathbf{w}_{k-1}} \div \left(\sqrt{\mathbf{v}_{k}} + \varepsilon\right) \\
+> \boldsymbol{\Delta}_{k}  & = - \tilde{\mathbf{g}}_k \\
+> \mathbf{w}_{k}           & = \beta \mathbf{w}_{k-1} + (1-\beta) \boldsymbol{\Delta}_{k} \odot \boldsymbol{\Delta}_{k} \\
 > \mathbf{x}_{k+1}         & = \mathbf{x}_{k} + \boldsymbol{\Delta}_{k}
 > \end{align*}
 > ```
