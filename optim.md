@@ -2,6 +2,11 @@
 
 ## References
 
+- **Cubic regularization of Newton method and its global performance** <br />
+  Yurii Nesterov, B.T. Polyak <br />
+  _Math. Program_ (2006) <br />
+  https://link.springer.com/article/10.1007/s10107-006-0706-8
+
 - **Variational free energy and the Laplace approximation** <br />
   Karl Friston, Jérémie Mattout, Nelson Trujillo-Barreto, John Ashburner, Will Penny <br />
   _NeuroImage_ (2007) <br />
@@ -65,6 +70,11 @@
   Ilya Loshchilov, Frank Hutter <br />
   _ICLR_ (2019) <br />
   https://arxiv.org/abs/1711.05101
+
+- **Small Steps and Giant Leaps: Minimal Newton Solvers for Deep Learning** <br />
+  Joao F. Henriques, Sebastien Ehrhardt, Samuel Albanie, Andrea Vedaldi <br />
+  _ICCV_ (2019) <br />
+  https://arxiv.org/abs/1805.08095
 
 - **On the variance of the adaptive learning rate and beyond** (RAdam) <br />
   Liyuan Liu, Haoming Jiang, Pengcheng He, Weizhu Chen, Xiaodong Liu, Jianfeng Gao, Jiawei Han <br />
